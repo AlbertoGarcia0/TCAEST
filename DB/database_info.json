@@ -1,12 +1,12 @@
 {
     "categorias": [
         {
-            "nombre_categoria": "Todo2",
-            "numero_preguntas": 61	    
+            "nombre_categoria": "Todo",
+            "numero_preguntas": 16	    
         },
         {
             "nombre_categoria": "Tema1",
-            "numero_preguntas": 61	    
+            "numero_preguntas": 16	    
         }
     ],
     "database_id": "9f32f06dae8b0c097227",
