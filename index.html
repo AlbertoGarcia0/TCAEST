@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test TCAE Doris</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Test TCAE Doris</h1>
+    <label for="themeSelector">Selecciona un tema:</label>
+    <select id="themeSelector"></select>
+    <br>
+    <label for="numQuestions">Número de preguntas:</label>
+    <input type="number" id="numQuestions" value="30"> <!-- Valor predeterminado de 30 preguntas -->
+    <br>
+    <label for="timeLimit">Tiempo límite (en minutos):</label>
+    <input type="number" id="timeLimit" value="15"> <!-- Valor predeterminado de 15 minutos -->
+    <br>
+    <button onclick="startTest()">Comenzar Test</button>
+    <div id="quiz" class="hidden">
+        <!-- Preguntas se cargarán aquí dinámicamente -->
+    </div>
+    <div id="results" class="hidden">
+        <!-- Resultados se mostrarán aquí dinámicamente -->
+    </div>
+    <button onclick="finishTest()">Finalizar Test</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
