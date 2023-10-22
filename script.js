@@ -28,6 +28,17 @@ function startTest() {
     const numQuestions = parseInt(document.getElementById("numQuestions").value);
     const timeLimit = parseInt(document.getElementById("timeLimit").value);
 
+    // Validar el número de preguntas
+    if (numQuestions < 1 || numQuestions > 100) {
+        alert("El número de preguntas debe estar entre 1 y 100.");
+        return;
+    }
+
+    // Validar el tiempo límite
+    if (timeLimit < 5 || timeLimit > 90) {
+        alert("El tiempo límite debe estar entre 5 y 90 minutos.");
+        return;
+    }
 
     // Cargar las preguntas de la categoría seleccionada
     loadQuestionsByCategory(theme);
