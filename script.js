@@ -112,6 +112,7 @@ async function startTest() {
         document.getElementById("timeLimit").setAttribute("disabled", "disabled");
         document.getElementById("quiz").classList.remove("hidden");
         document.getElementById("results").classList.add("hidden");
+        document.getElementById("getResultsBtn").style.display = "inline";
         const results = document.getElementById("results");
         results.innerHTML = "";
 
@@ -199,6 +200,8 @@ function generateResults() {
 
     // Limpiar las respuestas del usuario
     const quiz = document.getElementById("quiz");
+    document.getElementById("getResultsBtn").style.display = "none";
+    document.getElementById("finishTestBtn").style.display = "inline";
     quiz.innerHTML = "";
     return resultsHTML;
 }
@@ -265,6 +268,7 @@ function finishTest() {
     // Ocultar la sección de resultados
     const results = document.getElementById("results");
     results.innerHTML = "";
+    document.getElementById("finishTestBtn").style.display = "none";
     results.classList.add("hidden");
 }
 

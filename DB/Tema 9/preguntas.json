@@ -1,0 +1,394 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "¿A qué se denomina la parte del conocimiento humano que trata y se interesa de los principios y los conceptos base que están o deberían estar en el pensamiento y actividad humanos?",
+            "respuestas": [
+              "a) Filosof\u00eda.",
+              "b) Humanidades.",
+              "c) Psicolog\u00eda.",
+              "d) \u00c9tica."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cuándo aparece el primer código deontológico de enfermería?",
+            "respuestas": [
+              "a) En época de Galeno.",
+              "b) En época de Hipócrates.",
+              "c) En 1893 (Hospital Harper-Detroit).",
+              "d) Cuando aparece el primer código deontológico médico."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La primera formulación a nivel ético e importante la constituye:",
+            "respuestas": [
+              "a) El Juramento Hipocrático.",
+              "b) El Juramento Sardónico.",
+              "c) Reglas de Moralidad de la Junta Suprema de Sanidad Española.",
+              "d) Declaración de Ginebra."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Todo lo que se expone de las características de las normas éticas es cierto, excepto:",
+            "respuestas": [
+              "a) Las normas han de cumplirse obligatoriamente, están positivadas y obviamente están ligadas al Estado.",
+              "b) Su cumplimiento o no, no tiene repercusión social ni jurídica.",
+              "c) Son cumplidas mediante el convencimiento interno.",
+              "d) Se pueden plasmar escritas en códigos deontológicos cuyo cumplimiento es exigido de alguna manera por organizaciones colegiales o asociaciones profesionales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qué aspecto o cuestión posee valor extrínseco?",
+            "respuestas": [
+              "a) Aire.",
+              "b) Agua.",
+              "c) Salud.",
+              "d) Alimentos."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Una desacreditación de una persona por medio de manifestaciones o declaraciones públicas para hacerle perder su reputación es:",
+            "respuestas": [
+              "a) Difamación.",
+              "b) Calumnia.",
+              "c) Negligencia.",
+              "d) Agresión."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Cómo se denomina cuando un asalto se produce de forma que se toca o afecta el cuerpo de otra persona sin su debido consentimiento?",
+            "respuestas": [
+              "a) Agravio.",
+              "b) Imprudencia.",
+              "c) Negligencia.",
+              "d) Agresión."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué componente de Mayeroff es aquel que nos indica que el cuidado se llevará a cabo entre un continuum entre experiencias pasadas y la situación presente, entre la atención concreta y pormenorizada y la atención global?",
+            "respuestas": [
+              "a) Paciencia.",
+              "b) Honestidad.",
+              "c) Alternancia del ritmo.",
+              "d) Conocimiento."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qué afirmación es correcta?",
+            "respuestas": [
+              "a) La ética no es una materia subjetiva.",
+              "b) Para la solución de los problemas éticos se necesita la aplicación de un proceso ilógico pero moral.",
+              "c) La solución de los problemas éticos o morales que se plantean en la práctica clínica no requiere una intervención por parte del personal sanitario con el fin de solucionarlos.",
+              "d) No es necesaria la aplicación de un método científico en la práctica de enfermería, ya que con la ética se solucionan los problemas que surjan."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qué modalidad de ética es aquella que supone la comprensión de lo que define a una profesión y sus funciones, establece si esta profesión constituye o no nuestro absoluto profesional y adecua nuestro comportamiento según ese absoluto profesional elegido?",
+            "respuestas": [
+              "a) Ética laboral.",
+              "b) Ética profesional.",
+              "c) Ética personal.",
+              "d) Ética global."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qué tipo de relación asistencial en enfermería es aquella que mantienen dos o más personas y de la que se sigue un producto o fin?",
+            "respuestas": [
+              "a) Relación primaria.",
+              "b) Relación laboral.",
+              "c) Relación secundaria.",
+              "d) Relación profesional."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cómo se denomina aquella relación terapéutica que mantienen dos o más personas y de la que se sigue un producto o fin, donde se supone que el profesional de enfermería debe situarse en el papel del enfermo, para, desde esa situación, poder establecer una distancia y aportar salud en la medida de lo posible?",
+            "respuestas": [
+              "a) Relación primaria y simpática.",
+              "b) Relación secundaria y simpática.",
+              "c) Relación primaria y empática.",
+              "d) Relación secundaria y empática."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Toda investigación o experimentación realizada en seres humanos debe hacerse de acuerdo con los principios éticos básicos de:",
+            "respuestas": [
+              "a) Respeto a las personas y a los animales.",
+              "b) Respeto a las personas y búsqueda del bien.",
+              "c) Respeto a las personas, búsqueda de la justicia y respeto a los animales.",
+              "d) Respeto a las personas, búsqueda del bien y de la justicia."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿En qué documento normativo el sujeto debe expresar voluntariamente su intención de participar en el ensayo clínico, después de haber comprendido los objetivos del estudio, beneficios, incomodidades y riesgos previstos, alternativas posibles, derechos y responsabilidades?",
+            "respuestas": [
+              "a) De últimas voluntades.",
+              "b) De protección de datos.",
+              "c) De consentimiento informado.",
+              "d) De experimentación humana permitida."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qué concepto se refiere a la forma en que un individuo percibe los requisitos necesarios para que las personas vivan en sociedad y cómo responde a ellos?",
+            "respuestas": [
+              "a) Biosociología.",
+              "b) Conducta moral.",
+              "c) Moralidad.",
+              "d) Desarrollo moral."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Con los requisitos necesarios para que las personas vivan en sociedad nos referimos a:",
+            "respuestas": [
+              "a) La autonomía.",
+              "b) La confidencialidad.",
+              "c) El consentimiento.",
+              "d) La moralidad."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué principio ético incumple el encarnizamiento u obstinación terapéutica?",
+            "respuestas": [
+              "a) Principio de autonomía.",
+              "b) Principio de no maleficencia.",
+              "c) Principio de beneficencia.",
+              "d) Principio de justicia."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qué es falso de la relación clínica basada en el modelo informativo?",
+            "respuestas": [
+              "a) En términos técnicos se informa al usuario para que pueda elegir la intervención que desee, y que el facultativo llevará a cabo.",
+              "b) Concibe la autonomía del usuario/paciente.",
+              "c) El médico proporciona toda la información relevante al paciente.",
+              "d) El paciente no participa en la toma de decisiones médicas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué normativa es la que regula el aborto en nuestro país?",
+            "respuestas": [
+              "a) Ley Orgánica 2/2010.",
+              "b) Ley 41/2002.",
+              "c) Ley Orgánica 15/1999.",
+              "d) Ley Orgánica 10/1995."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qué es el estado de bienestar físico, psicológico y sociocultural relacionado con la sexualidad, que requiere un entorno libre de coerción, discriminación y violencia?",
+            "respuestas": [
+              "a) Salud.",
+              "b) Salud sexual.",
+              "c) Salud de gestante.",
+              "d) Salud reproductiva."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cómo se denomina la omisión planificada de los cuidados que facilita la muerte del paciente, que seguramente si estos se dieran prolongarían la vida del enfermo?",
+            "respuestas": [
+              "a) Distanasia.",
+              "b) Eutanasia activa.",
+              "c) Ortotanasia.",
+              "d) Eutanasia pasiva."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Según nuestra normativa, al que coopere con actos necesarios al suicidio de una persona se le impondrá la pena de prisión de:",
+            "respuestas": [
+              "a) 2 a 5 años.",
+              "b) 4 a 8 años.",
+              "c) 5 a 10 años.",
+              "d) No se le impondrá pena alguna."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 tipo de actuaci\u00f3n relacionada con la muerte est\u00e1 en Espa\u00f1a considerada como conducta delictiva?",
+            "respuestas": [
+              "a) Distanasia.",
+              "b) Eutanasia activa.",
+              "c) Ortotanasia.",
+              "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "El que induzca al suicidio de otro ser\u00e1 castigado con la pena de prisi\u00f3n de:",
+            "respuestas": [
+              "a) 2 a 5 a\u00f1os.",
+              "b) 4 a 8 a\u00f1os.",
+              "c) 5 a 10 a\u00f1os.",
+              "d) No se le impondr\u00e1 pena alguna."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el acto cl\u00ednico que consiste en el examen realizado sobre el cad\u00e1ver de una persona fallecida a causa de enfermedad, que tiene como objetivo final la confirmaci\u00f3n de las causas de la muerte?",
+            "respuestas": [
+              "a) Ortotanasia.",
+              "b) Autopsia cl\u00ednica.",
+              "c) Autopsia m\u00e9dico-forense.",
+              "d) Distanasia."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 documento es necesario que se expida tras un \u00f3bito para acreditar de forma fehaciente el fallecimiento de su causante y se env\u00eda inmediatamente al Registro Civil?",
+            "respuestas": [
+              "a) Certificado de defunci\u00f3n.",
+              "b) Certificado de \u00faltimas voluntades.",
+              "c) Testamento vital.",
+              "d) Certificado de autopsia."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "El examen realizado sobre el cad\u00e1ver de una persona fallecida a causa de enfermedad, que tiene como objetivo final la confirmaci\u00f3n de las causas de la muerte se denomina:",
+            "respuestas": [
+              "a) Autopsia cl\u00ednica.",
+              "b) Autopsia m\u00e9dico-forense.",
+              "c) Autopsia legal.",
+              "d) Autopsia premorten."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Las lesiones imprudentes constitutivas de delito se regulan en el C\u00f3digo Penal en el art\u00edculo:",
+            "respuestas": [
+              "a) 142.",
+              "b) 145.",
+              "c) 152.",
+              "d) 155."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo es considerada la imprudencia simple o leve?",
+            "respuestas": [
+              "a) Como delito grave.",
+              "b) Como falta.",
+              "c) Como falta y delito.",
+              "d) Como delito leve."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "En el aborto imprudente, la pena de inhabilitaci\u00f3n ser\u00eda de:",
+            "respuestas": [
+              "a) Seis meses a un a\u00f1o.",
+              "b) Uno a tres a\u00f1os.",
+              "c) Tres a seis a\u00f1os.",
+              "d) Seis a diez a\u00f1os."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Est\u00e1 obligado a guardar secreto profesional:",
+            "respuestas": [
+              "a) El m\u00e9dico especialista.",
+              "b) El m\u00e9dico y el t\u00e9cnico especialista.",
+              "c) Todos los que intervengan en la acci\u00f3n sanitaria del paciente.",
+              "d) El m\u00e9dico, el t\u00e9cnico especialista, el enfermero y el TCAE."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "El tiempo de vigencia del secreto profesional es hasta:",
+            "respuestas": [
+              "a) La duraci\u00f3n de la relaci\u00f3n con el paciente.",
+              "b) Toda la vida del paciente.",
+              "c) Los tres meses despu\u00e9s de la relaci\u00f3n con el paciente.",
+              "d) Incluso hasta despu\u00e9s de la muerte del paciente."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 condici\u00f3n es aquella que posee el secreto profesional del deber de guardar el hecho conocido cuando este pueda producir resultados nocivos o injustos sobre el paciente si se viola el mismo?",
+            "respuestas": [
+              "a) Condici\u00f3n moral.",
+              "b) Condici\u00f3n jur\u00eddica.",
+              "c) Condici\u00f3n legal.",
+              "d) Condici\u00f3n leg\u00edtima."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 circunstancia para el TCAE no es objeto de secreto profesional?",
+            "respuestas": [
+              "a) Confidencias del paciente, aunque sean ajenas a lo profesional.",
+              "b) Los datos sobre salud y enfermedad del paciente.",
+              "c) Cuando reconozca a un cad\u00e1ver que se sospeche que ha podido morir como consecuencia de alg\u00fan acto delictivo, en tal caso, se da parte a la justicia.",
+              "d) Todos los datos que se conocen por causa del trabajo realizado con o sin autorizaci\u00f3n y consentimiento del paciente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿En qu\u00e9 art\u00edculo de la Constituci\u00f3n espa\u00f1ola se establece que la ley regular\u00e1 el derecho a la cl\u00e1usula de conciencia y al secreto profesional en el ejercicio de estas libertades?",
+            "respuestas": [
+              "a) En el art\u00edculo 18.",
+              "b) En el art\u00edculo 19.",
+              "c) En el art\u00edculo 20.",
+              "d) En el art\u00edculo 21."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "El hecho del quebranto de la debida reserva respecto a datos relativos al centro o instituci\u00f3n o a la intimidad personal de los usuarios y a la informaci\u00f3n relacionada con su proceso y estancia en las instituciones o centros sanitarios, recogido en el Estatuto Marco del personal estatutario de los Servicios de Salud es considerado como constitutivo de:",
+            "respuestas": [
+              "a) Delito a la salud.",
+              "b) Falta disciplinaria muy grave.",
+              "c) Falta disciplinaria grave.",
+              "d) Falta disciplinaria leve."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La violaci\u00f3n del secreto profesional puede ocasionar:",
+            "respuestas": [
+              "a) Exclusivamente responsabilidad civil.",
+              "b) Exclusivamente responsabilidad penal.",
+              "c) Responsabilidad civil y responsabilidad penal.",
+              "d) Responsabilidad profesional o estatutaria, responsabilidad civil y responsabilidad penal."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿En qu\u00e9 circunstancias de estas el sanitario puede romper el secreto profesional?",
+            "respuestas": [
+              "a) Cuando haya peligro para la Salud P\u00fablica o est\u00e9 en juego la vida de terceras personas.",
+              "b) Cuando declara como imputado en una causa penal.",
+              "c) En aquellos en los que atienden a personas que no hayan podido ser v\u00edctimas de un delito, pero s\u00ed de un hecho irresponsable, sin grandes consecuencias, pero debe conocerse.",
+              "d) En todas las circunstancias anteriores."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿En qu\u00e9 circunstancias los profesionales sanitarios no est\u00e1n sujetos a guardar el secreto profesional?",
+            "respuestas": [
+              "a) Cuando la informaci\u00f3n tratada del enfermo es de \u00edndole dom\u00e9stica.",
+              "b) Ante la denuncia de hechos constitutivos de delito o cuando comparece como testigo.",
+              "c) Cuando ha pasado un per\u00edodo de tiempo sustancial, el secreto profesional no tiene efectos.",
+              "d) Est\u00e1n sujetos siempre a guardar el mismo."
+            ],
+            "verdadera": 2
+          }
+    ]
+}

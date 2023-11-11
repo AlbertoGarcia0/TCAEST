@@ -1,0 +1,484 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "¿Qu\u00e9 aspecto no recoge el concepto amplio de seguridad social (en Europa)?",
+            "respuestas": [
+              "a) La protecci\u00f3n social de los trabajadores.",
+              "b) La creaci\u00f3n de Centros para la rehabilitaci\u00f3n de los trabajadores.",
+              "c) La creaci\u00f3n de los servicios m\u00e9dicos de empresa.",
+              "d) Recoge todo lo anteriormente mencionado."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es en Espa\u00f1a la norma b\u00e1sica que regula en la actualidad la materia de Prevenci\u00f3n de Riesgos Laborales?",
+            "respuestas": [
+              "a) Ley 31/1995, de 8 de noviembre.",
+              "b) Ley 13/1990, de 22 de abril.",
+              "c) Ley 22/2000, de 12 de diciembre.",
+              "d) Ley 14/1998, de 25 de septiembre."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 higiene de las que componen la Higiene en el trabajo se encarga del estudio a trav\u00e9s de la higiene anal\u00edtica de la situaci\u00f3n en ese medio laboral?",
+            "respuestas": [
+              "a) Higiene de campo.",
+              "b) Higiene te\u00f3rica.",
+              "c) Higiene operativa.",
+              "d) Higiene anal\u00edtica."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Todo lo que se expone de las condiciones f\u00edsico-ambientales del trabajo en relaci\u00f3n con el local donde se va a realizar es cierto, excepto que:",
+            "respuestas": [
+              "a) Debe estudiarse la composici\u00f3n de los materiales de construcci\u00f3n, equipamiento y decoraci\u00f3n.",
+              "b) Es importante hacer un estudio de la orientaci\u00f3n espacial, las v\u00edas de acceso y salida, as\u00ed como la distribuci\u00f3n y organizaci\u00f3n de los espacios y equipamientos.",
+              "c) Debe estudiarse su dise\u00f1o minuciosamente, previamente a la construcci\u00f3n del edificio, para evitar problemas por una inadecuada estructura.",
+              "d) Debe contemplarse la idea de incluir en la medida de lo posible materiales f\u00e1cilmente combustibles."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 m\u00e9todo se emplea para eliminar o paliar los olores desagradables en el ambiente de trabajo, especialmente en algunos tipos de industrias?",
+            "respuestas": [
+              "a) Aireaci\u00f3n.",
+              "b) Absorci\u00f3n de los mismos por carb\u00f3n activo.",
+              "c) Filtraci\u00f3n laminar.",
+              "d) Aireaci\u00f3n y absorci\u00f3n de los mismos por carb\u00f3n activo."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 temperatura aproximada debe existir por normativa en los locales de trabajo cerrado donde se realicen trabajos sedentarios, propios de oficinas o similares?",
+            "respuestas": [
+              "a) Entre 5 y 15 \u00b0C.",
+              "b) Entre 10 y 20 \u00b0C.",
+              "c) Entre 17 y 27 \u00b0C.",
+              "d) Entre 25 y 35 \u00b0C."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿A qu\u00e9 se define, del sonido, como la sensaci\u00f3n auditiva que va asociada a la frecuencia de los sonidos y se refiere a la altura del ruido?",
+            "respuestas": [
+              "a) Potencia.",
+              "b) Tono.",
+              "c) Intensidad.",
+              "d) Timbre."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es la unidad m\u00e1s empleada en medicina del trabajo respecto al ambiente sonoro, si queremos evaluar la existencia o no de contaminaci\u00f3n ac\u00fastica?",
+            "respuestas": [
+              "a) Lumen.",
+              "b) Son.",
+              "c) Decibelio.",
+              "d) Metro/segundo."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 nivel m\u00e1ximo de intensidad ac\u00fastica (en dB) como edificio p\u00fablico y caracter\u00edsticas propias de trabajo poseen los hospitales?",
+            "respuestas": [
+              "a) 25.",
+              "b) 45.",
+              "c) 65.",
+              "d) 85."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "En la iluminaci\u00f3n artificial directa:",
+            "respuestas": [
+              "a) El 90-100 % del flujo de luz se dirige hacia abajo y el 0-10 % hacia arriba.",
+              "b) El 70-90 % del flujo de luz se dirige hacia abajo y el 10-30 % hacia arriba.",
+              "c) El 50-70 % del flujo de luz se dirige hacia abajo y el 30-50 % hacia arriba.",
+              "d) El 30-50% del flujo de luz se dirige hacia abajo y el 50-70% hacia arriba."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 se define exactamente como los movimientos r\u00e1pidos y ruidosos de intensidad variable?",
+            "respuestas": [
+              "a) Los sonidos.",
+              "b) Los ruidos.",
+              "c) Las vibraciones.",
+              "d) Nada es cierto."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaci\u00f3n de estas es electromagn\u00e9tica?",
+            "respuestas": [
+              "a) Luz visible.",
+              "b) Radiaci\u00f3n alfa.",
+              "c) Radiaci\u00f3n beta.",
+              "d) Son todas electromagn\u00e9ticas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaciones electromagn\u00e9ticas de estas consideras ionizante?",
+            "respuestas": [
+              "a) Radiaciones Y e infrarroja.",
+              "b) Radiaciones X y gamma.",
+              "c) Radiaciones alfa y beta.",
+              "d) Radiaciones alfa e infrarroja."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaci\u00f3n de estas no tiene carga el\u00e9ctrica (electromagn\u00e9tica)?",
+            "respuestas": [
+              "a) Radiaci\u00f3n Alfa.",
+              "b) Radiaci\u00f3n Gamma.",
+              "c) Radiaci\u00f3n Beta (negativa).",
+              "d) Radiaci\u00f3n Beta (positiva)."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 lesiones son las m\u00e1s frecuentes producidas en el aparato reproductor de los adultos por efecto de las radiaciones ionizantes?",
+            "respuestas": [
+              "a) Alteraciones de la fertilidad (infertilidad o esterilidad).",
+              "b) Alteraciones gen\u00e9ticas en caso de embarazo, por afectaci\u00f3n de las c\u00e9lulas germinales de los c\u00f3nyuges.",
+              "c) Alteraciones de las defensas org\u00e1nicas.",
+              "d) Alteraciones de la fertilidad (infertilidad o esterilidad) y alteraciones gen\u00e9ticas en caso de embarazo (por afectaci\u00f3n de las c\u00e9lulas germinales de los c\u00f3nyuges)."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Las precauciones universales y est\u00e1ndar respecto a los riesgos relacionados con la exposici\u00f3n a agentes biol\u00f3gicos durante el trabajo tratan esencialmente de:",
+            "respuestas": [
+              "a) Mantener una actitud constante de autoprotecci\u00f3n.",
+              "b) Aplicar el principio fundamental de que todas las muestras deben manipularse como si fueran infecciosas.",
+              "c) Tener h\u00e1bitos de trabajo seguro.",
+              "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cu\u00e1ntas dosis son las qu\u00e9 debe recibir el personal sanitario de vacuna de hepatitis B?",
+            "respuestas": [
+              "a) 1.",
+              "b) 2.",
+              "c) 3.",
+              "d) 4."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 se define como la exposici\u00f3n que sufre un trabajador a sangre, tejidos o fluidos potencialmente infecciosos a trav\u00e9s de una herida percut\u00e1nea, contacto con mucosa o sobre piel no intacta?",
+            "respuestas": [
+              "a) Riesgo microbiol\u00f3gico.",
+              "b) Accidente de riesgo biol\u00f3gico.",
+              "c) Circunstancia bacteriol\u00f3gica.",
+              "d) Incidente biol\u00f3gico."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1l de estas precauciones es universal respecto a los riesgos relacionados con la exposici\u00f3n a agentes biol\u00f3gicos durante el trabajo?",
+            "respuestas": [
+              "a) Vacunaci\u00f3n (inmunizaci\u00f3n activa) y normas de higiene personal.",
+              "b) Elementos de protecci\u00f3n de barrera y tener cuidado en la manipulaci\u00f3n de objetos cortantes.",
+              "c) Esterilizaci\u00f3n y desinfecci\u00f3n correcta de instrumentales y superficies.",
+              "d) Son todas las anteriores."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaci\u00f3n se emplea m\u00e1s frecuentemente en esterilizaci\u00f3n?",
+            "respuestas": [
+              "a) Radiaci\u00f3n ultravioleta.",
+              "b) Radiaci\u00f3n X.",
+              "c) Radiaci\u00f3n gamma.",
+              "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 riesgo de contagio despu\u00e9s de un accidente con riesgo biol\u00f3gico por pinchazo o corte se eval\u00faa para el virus de la hepatitis C (seg\u00fan la NTP n. ° 447, del INSHT)?",
+            "respuestas": [
+              "a) 30 %.",
+              "b) 3 %",
+              "c) 0,3 %.",
+              "d) 0,03 %."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La mayor\u00eda de las seroconversiones en el personal de enfermer\u00eda frente al VIH fueron:",
+            "respuestas": [
+              "a) Relacionadas con extracciones sangu\u00edneas.",
+              "b) Producidas por pinchazos.",
+              "c) Estos riesgos no se dan en el personal de enfermer\u00eda.",
+              "d) Relacionadas con extracciones sangu\u00edneas y fueron producidas por pinchazos."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 colectivo de riesgo se caracteriza por verse afectado a la exposici\u00f3n biol\u00f3gica todos los trabajadores del grupo seg\u00fan la Federal Register, del 6 de diciembre de 1991, de la OSHA de EEUU?",
+            "respuestas": [
+              "a) Primer grupo.",
+              "b) Segundo grupo.",
+              "c) Tercer grupo.",
+              "d) Cuarto grupo."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el primer principio esencial de expertos internacionales que constituyen el Viral Hepatitis Prevention Board (VHPB), necesario para cualquier programa destinado a prevenir la exposici\u00f3n a infecciones de transmisi\u00f3n hem\u00e1tica?",
+            "respuestas": [
+              "a) Mejorar los procedimientos de trabajo.",
+              "b) Aislar el material potencialmente infectado.",
+              "c) Identificar el riesgo.",
+              "d) Proteger a las personas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Si hay peligro de salpicadura de sangre o de alg\u00fan fluido biol\u00f3gico se utilizar\u00e1:",
+            "respuestas": [
+              "a) Gafas protectoras y gorro.",
+              "b) Delantal o bata, calzas y papis.",
+              "c) Protector facial, o mascarilla.",
+              "d) Gafas protectoras, protector facial, o mascarilla y delantal o bata."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 recomendaci\u00f3n o conducta a seguir ante un accidente laboral con exposici\u00f3n a sangre y fluidos corporales contaminados es falsa?",
+            "respuestas": [
+              "a) Se debe limpiar la herida inmediatamente despu\u00e9s del accidente.",
+              "b) Se debe determinar el estado inmunol\u00f3gico del sujeto accidentado frente a los virus: VHB, VHC y VIH.",
+              "c) Se debe comunicar todo accidente de forma inmediata al responsable de la planta de hospitalizaci\u00f3n (supervisor) y al Servicio de Medicina Preventiva del hospital.",
+              "d) No se debe quitar los guantes de manera inmediata despu\u00e9s de producirse el contacto accidental con sangre u otros fluidos del paciente."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 riesgo en particular es el m\u00e1s habitual en la manipulaci\u00f3n de carga?",
+            "respuestas": [
+              "a) Afectaci\u00f3n por osteoporosis.",
+              "b) Afectaci\u00f3n por fracturas.",
+              "c) Afectaci\u00f3n dorsolumbar.",
+              "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 zona corporal es la m\u00e1s da\u00f1ada por la manipulaci\u00f3n de cargas?",
+            "respuestas": [
+              "a) Espalda (zona dorsolumbar).",
+              "b) T\u00f3rax.",
+              "c) Espalda (zona cervical).",
+              "d) Extremidades inferiores."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Cu\u00e1ndo los objetos se consideran carga en relaci\u00f3n con su peso?",
+            "respuestas": [
+              "a) Aquellos que sobrepasen m\u00e1s de 1 kg.",
+              "b) Aquellos que sobrepasen m\u00e1s de 3 kg.",
+              "c) Aquellos que sobrepasen m\u00e1s de 25 kg.",
+              "d) Aquellos que sobrepasen m\u00e1s de 40 kg."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el peso m\u00e1ximo que se recomienda no sobrepasar (en kg), en condiciones ideales de manipulaci\u00f3n?",
+            "respuestas": [
+              "a) 5.",
+              "b) 20.",
+              "c) 25.",
+              "d) 35."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el tama\u00f1o m\u00e1ximo recomendable de una carga (alto x ancho x profundo, en cm)?",
+            "respuestas": [
+              "a) 70 x 50 х 50.",
+              "b) 60 х 60 х 60.",
+              "c) 60 х 60 х 50.",
+              "d) 80 x 60 x 60."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Hasta qu\u00e9 carga en condiciones especiales pueden trabajadores bien entrenados y sanos f\u00edsicamente manipularlas?",
+            "respuestas": [
+              "a) Hasta 15 kg.",
+              "b) Hasta 25 kg.",
+              "c) Hasta 40 kg.",
+              "d) Hasta 50 kg."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 distancias indicar\u00e1n las coordenadas de la situaci\u00f3n espacial de la carga?",
+            "respuestas": [
+              "a) Distancias H y T.",
+              "b) Distancias T y V.",
+              "c) Distancias H y S.",
+              "d) Distancias H y V."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el l\u00edmite de alcance para muchas personas en altura (en cm) a la hora de manipular cargas?",
+            "respuestas": [
+              "a) 125.",
+              "b) 150.",
+              "c) 160.",
+              "d) 175."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 m\u00fasculos deben emplearse m\u00e1s cuando la carga que debe ser manipulada est\u00e1 situada en el suelo o cerca del mismo?",
+            "respuestas": [
+              "a) M\u00fasculos de la cabeza.",
+              "b) M\u00fasculos de las piernas.",
+              "c) M\u00fasculos de las espaldas.",
+              "d) M\u00fasculos de zonas paravertebrales."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Entre las reglas en la prevenci\u00f3n de lesiones debido a la manipulaci\u00f3n de cargas en el trabajo todo es cierto excepto:",
+            "respuestas": [
+              "a) Alejarse la carga respecto al cuerpo del que la mueve.",
+              "b) Mantener la espalda recta y alineada.",
+              "c) No transportar m\u00e1s carga que la debida, con el fin de ahorrar viajes.",
+              "d) Utilizar si los hubiese los medios mec\u00e1nicos sobre los manuales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 fase del sue\u00f1o se corresponde con el sue\u00f1o parad\u00f3jico de ondas r\u00e1pidas?",
+            "respuestas": [
+              "a) La fase 2.",
+              "b) La fase 3.",
+              "c) La fase 4.",
+              "d) La fase 5."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 se puede definir como aquellas situaciones en las que una persona se convierte en el blanco del entorno laboral al que corresponde, siendo subyugado y perseguido por los miembros de la empresa, compa\u00f1eros o/y superiores, acarre\u00e1ndole trastornos f\u00edsicos y ps\u00edquicos importantes en su salud?",
+            "respuestas": [
+              "a) Bulling.",
+              "b) Burnout.",
+              "c) Mobbing.",
+              "d) Distr\u00e9s."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el mobbing que se produce si un empleado es agredido u hostigado por uno o varios compa\u00f1eros del mismo nivel jer\u00e1rquico en la empresa?",
+            "respuestas": [
+              "a) Ascendente.",
+              "b) Vertical.",
+              "c) Horizontal.",
+              "d) Descendente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 circunstancia no influye causalmente en la aparici\u00f3n de s\u00edndrome de Burnout?",
+            "respuestas": [
+              "a) Experiencia laboral.",
+              "b) El estr\u00e9s interpersonal, por identificaci\u00f3n del profesional con la angustia que sufre el enfermo (o con sus familiares).",
+              "c) Turnicidad.",
+              "d) Expectativas truncadas en el paso del idealismo te\u00f3rico profesional."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿En qu\u00e9 fase del s\u00edndrome de Burnout se da un desequilibrio entre los recursos y las demandas?",
+            "respuestas": [
+              "a) En la fase de estr\u00e9s psicosocial.",
+              "b) En la fase de estr\u00e9s f\u00edsico.",
+              "c) En la fase de estr\u00e9s psicof\u00edsico.",
+              "d) En la fase de cambios conductuales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La ergonom\u00eda que se ocupa sobre todo de estudiar la relaci\u00f3n entre la fatiga producida en el trabajo y el tiempo dedicado al descanso, se denomina:",
+            "respuestas": [
+              "a) Ergonom\u00eda ambiental.",
+              "b) Ergonom\u00eda temporal.",
+              "c) Ergonom\u00eda geom\u00e9trica.",
+              "d) Ergonom\u00eda permanente."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 tendremos en cuenta de las personas cada vez que realicemos un estudio ergon\u00f3mico de un puesto de trabajo?",
+            "respuestas": [
+              "a) Peso y talla.",
+              "b) Sexo y edad.",
+              "c) Nivel cultural y capacidad de adaptaci\u00f3n.",
+              "d) Peso, talla, sexo, edad, nivel cultural y capacidad de adaptaci\u00f3n."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Los esfuerzos repetitivos de las muñecas pueden ocasionar:",
+            "respuestas": [
+              "a) Tendinitis.",
+              "b) Cefaleas.",
+              "c) Lumbalgias.",
+              "d) Todo lo anterior."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 riesgo en particular pueden presentar m\u00e1s frecuentemente las cargas de peso en diferentes situaciones cuando es demasiado pesada o demasiado voluminosa?",
+            "respuestas": [
+              "a) Riesgo craneocervical.",
+              "b) Riesgo cervical.",
+              "c) Riesgo dorsocervical.",
+              "d) Riesgo dorsolumbar."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El estudio de la gesti\u00f3n de los equipos de protecci\u00f3n individual (EPI) en los Centros Sanitarios viene recogido en la nota t\u00e9cnica de prevenci\u00f3n (del INSHT) n\u00famero:",
+            "respuestas": [
+              "a) 351.",
+              "b) 458.",
+              "c) 572.",
+              "d) 802."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 categor\u00eda poseen los guantes de un solo uso seg\u00fan la clasificaci\u00f3n de equipos de protecci\u00f3n considerando el car\u00e1cter personalizado o no de su utilizaci\u00f3n?",
+            "respuestas": [
+              "a) A.",
+              "b) B.",
+              "c) C.",
+              "d) D."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 equipo (EPI) suele emplearse como de uso general a nivel sanitario?",
+            "respuestas": [
+              "a) Delantales.",
+              "b) Guantes de l\u00e1tex.",
+              "c) Gafas de seguridad.",
+              "d) Viseras."
+            ],
+            "verdadera": 2
+          }        
+    ]
+}

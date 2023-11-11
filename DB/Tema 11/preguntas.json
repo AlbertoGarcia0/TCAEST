@@ -1,0 +1,874 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "En una habitaci\u00f3n de hospital habr\u00e1 tantas unidades de pacientes como:",
+            "respuestas": [
+              "a) Pacientes haya en el hospital (incluido consultas externas).",
+              "b) N\u00famero de camas.",
+              "c) Pacientes haya en el hospital dividido por factor de correcci\u00f3n constante.",
+              "d) N\u00famero de camas multiplicado por factor de correcci\u00f3n constante"
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 \u00fatil o herramienta no debe poseer la unidad del paciente tipo?",
+            "respuestas": [
+              "a) Lencer\u00eda de cama y accesorios.",
+              "b) L\u00e1mpara de luz directa.",
+              "c) Timbre de alarma.",
+              "d) Toma de ox\u00edgeno."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿De qu\u00e9 color deben ser pintadas las paredes de una habitaci\u00f3n de un hospital?",
+            "respuestas": [
+              "a) Negro u oscuro.",
+              "b) Marr\u00f3n claro o amarillo.",
+              "c) Blanco mate.",
+              "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La altura de los techos m\u00ednima (en cm) de la habitaci\u00f3n del paciente debe ser:",
+            "respuestas": [
+              "a) 220.",
+              "b) 250.",
+              "c) 270.",
+              "d) 285."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1nto tiempo al d\u00eda habr\u00e1 que abrir ventanas para ventilar, si el hospital no dispone de aire acondicionado o est\u00e1 averiado?",
+            "respuestas": [
+              "a) 10 a 15 minutos, en diferentes intervalos.",
+              "b) 30 a 45 minutos, en diferentes intervalos.",
+              "c) 1 a 2 horas, en diferentes intervalos.",
+              "d) M\u00e1s de 4 horas en diferentes intervalos."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Respecto a la sonorizaci\u00f3n en la unidad del paciente, todo lo que se dice es cierto, excepto que:",
+            "respuestas": [
+              "a) El T\u00e9cnico de cuidados de enfermer\u00eda debe velar a la hora del descanso de que no se produzcan ruidos.",
+              "b) El personal sanitario utilizar\u00e1 calzado con suela dura, para que dicho ruido d\u00e9 pista al enfermo y se sepa d\u00f3nde se localiza.",
+              "c) Las habitaciones deben ser tranquilas y sin ruidos, ya que un excesivo ruido ambiental afectar\u00eda al enfermo.",
+              "d) Los modernos hospitales est\u00e1n construidos teniendo en cuenta la necesidad de un aislamiento ac\u00fastico de las habitaciones."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Los l\u00edmites que se consideran aceptables de humedad en habitaci\u00f3n del enfermo oscilan entre:",
+            "respuestas": [
+              "a) 20-30 %.",
+              "b) 30-40 %.",
+              "c) 40-60 %.",
+              "d) 65-85 %."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 es incorrecto del cuarto de ba\u00f1o de la habitaci\u00f3n del paciente?",
+            "respuestas": [
+              "a) Debe poseer todas las piezas de un ba\u00f1o completo.",
+              "b) No es necesario que presente barras de seguridad en sanitarios ni en ducha o/y ba\u00f1era.",
+              "c) El ba\u00f1o est\u00e1 incorporado a las habitaciones.",
+              "d) Debe poseer medidas de seguridad para evitar accidentes."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 parte corporal aloja el segmento m\u00f3vil central del somier met\u00e1lico de la cama articulada?",
+            "respuestas": [
+              "a) T\u00f3rax.",
+              "b) Abdomen.",
+              "c) Pelvis.",
+              "d) Extremidades superiores."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina tambi\u00e9n a la cama ortop\u00e9dica o traumatol\u00f3gica?",
+            "respuestas": [
+              "a) Cama de Judet.",
+              "b) Potro ginecol\u00f3gico.",
+              "c) Somier.",
+              "d) Bouchat."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 tipo de cama est\u00e1 indicada para pacientes que sufren fracturas de las extremidades?",
+            "respuestas": [
+              "a) Cama ortop\u00e9dica de Judet.",
+              "b) Cama hospitalaria.",
+              "c) Cama de levitaci\u00f3n.",
+              "d) Cama Electrocircular o de Striker."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "El denominado potro se emplea para:",
+            "respuestas": [
+              "a) Encamar a quemados.",
+              "b) Exploraci\u00f3n ginecol\u00f3gica.",
+              "c) Encamar a pacientes con UPP.",
+              "d) Encamar a enfermos con grandes traumatismos."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La incubadora se emplea para alcanzar todos los objetivos que se exponen, excepto:",
+            "respuestas": [
+              "a) Proporcionar O2.",
+              "b) Conservar el calor corporal y mantener la humedad.",
+              "c) Prevenir las infecciones.",
+              "d) Evitar fracturas indeseadas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El armaz\u00f3n para el volteo Foster se emplea:",
+            "respuestas": [
+              "a) Para facilitar al paciente la respiraci\u00f3n.",
+              "b) Para el cambio postural.",
+              "c) Evitar infecciones mic\u00f3ticas.",
+              "d) Para liberar de estr\u00e9s al paciente."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Hasta qu\u00e9 grado de giro permite el volteo la cama de Striker?",
+            "respuestas": [
+              "a) Hasta los 30\u00b0.",
+              "b) Hasta los 60\u00b0.",
+              "c) Hasta los 90\u00b0.",
+              "d) Hasta los 180\u00b0."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿De qu\u00e9 otra cama es variante la cama libro?",
+            "respuestas": [
+              "a) De la cama de levitaci\u00f3n.",
+              "b) De la cama de exploraci\u00f3n o potro ginecol\u00f3gico.",
+              "c) De la cama articulada.",
+              "d) De la cama Striker."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Para qu\u00e9 tipo de pacientes se emplea la cama de levitaci\u00f3n?",
+            "respuestas": [
+              "a) Con fractura de miembros superiores.",
+              "b) En grandes quemados.",
+              "c) En enfermos con \u00falceras por presi\u00f3n.",
+              "d) Las opciones b) y c) son correctas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La cama roto-rest se emplea en:",
+            "respuestas": [
+              "a) Prevenci\u00f3n de infecciones en general.",
+              "b) Prevenci\u00f3n de infecciones en quemados.",
+              "c) Inmovilizaci\u00f3n de pacientes.",
+              "d) Prevenci\u00f3n de \u00falceras por presi\u00f3n (UPP)."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 funci\u00f3n posee la barra de tracci\u00f3n?",
+            "respuestas": [
+              "a) Protector de metal lateral, que evita ca\u00eddas del enfermo de la cama.",
+              "b) Dar mayor rigidez a la cama hospitalaria.",
+              "c) Facilitar la incorporaci\u00f3n del enfermo.",
+              "d) Adaptar al paciente a la cabecera de la cama."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 dispositivo o accesorio de la cama hospitalaria es aquel que se coloca sobre el enfermo para que la ropa de la cama descanse sobre \u00e9l y evitar al paciente el peso de la misma?",
+            "respuestas": [
+              "a) F\u00e9rula de acero.",
+              "b) Centinelas de cama.",
+              "c) Pupitre.",
+              "d) Soporte."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 pieza o elemento se ubica entre la s\u00e1bana bajera y la entremetida?",
+            "respuestas": [
+              "a) S\u00e1bana encimera.",
+              "b) Cubierta colch\u00f3n.",
+              "c) Hule.",
+              "d) Colcha."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cu\u00e1l de estos elementos es el primero en el orden de lencer\u00eda?",
+            "respuestas": [
+              "a) Hule.",
+              "b) Entremetida.",
+              "c) Manta.",
+              "d) Colcha."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 procedimiento hay que seguir para quitar la s\u00e1bana bajera de la cama desocupada?",
+            "respuestas": [
+              "a) Hay que seguir el mismo procedimiento empleado para la manta.",
+              "b) Hay que seguir el mismo procedimiento empleado para la entremetida.",
+              "c) Hay que seguir el mismo procedimiento empleado para la s\u00e1bana superior.",
+              "d) Hay que seguir el mismo procedimiento empleado para la s\u00e1bana inferior."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 n\u00famero de TCAE es recomendable para la t\u00e9cnica de hacer la cama ocupada?",
+            "respuestas": [
+              "a) Ninguno, ya que se encarga el celador.",
+              "b) Uno.",
+              "c) Dos.",
+              "d) Tres."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 procedimiento se a\u00f1adir\u00e1 en la t\u00e9cnica para hacer la cama quir\u00fargica diferente al de la cama desocupada?",
+            "respuestas": [
+              "a) El mismo que para la cama desocupada, pero a\u00f1adiendo una bajera y una encimera m\u00e1s.",
+              "b) El mismo que para la cama desocupada, pero quitando el hule y a\u00f1adiendo una entremetida m\u00e1s, que se colocar\u00e1n en la cabecera de la cama.",
+              "c) El mismo que para la cama desocupada, pero a\u00f1adiendo un hule y una entremetida m\u00e1s, que se colocar\u00e1n en la cabecera de la cama o en la parte alta de la bajera.",
+              "d) Nada, ya que son maneras muy diferentes de hacer la cama."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 elementos de estos no puede haber en una cama quir\u00fargica?",
+            "respuestas": [
+              "a) Hule o protector.",
+              "b) Entremetida.",
+              "c) Colch\u00f3n.",
+              "d) Almohada."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿De qu\u00e9 manera abrimos la cama quir\u00fargica desocupada si para ello tenemos que coger los dos extremos del embozo y doblarlos hacia los pies de la cama para luego volver a subirlos hacia la mitad de la cama en sentido inverso?",
+            "respuestas": [
+              "a) En tri\u00e1ngulo o pico.",
+              "b) En derrape o arrastre.",
+              "c) En tracci\u00f3n anterior.",
+              "d) En abanico o fuelle."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿C\u00f3mo se puede abrir la cama quir\u00fargica, una vez que se lleva a cabo una especie de embozo o dobladillo a los pies de la misma, para la recepci\u00f3n del enfermo?",
+            "respuestas": [
+              "a) En tri\u00e1ngulo o pico.",
+              "b) En derrape o arrastre.",
+              "c) En tracci\u00f3n anterior.",
+              "d) Son ciertas las respuestas a) y c)."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "En la vida del paciente ingresado se producen grandes cambios que van a repercutir en el individuo, gener\u00e1ndole una gran ansiedad e incertidumbre. Una de las consecuencias que se produce es un tipo de aislamiento, \u00bfCu\u00e1l?",
+            "respuestas": [
+              "a) Aislamiento secular.",
+              "b) Aislamiento psicosocial.",
+              "c) Aislamiento particular.",
+              "d) Aislamiento contra contacto."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Para realizar una valoraci\u00f3n funcional de las actividades b\u00e1sicas de la vida diaria utilizamos la escala de:",
+            "respuestas": [
+              "a) Hamilton.",
+              "b) Foster.",
+              "c) Pfeiffer.",
+              "d) Barthel."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina el eje que es perpendicular al longitudinal?",
+            "respuestas": [
+              "a) Eje vertical.",
+              "b) Eje sagital.",
+              "c) Eje coronal.",
+              "d) Eje transversal."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es el eje que va de la cabeza a los pies, recorriendo el cuerpo en toda su longitud y es perpendicular a los otros dos y al suelo?",
+            "respuestas": [
+              "a) Eje transversal.",
+              "b) Eje longitudinal.",
+              "c) Eje sagital.",
+              "d) Eje coronal."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 cavidad de nuestra corporalidad se encuentra la cavidad peritoneal?",
+            "respuestas": [
+              "a) En la cavidad p\u00e9lvica.",
+              "b) En la cavidad abdominal.",
+              "c) En la cavidad tor\u00e1cica.",
+              "d) En la cavidad mediast\u00ednica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina tambi\u00e9n a la posici\u00f3n de dec\u00fabito dorsal?",
+            "respuestas": [
+              "a) Dec\u00fabito prono.",
+              "b) Dec\u00fabito lateral izquierdo.",
+              "c) Dec\u00fabito supino.",
+              "d) Dec\u00fabito transversal."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 posici\u00f3n tendr\u00e1 el paciente tumbado sobre su espalda, cabeza, tal\u00f3n y brazos extendidos paralelos a su cuerpo?",
+            "respuestas": [
+              "a) A la posici\u00f3n de dec\u00fabito prono.",
+              "b) A la posici\u00f3n de dec\u00fabito supino.",
+              "c) A la posici\u00f3n de bipedestaci\u00f3n.",
+              "d) A la posici\u00f3n semiprona."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 es falso de la posici\u00f3n de dec\u00fabito supino?",
+            "respuestas": [
+              "a) Es una posici\u00f3n utilizada para la exploraci\u00f3n del t\u00f3rax, abdomen, piernas y pies.",
+              "b) Se emplea para comenzar con la higiene del enfermo y como punto de partida para diferentes movilizaciones.",
+              "c) El plano del cuerpo es paralelo al plano del suelo y al plano horizontal de la cama o camilla.",
+              "d) Sus piernas est\u00e1n extendidas y sus brazos alineados a lo largo del cuerpo, estando el paciente acostado sobre su abdomen y pecho."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es la posici\u00f3n en la que el enfermo se encuentra acostado boca abajo?",
+            "respuestas": [
+              "a) Dec\u00fabito lateral derecho.",
+              "b) Dec\u00fabito dorsal.",
+              "c) Dec\u00fabito prono.",
+              "d) Dec\u00fabito supino."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La posici\u00f3n semiprona es:",
+            "respuestas": [
+              "a) La posici\u00f3n de Fowler.",
+              "b) La posici\u00f3n de semi Fowler.",
+              "c) La posici\u00f3n de Roser.",
+              "d) La posici\u00f3n de Sims."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se llama la posici\u00f3n que se describe como aquella en la que la paciente se halla acostado boca arriba, con las piernas separadas y colocadas sobre los estribos, con las rodillas y cadera flexionadas 90\u00b0 y los muslos en abducci\u00f3n?",
+            "respuestas": [
+              "a) La posici\u00f3n de Fowler.",
+              "b) La posici\u00f3n de Trendelenburg.",
+              "c) La posici\u00f3n ginecol\u00f3gica.",
+              "d) La posici\u00f3n de Morestin."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Ante situaciones de shock (especialmente hipovol\u00e9mico) o en casos de lipotimias, hay que colocar al paciente en la posici\u00f3n de:",
+            "respuestas": [
+              "a) Trendelenburg",
+              "b) Morestin.",
+              "c) Roser.",
+              "d) Fowler."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se llama tambi\u00e9n la posici\u00f3n de anti Trendelenburg?",
+            "respuestas": [
+              "a) La posici\u00f3n de litotom\u00eda.",
+              "b) La posici\u00f3n de Morestin.",
+              "c) La posici\u00f3n de Roser.",
+              "d) La posici\u00f3n de Sims."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La posici\u00f3n mahometana es:",
+            "respuestas": [
+              "a) La posici\u00f3n de litotom\u00eda.",
+              "b) La posici\u00f3n de Fowler.",
+              "c) La posici\u00f3n de Morestin.",
+              "d) La posici\u00f3n genupectoral."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es la posici\u00f3n en dec\u00fabito supino pero en la cual la cabeza queda colgando o suspendida fuera del plano de la camilla?",
+            "respuestas": [
+              "a) La posici\u00f3n de Fowler.",
+              "b) La posici\u00f3n de Morestin.",
+              "c) La posici\u00f3n de Roser o Proetz.",
+              "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones es quir\u00fargica?",
+            "respuestas": [
+              "a) Posici\u00f3n de Fowler.",
+              "b) Posici\u00f3n de dec\u00fabito supino.",
+              "c) Posici\u00f3n de Morestin.",
+              "d) Posici\u00f3n de dec\u00fabito prono."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones consideras no quir\u00fargica?",
+            "respuestas": [
+              "a) Posici\u00f3n de Trendelenburg.",
+              "b) Posici\u00f3n genupectoral.",
+              "c) Posici\u00f3n de Sims.",
+              "d) Posici\u00f3n ginecol\u00f3gica."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones consideras quir\u00fargica?",
+            "respuestas": [
+              "a) Posici\u00f3n de Trendelenburg.",
+              "b) Posici\u00f3n de dec\u00fabito prono.",
+              "c) Posici\u00f3n de Fowler.",
+              "d) Posici\u00f3n de Sims."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "En la posici\u00f3n de Kraske el paciente est\u00e1 en:",
+            "respuestas": [
+              "a) Posici\u00f3n de dec\u00fabito supino.",
+              "b) Posici\u00f3n de dec\u00fabito prono.",
+              "c) Posici\u00f3n de Fowler.",
+              "d) Posici\u00f3n ginecol\u00f3gica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La posici\u00f3n de Kraske se emplea en:",
+            "respuestas": [
+              "a) Pacientes que presenten problemas digestivos con reflujo gastrointestinal, hernias de hiato y enfermedades respiratorias.",
+              "b) Pacientes que presenten problemas card\u00edacos.",
+              "c) Cirug\u00eda cox\u00edgea.",
+              "d) Posici\u00f3n antishock."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "En la posici\u00f3n de laminectom\u00eda el paciente est\u00e1 en:",
+            "respuestas": [
+              "a) Dec\u00fabito prono, con el tronco elevado.",
+              "b) Variante de la posici\u00f3n de Sims.",
+              "c) Variante de la posici\u00f3n de Roser.",
+              "d) Dec\u00fabito supino, con el tronco descendido."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La posici\u00f3n de laminectom\u00eda se emplea en:",
+            "respuestas": [
+              "a) Exploraci\u00f3n de recto y previa a colonoscopias.",
+              "b) Intervenciones de hernias discales a nivel lumbar o tor\u00e1cico del raquis.",
+              "c) Cirug\u00eda digestiva de intestino grueso.",
+              "d) Intervenciones de ves\u00edcula biliar y previa a laparoscopia."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "En la posici\u00f3n de craneotom\u00eda el paciente est\u00e1 en:",
+            "respuestas": [
+              "a) En dec\u00fabito supino, con el tronco elevado.",
+              "b) El paciente est\u00e1 en dec\u00fabito prono con la cabeza sobresaliendo del borde de la mesa y la frente apoyada en un soporte en que la cabeza queda suspendida y alineada con el resto del cuerpo.",
+              "c) En posici\u00f3n de semi Fowler con apoyo vertebral.",
+              "d) Nada de lo anterior."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La posici\u00f3n de craneotom\u00eda se emplea en:",
+            "respuestas": [
+              "a) Intervenciones de mama.",
+              "b) Intervenciones de t\u00f3rax.",
+              "c) Operaciones donde es necesaria la rotura \u00f3sea de cr\u00e1neo.",
+              "d) Intervenciones de hernias discales."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfDe qu\u00e9 posici\u00f3n es variante la posici\u00f3n de navaja sevillana?",
+            "respuestas": [
+              "a) De la posici\u00f3n de dec\u00fabito supino.",
+              "b) De la posici\u00f3n de dec\u00fabito prono.",
+              "c) De la posici\u00f3n de Fowler.",
+              "d) De la posici\u00f3n ginecol\u00f3gica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfPara qu\u00e9 exploraci\u00f3n se emplea la posici\u00f3n de navaja sevillana?",
+            "respuestas": [
+              "a) Coxis.",
+              "b) Axis.",
+              "c) Hemorroides.",
+              "d) Ur\u00e9teres."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Cuando la movilizaci\u00f3n la realiza el propio paciente con la supervisi\u00f3n (sin ayuda f\u00edsica) del profesional sanitario, se dice que es:",
+            "respuestas": [
+              "a) Activa.",
+              "b) Activa auxiliada.",
+              "c) Pasiva supervisada.",
+              "d) Pasiva."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Las movilizaciones realizadas por el fisioterapeuta sobre los distintos segmentos corporales del paciente se denominan:",
+            "respuestas": [
+              "a) Inmovilizadas.",
+              "b) Activas contrarresistencia.",
+              "c) Pasivas.",
+              "d) Activas con resistencia."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se debe colocar a un paciente que vomita?",
+            "respuestas": [
+              "a) Dec\u00fabito supino.",
+              "b) Dec\u00fabito lateral.",
+              "c) Dec\u00fabito prono.",
+              "d) Posici\u00f3n de Fowler."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 consecuencia sobre la funci\u00f3n respiratoria es cierta por el inmovilismo?",
+            "respuestas": [
+              "a) Aumento en los requerimientos de ox\u00edgeno.",
+              "b) Aumenta la capacidad respiratoria.",
+              "c) Se tiende instintivamente a respirar de forma m\u00e1s r\u00e1pida y superficial.",
+              "d) Hay una estasis de secreciones, que puede acumularse y favorecer el medio para el crecimiento bacteriano."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 cuesti\u00f3n de las que se apuntan facilitan el aumento de los niveles de actividad?",
+            "respuestas": [
+              "a) Usar restricciones f\u00edsicas, que posibiliten realizar ejercicios que nunca antes hab\u00eda imaginado poder ejecutar.",
+              "b) Estar sondado o/y tener colocado alg\u00fan tipo de dispositivo sanitario.",
+              "c) Implementar al paciente un plan de cuidados de actividad adaptado a sus caracter\u00edsticas particulares.",
+              "d) Apagar las luces de noche, ya que calma al paciente e incrementa su actividad."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 regla b\u00e1sica de la din\u00e1mica corporal en el personal que realiza cambios posturales y transporte de personas es falsa?",
+            "respuestas": [
+              "a) Hacer el m\u00e1ximo uso de su centro de gravedad sosteniendo los objetos cerca del cuerpo.",
+              "b) Proteger la espalda, no dobl\u00e1ndola incorrectamente y siempre haciendo uso de los m\u00fasculos de las piernas para moverse y levantarse, as\u00ed como otras medidas.",
+              "c) Nunca contraer los m\u00fasculos abdominales y gl\u00fateos para estabilizar la pelvis antes de movilizar un objeto.",
+              "d) Reducir al m\u00ednimo la fricci\u00f3n o el roce entre el objeto en movimiento y la superficie en que est\u00e1 siendo movida."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 dato es falso en la observaci\u00f3n al paciente antes de movilizarlo como paso previo?",
+            "respuestas": [
+              "a) Observar que los tubos de drenaje estar\u00e1n en todo momento m\u00e1s bajos que el paciente.",
+              "b) Observar que la bolsa de orina estar\u00e1 de forma adecuada por debajo de la altura de la vejiga.",
+              "c) Obviar la observaci\u00f3n de elementos de menor importancia (sondas, drenajes, sistemas de inmovilizaci\u00f3n, etc.).",
+              "d) Los botes de sueros (gotero) deben estar colocados en los soportes del cabecero preparado para tal fin."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1ntos TCAEs se requieren como m\u00ednimo para un cambio postural de un enfermo no colaborador?",
+            "respuestas": [
+              "a) Uno solo.",
+              "b) Dos.",
+              "c) Tres.",
+              "d) Ninguno."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1les son los motivos por el que se realiza el procedimiento de colocar al paciente en dec\u00fabito lateral?",
+            "respuestas": [
+              "a) Para proporcionar comodidad, para realizar la higiene de la zona posterior del cuerpo y para la ejecuci\u00f3n de curas de la zona dorsal del cuerpo.",
+              "b) Para realizar la higiene de la zona anterior del cuerpo y para la ejecuci\u00f3n de curas de la zona dorsal del cuerpo.",
+              "c) Para realizar la higiene de la zona posterior del cuerpo y para la ejecuci\u00f3n de curas de la zona ventral del cuerpo.",
+              "d) Es una posici\u00f3n inc\u00f3moda y solo es v\u00e1lida para mejorar la funcionalidad del aparato cardiovascular."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Si se quiere ayudar a un enfermo a ponerse de pie y est\u00e1 ubicado en sedestaci\u00f3n en una silla de rueda, lo primero que se har\u00e1 ser\u00e1:",
+            "respuestas": [
+              "a) Colocar el sill\u00f3n paralelo al familiar del paciente.",
+              "b) Pedirle que sit\u00fae uno de sus brazos alrededor de nuestra cintura.",
+              "c) Flexionar las rodillas manteniendo la espalda lo m\u00e1s recta posible.",
+              "d) Introducir nuestros brazos por debajo de los suyos."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 situaci\u00f3n de estas est\u00e1 contraindicada la movilidad del paciente?",
+            "respuestas": [
+              "a) Pacientes no colaboradores.",
+              "b) Pacientes inconscientes.",
+              "c) Enfermos con traumatismo craneoencef\u00e1lico.",
+              "d) Enfermos con depresi\u00f3n."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denominan los pacientes que sufren par\u00e1lisis de las extremidades inferiores y superiores?",
+            "respuestas": [
+              "a) Hemipl\u00e9jicos.",
+              "b) Hemipar\u00e9sicos.",
+              "c) Tetrapl\u00e9jicos.",
+              "d) Parapar\u00e9sicos."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1ntos kg se aplican en una extremidad en la tracci\u00f3n cut\u00e1nea para obtener el efecto terap\u00e9utico?",
+            "respuestas": [
+              "a) 2 a 3.",
+              "b) 3 \u00e0 6.",
+              "c) 4,5 a 8.",
+              "d) 7 a 12."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La movilizaci\u00f3n del paciente de una zona a otra dentro del Hospital se denomina:",
+            "respuestas": [
+              "a) Movilizaci\u00f3n del paciente/usuario.",
+              "b) Traslado intrahospitalario.",
+              "c) Transporte.",
+              "d) Ninguno de los anteriores es cierto."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 medio es m\u00e1s aconsejable para un traslado cuando el paciente posee un estado f\u00edsico deficiente?",
+            "respuestas": [
+              "a) La silla de ruedas.",
+              "b) La camilla.",
+              "c) Un veh\u00edculo a motor.",
+              "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 pr\u00e1ctica es incorrecta en el transporte en camilla de un paciente por el TCAE o el celador?",
+            "respuestas": [
+              "a) Los pies del paciente van siempre por delante.",
+              "b) Al entrar en el ascensor, primero pasa la cabecera de la camilla.",
+              "c) El TCAE o el celador siempre va delante de la cabecera del paciente, colocando al paciente de cara en sentido contrario de la marcha.",
+              "d) Al salir de un ascensor, primero salen los pies del paciente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 movimientos se efect\u00faan en los hombros si se realizan los ejercicios de amplitud de movimientos?",
+            "respuestas": [
+              "a) Movimientos de pronosupinaci\u00f3n.",
+              "b) Movimientos de lateralidad.",
+              "c) Movimientos de flexoextensi\u00f3n.",
+              "d) Movimientos circulares."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 finalidad poseen los ejercicios isom\u00e9tricos?",
+            "respuestas": [
+              "a) Ayudar a preparar a la persona que ha estado tiempo encamada a deambular.",
+              "b) Fortalecer y tonificar los m\u00fasculos.",
+              "c) Ayudar a preparar a la persona que ha estado tiempo en sedestaci\u00f3n a deambular.",
+              "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 posici\u00f3n debe adoptar el paciente al inicio de la deambulaci\u00f3n?",
+            "respuestas": [
+              "a) Posici\u00f3n de pie correcta.",
+              "b) Unidestaci\u00f3n.",
+              "c) Anat\u00f3mica.",
+              "d) Sedestaci\u00f3n."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La posici\u00f3n de mantenerse parado en ambos pies se denomina:",
+            "respuestas": [
+              "a) Fowler.",
+              "b) Bipedestaci\u00f3n.",
+              "c) Anat\u00f3mica.",
+              "d) Sedestaci\u00f3n."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1ndo est\u00e1 indicado el uso de bastones en los enfermos?",
+            "respuestas": [
+              "a) Cuando estos pacientes sufren hemiplejia derecha que permite la marcha.",
+              "b) Cuando estos pacientes sufren tetraplejia.",
+              "c) Cuando estos pacientes sufren fractura bilateral de caderas.",
+              "d) Cuando estos pacientes tienen luxaciones de ambas r\u00f3tulas."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 indicaciones son las m\u00e1s frecuentes de las muletas de aluminio?",
+            "respuestas": [
+              "a) Esguinces.",
+              "b) Enfermos tetrapl\u00e9jicos.",
+              "c) Enfermos parapl\u00e9jicos.",
+              "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas ayudas es fija?",
+            "respuestas": [
+              "a) Pasamanos.",
+              "b) Andadores.",
+              "c) Bastones multipodales.",
+              "d) Tr\u00edpodes."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas ayudas es autoestable?",
+            "respuestas": [
+              "a) Pasamanos.",
+              "b) Barras paralelas.",
+              "c) Bastones multipodales.",
+              "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denominan los dispositivos met\u00e1licos que por medio de una bomba hidr\u00e1ulica y de determinados complementos, permiten la elevaci\u00f3n, transporte y acomodamiento de personas en diferentes lugares (cama, ba\u00f1o, etc.)?",
+            "respuestas": [
+              "a) Rueda de hombros.",
+              "b) Gr\u00faas.",
+              "c) Bipedestadores.",
+              "d) Jaula de B\u00f6hler."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 define la OMS como la consecuencia de cualquier acontecimiento que precipita al paciente al suelo en contra de su voluntad?",
+            "respuestas": [
+              "a) Traumatismo.",
+              "b) Suicidio.",
+              "c) Ca\u00edda.",
+              "d) Accidente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina el hecho de acabar en una residencia de ancianos tras el alta hospitalaria de una ca\u00edda en una persona mayor?",
+            "respuestas": [
+              "a) Hospitalizaci\u00f3n.",
+              "b) Residencialismo.",
+              "c) Institucionalizaci\u00f3n.",
+              "d) Envejecimiento."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denominan los factores de riesgo de ca\u00eddas que est\u00e1n relacionados con las condiciones generales del propio individuo?",
+            "respuestas": [
+              "a) Constitucionales.",
+              "b) Extr\u00ednsecos.",
+              "c) Intr\u00ednsecos.",
+              "d) Precipitantes."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 factor de riesgo de las ca\u00eddas es extr\u00ednseco?",
+            "respuestas": [
+              "a) Disminuci\u00f3n de la sensibilidad propioceptiva.",
+              "b) Alteraciones oculares de la edad, que disminuyen la agudeza visual.",
+              "c) Gonartrosis.",
+              "d) Uso de calzado inadecuado."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 es lo primero que hay que hacer ante la realidad de que la ca\u00edda se ha producido?",
+            "respuestas": [
+              "a) Evaluaci\u00f3n de la misma.",
+              "b) Intervenir modificando los elementos desencadenantes.",
+              "c) Intervenir modificando los elementos precipitantes.",
+              "d) Realizar un croquis de las circunstancias."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 drenajes son los empleados habitualmente en la cavidad abdominal, por ejemplo en las paracentesis para evacuar el excedente de l\u00edquido seroso de la misma?",
+            "respuestas": [
+              "a) Drenajes simples.",
+              "b) Drenajes complejos.",
+              "c) Drenajes de succi\u00f3n.",
+              "d) Drenajes r\u00e1pidos."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 drenajes simples colocaremos en heridas con incisiones peque\u00f1as y con una cantidad m\u00ednima de sustancia a evacuar?",
+            "respuestas": [
+              "a) Drenajes con gasas.",
+              "b) Drenajes filiformes.",
+              "c) Drenajes con tiras de goma.",
+              "d) Drenajes con tubos de polietileno."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "El drenaje de Penrose es del tipo:",
+            "respuestas": [
+              "a) Drenajes por capilaridad o pasivos.",
+              "b) Drenajes por aspiraci\u00f3n.",
+              "c) Drenajes por colectores o activos.",
+              "d) Drenajes de Mickulicz."
+            ],
+            "verdadera": 1
+          }
+    ]
+}

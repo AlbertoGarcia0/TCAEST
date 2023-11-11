@@ -1,164 +1,2404 @@
 {
     "Preguntas": [
         {
-            "enunciado": "¿Cómo se aplican las terapias de calor seco?",
+            "enunciado": "Cuando en un sistema de atenci\u00f3n a la salud hablamos de Atenci\u00f3n Secundaria hacemos referencia:",
             "respuestas": [
-                "a) Con ba\u00f1os terap\u00e9uticos.",
-                "b) Con manta t\u00e9rmica.",
-                "c) Con bolsa de agua caliente.",
-                "d) B y C son correctas."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "Dentro de las medidas de prevenci\u00f3n de eficacia probada se incluyen:",
-            "respuestas": [
-                "a) Quimioprofilaxis en cirug\u00eda limpia.",
-                "b) Empleo de guantes.",
-                "c) Procedimientos de aislamiento.",
-                "d) Desinfecci\u00f3n de suelo y paredes."
+                "a) Al nivel m\u00e1s b\u00e1sico y elemental del sistema.",
+                "b) A un nivel no b\u00e1sico sino especializado.",
+                "c) A un nivel s\u00faperespecializado del sistema.",
+                "d) Ninguna es correcta."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "¿En cu\u00e1l de las siguientes v\u00edas de administraci\u00f3n de un f\u00e1rmaco, este no tiene que absorberse?",
+            "enunciado": "Se\u00f1ale la respuesta incorrecta respecto al concepto de AP:",
             "respuestas": [
-                "a) V\u00eda intravascular.",
-                "b) V\u00eda intramuscular.",
-                "c) V\u00eda subcut\u00e1nea.",
-                "d) V\u00eda intrad\u00e9rmica."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "El volumen de aire que entra y sale del aparato respiratorio en un minuto se conoce como:",
-            "respuestas": [
-                "a) Frecuencia respiratoria.",
-                "b) Volumen de reserva espiratoria.",
-                "c) Capacidad vital.",
-                "d) Ventilaci\u00f3n pulmonar."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "¿C\u00f3mo se denomina el sistema de informaci\u00f3n utilizado en el Sistema Sanitario de Atenci\u00f3n Hospitalaria de Castilla-La Mancha?",
-            "respuestas": [
-                "a) Turriano.",
-                "b) Fierabr\u00e1s.",
-                "c) Turriano SITRAP.",
-                "d) Mambrino XXI."
+                "a) Constituye el primer nivel de acceso ordinario de la poblaci\u00f3n al sistema sanitario p\u00fablico y se caracteriza por prestar atenci\u00f3n integral a la salud.",
+                "b) En los servicios de AP el usuario halla respuesta a sus problemas m\u00e1s habituales de salud y enfermedad, y solo cuando el diagn\u00f3stico y tratamiento lo requieran y ya no pueda ser atendido con los medios de ese primer nivel, ser\u00e1 derivado a la AE.",
+                "c) La AP se desarrolla al principio de la d\u00e9cada de los 60, como una reacci\u00f3n en contra del sistema sanitario b\u00e1sicamente hospitalario y curativo, especializado, costoso, tecnificado y alejado del individuo.",
+                "d) En los servicios de AP el usuario halla respuesta a sus problemas m\u00e1s habituales de salud y enfermedad, y solo cuando el diagn\u00f3stico y tratamiento lo requieran y ya no pueda ser atendido con los medios de ese primer nivel, ser\u00e1 derivado a la AE."
             ],
             "verdadera": 3
         },
         {
-            "enunciado": "De acuerdo con lo dispuesto en el art\u00edculo 82, del Estatuto de Personal No Facultativo de la Seguridad Social \u00bfCu\u00e1l de las siguientes funciones corresponde al auxiliar de enfermer\u00eda en el Servicio de Farmacia?",
+            "enunciado": "¿D\u00f3nde se realiz\u00f3 la Conferencia Internacional sobre AP de salud en la que se defini\u00f3 en su punto IV lo que debe entenderse por AP?",
             "respuestas": [
-                "a) La limpieza y ordenaci\u00f3n del material utilizado en la Unidad, bajo la supervisi\u00f3n del Personal Auxiliar Sanitario Titulado.",
-                "b) Contribuir al transporte de los preparados y efectos sanitarios siempre que su volumen y su peso no excedan de los l\u00edmites establecidos en la legislaci\u00f3n vigente.",
-                "c) La recepci\u00f3n de volantes y documentos para la asistencia de los enfermos.",
-                "d) Preparaci\u00f3n y dispensaci\u00f3n de citost\u00e1ticos."
+                "a) Boston.",
+                "b) Berl\u00edn.",
+                "c) Kiev.",
+                "d) Alma-Ata."
             ],
             "verdadera": 4
         },
         {
-            "enunciado": "Al cese de la respiraci\u00f3n se le llama:",
+            "enunciado": "¿A qu\u00e9 modelo de enfermer\u00eda pertenece Hildegarde Peplau?",
             "respuestas": [
-                "a) Bradipnea.",
-                "b) Disnea.",
-                "c) Ortopnea.",
-                "d) Apnea."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "¿Cu\u00e1l es la estructura f\u00edsica desde la que se prestan las actividades de atenci\u00f3n primaria de la Zona de Salud?",
-            "respuestas": [
-                "a) El Distrito de Salud.",
-                "b) La Zona B\u00e1sica de Salud.",
-                "c) La Gerencia del \u00c1rea.",
-                "d) El Centro de Salud."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "El movimiento de separaci\u00f3n del miembro inferior derecho del plano medio sagital se conoce como movimiento de:",
-            "respuestas": [
-                "a) Abducci\u00f3n.",
-                "b) Aducci\u00f3n.",
-                "c) Rotaci\u00f3n.",
-                "d) Flexi\u00f3n."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "En relaci\u00f3n con la conservaci\u00f3n de muestras biol\u00f3gicas, se\u00f1ala la que se puede mantener a temperatura ambiente o a 37\u00baC",
-            "respuestas": [
-                "a) Exudados.",
-                "b) L\u00edquido seminal.",
-                "c) Esputos.",
-                "d) L\u00edquido cefaloraqu\u00eddeo."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "En un paciente encamado en el que no existe ninguna contraindicaci\u00f3n para el lavado de cabeza, lo colocaremos en posici\u00f3n de:",
-            "respuestas": [
-                "a) Roser.",
-                "b) Morestin.",
-                "c) Proetz.",
-                "d) A y C son correctas."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "Los \u201cDerechos fundamentales y Libertades P\u00fablicas\u201d, regulados en los art\u00edculos 15 al 29 de la Constituci\u00f3n Espa\u00f1ola:",
-            "respuestas": [
-                "a) No pueden ser objeto de reforma constitucional.",
-                "b) No son de aplicaci\u00f3n directa, y precisan de ley que los desarrolle.",
-                "c) Solo pueden ser desarrollados por Ley Org\u00e1nica.",
-                "d) Solo pueden ser desarrollados por reglamentos."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "¿Qu\u00e9 fase del duelo se caracteriza por la dificultad en la toma de decisiones, la exhibici\u00f3n de sufrimiento, miedo y en algunas ocasiones ira y la sensaci\u00f3n de incredulidad e imposibilidad respecto a la muerte de esa persona?",
-            "respuestas": [
-                "a) Resoluci\u00f3n.",
-                "b) Desorientaci\u00f3n y desorganizaci\u00f3n.",
-                "c) Aturdimiento.",
-                "d) Resoluci\u00f3n y organizaci\u00f3n."
+                "a) Modelos de sistemas.",
+                "b) Modelos de autocuidados.",
+                "c) Modelos interaccionistas.",
+                "d) Modelos naturistas."
             ],
             "verdadera": 3
         },
         {
-            "enunciado": "En el shock hipovol\u00e9mico:",
+            "enunciado": "¿En qu\u00e9 fecha se hizo p\u00fablica en Alma-Ata, capital de Kazajst\u00e1n, antigua Rep\u00fablica Sovi\u00e9tica, la Conferencia Internacional sobre AP de salud?",
             "respuestas": [
-                "a) No llega suficiente sangre al coraz\u00f3n.",
-                "b) Hay una patolog\u00eda que no permite al coraz\u00f3n trabajar.",
-                "c) El coraz\u00f3n bombea sangre adecuadamente.",
-                "d) El coraz\u00f3n no trabaja adecuadamente."
+                "a) 12 septiembre de 1978",
+                "b) 15 octubre de 1978",
+                "c) 19 noviembre 1978",
+                "d) 2 enero 1980"
             ],
             "verdadera": 1
         },
         {
-            "enunciado": "Por definici\u00f3n el pron\u00f3stico de vida en la enfermedad terminal es:",
+            "enunciado": "Una de las caracter\u00edsticas de la AP de salud:",
             "respuestas": [
-                "a) Menor de tres meses.",
-                "b) Mayor de un mes.",
-                "c) De aproximadamente ocho semanas.",
-                "d) Inferior a seis meses."
+                "a) Los ambulatorios y los consultorios han venido a sustituir a los centros de salud.",
+                "b) Se han instaurado nuevos horarios y r\u00e9gimen de personal, ya no es necesario una dedicaci\u00f3n exclusiva al sistema sanitario p\u00fablico por parte de los profesionales.",
+                "c) Surge una nueva sectorizaci\u00f3n del territorio, desaparecen las ZBS.",
+                "d) Se crean nuevos profesionales que se incorporan, tales como los trabajadores sociales, odont\u00f3logos, farmac\u00e9uticos y veterinarios y los t\u00e9cnicos de salud p\u00fablica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ale cual de las siguientes NO es una de las caracter\u00edsticas de la AP de salud:",
+            "respuestas": [
+                "a) Se establecen nuevos servicios como la cita previa programada, historia cl\u00ednica familiar e individual, consultas de enfermer\u00eda, consultas del ni\u00f1o sano, servicios de informaci\u00f3n al usuario\u2026",
+                "b) Surge una nueva concepci\u00f3n de la asistencia sanitaria, individual y colectiva, en la que no solo se curan individuos enfermos, sino que se promociona la salud y se educan individuos sanos.",
+                "c) Desaparecen antiguas \u00e1reas asistenciales tales como salud laboral, salud mental, asistencia social, enfermos cr\u00f3nicos\u2026",
+                "d) Se crea una nueva sectorizaci\u00f3n del territorio, las ZBS."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Uno de los objetivos de la AP de salud es:",
+            "respuestas": [
+                "a) La promoci\u00f3n de salud, prevenci\u00f3n de la enfermedad y asistencia curativa.",
+                "b) La educaci\u00f3n sanitaria de la poblaci\u00f3n.",
+                "c) La planificaci\u00f3n, organizaci\u00f3n y direcci\u00f3n y evaluaci\u00f3n de los servicios sanitarios.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Uno de los objetivos de la AP de salud es:",
+            "respuestas": [
+                "a) La integraci\u00f3n de la actividad sanitaria asistencial y la preventiva.",
+                "b) La elevaci\u00f3n del nivel de calidad del sistema de salud, y del grado de satisfacci\u00f3n de usuarios y profesionales.",
+                "c) El diagn\u00f3stico continuado de la salud de la zona.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿En qu\u00e9 se diferencia la AE de la AP?",
+            "respuestas": [
+                "a) En que la AE se presta en r\u00e9gimen ambulatorio y la AP no",
+                "b) En que la AE se presta en r\u00e9gimen de urgencias y la AP no",
+                "c) En",
+                "d) En que solo la AE ofrece la asistencia en r\u00e9gimen de internamiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es la estructura f\u00edsica fundamental de la AE?",
+            "respuestas": [
+                "a) Centro de salud",
+                "b) Ambulatorio",
+                "c) Consultorio",
+                "d) Hospital"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Uno de los objetivos de la AE es:",
+            "respuestas": [
+                "a) Prestar asistencia ambulatoria especializada",
+                "b) Posibilitar la hospitalizaci\u00f3n de los pacientes que lo precisen",
+                "c) Poner sus centros e instituciones a disposici\u00f3n de la investigaci\u00f3n y docencia en materia de salud",
+                "d) Todas son correctas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes NO es una ventaja de trabajar con un modelo de enfermer\u00eda?",
+            "respuestas": [
+                "a) La valoraci\u00f3n se hace sobre la base de los signos y s\u00edntomas",
+                "b) La atenci\u00f3n prestada es integral",
+                "c) Permite llevar a cabo todo el proceso de atenci\u00f3n de enfermer\u00eda",
+                "d) La valoraci\u00f3n se hace sobre la base de respuestas humanas"
             ],
             "verdadera": 1
         },
         {
-            "enunciado": "Las pulsaciones por minuto (ppm) normales en un adulto sano oscilan entre:",
+            "enunciado": "Se considera matriarca de la enfermer\u00eda a:",
             "respuestas": [
-                "a) 60 y 80 ppm.",
-                "b) 90 y 100 ppm.",
-                "c) 40 y 50 ppm.",
-                "d) 110 y 120 ppm."
+                "a) Virginia Henderson",
+                "b) Nancy Roper",
+                "c) Dorotea Orem",
+                "d) Florence Nightingale"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cuál de las siguientes autoras pertenece al modelo de relaciones interpersonales?",
+            "respuestas": [
+                "a) Nancy Roper",
+                "b) Callista Roy",
+                "c) Orlando",
+                "d) Virginia Henderson"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cuál de las siguientes son necesidades básicas del paciente, según Virginia Henderson?",
+            "respuestas": [
+                "a) Realizar prácticas religiosas según la fé de cada uno",
+                "b) Eludir los riesgos del entorno y evitar lesionar a otros",
+                "c) Moverse y mantener la posición deseada",
+                "d) Todas son correctas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La meta de Virginia Henderson es:",
+            "respuestas": [
+                "a) La adaptación del paciente",
+                "b) El máximo grado de crecimiento personal del paciente",
+                "c) Identificar las necesidades del paciente",
+                "d) La independencia del paciente"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qué autora señala 3 niveles en la relación enfermera-paciente?",
+            "respuestas": [
+                "a) Virginia Henderson",
+                "b) Travelbee",
+                "c) Orlando",
+                "d) Hildegarde Peplau"
             ],
             "verdadera": 1
-        }
+        },
+        {
+            "enunciado": "Según Dorotea Orem, la función de enfermería es:",
+            "respuestas": [
+                "a) Apreciar las necesidades básicas humanas",
+                "b) Facilitar atención para influir de alguna forma sobre el paciente con el fin de que este evolucione y llegue a conseguir un óptimo nivel de autocuidado",
+                "c) Diagnosticar y tratar si la situación lo exige",
+                "d) Ayudar a las personas sanas y enfermas"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Según Dorotea Orem, el sistema en el que enfermera y paciente realizan medidas de asistencia y otras actividades manipulativas o de deambulación, se denomina:",
+            "respuestas": [
+                "a) Sistema de enfermería educativo",
+                "b) Sistema de enfermería parcialmente compensador",
+                "c) Sistema de enfermería totalmente compensador",
+                "d) Sistema de apoyo"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cuál de los siguientes no es un método de ayuda, según Dorotea Orem?",
+            "respuestas": [
+                "a) Ordenar",
+                "b) Guiar",
+                "c) Enseñar",
+                "d) Apoyar"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿A qué autora se le atribuye el modelo de déficit de autocuidados?",
+            "respuestas": [
+                "a) Tierny",
+                "b) Logan",
+                "c) Virginia Henderson",
+                "d) Dorotea Orem"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En el sistema de enfermer\u00eda parcialmente compensador, es cierto que:",
+            "respuestas": [
+                "a) Enfermera y paciente realizan medidas de asistencia y otras manipulativas o de deambulaci\u00f3n",
+                "b) Las actividades manipulativas y de deambulaci\u00f3n las realiza en su totalidad la enfermera",
+                "c) La enfermer\u00eda orienta a la persona para llevar a cabo las acciones de autocuidado necesarias",
+                "d) Est\u00e1 dirigido a pacientes que son capaces o deben aprender a realizar acciones propias de su autocuidado"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Cuál de las siguientes funciones NO son competencia del auxiliar de enfermer\u00eda?",
+            "respuestas": [
+                "a) Dar de comer al enfermo incapacitado",
+                "b) Administrar medicaci\u00f3n por v\u00eda parenteral",
+                "c) Realizar movilizaciones pasivas a parapl\u00e9jicos",
+                "d) Observar e informar sobre la sintomatolog\u00eda de un paciente"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El TCAE no puede ejercer en:",
+            "respuestas": [
+                "a) Consultas externas",
+                "b) Centro de especialidades",
+                "c) Centro de salud",
+                "d) Puede ejercer en todos"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cuál de las siguientes funciones NO son competencia del TCAE?",
+            "respuestas": [
+                "a) Colocar la cuña al enfermo incapacitado",
+                "b) Ayudar al personal m\u00e9dico en la ejecuci\u00f3n de intervenciones quir\u00fargicas",
+                "c) Limpieza y ordenaci\u00f3n del material utilizado en la unidad/servicio",
+                "d) La recepci\u00f3n de los carros de comidas y la distribuci\u00f3n de la misma"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para poder conseguir la meta de excelencia, las organizaciones sanitarias deben cumplir una serie de criterios generales, entre los cuales cabe considerar los siguientes excepto uno; señala cual:",
+            "respuestas": [
+                "a) Establecimiento de jerarqu\u00eda, misi\u00f3n y visi\u00f3n",
+                "b) Modo de integraci\u00f3n comunitaria",
+                "c) Definici\u00f3n de procesos para permitir la formaci\u00f3n y participaci\u00f3n del personal en las decisiones que les afectan",
+                "d) Definir la direcci\u00f3n estrat\u00e9gica y las metas una vez conseguida la excelencia"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cuál es el objetivo diana del contrato programa?",
+            "respuestas": [
+                "a) Impulsar cuantas acciones sean necesarias para mejorar la coordinaci\u00f3n con los servicios sociales",
+                "b) La calidad en la prestaci\u00f3n asistencial y la eficiencia en la producci\u00f3n de servicios",
+                "c) La coordinaci\u00f3n entre los dos niveles de asistencia para la integraci\u00f3n documental y administrativa",
+                "d) El uso racional del medicamento, que debe aprobar y difundir recomendaciones y protocolos conjuntos de empleo de f\u00e1rmacos"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La franja de edad que requiere m\u00e1s recursos hospitalarios es la comprendida por:",
+            "respuestas": [
+                "a) Los primeros y los \u00faltimos años de la vida",
+                "b) Los adolescentes",
+                "c) La edad adulta",
+                "d) La pubertad"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿A qué se refieren las teorías de enfermería cuando hablan del hombre como un sistema abierto?",
+            "respuestas": [
+                "a) A la especial predisposici\u00f3n a padecer infecciones hospitalarias en los enfermos ingresados",
+                "b) A que est\u00e1 en permanente intercambio f\u00edsico, mental y espiritual con el medio que le rodea",
+                "c) A que el enfermo que ingresa es veh\u00edculo de transmisi\u00f3n de infecciones en todas direcciones",
+                "d) A la disponibilidad para recibir tratamiento que se le supone al enfermo que ingresa"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En el marco de los cuidados psicosociales, ¿qué profesional es el encargado de hacer fructificar el capital-tiempo de que dispone el paciente?",
+            "respuestas": [
+                "a) Psic\u00f3logo",
+                "b) Asistente social",
+                "c) Enfermera",
+                "d) M\u00e9dico"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cómo puede ayudar la enfermera al paciente a estructurar su tiempo?",
+            "respuestas": [
+                "a) Facilit\u00e1ndole los pasatiempos",
+                "b) Favoreciendo las actividades y la comunicaci\u00f3n",
+                "c) Facilit\u00e1ndole las salidas y el conocimiento del entorno hospitalario",
+                "d) Opciones a y b son ciertas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qué cambios emocionales suelen observarse en el enfermo que es hospitalizado?",
+            "respuestas": [
+                "a) Estr\u00e9s",
+                "b) Miedo",
+                "c) Ansiedad",
+                "d) Todas son ciertas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Según Kolb, ¿qué efecto produce la enfermedad en la imagen que el individuo tiene de sí mismo?",
+            "respuestas": [
+                "a) La enfermedad no suele afectar la imagen del cuerpo",
+                "b) La enfermedad distorsiona la imagen del cuerpo",
+                "c) Solo en casos muy graves la enfermedad puede afectar la imagen propia del enfermo",
+                "d) La enfermedad hace rememorar tiempos en que la imagen corporal era m\u00e1s satisfactoria"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cuál de los siguientes mecanismos de defensa (mecanismos mentales) es frecuente observar en el paciente hospitalizado?",
+            "respuestas": [
+                "a) Negaci\u00f3n",
+                "b) Desintegraci\u00f3n",
+                "c) Compensaci\u00f3n",
+                "d) Opciones a y c son ciertas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El mecanismo de defensa empleado por algunos pacientes hospitalizados, por el cual no creen que el diagn\u00f3stico que se les corrobora sea cierto se denomina:",
+            "respuestas": [
+                "a) Regresi\u00f3n",
+                "b) Racionalizaci\u00f3n",
+                "c) Negaci\u00f3n",
+                "d) Compensaci\u00f3n"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cómo se denomina el mecanismo de adaptaci\u00f3n por el que el sujeto propone motivos socialmente aceptables de su conducta?",
+            "respuestas": [
+                "a) Proyecci\u00f3n",
+                "b) Desplazamiento",
+                "c) Racionalizaci\u00f3n",
+                "d) Compensaci\u00f3n"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿En qué mecanismo de adaptaci\u00f3n los sentimientos agresivos no se dirigen contra la persona u objeto ofensivo, sino a un sustituto?",
+            "respuestas": [
+                "a) Compensaci\u00f3n",
+                "b) Desplazamiento",
+                "c) Negaci\u00f3n",
+                "d) Regresi\u00f3n"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La forma en la que el paciente habla es orientativa de su estado mental, as\u00ed aquellos pacientes que presentan una forma caracter\u00edstica de lenguaje con una gran verborrea y fuga de ideas, son:",
+            "respuestas": [
+                "a) Maniacos",
+                "b) Depresivos",
+                "c) Esquizofr\u00e9nicos",
+                "d) Hist\u00e9ricos"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Señale la respuesta incorrecta respecto a los hábitos alimenticios del paciente:",
+            "respuestas": [
+                "a) El estado de salud mental influye de forma directa sobre la nutrici\u00f3n",
+                "b) En enfermos deprimidos el metabolismo est\u00e1 enlentecido, es por esto que los pacientes no toman una dieta completa ni tienen hambre",
+                "c) En estados maniacos, los pacientes son hiperactivos y necesitan tomar el suficiente alimento para cubrir sus necesidades, pero sin embargo no encuentran tiempo para comer",
+                "d) En la bulimia el paciente siente repulsi\u00f3n por la comida, por lo que no cubrir\u00e1 sus necesidades metab\u00f3licas y tender\u00e1 a perder peso"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se considera que existe retraso mental en cocientes intelectuales inferiores o iguales a:",
+            "respuestas": [
+                "a) 70",
+                "b) 80",
+                "c) 90",
+                "d) 100"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Cuál es el test que valora la capacidad intelectual más utilizado actualmente?",
+            "respuestas": [
+                "a) Escala de inteligencia de Minnesota",
+                "b) Escala de inteligencia de Wechsler",
+                "c) Escala de inteligencia de Kolb",
+                "d) Escala de inteligencia de Selye"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿En qué tipo de pacientes aparecen problemas de insomnio, despertándose en mitad de la noche?",
+            "respuestas": [
+                "a) Estados neuróticos",
+                "b) Pacientes deprimidos",
+                "c) Pacientes maniacos",
+                "d) Todos los anteriores"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Según Gamerzy, todo cambio producido en el ambiente que, al actuar sobre una persona media, induce tensiones emocionales y altera el normal patrón de respuestas, se denomina:",
+            "respuestas": [
+                "a) Problema emocional",
+                "b) Estrés",
+                "c) Variable",
+                "d) Ninguna es correcta"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para Rodríguez Marín, una de las consecuencias del ingreso de un enfermo en el hospital es:",
+            "respuestas": [
+                "a) Exigencias de adaptaci\u00f3n tanto al entorno f\u00edsico como psicosocial, y la necesidad de un cambio de h\u00e1bitos comportamentales personales",
+                "b) P\u00e9rdida de la intimidad y privacidad",
+                "c) Extrañamiento por inserci\u00f3n en un medio desconocido con pautas culturales diferentes",
+                "d) Todas las respuestas son correctas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cómo se denomina la respuesta de adaptación del paciente, en la que, según Coe, este asume la rutina del hospital mientras se evalúa su situación, permanece pasivo y cumple las demandas impuestas?",
+            "respuestas": [
+                "a) Integración",
+                "b) Conformidad",
+                "c) Aquiescencia",
+                "d) Pasividad comportamental"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Con respecto al enfermo de cáncer:",
+            "respuestas": [
+                "a) La palabra cáncer tiene gran contenido emocional, su significado es distinto para los profesionales que para los profanos",
+                "b) No es conveniente utilizar la palabra cáncer cuando hablemos al enfermo acerca de su padecimiento",
+                "c) Los procesos cancerosos recidivan más fácilmente y tienen una evolución más precipitada y maligna cuando los enfermos no siguen terapia psicológica",
+                "d) Todas son correctas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El dolor grato y placentero ocurre en 3 tipos de personas:",
+            "respuestas": [
+                "a) Los masoquistas, ansiosos de evasión y ansiosos de estimación",
+                "b) Los agresivos, introvertidos y masoquistas",
+                "c) Los deprimidos, introvertidos y autoagresivos",
+                "d) Los ansiosos de evasión, los autoagresivos y los anoréxicos"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qué autor considera que las situaciones de estrés son aquellas que necesitan un ajuste del organismo, pudiendo ser estas agradables o desagradables, dándole mayor importancia a la intensidad del ajuste que la situación requiera?",
+            "respuestas": [
+                "a) Ilfield",
+                "b) Gamerzy",
+                "c) Lazarus",
+                "d) Selye"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qué tipo de respuesta de afrontamiento trata de buscar el significado de la enfermedad y reinterpretar nuestra vida en función de ello, se da en personas que afrontan la situación con mayor optimismo y parece aumentar la supervivencia en pacientes con cáncer de mama?",
+            "respuestas": [
+                "a) Resignación o aceptación de la enfermedad",
+                "b) Reinterpretación positiva",
+                "c) Evitación",
+                "d) Conductas confrontativas"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Señale la respuesta incorrecta respecto al paciente hospitalizado:",
+            "respuestas": [
+                "a) Existe una subcultura hospitalaria con normas, valores, símbolos, a la que el paciente hospitalizado es sometido sin desearlo ni comprenderlo",
+                "b) Aunque los profesiones sanitarios han desarrollado los mecanismos de defensa necesarios para realizar adecuadamente su trabajo en un hospital, el ambiente hospitalario genera reacciones psíquicas bastante significativas en el paciente ingresado",
+                "c) En el hospital, se le impide al paciente utilizar determinados recursos a los que acudiría un enfermo no hospitalizado",
+                "d) El paciente en la situación de desamparo buscará más activamente mejorar su condición y le costará menos trabajo decidir sobre su propio"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Según Rodríguez y Zurriaga, son factores personales importantes la inteligencia, las destrezas del lenguaje, las defensas psicológicas, las variables de personalidad, el estatus socioeconómico, la posición social, la extensión y disponibilidad del apoyo social, los medios económicos… Estos factores influyen en la valoración de la siguiente forma:",
+            "respuestas": [
+                "a) Determinando lo que es relevante para el bienestar en un momento dado",
+                "b) Moldeando la comprensión que una persona tiene de un acontecimiento, y en consecuencia, sus emociones y esfuerzos de afrontamiento",
+                "c) Proporcionando las bases para evaluar los resultados",
+                "d) Todas son correctas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Según Rodríguez y Zurriaga hay 3 formas básicas de negación:",
+            "respuestas": [
+                "a) Negación de los hechos, negación del significado de los hechos y negación de nuestro estado emocional",
+                "b) Negación emocional, negación objetiva y negación del significado de los hechos",
+                "c) Negación subjetiva, negación objetiva y negación causal",
+                "d) Negación causal, negación de los hechos y negación del significado de los hechos"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La conducta de enfermedad pasa por las siguientes fases:",
+            "respuestas": [
+                "a) Previa, inicial, búsqueda de asistencia facultativa, asunción del papel de paciente y recuperación/asunción del papel de paciente crónico.",
+                "b) Inicial, asunción del papel de enfermo, búsqueda de asistencia técnica, asunción del papel de paciente y recuperación/asunción del papel de paciente crónico.",
+                "c) Previa, asunción del rol de enfermo, negación/asimilación de la enfermedad y recuperación/asunción del papel de paciente crónico.",
+                "d) Inicial, asimilación de la enfermedad, búsqueda de asistencia técnica, desarrollo de la enfermedad y recuperación del enfermo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para Rodríguez Marín, una de las consecuencias del ingreso de un enfermo en el hospital es:",
+            "respuestas": [
+                "a) Exigencias de adaptación tanto al entorno físico como psicosocial, y la necesidad de un cambio de hábitos comportamentales personales",
+                "b) Devaluación de la persona",
+                "c) Separación brusca del marco social habitual, especialmente de la familia y del trabajo",
+                "d) Todas son correctas"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿En qué respuesta de adaptación el paciente intenta escapar del hospital, pero como su movilidad está controlada, la retirada es sobre todo psicológica?",
+            "respuestas": [
+                "a) En la agresión",
+                "b) En la aquiescencia",
+                "c) En la regresión",
+                "d) En la desintegración"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Para la delimitación del ámbito territorial de cada ZBS se tendrán en cuenta criterios:",
+            "respuestas": [
+                "a) Deontológicos",
+                "b) Accesorios",
+                "c) Sociales",
+                "d) Cualitativos"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Como norma general, una ZBS abarcará una población comprendida:",
+            "respuestas": [
+                "a) 5.000 y 25.000 habitantes",
+                "b) 40.000 y 100.000 habitantes",
+                "c) 5.000 y 40.000 habitantes",
+                "d) 25.000 y 100.000 habitantes"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La participación en los programas de salud mental, laboral y ambiental es:",
+            "respuestas": [
+                "a) Una de las actividades que se desarrollan en el distrito de AP",
+                "b) Una de las funciones del equipo básico de salud mental",
+                "c) Una de las directrices de actuación del EAP",
+                "d) Una de las funciones del EAP"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los municipios que no son cabecera de la ZBS:",
+            "respuestas": [
+                "a) Disponen de su propio centro de salud",
+                "b) Disponen de su propio centro de AP",
+                "c) Garantizan la asistencia de su población con el centro de salud del municipio cabecera",
+                "d) Garantizan la asistencia de su población en el correspondiente ambulatorio de zona"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal de los centros de salud depende funcionalmente del:",
+            "respuestas": [
+                "a) Coordinador del centro de salud",
+                "b) Administrador del centro de salud",
+                "c) Director de programas",
+                "d) Coordinador médico del equipo"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Señale la definición correcta de centro de salud:",
+            "respuestas": [
+                "a) La estructura física y funcional que permite el adecuado desarrollo de una atención primaria de salud coordinada globalmente, integral, permanente y continuada, y con base en el trabajo de equipo de los profesionales sanitarios y no sanitarios que actúan en el mismo",
+                "b) El establecimiento encargado tanto del internamiento clínico como de la asistencia especializada y complementaria que requiera su zona de influencia",
+                "c) Institución sanitaria totalmente jerarquizada y provista de servicios capaces de realizar una asistencia ambulatoria completa a la población protegida por el SNS que le ha sido derivada en función de las exigencias emanadas de razones asistenciales objetivas",
+                "d) Institución sanitaria en la que solo se ofrece asistencia especializada en régimen ambulatorio"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Forma parte del EAP",
+            "respuestas": [
+                "a) El director de gestión y servicios generales",
+                "b) El gerente del área de salud",
+                "c) Los facultativos especialistas del área hospitalaria",
+                "d) Los veterinarios de la zona básica de salud"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El reglamento de los centros de salud regulará, entre otros, el siguiente aspecto:",
+            "respuestas": [
+                "a) El sistema retributivo",
+                "b) El régimen asistencial",
+                "c) El régimen disciplinario",
+                "d) El régimen patrimonial"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Cuando una ZBS está constituida por varios municipios:",
+            "respuestas": [
+                "a) Se fijará un municipio cabecera en el que se ubicará el centro de salud",
+                "b) Se ubicará un centro de salud en cada municipio",
+                "c) Se constituirá un EAP en cada municipio",
+                "d) Se fijará un municipio cabecera en el que se ubicará el único centro de atención primaria que le corresponde a la ZBS"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El centro de salud del municipio cabecera de la ZBBS no debe distar del resto de los municipios de la zona:",
+            "respuestas": [
+                "a) Menos de 30 minutos",
+                "b) Más de 30 minutos",
+                "c) Más de 30 minutos con los medios habituales de locomoción",
+                "d) Más de 30 minutos según la velocidad de traslado de una ambulancia"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿A qué se denomina la parte del conocimiento humano que trata y se interesa de los principios y los conceptos base que están o deberían estar en el pensamiento y actividad humanos?",
+            "respuestas": [
+              "a) Filosof\u00eda.",
+              "b) Humanidades.",
+              "c) Psicolog\u00eda.",
+              "d) \u00c9tica."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cuándo aparece el primer código deontológico de enfermería?",
+            "respuestas": [
+              "a) En época de Galeno.",
+              "b) En época de Hipócrates.",
+              "c) En 1893 (Hospital Harper-Detroit).",
+              "d) Cuando aparece el primer código deontológico médico."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La primera formulación a nivel ético e importante la constituye:",
+            "respuestas": [
+              "a) El Juramento Hipocrático.",
+              "b) El Juramento Sardónico.",
+              "c) Reglas de Moralidad de la Junta Suprema de Sanidad Española.",
+              "d) Declaración de Ginebra."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Todo lo que se expone de las características de las normas éticas es cierto, excepto:",
+            "respuestas": [
+              "a) Las normas han de cumplirse obligatoriamente, están positivadas y obviamente están ligadas al Estado.",
+              "b) Su cumplimiento o no, no tiene repercusión social ni jurídica.",
+              "c) Son cumplidas mediante el convencimiento interno.",
+              "d) Se pueden plasmar escritas en códigos deontológicos cuyo cumplimiento es exigido de alguna manera por organizaciones colegiales o asociaciones profesionales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qué aspecto o cuestión posee valor extrínseco?",
+            "respuestas": [
+              "a) Aire.",
+              "b) Agua.",
+              "c) Salud.",
+              "d) Alimentos."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Una desacreditación de una persona por medio de manifestaciones o declaraciones públicas para hacerle perder su reputación es:",
+            "respuestas": [
+              "a) Difamación.",
+              "b) Calumnia.",
+              "c) Negligencia.",
+              "d) Agresión."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Cómo se denomina cuando un asalto se produce de forma que se toca o afecta el cuerpo de otra persona sin su debido consentimiento?",
+            "respuestas": [
+              "a) Agravio.",
+              "b) Imprudencia.",
+              "c) Negligencia.",
+              "d) Agresión."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué componente de Mayeroff es aquel que nos indica que el cuidado se llevará a cabo entre un continuum entre experiencias pasadas y la situación presente, entre la atención concreta y pormenorizada y la atención global?",
+            "respuestas": [
+              "a) Paciencia.",
+              "b) Honestidad.",
+              "c) Alternancia del ritmo.",
+              "d) Conocimiento."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qué afirmación es correcta?",
+            "respuestas": [
+              "a) La ética no es una materia subjetiva.",
+              "b) Para la solución de los problemas éticos se necesita la aplicación de un proceso ilógico pero moral.",
+              "c) La solución de los problemas éticos o morales que se plantean en la práctica clínica no requiere una intervención por parte del personal sanitario con el fin de solucionarlos.",
+              "d) No es necesaria la aplicación de un método científico en la práctica de enfermería, ya que con la ética se solucionan los problemas que surjan."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qué modalidad de ética es aquella que supone la comprensión de lo que define a una profesión y sus funciones, establece si esta profesión constituye o no nuestro absoluto profesional y adecua nuestro comportamiento según ese absoluto profesional elegido?",
+            "respuestas": [
+              "a) Ética laboral.",
+              "b) Ética profesional.",
+              "c) Ética personal.",
+              "d) Ética global."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qué tipo de relación asistencial en enfermería es aquella que mantienen dos o más personas y de la que se sigue un producto o fin?",
+            "respuestas": [
+              "a) Relación primaria.",
+              "b) Relación laboral.",
+              "c) Relación secundaria.",
+              "d) Relación profesional."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cómo se denomina aquella relación terapéutica que mantienen dos o más personas y de la que se sigue un producto o fin, donde se supone que el profesional de enfermería debe situarse en el papel del enfermo, para, desde esa situación, poder establecer una distancia y aportar salud en la medida de lo posible?",
+            "respuestas": [
+              "a) Relación primaria y simpática.",
+              "b) Relación secundaria y simpática.",
+              "c) Relación primaria y empática.",
+              "d) Relación secundaria y empática."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Toda investigación o experimentación realizada en seres humanos debe hacerse de acuerdo con los principios éticos básicos de:",
+            "respuestas": [
+              "a) Respeto a las personas y a los animales.",
+              "b) Respeto a las personas y búsqueda del bien.",
+              "c) Respeto a las personas, búsqueda de la justicia y respeto a los animales.",
+              "d) Respeto a las personas, búsqueda del bien y de la justicia."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿En qué documento normativo el sujeto debe expresar voluntariamente su intención de participar en el ensayo clínico, después de haber comprendido los objetivos del estudio, beneficios, incomodidades y riesgos previstos, alternativas posibles, derechos y responsabilidades?",
+            "respuestas": [
+              "a) De últimas voluntades.",
+              "b) De protección de datos.",
+              "c) De consentimiento informado.",
+              "d) De experimentación humana permitida."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qué concepto se refiere a la forma en que un individuo percibe los requisitos necesarios para que las personas vivan en sociedad y cómo responde a ellos?",
+            "respuestas": [
+              "a) Biosociología.",
+              "b) Conducta moral.",
+              "c) Moralidad.",
+              "d) Desarrollo moral."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Con los requisitos necesarios para que las personas vivan en sociedad nos referimos a:",
+            "respuestas": [
+              "a) La autonomía.",
+              "b) La confidencialidad.",
+              "c) El consentimiento.",
+              "d) La moralidad."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué principio ético incumple el encarnizamiento u obstinación terapéutica?",
+            "respuestas": [
+              "a) Principio de autonomía.",
+              "b) Principio de no maleficencia.",
+              "c) Principio de beneficencia.",
+              "d) Principio de justicia."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qué es falso de la relación clínica basada en el modelo informativo?",
+            "respuestas": [
+              "a) En términos técnicos se informa al usuario para que pueda elegir la intervención que desee, y que el facultativo llevará a cabo.",
+              "b) Concibe la autonomía del usuario/paciente.",
+              "c) El médico proporciona toda la información relevante al paciente.",
+              "d) El paciente no participa en la toma de decisiones médicas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué normativa es la que regula el aborto en nuestro país?",
+            "respuestas": [
+              "a) Ley Orgánica 2/2010.",
+              "b) Ley 41/2002.",
+              "c) Ley Orgánica 15/1999.",
+              "d) Ley Orgánica 10/1995."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qué es el estado de bienestar físico, psicológico y sociocultural relacionado con la sexualidad, que requiere un entorno libre de coerción, discriminación y violencia?",
+            "respuestas": [
+              "a) Salud.",
+              "b) Salud sexual.",
+              "c) Salud de gestante.",
+              "d) Salud reproductiva."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cómo se denomina la omisión planificada de los cuidados que facilita la muerte del paciente, que seguramente si estos se dieran prolongarían la vida del enfermo?",
+            "respuestas": [
+              "a) Distanasia.",
+              "b) Eutanasia activa.",
+              "c) Ortotanasia.",
+              "d) Eutanasia pasiva."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Según nuestra normativa, al que coopere con actos necesarios al suicidio de una persona se le impondrá la pena de prisión de:",
+            "respuestas": [
+              "a) 2 a 5 años.",
+              "b) 4 a 8 años.",
+              "c) 5 a 10 años.",
+              "d) No se le impondrá pena alguna."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 tipo de actuaci\u00f3n relacionada con la muerte est\u00e1 en Espa\u00f1a considerada como conducta delictiva?",
+            "respuestas": [
+              "a) Distanasia.",
+              "b) Eutanasia activa.",
+              "c) Ortotanasia.",
+              "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "El que induzca al suicidio de otro ser\u00e1 castigado con la pena de prisi\u00f3n de:",
+            "respuestas": [
+              "a) 2 a 5 a\u00f1os.",
+              "b) 4 a 8 a\u00f1os.",
+              "c) 5 a 10 a\u00f1os.",
+              "d) No se le impondr\u00e1 pena alguna."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el acto cl\u00ednico que consiste en el examen realizado sobre el cad\u00e1ver de una persona fallecida a causa de enfermedad, que tiene como objetivo final la confirmaci\u00f3n de las causas de la muerte?",
+            "respuestas": [
+              "a) Ortotanasia.",
+              "b) Autopsia cl\u00ednica.",
+              "c) Autopsia m\u00e9dico-forense.",
+              "d) Distanasia."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 documento es necesario que se expida tras un \u00f3bito para acreditar de forma fehaciente el fallecimiento de su causante y se env\u00eda inmediatamente al Registro Civil?",
+            "respuestas": [
+              "a) Certificado de defunci\u00f3n.",
+              "b) Certificado de \u00faltimas voluntades.",
+              "c) Testamento vital.",
+              "d) Certificado de autopsia."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "El examen realizado sobre el cad\u00e1ver de una persona fallecida a causa de enfermedad, que tiene como objetivo final la confirmaci\u00f3n de las causas de la muerte se denomina:",
+            "respuestas": [
+              "a) Autopsia cl\u00ednica.",
+              "b) Autopsia m\u00e9dico-forense.",
+              "c) Autopsia legal.",
+              "d) Autopsia premorten."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Las lesiones imprudentes constitutivas de delito se regulan en el C\u00f3digo Penal en el art\u00edculo:",
+            "respuestas": [
+              "a) 142.",
+              "b) 145.",
+              "c) 152.",
+              "d) 155."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo es considerada la imprudencia simple o leve?",
+            "respuestas": [
+              "a) Como delito grave.",
+              "b) Como falta.",
+              "c) Como falta y delito.",
+              "d) Como delito leve."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "En el aborto imprudente, la pena de inhabilitaci\u00f3n ser\u00eda de:",
+            "respuestas": [
+              "a) Seis meses a un a\u00f1o.",
+              "b) Uno a tres a\u00f1os.",
+              "c) Tres a seis a\u00f1os.",
+              "d) Seis a diez a\u00f1os."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Est\u00e1 obligado a guardar secreto profesional:",
+            "respuestas": [
+              "a) El m\u00e9dico especialista.",
+              "b) El m\u00e9dico y el t\u00e9cnico especialista.",
+              "c) Todos los que intervengan en la acci\u00f3n sanitaria del paciente.",
+              "d) El m\u00e9dico, el t\u00e9cnico especialista, el enfermero y el TCAE."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "El tiempo de vigencia del secreto profesional es hasta:",
+            "respuestas": [
+              "a) La duraci\u00f3n de la relaci\u00f3n con el paciente.",
+              "b) Toda la vida del paciente.",
+              "c) Los tres meses despu\u00e9s de la relaci\u00f3n con el paciente.",
+              "d) Incluso hasta despu\u00e9s de la muerte del paciente."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 condici\u00f3n es aquella que posee el secreto profesional del deber de guardar el hecho conocido cuando este pueda producir resultados nocivos o injustos sobre el paciente si se viola el mismo?",
+            "respuestas": [
+              "a) Condici\u00f3n moral.",
+              "b) Condici\u00f3n jur\u00eddica.",
+              "c) Condici\u00f3n legal.",
+              "d) Condici\u00f3n leg\u00edtima."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 circunstancia para el TCAE no es objeto de secreto profesional?",
+            "respuestas": [
+              "a) Confidencias del paciente, aunque sean ajenas a lo profesional.",
+              "b) Los datos sobre salud y enfermedad del paciente.",
+              "c) Cuando reconozca a un cad\u00e1ver que se sospeche que ha podido morir como consecuencia de alg\u00fan acto delictivo, en tal caso, se da parte a la justicia.",
+              "d) Todos los datos que se conocen por causa del trabajo realizado con o sin autorizaci\u00f3n y consentimiento del paciente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿En qu\u00e9 art\u00edculo de la Constituci\u00f3n espa\u00f1ola se establece que la ley regular\u00e1 el derecho a la cl\u00e1usula de conciencia y al secreto profesional en el ejercicio de estas libertades?",
+            "respuestas": [
+              "a) En el art\u00edculo 18.",
+              "b) En el art\u00edculo 19.",
+              "c) En el art\u00edculo 20.",
+              "d) En el art\u00edculo 21."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "El hecho del quebranto de la debida reserva respecto a datos relativos al centro o instituci\u00f3n o a la intimidad personal de los usuarios y a la informaci\u00f3n relacionada con su proceso y estancia en las instituciones o centros sanitarios, recogido en el Estatuto Marco del personal estatutario de los Servicios de Salud es considerado como constitutivo de:",
+            "respuestas": [
+              "a) Delito a la salud.",
+              "b) Falta disciplinaria muy grave.",
+              "c) Falta disciplinaria grave.",
+              "d) Falta disciplinaria leve."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La violaci\u00f3n del secreto profesional puede ocasionar:",
+            "respuestas": [
+              "a) Exclusivamente responsabilidad civil.",
+              "b) Exclusivamente responsabilidad penal.",
+              "c) Responsabilidad civil y responsabilidad penal.",
+              "d) Responsabilidad profesional o estatutaria, responsabilidad civil y responsabilidad penal."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿En qu\u00e9 circunstancias de estas el sanitario puede romper el secreto profesional?",
+            "respuestas": [
+              "a) Cuando haya peligro para la Salud P\u00fablica o est\u00e9 en juego la vida de terceras personas.",
+              "b) Cuando declara como imputado en una causa penal.",
+              "c) En aquellos en los que atienden a personas que no hayan podido ser v\u00edctimas de un delito, pero s\u00ed de un hecho irresponsable, sin grandes consecuencias, pero debe conocerse.",
+              "d) En todas las circunstancias anteriores."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿En qu\u00e9 circunstancias los profesionales sanitarios no est\u00e1n sujetos a guardar el secreto profesional?",
+            "respuestas": [
+              "a) Cuando la informaci\u00f3n tratada del enfermo es de \u00edndole dom\u00e9stica.",
+              "b) Ante la denuncia de hechos constitutivos de delito o cuando comparece como testigo.",
+              "c) Cuando ha pasado un per\u00edodo de tiempo sustancial, el secreto profesional no tiene efectos.",
+              "d) Est\u00e1n sujetos siempre a guardar el mismo."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 aspecto no recoge el concepto amplio de seguridad social (en Europa)?",
+            "respuestas": [
+              "a) La protecci\u00f3n social de los trabajadores.",
+              "b) La creaci\u00f3n de Centros para la rehabilitaci\u00f3n de los trabajadores.",
+              "c) La creaci\u00f3n de los servicios m\u00e9dicos de empresa.",
+              "d) Recoge todo lo anteriormente mencionado."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es en Espa\u00f1a la norma b\u00e1sica que regula en la actualidad la materia de Prevenci\u00f3n de Riesgos Laborales?",
+            "respuestas": [
+              "a) Ley 31/1995, de 8 de noviembre.",
+              "b) Ley 13/1990, de 22 de abril.",
+              "c) Ley 22/2000, de 12 de diciembre.",
+              "d) Ley 14/1998, de 25 de septiembre."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 higiene de las que componen la Higiene en el trabajo se encarga del estudio a trav\u00e9s de la higiene anal\u00edtica de la situaci\u00f3n en ese medio laboral?",
+            "respuestas": [
+              "a) Higiene de campo.",
+              "b) Higiene te\u00f3rica.",
+              "c) Higiene operativa.",
+              "d) Higiene anal\u00edtica."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Todo lo que se expone de las condiciones f\u00edsico-ambientales del trabajo en relaci\u00f3n con el local donde se va a realizar es cierto, excepto que:",
+            "respuestas": [
+              "a) Debe estudiarse la composici\u00f3n de los materiales de construcci\u00f3n, equipamiento y decoraci\u00f3n.",
+              "b) Es importante hacer un estudio de la orientaci\u00f3n espacial, las v\u00edas de acceso y salida, as\u00ed como la distribuci\u00f3n y organizaci\u00f3n de los espacios y equipamientos.",
+              "c) Debe estudiarse su dise\u00f1o minuciosamente, previamente a la construcci\u00f3n del edificio, para evitar problemas por una inadecuada estructura.",
+              "d) Debe contemplarse la idea de incluir en la medida de lo posible materiales f\u00e1cilmente combustibles."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 m\u00e9todo se emplea para eliminar o paliar los olores desagradables en el ambiente de trabajo, especialmente en algunos tipos de industrias?",
+            "respuestas": [
+              "a) Aireaci\u00f3n.",
+              "b) Absorci\u00f3n de los mismos por carb\u00f3n activo.",
+              "c) Filtraci\u00f3n laminar.",
+              "d) Aireaci\u00f3n y absorci\u00f3n de los mismos por carb\u00f3n activo."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 temperatura aproximada debe existir por normativa en los locales de trabajo cerrado donde se realicen trabajos sedentarios, propios de oficinas o similares?",
+            "respuestas": [
+              "a) Entre 5 y 15 \u00b0C.",
+              "b) Entre 10 y 20 \u00b0C.",
+              "c) Entre 17 y 27 \u00b0C.",
+              "d) Entre 25 y 35 \u00b0C."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿A qu\u00e9 se define, del sonido, como la sensaci\u00f3n auditiva que va asociada a la frecuencia de los sonidos y se refiere a la altura del ruido?",
+            "respuestas": [
+              "a) Potencia.",
+              "b) Tono.",
+              "c) Intensidad.",
+              "d) Timbre."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es la unidad m\u00e1s empleada en medicina del trabajo respecto al ambiente sonoro, si queremos evaluar la existencia o no de contaminaci\u00f3n ac\u00fastica?",
+            "respuestas": [
+              "a) Lumen.",
+              "b) Son.",
+              "c) Decibelio.",
+              "d) Metro/segundo."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 nivel m\u00e1ximo de intensidad ac\u00fastica (en dB) como edificio p\u00fablico y caracter\u00edsticas propias de trabajo poseen los hospitales?",
+            "respuestas": [
+              "a) 25.",
+              "b) 45.",
+              "c) 65.",
+              "d) 85."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "En la iluminaci\u00f3n artificial directa:",
+            "respuestas": [
+              "a) El 90-100 % del flujo de luz se dirige hacia abajo y el 0-10 % hacia arriba.",
+              "b) El 70-90 % del flujo de luz se dirige hacia abajo y el 10-30 % hacia arriba.",
+              "c) El 50-70 % del flujo de luz se dirige hacia abajo y el 30-50 % hacia arriba.",
+              "d) El 30-50% del flujo de luz se dirige hacia abajo y el 50-70% hacia arriba."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 se define exactamente como los movimientos r\u00e1pidos y ruidosos de intensidad variable?",
+            "respuestas": [
+              "a) Los sonidos.",
+              "b) Los ruidos.",
+              "c) Las vibraciones.",
+              "d) Nada es cierto."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaci\u00f3n de estas es electromagn\u00e9tica?",
+            "respuestas": [
+              "a) Luz visible.",
+              "b) Radiaci\u00f3n alfa.",
+              "c) Radiaci\u00f3n beta.",
+              "d) Son todas electromagn\u00e9ticas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaciones electromagn\u00e9ticas de estas consideras ionizante?",
+            "respuestas": [
+              "a) Radiaciones Y e infrarroja.",
+              "b) Radiaciones X y gamma.",
+              "c) Radiaciones alfa y beta.",
+              "d) Radiaciones alfa e infrarroja."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaci\u00f3n de estas no tiene carga el\u00e9ctrica (electromagn\u00e9tica)?",
+            "respuestas": [
+              "a) Radiaci\u00f3n Alfa.",
+              "b) Radiaci\u00f3n Gamma.",
+              "c) Radiaci\u00f3n Beta (negativa).",
+              "d) Radiaci\u00f3n Beta (positiva)."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 lesiones son las m\u00e1s frecuentes producidas en el aparato reproductor de los adultos por efecto de las radiaciones ionizantes?",
+            "respuestas": [
+              "a) Alteraciones de la fertilidad (infertilidad o esterilidad).",
+              "b) Alteraciones gen\u00e9ticas en caso de embarazo, por afectaci\u00f3n de las c\u00e9lulas germinales de los c\u00f3nyuges.",
+              "c) Alteraciones de las defensas org\u00e1nicas.",
+              "d) Alteraciones de la fertilidad (infertilidad o esterilidad) y alteraciones gen\u00e9ticas en caso de embarazo (por afectaci\u00f3n de las c\u00e9lulas germinales de los c\u00f3nyuges)."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Las precauciones universales y est\u00e1ndar respecto a los riesgos relacionados con la exposici\u00f3n a agentes biol\u00f3gicos durante el trabajo tratan esencialmente de:",
+            "respuestas": [
+              "a) Mantener una actitud constante de autoprotecci\u00f3n.",
+              "b) Aplicar el principio fundamental de que todas las muestras deben manipularse como si fueran infecciosas.",
+              "c) Tener h\u00e1bitos de trabajo seguro.",
+              "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cu\u00e1ntas dosis son las qu\u00e9 debe recibir el personal sanitario de vacuna de hepatitis B?",
+            "respuestas": [
+              "a) 1.",
+              "b) 2.",
+              "c) 3.",
+              "d) 4."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 se define como la exposici\u00f3n que sufre un trabajador a sangre, tejidos o fluidos potencialmente infecciosos a trav\u00e9s de una herida percut\u00e1nea, contacto con mucosa o sobre piel no intacta?",
+            "respuestas": [
+              "a) Riesgo microbiol\u00f3gico.",
+              "b) Accidente de riesgo biol\u00f3gico.",
+              "c) Circunstancia bacteriol\u00f3gica.",
+              "d) Incidente biol\u00f3gico."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1l de estas precauciones es universal respecto a los riesgos relacionados con la exposici\u00f3n a agentes biol\u00f3gicos durante el trabajo?",
+            "respuestas": [
+              "a) Vacunaci\u00f3n (inmunizaci\u00f3n activa) y normas de higiene personal.",
+              "b) Elementos de protecci\u00f3n de barrera y tener cuidado en la manipulaci\u00f3n de objetos cortantes.",
+              "c) Esterilizaci\u00f3n y desinfecci\u00f3n correcta de instrumentales y superficies.",
+              "d) Son todas las anteriores."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 radiaci\u00f3n se emplea m\u00e1s frecuentemente en esterilizaci\u00f3n?",
+            "respuestas": [
+              "a) Radiaci\u00f3n ultravioleta.",
+              "b) Radiaci\u00f3n X.",
+              "c) Radiaci\u00f3n gamma.",
+              "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 riesgo de contagio despu\u00e9s de un accidente con riesgo biol\u00f3gico por pinchazo o corte se eval\u00faa para el virus de la hepatitis C (seg\u00fan la NTP n. ° 447, del INSHT)?",
+            "respuestas": [
+              "a) 30 %.",
+              "b) 3 %",
+              "c) 0,3 %.",
+              "d) 0,03 %."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La mayor\u00eda de las seroconversiones en el personal de enfermer\u00eda frente al VIH fueron:",
+            "respuestas": [
+              "a) Relacionadas con extracciones sangu\u00edneas.",
+              "b) Producidas por pinchazos.",
+              "c) Estos riesgos no se dan en el personal de enfermer\u00eda.",
+              "d) Relacionadas con extracciones sangu\u00edneas y fueron producidas por pinchazos."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 colectivo de riesgo se caracteriza por verse afectado a la exposici\u00f3n biol\u00f3gica todos los trabajadores del grupo seg\u00fan la Federal Register, del 6 de diciembre de 1991, de la OSHA de EEUU?",
+            "respuestas": [
+              "a) Primer grupo.",
+              "b) Segundo grupo.",
+              "c) Tercer grupo.",
+              "d) Cuarto grupo."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el primer principio esencial de expertos internacionales que constituyen el Viral Hepatitis Prevention Board (VHPB), necesario para cualquier programa destinado a prevenir la exposici\u00f3n a infecciones de transmisi\u00f3n hem\u00e1tica?",
+            "respuestas": [
+              "a) Mejorar los procedimientos de trabajo.",
+              "b) Aislar el material potencialmente infectado.",
+              "c) Identificar el riesgo.",
+              "d) Proteger a las personas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Si hay peligro de salpicadura de sangre o de alg\u00fan fluido biol\u00f3gico se utilizar\u00e1:",
+            "respuestas": [
+              "a) Gafas protectoras y gorro.",
+              "b) Delantal o bata, calzas y papis.",
+              "c) Protector facial, o mascarilla.",
+              "d) Gafas protectoras, protector facial, o mascarilla y delantal o bata."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 recomendaci\u00f3n o conducta a seguir ante un accidente laboral con exposici\u00f3n a sangre y fluidos corporales contaminados es falsa?",
+            "respuestas": [
+              "a) Se debe limpiar la herida inmediatamente despu\u00e9s del accidente.",
+              "b) Se debe determinar el estado inmunol\u00f3gico del sujeto accidentado frente a los virus: VHB, VHC y VIH.",
+              "c) Se debe comunicar todo accidente de forma inmediata al responsable de la planta de hospitalizaci\u00f3n (supervisor) y al Servicio de Medicina Preventiva del hospital.",
+              "d) No se debe quitar los guantes de manera inmediata despu\u00e9s de producirse el contacto accidental con sangre u otros fluidos del paciente."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 riesgo en particular es el m\u00e1s habitual en la manipulaci\u00f3n de carga?",
+            "respuestas": [
+              "a) Afectaci\u00f3n por osteoporosis.",
+              "b) Afectaci\u00f3n por fracturas.",
+              "c) Afectaci\u00f3n dorsolumbar.",
+              "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 zona corporal es la m\u00e1s da\u00f1ada por la manipulaci\u00f3n de cargas?",
+            "respuestas": [
+              "a) Espalda (zona dorsolumbar).",
+              "b) T\u00f3rax.",
+              "c) Espalda (zona cervical).",
+              "d) Extremidades inferiores."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Cu\u00e1ndo los objetos se consideran carga en relaci\u00f3n con su peso?",
+            "respuestas": [
+              "a) Aquellos que sobrepasen m\u00e1s de 1 kg.",
+              "b) Aquellos que sobrepasen m\u00e1s de 3 kg.",
+              "c) Aquellos que sobrepasen m\u00e1s de 25 kg.",
+              "d) Aquellos que sobrepasen m\u00e1s de 40 kg."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el peso m\u00e1ximo que se recomienda no sobrepasar (en kg), en condiciones ideales de manipulaci\u00f3n?",
+            "respuestas": [
+              "a) 5.",
+              "b) 20.",
+              "c) 25.",
+              "d) 35."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el tama\u00f1o m\u00e1ximo recomendable de una carga (alto x ancho x profundo, en cm)?",
+            "respuestas": [
+              "a) 70 x 50 х 50.",
+              "b) 60 х 60 х 60.",
+              "c) 60 х 60 х 50.",
+              "d) 80 x 60 x 60."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Hasta qu\u00e9 carga en condiciones especiales pueden trabajadores bien entrenados y sanos f\u00edsicamente manipularlas?",
+            "respuestas": [
+              "a) Hasta 15 kg.",
+              "b) Hasta 25 kg.",
+              "c) Hasta 40 kg.",
+              "d) Hasta 50 kg."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 distancias indicar\u00e1n las coordenadas de la situaci\u00f3n espacial de la carga?",
+            "respuestas": [
+              "a) Distancias H y T.",
+              "b) Distancias T y V.",
+              "c) Distancias H y S.",
+              "d) Distancias H y V."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el l\u00edmite de alcance para muchas personas en altura (en cm) a la hora de manipular cargas?",
+            "respuestas": [
+              "a) 125.",
+              "b) 150.",
+              "c) 160.",
+              "d) 175."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 m\u00fasculos deben emplearse m\u00e1s cuando la carga que debe ser manipulada est\u00e1 situada en el suelo o cerca del mismo?",
+            "respuestas": [
+              "a) M\u00fasculos de la cabeza.",
+              "b) M\u00fasculos de las piernas.",
+              "c) M\u00fasculos de las espaldas.",
+              "d) M\u00fasculos de zonas paravertebrales."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Entre las reglas en la prevenci\u00f3n de lesiones debido a la manipulaci\u00f3n de cargas en el trabajo todo es cierto excepto:",
+            "respuestas": [
+              "a) Alejarse la carga respecto al cuerpo del que la mueve.",
+              "b) Mantener la espalda recta y alineada.",
+              "c) No transportar m\u00e1s carga que la debida, con el fin de ahorrar viajes.",
+              "d) Utilizar si los hubiese los medios mec\u00e1nicos sobre los manuales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 fase del sue\u00f1o se corresponde con el sue\u00f1o parad\u00f3jico de ondas r\u00e1pidas?",
+            "respuestas": [
+              "a) La fase 2.",
+              "b) La fase 3.",
+              "c) La fase 4.",
+              "d) La fase 5."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 se puede definir como aquellas situaciones en las que una persona se convierte en el blanco del entorno laboral al que corresponde, siendo subyugado y perseguido por los miembros de la empresa, compa\u00f1eros o/y superiores, acarre\u00e1ndole trastornos f\u00edsicos y ps\u00edquicos importantes en su salud?",
+            "respuestas": [
+              "a) Bulling.",
+              "b) Burnout.",
+              "c) Mobbing.",
+              "d) Distr\u00e9s."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el mobbing que se produce si un empleado es agredido u hostigado por uno o varios compa\u00f1eros del mismo nivel jer\u00e1rquico en la empresa?",
+            "respuestas": [
+              "a) Ascendente.",
+              "b) Vertical.",
+              "c) Horizontal.",
+              "d) Descendente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 circunstancia no influye causalmente en la aparici\u00f3n de s\u00edndrome de Burnout?",
+            "respuestas": [
+              "a) Experiencia laboral.",
+              "b) El estr\u00e9s interpersonal, por identificaci\u00f3n del profesional con la angustia que sufre el enfermo (o con sus familiares).",
+              "c) Turnicidad.",
+              "d) Expectativas truncadas en el paso del idealismo te\u00f3rico profesional."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿En qu\u00e9 fase del s\u00edndrome de Burnout se da un desequilibrio entre los recursos y las demandas?",
+            "respuestas": [
+              "a) En la fase de estr\u00e9s psicosocial.",
+              "b) En la fase de estr\u00e9s f\u00edsico.",
+              "c) En la fase de estr\u00e9s psicof\u00edsico.",
+              "d) En la fase de cambios conductuales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La ergonom\u00eda que se ocupa sobre todo de estudiar la relaci\u00f3n entre la fatiga producida en el trabajo y el tiempo dedicado al descanso, se denomina:",
+            "respuestas": [
+              "a) Ergonom\u00eda ambiental.",
+              "b) Ergonom\u00eda temporal.",
+              "c) Ergonom\u00eda geom\u00e9trica.",
+              "d) Ergonom\u00eda permanente."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 tendremos en cuenta de las personas cada vez que realicemos un estudio ergon\u00f3mico de un puesto de trabajo?",
+            "respuestas": [
+              "a) Peso y talla.",
+              "b) Sexo y edad.",
+              "c) Nivel cultural y capacidad de adaptaci\u00f3n.",
+              "d) Peso, talla, sexo, edad, nivel cultural y capacidad de adaptaci\u00f3n."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Los esfuerzos repetitivos de las muñecas pueden ocasionar:",
+            "respuestas": [
+              "a) Tendinitis.",
+              "b) Cefaleas.",
+              "c) Lumbalgias.",
+              "d) Todo lo anterior."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 riesgo en particular pueden presentar m\u00e1s frecuentemente las cargas de peso en diferentes situaciones cuando es demasiado pesada o demasiado voluminosa?",
+            "respuestas": [
+              "a) Riesgo craneocervical.",
+              "b) Riesgo cervical.",
+              "c) Riesgo dorsocervical.",
+              "d) Riesgo dorsolumbar."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El estudio de la gesti\u00f3n de los equipos de protecci\u00f3n individual (EPI) en los Centros Sanitarios viene recogido en la nota t\u00e9cnica de prevenci\u00f3n (del INSHT) n\u00famero:",
+            "respuestas": [
+              "a) 351.",
+              "b) 458.",
+              "c) 572.",
+              "d) 802."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 categor\u00eda poseen los guantes de un solo uso seg\u00fan la clasificaci\u00f3n de equipos de protecci\u00f3n considerando el car\u00e1cter personalizado o no de su utilizaci\u00f3n?",
+            "respuestas": [
+              "a) A.",
+              "b) B.",
+              "c) C.",
+              "d) D."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 equipo (EPI) suele emplearse como de uso general a nivel sanitario?",
+            "respuestas": [
+              "a) Delantales.",
+              "b) Guantes de l\u00e1tex.",
+              "c) Gafas de seguridad.",
+              "d) Viseras."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "En una habitaci\u00f3n de hospital habr\u00e1 tantas unidades de pacientes como:",
+            "respuestas": [
+              "a) Pacientes haya en el hospital (incluido consultas externas).",
+              "b) N\u00famero de camas.",
+              "c) Pacientes haya en el hospital dividido por factor de correcci\u00f3n constante.",
+              "d) N\u00famero de camas multiplicado por factor de correcci\u00f3n constante"
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 \u00fatil o herramienta no debe poseer la unidad del paciente tipo?",
+            "respuestas": [
+              "a) Lencer\u00eda de cama y accesorios.",
+              "b) L\u00e1mpara de luz directa.",
+              "c) Timbre de alarma.",
+              "d) Toma de ox\u00edgeno."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿De qu\u00e9 color deben ser pintadas las paredes de una habitaci\u00f3n de un hospital?",
+            "respuestas": [
+              "a) Negro u oscuro.",
+              "b) Marr\u00f3n claro o amarillo.",
+              "c) Blanco mate.",
+              "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La altura de los techos m\u00ednima (en cm) de la habitaci\u00f3n del paciente debe ser:",
+            "respuestas": [
+              "a) 220.",
+              "b) 250.",
+              "c) 270.",
+              "d) 285."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1nto tiempo al d\u00eda habr\u00e1 que abrir ventanas para ventilar, si el hospital no dispone de aire acondicionado o est\u00e1 averiado?",
+            "respuestas": [
+              "a) 10 a 15 minutos, en diferentes intervalos.",
+              "b) 30 a 45 minutos, en diferentes intervalos.",
+              "c) 1 a 2 horas, en diferentes intervalos.",
+              "d) M\u00e1s de 4 horas en diferentes intervalos."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Respecto a la sonorizaci\u00f3n en la unidad del paciente, todo lo que se dice es cierto, excepto que:",
+            "respuestas": [
+              "a) El T\u00e9cnico de cuidados de enfermer\u00eda debe velar a la hora del descanso de que no se produzcan ruidos.",
+              "b) El personal sanitario utilizar\u00e1 calzado con suela dura, para que dicho ruido d\u00e9 pista al enfermo y se sepa d\u00f3nde se localiza.",
+              "c) Las habitaciones deben ser tranquilas y sin ruidos, ya que un excesivo ruido ambiental afectar\u00eda al enfermo.",
+              "d) Los modernos hospitales est\u00e1n construidos teniendo en cuenta la necesidad de un aislamiento ac\u00fastico de las habitaciones."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Los l\u00edmites que se consideran aceptables de humedad en habitaci\u00f3n del enfermo oscilan entre:",
+            "respuestas": [
+              "a) 20-30 %.",
+              "b) 30-40 %.",
+              "c) 40-60 %.",
+              "d) 65-85 %."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 es incorrecto del cuarto de ba\u00f1o de la habitaci\u00f3n del paciente?",
+            "respuestas": [
+              "a) Debe poseer todas las piezas de un ba\u00f1o completo.",
+              "b) No es necesario que presente barras de seguridad en sanitarios ni en ducha o/y ba\u00f1era.",
+              "c) El ba\u00f1o est\u00e1 incorporado a las habitaciones.",
+              "d) Debe poseer medidas de seguridad para evitar accidentes."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 parte corporal aloja el segmento m\u00f3vil central del somier met\u00e1lico de la cama articulada?",
+            "respuestas": [
+              "a) T\u00f3rax.",
+              "b) Abdomen.",
+              "c) Pelvis.",
+              "d) Extremidades superiores."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina tambi\u00e9n a la cama ortop\u00e9dica o traumatol\u00f3gica?",
+            "respuestas": [
+              "a) Cama de Judet.",
+              "b) Potro ginecol\u00f3gico.",
+              "c) Somier.",
+              "d) Bouchat."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 tipo de cama est\u00e1 indicada para pacientes que sufren fracturas de las extremidades?",
+            "respuestas": [
+              "a) Cama ortop\u00e9dica de Judet.",
+              "b) Cama hospitalaria.",
+              "c) Cama de levitaci\u00f3n.",
+              "d) Cama Electrocircular o de Striker."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "El denominado potro se emplea para:",
+            "respuestas": [
+              "a) Encamar a quemados.",
+              "b) Exploraci\u00f3n ginecol\u00f3gica.",
+              "c) Encamar a pacientes con UPP.",
+              "d) Encamar a enfermos con grandes traumatismos."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La incubadora se emplea para alcanzar todos los objetivos que se exponen, excepto:",
+            "respuestas": [
+              "a) Proporcionar O2.",
+              "b) Conservar el calor corporal y mantener la humedad.",
+              "c) Prevenir las infecciones.",
+              "d) Evitar fracturas indeseadas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El armaz\u00f3n para el volteo Foster se emplea:",
+            "respuestas": [
+              "a) Para facilitar al paciente la respiraci\u00f3n.",
+              "b) Para el cambio postural.",
+              "c) Evitar infecciones mic\u00f3ticas.",
+              "d) Para liberar de estr\u00e9s al paciente."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Hasta qu\u00e9 grado de giro permite el volteo la cama de Striker?",
+            "respuestas": [
+              "a) Hasta los 30\u00b0.",
+              "b) Hasta los 60\u00b0.",
+              "c) Hasta los 90\u00b0.",
+              "d) Hasta los 180\u00b0."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿De qu\u00e9 otra cama es variante la cama libro?",
+            "respuestas": [
+              "a) De la cama de levitaci\u00f3n.",
+              "b) De la cama de exploraci\u00f3n o potro ginecol\u00f3gico.",
+              "c) De la cama articulada.",
+              "d) De la cama Striker."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Para qu\u00e9 tipo de pacientes se emplea la cama de levitaci\u00f3n?",
+            "respuestas": [
+              "a) Con fractura de miembros superiores.",
+              "b) En grandes quemados.",
+              "c) En enfermos con \u00falceras por presi\u00f3n.",
+              "d) Las opciones b) y c) son correctas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La cama roto-rest se emplea en:",
+            "respuestas": [
+              "a) Prevenci\u00f3n de infecciones en general.",
+              "b) Prevenci\u00f3n de infecciones en quemados.",
+              "c) Inmovilizaci\u00f3n de pacientes.",
+              "d) Prevenci\u00f3n de \u00falceras por presi\u00f3n (UPP)."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 funci\u00f3n posee la barra de tracci\u00f3n?",
+            "respuestas": [
+              "a) Protector de metal lateral, que evita ca\u00eddas del enfermo de la cama.",
+              "b) Dar mayor rigidez a la cama hospitalaria.",
+              "c) Facilitar la incorporaci\u00f3n del enfermo.",
+              "d) Adaptar al paciente a la cabecera de la cama."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 dispositivo o accesorio de la cama hospitalaria es aquel que se coloca sobre el enfermo para que la ropa de la cama descanse sobre \u00e9l y evitar al paciente el peso de la misma?",
+            "respuestas": [
+              "a) F\u00e9rula de acero.",
+              "b) Centinelas de cama.",
+              "c) Pupitre.",
+              "d) Soporte."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 pieza o elemento se ubica entre la s\u00e1bana bajera y la entremetida?",
+            "respuestas": [
+              "a) S\u00e1bana encimera.",
+              "b) Cubierta colch\u00f3n.",
+              "c) Hule.",
+              "d) Colcha."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cu\u00e1l de estos elementos es el primero en el orden de lencer\u00eda?",
+            "respuestas": [
+              "a) Hule.",
+              "b) Entremetida.",
+              "c) Manta.",
+              "d) Colcha."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 procedimiento hay que seguir para quitar la s\u00e1bana bajera de la cama desocupada?",
+            "respuestas": [
+              "a) Hay que seguir el mismo procedimiento empleado para la manta.",
+              "b) Hay que seguir el mismo procedimiento empleado para la entremetida.",
+              "c) Hay que seguir el mismo procedimiento empleado para la s\u00e1bana superior.",
+              "d) Hay que seguir el mismo procedimiento empleado para la s\u00e1bana inferior."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 n\u00famero de TCAE es recomendable para la t\u00e9cnica de hacer la cama ocupada?",
+            "respuestas": [
+              "a) Ninguno, ya que se encarga el celador.",
+              "b) Uno.",
+              "c) Dos.",
+              "d) Tres."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 procedimiento se a\u00f1adir\u00e1 en la t\u00e9cnica para hacer la cama quir\u00fargica diferente al de la cama desocupada?",
+            "respuestas": [
+              "a) El mismo que para la cama desocupada, pero a\u00f1adiendo una bajera y una encimera m\u00e1s.",
+              "b) El mismo que para la cama desocupada, pero quitando el hule y a\u00f1adiendo una entremetida m\u00e1s, que se colocar\u00e1n en la cabecera de la cama.",
+              "c) El mismo que para la cama desocupada, pero a\u00f1adiendo un hule y una entremetida m\u00e1s, que se colocar\u00e1n en la cabecera de la cama o en la parte alta de la bajera.",
+              "d) Nada, ya que son maneras muy diferentes de hacer la cama."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 elementos de estos no puede haber en una cama quir\u00fargica?",
+            "respuestas": [
+              "a) Hule o protector.",
+              "b) Entremetida.",
+              "c) Colch\u00f3n.",
+              "d) Almohada."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿De qu\u00e9 manera abrimos la cama quir\u00fargica desocupada si para ello tenemos que coger los dos extremos del embozo y doblarlos hacia los pies de la cama para luego volver a subirlos hacia la mitad de la cama en sentido inverso?",
+            "respuestas": [
+              "a) En tri\u00e1ngulo o pico.",
+              "b) En derrape o arrastre.",
+              "c) En tracci\u00f3n anterior.",
+              "d) En abanico o fuelle."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿C\u00f3mo se puede abrir la cama quir\u00fargica, una vez que se lleva a cabo una especie de embozo o dobladillo a los pies de la misma, para la recepci\u00f3n del enfermo?",
+            "respuestas": [
+              "a) En tri\u00e1ngulo o pico.",
+              "b) En derrape o arrastre.",
+              "c) En tracci\u00f3n anterior.",
+              "d) Son ciertas las respuestas a) y c)."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "En la vida del paciente ingresado se producen grandes cambios que van a repercutir en el individuo, gener\u00e1ndole una gran ansiedad e incertidumbre. Una de las consecuencias que se produce es un tipo de aislamiento, \u00bfCu\u00e1l?",
+            "respuestas": [
+              "a) Aislamiento secular.",
+              "b) Aislamiento psicosocial.",
+              "c) Aislamiento particular.",
+              "d) Aislamiento contra contacto."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Para realizar una valoraci\u00f3n funcional de las actividades b\u00e1sicas de la vida diaria utilizamos la escala de:",
+            "respuestas": [
+              "a) Hamilton.",
+              "b) Foster.",
+              "c) Pfeiffer.",
+              "d) Barthel."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina el eje que es perpendicular al longitudinal?",
+            "respuestas": [
+              "a) Eje vertical.",
+              "b) Eje sagital.",
+              "c) Eje coronal.",
+              "d) Eje transversal."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es el eje que va de la cabeza a los pies, recorriendo el cuerpo en toda su longitud y es perpendicular a los otros dos y al suelo?",
+            "respuestas": [
+              "a) Eje transversal.",
+              "b) Eje longitudinal.",
+              "c) Eje sagital.",
+              "d) Eje coronal."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 cavidad de nuestra corporalidad se encuentra la cavidad peritoneal?",
+            "respuestas": [
+              "a) En la cavidad p\u00e9lvica.",
+              "b) En la cavidad abdominal.",
+              "c) En la cavidad tor\u00e1cica.",
+              "d) En la cavidad mediast\u00ednica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina tambi\u00e9n a la posici\u00f3n de dec\u00fabito dorsal?",
+            "respuestas": [
+              "a) Dec\u00fabito prono.",
+              "b) Dec\u00fabito lateral izquierdo.",
+              "c) Dec\u00fabito supino.",
+              "d) Dec\u00fabito transversal."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 posici\u00f3n tendr\u00e1 el paciente tumbado sobre su espalda, cabeza, tal\u00f3n y brazos extendidos paralelos a su cuerpo?",
+            "respuestas": [
+              "a) A la posici\u00f3n de dec\u00fabito prono.",
+              "b) A la posici\u00f3n de dec\u00fabito supino.",
+              "c) A la posici\u00f3n de bipedestaci\u00f3n.",
+              "d) A la posici\u00f3n semiprona."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 es falso de la posici\u00f3n de dec\u00fabito supino?",
+            "respuestas": [
+              "a) Es una posici\u00f3n utilizada para la exploraci\u00f3n del t\u00f3rax, abdomen, piernas y pies.",
+              "b) Se emplea para comenzar con la higiene del enfermo y como punto de partida para diferentes movilizaciones.",
+              "c) El plano del cuerpo es paralelo al plano del suelo y al plano horizontal de la cama o camilla.",
+              "d) Sus piernas est\u00e1n extendidas y sus brazos alineados a lo largo del cuerpo, estando el paciente acostado sobre su abdomen y pecho."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es la posici\u00f3n en la que el enfermo se encuentra acostado boca abajo?",
+            "respuestas": [
+              "a) Dec\u00fabito lateral derecho.",
+              "b) Dec\u00fabito dorsal.",
+              "c) Dec\u00fabito prono.",
+              "d) Dec\u00fabito supino."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La posici\u00f3n semiprona es:",
+            "respuestas": [
+              "a) La posici\u00f3n de Fowler.",
+              "b) La posici\u00f3n de semi Fowler.",
+              "c) La posici\u00f3n de Roser.",
+              "d) La posici\u00f3n de Sims."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se llama la posici\u00f3n que se describe como aquella en la que la paciente se halla acostado boca arriba, con las piernas separadas y colocadas sobre los estribos, con las rodillas y cadera flexionadas 90\u00b0 y los muslos en abducci\u00f3n?",
+            "respuestas": [
+              "a) La posici\u00f3n de Fowler.",
+              "b) La posici\u00f3n de Trendelenburg.",
+              "c) La posici\u00f3n ginecol\u00f3gica.",
+              "d) La posici\u00f3n de Morestin."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Ante situaciones de shock (especialmente hipovol\u00e9mico) o en casos de lipotimias, hay que colocar al paciente en la posici\u00f3n de:",
+            "respuestas": [
+              "a) Trendelenburg",
+              "b) Morestin.",
+              "c) Roser.",
+              "d) Fowler."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se llama tambi\u00e9n la posici\u00f3n de anti Trendelenburg?",
+            "respuestas": [
+              "a) La posici\u00f3n de litotom\u00eda.",
+              "b) La posici\u00f3n de Morestin.",
+              "c) La posici\u00f3n de Roser.",
+              "d) La posici\u00f3n de Sims."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La posici\u00f3n mahometana es:",
+            "respuestas": [
+              "a) La posici\u00f3n de litotom\u00eda.",
+              "b) La posici\u00f3n de Fowler.",
+              "c) La posici\u00f3n de Morestin.",
+              "d) La posici\u00f3n genupectoral."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es la posici\u00f3n en dec\u00fabito supino pero en la cual la cabeza queda colgando o suspendida fuera del plano de la camilla?",
+            "respuestas": [
+              "a) La posici\u00f3n de Fowler.",
+              "b) La posici\u00f3n de Morestin.",
+              "c) La posici\u00f3n de Roser o Proetz.",
+              "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones es quir\u00fargica?",
+            "respuestas": [
+              "a) Posici\u00f3n de Fowler.",
+              "b) Posici\u00f3n de dec\u00fabito supino.",
+              "c) Posici\u00f3n de Morestin.",
+              "d) Posici\u00f3n de dec\u00fabito prono."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones consideras no quir\u00fargica?",
+            "respuestas": [
+              "a) Posici\u00f3n de Trendelenburg.",
+              "b) Posici\u00f3n genupectoral.",
+              "c) Posici\u00f3n de Sims.",
+              "d) Posici\u00f3n ginecol\u00f3gica."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones consideras quir\u00fargica?",
+            "respuestas": [
+              "a) Posici\u00f3n de Trendelenburg.",
+              "b) Posici\u00f3n de dec\u00fabito prono.",
+              "c) Posici\u00f3n de Fowler.",
+              "d) Posici\u00f3n de Sims."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "En la posici\u00f3n de Kraske el paciente est\u00e1 en:",
+            "respuestas": [
+              "a) Posici\u00f3n de dec\u00fabito supino.",
+              "b) Posici\u00f3n de dec\u00fabito prono.",
+              "c) Posici\u00f3n de Fowler.",
+              "d) Posici\u00f3n ginecol\u00f3gica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La posici\u00f3n de Kraske se emplea en:",
+            "respuestas": [
+              "a) Pacientes que presenten problemas digestivos con reflujo gastrointestinal, hernias de hiato y enfermedades respiratorias.",
+              "b) Pacientes que presenten problemas card\u00edacos.",
+              "c) Cirug\u00eda cox\u00edgea.",
+              "d) Posici\u00f3n antishock."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "En la posici\u00f3n de laminectom\u00eda el paciente est\u00e1 en:",
+            "respuestas": [
+              "a) Dec\u00fabito prono, con el tronco elevado.",
+              "b) Variante de la posici\u00f3n de Sims.",
+              "c) Variante de la posici\u00f3n de Roser.",
+              "d) Dec\u00fabito supino, con el tronco descendido."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La posici\u00f3n de laminectom\u00eda se emplea en:",
+            "respuestas": [
+              "a) Exploraci\u00f3n de recto y previa a colonoscopias.",
+              "b) Intervenciones de hernias discales a nivel lumbar o tor\u00e1cico del raquis.",
+              "c) Cirug\u00eda digestiva de intestino grueso.",
+              "d) Intervenciones de ves\u00edcula biliar y previa a laparoscopia."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "En la posici\u00f3n de craneotom\u00eda el paciente est\u00e1 en:",
+            "respuestas": [
+              "a) En dec\u00fabito supino, con el tronco elevado.",
+              "b) El paciente est\u00e1 en dec\u00fabito prono con la cabeza sobresaliendo del borde de la mesa y la frente apoyada en un soporte en que la cabeza queda suspendida y alineada con el resto del cuerpo.",
+              "c) En posici\u00f3n de semi Fowler con apoyo vertebral.",
+              "d) Nada de lo anterior."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La posici\u00f3n de craneotom\u00eda se emplea en:",
+            "respuestas": [
+              "a) Intervenciones de mama.",
+              "b) Intervenciones de t\u00f3rax.",
+              "c) Operaciones donde es necesaria la rotura \u00f3sea de cr\u00e1neo.",
+              "d) Intervenciones de hernias discales."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfDe qu\u00e9 posici\u00f3n es variante la posici\u00f3n de navaja sevillana?",
+            "respuestas": [
+              "a) De la posici\u00f3n de dec\u00fabito supino.",
+              "b) De la posici\u00f3n de dec\u00fabito prono.",
+              "c) De la posici\u00f3n de Fowler.",
+              "d) De la posici\u00f3n ginecol\u00f3gica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfPara qu\u00e9 exploraci\u00f3n se emplea la posici\u00f3n de navaja sevillana?",
+            "respuestas": [
+              "a) Coxis.",
+              "b) Axis.",
+              "c) Hemorroides.",
+              "d) Ur\u00e9teres."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Cuando la movilizaci\u00f3n la realiza el propio paciente con la supervisi\u00f3n (sin ayuda f\u00edsica) del profesional sanitario, se dice que es:",
+            "respuestas": [
+              "a) Activa.",
+              "b) Activa auxiliada.",
+              "c) Pasiva supervisada.",
+              "d) Pasiva."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Las movilizaciones realizadas por el fisioterapeuta sobre los distintos segmentos corporales del paciente se denominan:",
+            "respuestas": [
+              "a) Inmovilizadas.",
+              "b) Activas contrarresistencia.",
+              "c) Pasivas.",
+              "d) Activas con resistencia."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se debe colocar a un paciente que vomita?",
+            "respuestas": [
+              "a) Dec\u00fabito supino.",
+              "b) Dec\u00fabito lateral.",
+              "c) Dec\u00fabito prono.",
+              "d) Posici\u00f3n de Fowler."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 consecuencia sobre la funci\u00f3n respiratoria es cierta por el inmovilismo?",
+            "respuestas": [
+              "a) Aumento en los requerimientos de ox\u00edgeno.",
+              "b) Aumenta la capacidad respiratoria.",
+              "c) Se tiende instintivamente a respirar de forma m\u00e1s r\u00e1pida y superficial.",
+              "d) Hay una estasis de secreciones, que puede acumularse y favorecer el medio para el crecimiento bacteriano."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 cuesti\u00f3n de las que se apuntan facilitan el aumento de los niveles de actividad?",
+            "respuestas": [
+              "a) Usar restricciones f\u00edsicas, que posibiliten realizar ejercicios que nunca antes hab\u00eda imaginado poder ejecutar.",
+              "b) Estar sondado o/y tener colocado alg\u00fan tipo de dispositivo sanitario.",
+              "c) Implementar al paciente un plan de cuidados de actividad adaptado a sus caracter\u00edsticas particulares.",
+              "d) Apagar las luces de noche, ya que calma al paciente e incrementa su actividad."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 regla b\u00e1sica de la din\u00e1mica corporal en el personal que realiza cambios posturales y transporte de personas es falsa?",
+            "respuestas": [
+              "a) Hacer el m\u00e1ximo uso de su centro de gravedad sosteniendo los objetos cerca del cuerpo.",
+              "b) Proteger la espalda, no dobl\u00e1ndola incorrectamente y siempre haciendo uso de los m\u00fasculos de las piernas para moverse y levantarse, as\u00ed como otras medidas.",
+              "c) Nunca contraer los m\u00fasculos abdominales y gl\u00fateos para estabilizar la pelvis antes de movilizar un objeto.",
+              "d) Reducir al m\u00ednimo la fricci\u00f3n o el roce entre el objeto en movimiento y la superficie en que est\u00e1 siendo movida."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 dato es falso en la observaci\u00f3n al paciente antes de movilizarlo como paso previo?",
+            "respuestas": [
+              "a) Observar que los tubos de drenaje estar\u00e1n en todo momento m\u00e1s bajos que el paciente.",
+              "b) Observar que la bolsa de orina estar\u00e1 de forma adecuada por debajo de la altura de la vejiga.",
+              "c) Obviar la observaci\u00f3n de elementos de menor importancia (sondas, drenajes, sistemas de inmovilizaci\u00f3n, etc.).",
+              "d) Los botes de sueros (gotero) deben estar colocados en los soportes del cabecero preparado para tal fin."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1ntos TCAEs se requieren como m\u00ednimo para un cambio postural de un enfermo no colaborador?",
+            "respuestas": [
+              "a) Uno solo.",
+              "b) Dos.",
+              "c) Tres.",
+              "d) Ninguno."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1les son los motivos por el que se realiza el procedimiento de colocar al paciente en dec\u00fabito lateral?",
+            "respuestas": [
+              "a) Para proporcionar comodidad, para realizar la higiene de la zona posterior del cuerpo y para la ejecuci\u00f3n de curas de la zona dorsal del cuerpo.",
+              "b) Para realizar la higiene de la zona anterior del cuerpo y para la ejecuci\u00f3n de curas de la zona dorsal del cuerpo.",
+              "c) Para realizar la higiene de la zona posterior del cuerpo y para la ejecuci\u00f3n de curas de la zona ventral del cuerpo.",
+              "d) Es una posici\u00f3n inc\u00f3moda y solo es v\u00e1lida para mejorar la funcionalidad del aparato cardiovascular."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Si se quiere ayudar a un enfermo a ponerse de pie y est\u00e1 ubicado en sedestaci\u00f3n en una silla de rueda, lo primero que se har\u00e1 ser\u00e1:",
+            "respuestas": [
+              "a) Colocar el sill\u00f3n paralelo al familiar del paciente.",
+              "b) Pedirle que sit\u00fae uno de sus brazos alrededor de nuestra cintura.",
+              "c) Flexionar las rodillas manteniendo la espalda lo m\u00e1s recta posible.",
+              "d) Introducir nuestros brazos por debajo de los suyos."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 situaci\u00f3n de estas est\u00e1 contraindicada la movilidad del paciente?",
+            "respuestas": [
+              "a) Pacientes no colaboradores.",
+              "b) Pacientes inconscientes.",
+              "c) Enfermos con traumatismo craneoencef\u00e1lico.",
+              "d) Enfermos con depresi\u00f3n."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denominan los pacientes que sufren par\u00e1lisis de las extremidades inferiores y superiores?",
+            "respuestas": [
+              "a) Hemipl\u00e9jicos.",
+              "b) Hemipar\u00e9sicos.",
+              "c) Tetrapl\u00e9jicos.",
+              "d) Parapar\u00e9sicos."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1ntos kg se aplican en una extremidad en la tracci\u00f3n cut\u00e1nea para obtener el efecto terap\u00e9utico?",
+            "respuestas": [
+              "a) 2 a 3.",
+              "b) 3 \u00e0 6.",
+              "c) 4,5 a 8.",
+              "d) 7 a 12."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La movilizaci\u00f3n del paciente de una zona a otra dentro del Hospital se denomina:",
+            "respuestas": [
+              "a) Movilizaci\u00f3n del paciente/usuario.",
+              "b) Traslado intrahospitalario.",
+              "c) Transporte.",
+              "d) Ninguno de los anteriores es cierto."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 medio es m\u00e1s aconsejable para un traslado cuando el paciente posee un estado f\u00edsico deficiente?",
+            "respuestas": [
+              "a) La silla de ruedas.",
+              "b) La camilla.",
+              "c) Un veh\u00edculo a motor.",
+              "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 pr\u00e1ctica es incorrecta en el transporte en camilla de un paciente por el TCAE o el celador?",
+            "respuestas": [
+              "a) Los pies del paciente van siempre por delante.",
+              "b) Al entrar en el ascensor, primero pasa la cabecera de la camilla.",
+              "c) El TCAE o el celador siempre va delante de la cabecera del paciente, colocando al paciente de cara en sentido contrario de la marcha.",
+              "d) Al salir de un ascensor, primero salen los pies del paciente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 movimientos se efect\u00faan en los hombros si se realizan los ejercicios de amplitud de movimientos?",
+            "respuestas": [
+              "a) Movimientos de pronosupinaci\u00f3n.",
+              "b) Movimientos de lateralidad.",
+              "c) Movimientos de flexoextensi\u00f3n.",
+              "d) Movimientos circulares."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 finalidad poseen los ejercicios isom\u00e9tricos?",
+            "respuestas": [
+              "a) Ayudar a preparar a la persona que ha estado tiempo encamada a deambular.",
+              "b) Fortalecer y tonificar los m\u00fasculos.",
+              "c) Ayudar a preparar a la persona que ha estado tiempo en sedestaci\u00f3n a deambular.",
+              "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 posici\u00f3n debe adoptar el paciente al inicio de la deambulaci\u00f3n?",
+            "respuestas": [
+              "a) Posici\u00f3n de pie correcta.",
+              "b) Unidestaci\u00f3n.",
+              "c) Anat\u00f3mica.",
+              "d) Sedestaci\u00f3n."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La posici\u00f3n de mantenerse parado en ambos pies se denomina:",
+            "respuestas": [
+              "a) Fowler.",
+              "b) Bipedestaci\u00f3n.",
+              "c) Anat\u00f3mica.",
+              "d) Sedestaci\u00f3n."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1ndo est\u00e1 indicado el uso de bastones en los enfermos?",
+            "respuestas": [
+              "a) Cuando estos pacientes sufren hemiplejia derecha que permite la marcha.",
+              "b) Cuando estos pacientes sufren tetraplejia.",
+              "c) Cuando estos pacientes sufren fractura bilateral de caderas.",
+              "d) Cuando estos pacientes tienen luxaciones de ambas r\u00f3tulas."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 indicaciones son las m\u00e1s frecuentes de las muletas de aluminio?",
+            "respuestas": [
+              "a) Esguinces.",
+              "b) Enfermos tetrapl\u00e9jicos.",
+              "c) Enfermos parapl\u00e9jicos.",
+              "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas ayudas es fija?",
+            "respuestas": [
+              "a) Pasamanos.",
+              "b) Andadores.",
+              "c) Bastones multipodales.",
+              "d) Tr\u00edpodes."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estas ayudas es autoestable?",
+            "respuestas": [
+              "a) Pasamanos.",
+              "b) Barras paralelas.",
+              "c) Bastones multipodales.",
+              "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denominan los dispositivos met\u00e1licos que por medio de una bomba hidr\u00e1ulica y de determinados complementos, permiten la elevaci\u00f3n, transporte y acomodamiento de personas en diferentes lugares (cama, ba\u00f1o, etc.)?",
+            "respuestas": [
+              "a) Rueda de hombros.",
+              "b) Gr\u00faas.",
+              "c) Bipedestadores.",
+              "d) Jaula de B\u00f6hler."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 define la OMS como la consecuencia de cualquier acontecimiento que precipita al paciente al suelo en contra de su voluntad?",
+            "respuestas": [
+              "a) Traumatismo.",
+              "b) Suicidio.",
+              "c) Ca\u00edda.",
+              "d) Accidente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina el hecho de acabar en una residencia de ancianos tras el alta hospitalaria de una ca\u00edda en una persona mayor?",
+            "respuestas": [
+              "a) Hospitalizaci\u00f3n.",
+              "b) Residencialismo.",
+              "c) Institucionalizaci\u00f3n.",
+              "d) Envejecimiento."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denominan los factores de riesgo de ca\u00eddas que est\u00e1n relacionados con las condiciones generales del propio individuo?",
+            "respuestas": [
+              "a) Constitucionales.",
+              "b) Extr\u00ednsecos.",
+              "c) Intr\u00ednsecos.",
+              "d) Precipitantes."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 factor de riesgo de las ca\u00eddas es extr\u00ednseco?",
+            "respuestas": [
+              "a) Disminuci\u00f3n de la sensibilidad propioceptiva.",
+              "b) Alteraciones oculares de la edad, que disminuyen la agudeza visual.",
+              "c) Gonartrosis.",
+              "d) Uso de calzado inadecuado."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 es lo primero que hay que hacer ante la realidad de que la ca\u00edda se ha producido?",
+            "respuestas": [
+              "a) Evaluaci\u00f3n de la misma.",
+              "b) Intervenir modificando los elementos desencadenantes.",
+              "c) Intervenir modificando los elementos precipitantes.",
+              "d) Realizar un croquis de las circunstancias."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 drenajes son los empleados habitualmente en la cavidad abdominal, por ejemplo en las paracentesis para evacuar el excedente de l\u00edquido seroso de la misma?",
+            "respuestas": [
+              "a) Drenajes simples.",
+              "b) Drenajes complejos.",
+              "c) Drenajes de succi\u00f3n.",
+              "d) Drenajes r\u00e1pidos."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 drenajes simples colocaremos en heridas con incisiones peque\u00f1as y con una cantidad m\u00ednima de sustancia a evacuar?",
+            "respuestas": [
+              "a) Drenajes con gasas.",
+              "b) Drenajes filiformes.",
+              "c) Drenajes con tiras de goma.",
+              "d) Drenajes con tubos de polietileno."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "El drenaje de Penrose es del tipo:",
+            "respuestas": [
+              "a) Drenajes por capilaridad o pasivos.",
+              "b) Drenajes por aspiraci\u00f3n.",
+              "c) Drenajes por colectores o activos.",
+              "d) Drenajes de Mickulicz."
+            ],
+            "verdadera": 1
+          }
     ]
 }
