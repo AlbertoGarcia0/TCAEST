@@ -64,8 +64,8 @@ async function startTest() {
     }
 
     // Validar el tiempo límite
-    if (timeLimit < 5 || timeLimit > 90) {
-        alert("El tiempo límite debe estar entre 5 y 90 minutos.");
+    if (timeLimit < 5 || timeLimit > 120) {
+        alert("El tiempo límite debe estar entre 5 y 120 minutos.");
         return;
     }
     try {
