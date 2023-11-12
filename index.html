@@ -1,8 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test TCAE Doris</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="icon" href="flavicon.ico" type="image/x-icon">
 </head>
 <body>
     <h1>Test TCAE Doris</h1>
@@ -15,7 +18,8 @@
     <label for="timeLimit">Tiempo límite (en minutos, entre 5 y 90):</label>
     <input type="number" id="timeLimit" value="15" min="5" max="90"> <!-- Valor predeterminado de 15 minutos, mínimo 5, máximo 90 -->
     <br>
-    <button onclick="startTest()">Comenzar Test</button>
+    <button id="startTestBtn" onclick="startTest()">Comenzar Test</button>
+
     <div id="quiz" class="hidden">
         <!-- Contenido del test -->
     </div>
@@ -25,6 +29,7 @@
     </div>
     <button id="getResultsBtn" onclick="getResults()" style="display: none;">Obtener Resultados</button>
     <button id="finishTestBtn" onclick="finishTest()" style="display: none;">Finalizar Test</button>
+    <div id="floating-clock"></div>
     
     <script src="script.js"></script>
 </body>

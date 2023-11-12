@@ -1,5 +1,6 @@
 const questions = [];
 var testQuestions = [];
+let countdownInterval; // Variable para almacenar el intervalo del temporizador
 
 
 // Función para cargar las opciones del selector de temas
@@ -103,19 +104,36 @@ async function startTest() {
                 </div>
             `;
             quiz.innerHTML += questionHTML;
+            
         }
 
 
         // Oculta los elementos de configuración y muestra el test
+
         document.getElementById("themeSelector").setAttribute("disabled", "disabled");
         document.getElementById("numQuestions").setAttribute("disabled", "disabled");
         document.getElementById("timeLimit").setAttribute("disabled", "disabled");
         document.getElementById("quiz").classList.remove("hidden");
         document.getElementById("results").classList.add("hidden");
+        document.getElementById("startTestBtn").style.display = "none";
         document.getElementById("getResultsBtn").style.display = "inline";
+        document.getElementById("floating-clock").style.display = "inline";
         const results = document.getElementById("results");
         results.innerHTML = "";
-
+        const testStartTime = new Date().getTime();
+        localStorage.setItem("testStartTime", testStartTime);
+    
+        // Iniciar el temporizador
+        countdownInterval = setInterval(function () {
+            const secondsRemaining = getCurrentTimeRemaining();
+            if (secondsRemaining <= 0) {
+                stopTimer()
+                getResults();
+            }
+        }, 1000);
+    
+        // Llamar a la función para actualizar el reloj flotante
+        updateFloatingClock();
         // Aquí puedes implementar la lógica para el temporizador si es necesario
     } catch (error) {
         console.error(error);
@@ -131,6 +149,55 @@ function shuffleArray(array) {
     }
     return array;
 }
+
+function updateFloatingClock() {
+    const floatingClock = document.getElementById('floating-clock');
+
+    // Verificar si el test está en progreso
+    const isTestInProgress = !document.getElementById("quiz").classList.contains("hidden");
+
+    if (isTestInProgress) {
+        // Si hay un test en progreso, mostrar la cuenta regresiva
+        const countdownElement = document.getElementById("floating-clock");
+
+        // Obtener el tiempo restante
+        const secondsRemaining = getCurrentTimeRemaining();
+
+        // Mostrar el tiempo restante formateado
+        countdownElement.textContent = formatTime(secondsRemaining);
+    } else {
+        // Si no hay un test en progreso, ocultar el reloj flotante
+        floatingClock.textContent = "";
+    }
+
+    // Llamar a la función cada segundo para actualizar el reloj
+    setTimeout(updateFloatingClock, 1000);
+}
+
+
+function getCurrentTimeRemaining() {
+    // Obtener el tiempo restante en segundos
+    const timeLimit = parseInt(document.getElementById("timeLimit").value);
+    let secondsRemaining = timeLimit * 60;
+    const now = new Date();
+    const testStartTime = parseInt(localStorage.getItem("testStartTime"));
+    const elapsedSeconds = Math.floor((now - testStartTime) / 1000);
+    secondsRemaining -= elapsedSeconds;
+
+    return secondsRemaining > 0 ? secondsRemaining : 0;
+}
+
+function formatTime(seconds) {
+    const minutes = Math.floor(seconds / 60);
+    const remainingSeconds = seconds % 60;
+    return `${String(minutes).padStart(2, '0')}:${String(remainingSeconds).padStart(2, '0')}`;
+}
+
+function stopTimer() {
+    clearInterval(countdownInterval);
+    document.getElementById("floating-clock").style.display = "none";
+}
+
 
 
 function generateResults() {
@@ -235,13 +302,14 @@ function scrollToResults() {
 }
 
 function getResults() {
+    // Detener el temporizador antes de mostrar los resultados
+    stopTimer();
+
     const results = document.getElementById("results");
-    results.innerHTML = generateResults(); // Llama a una función para generar los resultados
+    results.innerHTML = generateResults();
     results.classList.remove("hidden");
     scrollToResults();
-
 }
-
 
 function getSelectedAnswer(questionIndex) {
     const radioButtons = document.getElementsByName(`q${questionIndex}`);
@@ -268,10 +336,19 @@ function finishTest() {
     // Ocultar la sección de resultados
     const results = document.getElementById("results");
     results.innerHTML = "";
-    document.getElementById("finishTestBtn").style.display = "none";
     results.classList.add("hidden");
+
+    // Detener el temporizador
+    stopTimer();
+
+
+    // Ocultar el botón de "Finalizar Test" y mostrar el de "Obtener Resultados"
+    document.getElementById("finishTestBtn").style.display = "none";
+    document.getElementById("startTestBtn").style.display = "inline";
 }
 
-
-// Llamar a la función para cargar las opciones del selector de temas al cargar la página
+// Llamada a la función para cargar las opciones del selector de temas al cargar la página
 loadThemes();
+
+// Llamada a la función para iniciar el reloj flotante
+updateFloatingClock();

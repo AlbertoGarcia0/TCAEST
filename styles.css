@@ -73,4 +73,16 @@ li {
     background-color: #007BFF; /* Color de fondo para respuestas seleccionadas */
 }
 
+
+#floating-clock {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+}
 /* Add more styles as needed */
