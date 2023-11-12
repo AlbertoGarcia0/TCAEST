@@ -10,12 +10,6 @@ function loadThemes() {
         .then(data => {
             const themeSelector = document.getElementById("themeSelector");
 
-            // Agregar una opción para "Todo" si es necesario
-            // const optionTodo = document.createElement("option");
-            // optionTodo.value = "Todo";
-            // optionTodo.textContent = "Todo";
-            // themeSelector.appendChild(optionTodo);
-
             // Agregar opciones para cada categoría desde database_info.json
             data.categorias.forEach(category => {
                 const option = document.createElement("option");
@@ -122,7 +116,11 @@ async function startTest() {
         results.innerHTML = "";
         const testStartTime = new Date().getTime();
         localStorage.setItem("testStartTime", testStartTime);
-    
+        // Ocultar los resultados y el botón de mostrar resultados
+        document.getElementById("mostrarResultadosButton").style.display = "none";
+        document.getElementById("resultadosContainer").style.display = "none";
+        resultadosContainer.innerHTML = "";
+
         // Iniciar el temporizador
         countdownInterval = setInterval(function () {
             const secondsRemaining = getCurrentTimeRemaining();
@@ -218,6 +216,8 @@ function generateResults() {
         }
     }
     let nota= (score-(wrong*0.33))/testQuestions.length*10;
+    nota = Math.max(0, Math.min(10, nota));
+
     let resultsHTML = `
         <h2>Resultados</h2>
         <p>Puntuación: ${nota}</p>
@@ -230,15 +230,26 @@ function generateResults() {
         const userAnswer = getSelectedAnswer(i);
         const correctAnswer = testQuestions[i].verdadera;
         const question = testQuestions[i];
-
+    
         resultsHTML += `
             <div class="question">
                 <h3>Pregunta ${i + 1}:</h3>
                 <p>${question.enunciado}</p>
                 <ul>
                     ${question.respuestas.map((answer, index) => {
+                        let classes = '';
+    
+                        // Determinar la clase según la respuesta
+                        if (userAnswer === (index + 1)) {
+                            classes += (userAnswer === correctAnswer) ? 'user-answer-correct ' : 'user-answer-incorrect ';
+                        } else if (correctAnswer === (index + 1)) {
+                            classes += 'correct-answer ';
+                        } else {
+                            classes += 'normal-answer ';
+                        }
+    
                         let answerHTML = `
-                            <li>
+                            <li class="${classes}">
                                 <label class="radio-label" for="q${i}-${index}">
                                     <input type="radio" id="q${i}-${index}" name="q${i}" value="${index}" disabled
                                         ${userAnswer === (index + 1) ? 'checked' : ''}>
@@ -246,18 +257,7 @@ function generateResults() {
                                 </label>
                             </li>
                         `;
-
-                        if (userAnswer === correctAnswer && userAnswer === (index + 1)) {
-                            answerHTML += `<span style="color: green;"><b>${answer}</b></span>`;
-                        } else if (userAnswer !== correctAnswer && userAnswer === (index + 1)) {
-                            answerHTML += `<span style="color: red;">${answer}</span>`;
-                        } else if (correctAnswer === (index + 1)) {
-                            answerHTML += `<span style="color: green;"><b>${answer}</b></span>`;
-                        } else {
-                            answerHTML += answer;
-                        }
-
-                        answerHTML += `</li>`;
+    
                         return answerHTML;
                     }).join('')}
                 </ul>
@@ -271,6 +271,33 @@ function generateResults() {
     document.getElementById("finishTestBtn").style.display = "inline";
     quiz.innerHTML = "";
     return resultsHTML;
+}
+
+function calcularPuntuacion() {
+    let score = 0; // Inicializa el puntaje
+    let unanswered = 0; // Inicializa el contador de preguntas sin responder
+    let wrong = 0; // Inicializa el contador de respuestas incorrectas
+
+    for (let i = 0; i < testQuestions.length; i++) {
+        const userAnswer = getSelectedAnswer(i);
+        const correctAnswer = testQuestions[i].verdadera;
+
+        if (userAnswer === correctAnswer) {
+            score++; // Respuesta correcta
+        } else if (userAnswer === null) {
+            unanswered++; // Pregunta sin respuesta
+        } else {
+            wrong++; // Respuesta incorrecta
+        }
+    }
+
+    // Calcular la puntuación según la fórmula proporcionada
+    let nota = (score - (wrong * 0.33)) / testQuestions.length * 10;
+
+    // Asegurarse de que la puntuación esté en el rango de 0 a 10
+    nota = Math.max(0, Math.min(10, nota));
+
+    return nota;
 }
 
 
@@ -302,14 +329,35 @@ function scrollToResults() {
 }
 
 function getResults() {
+    // Obtener el tiempo total que duró el test
+    const testEndTime = new Date().getTime();
+    const testStartTime = parseInt(localStorage.getItem("testStartTime"));
+    const testDurationInSeconds = Math.floor((testEndTime - testStartTime) / 1000);
+
+    // Almacenar los resultados en el localStorage
+    const resultadosAnteriores = JSON.parse(localStorage.getItem("resultados")) || [];
+    const nuevosResultados = {
+        timestamp: new Date().toISOString(),
+        score: calcularPuntuacion(), // Implementa la función según tus necesidades
+        duration: testDurationInSeconds,
+        // Otros datos que quieras almacenar
+    };
+
+    
+    // Agregar los nuevos resultados a la lista de resultados anteriores
+    resultadosAnteriores.push(nuevosResultados);
+
+    // Guardar la lista actualizada en el localStorage
+    localStorage.setItem("resultados", JSON.stringify(resultadosAnteriores));
+
     // Detener el temporizador antes de mostrar los resultados
     stopTimer();
-
     const results = document.getElementById("results");
     results.innerHTML = generateResults();
     results.classList.remove("hidden");
     scrollToResults();
 }
+
 
 function getSelectedAnswer(questionIndex) {
     const radioButtons = document.getElementsByName(`q${questionIndex}`);
@@ -321,6 +369,52 @@ function getSelectedAnswer(questionIndex) {
         }
     }
     return null; // Si no se seleccionó ninguna respuesta
+}
+
+const mostrarResultadosButton = document.getElementById("mostrarResultadosButton");
+
+mostrarResultadosButton.addEventListener("click", mostrarResultadosAlmacenados);
+
+function mostrarResultadosAlmacenados() {
+    const resultadosGuardados = JSON.parse(localStorage.getItem("resultados")) || [];
+
+    // Ordenar los resultados por orden cronológico descendente (de la más reciente a la más antigua)
+    resultadosGuardados.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+
+    // Mostrar los resultados en el contenedor HTML
+    const resultadosContainer = document.getElementById("resultadosContainer");
+    resultadosContainer.innerHTML = ""; // Limpiar el contenido anterior
+
+    let fechaAnterior = null;
+
+    resultadosGuardados.forEach(resultado => {
+        const listItem = document.createElement("li");
+        const fecha = new Date(resultado.timestamp);
+        const fechaFormateada = `${fecha.getDate().toString().padStart(2, '0')}-${(fecha.getMonth() + 1).toString().padStart(2, '0')}-${fecha.getFullYear()} ${fecha.getHours().toString().padStart(2, '0')}:${fecha.getMinutes().toString().padStart(2, '0')}`;
+
+        // Mostrar la fecha solo si es diferente de la anterior o si es la primera iteración
+        if (fechaAnterior !== null && fechaAnterior.toDateString() !== fecha.toDateString()) {
+            listItem.innerHTML = `<h3>${fecha.toDateString()}</h3>`;
+            resultadosContainer.appendChild(listItem);
+        } else if (fechaAnterior === null) {
+            listItem.innerHTML = `<h3>${fecha.toDateString()}</h3>`;
+            resultadosContainer.appendChild(listItem);
+        }
+
+        // Determinar el ícono (tick en verde o cruz en rojo) según la puntuación
+        const iconClass = resultado.score >= 5 ? "check" : "cross";
+
+        listItem.innerHTML = `
+            <span class="${iconClass}">${resultado.score >= 5 ? '✔' : '✘'}</span>
+            <span>Puntuación: ${resultado.score}</span>
+            <span>Duración: ${formatTime(resultado.duration)}</span>
+            <span>${fechaFormateada}</span>
+        `;
+
+        resultadosContainer.appendChild(listItem);
+
+        fechaAnterior = fecha;
+    });
 }
 
 function finishTest() {
@@ -345,6 +439,10 @@ function finishTest() {
     // Ocultar el botón de "Finalizar Test" y mostrar el de "Obtener Resultados"
     document.getElementById("finishTestBtn").style.display = "none";
     document.getElementById("startTestBtn").style.display = "inline";
+    document.getElementById("mostrarResultadosButton").style.display = "inline";
+    document.getElementById("resultadosContainer").style.display = "inline";
+resultadosContainer.innerHTML = "";
+
 }
 
 // Llamada a la función para cargar las opciones del selector de temas al cargar la página

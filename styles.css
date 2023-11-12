@@ -12,7 +12,6 @@ h1 {
 }
 
 label {
-    color: #666;
     display: block;
     margin-top: 10px;
 }
@@ -85,4 +84,60 @@ li {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     font-size: 18px;
 }
+
+/* Agrega este CSS a tu archivo de estilos o en línea según tus necesidades */
+
+#resultsCon{
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+#resultadosContainer {
+    list-style: none;
+    padding: 0;
+}
+
+.user-answer-correct label {
+    color: green;
+    font-weight: bold; /* Hace que la respuesta del usuario acertada esté en negrita */
+}
+
+.user-answer-incorrect label {
+    color: red;
+    font-weight: bold; /* Hace que la respuesta del usuario equivocada esté en negrita */
+}
+
+.correct-answer label {
+    color: green;
+    font-weight: bold; /* Hace que la respuesta correcta esté en negrita */
+}
+
+.normal-answer label {
+    color: gray; /* Color gris para respuestas normales */
+    font-weight: normal; /* Asegura que la fuente sea normal para respuestas normales */
+}
+
+#resultadosContainer li {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#resultadosContainer li span {
+    font-weight: bold;
+}
+
+#resultadosContainer li .check {
+    color: green;
+}
+
+#resultadosContainer li .cross {
+    color: red;
+}
+
 /* Add more styles as needed */

@@ -19,7 +19,7 @@
     <input type="number" id="timeLimit" value="30" min="5" max="120"> <!-- Valor predeterminado de 15 minutos, mínimo 5, máximo 90 -->
     <br>
     <button id="startTestBtn" onclick="startTest()">Comenzar Test</button>
-
+    <button id="mostrarResultadosButton">Mostrar Resultados Almacenados</button>
     <div id="quiz" class="hidden">
         <!-- Contenido del test -->
     </div>
@@ -27,6 +27,10 @@
     <div id="results" class="hidden">
         <!-- Contenido de los resultados -->
     </div>
+    <div id="resultsCon" class="hidden">
+        <ul id="resultadosContainer"></ul>
+    </div>
+
     <button id="getResultsBtn" onclick="getResults()" style="display: none;">Obtener Resultados</button>
     <button id="finishTestBtn" onclick="finishTest()" style="display: none;">Finalizar Test</button>
     <div id="floating-clock" style="display: none;"></div>
