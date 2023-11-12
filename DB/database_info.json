@@ -2,7 +2,7 @@
     "categorias": [
         {
             "nombre_categoria": "Todo",
-            "numero_preguntas": 240	    
+            "numero_preguntas": 378	    
         },
         {
             "nombre_categoria": "Tema 8",
@@ -19,6 +19,14 @@
         {
             "nombre_categoria": "Tema 11",
             "numero_preguntas": 87	    
+        },
+        {
+            "nombre_categoria": "Tema 12",
+            "numero_preguntas": 66	    
+        },
+        {
+            "nombre_categoria": "Tema 13",
+            "numero_preguntas": 72	    
         }
     ],
     "database_id": "9f32f06dae8b0c097227",

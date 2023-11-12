@@ -1,0 +1,664 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 nombre recibe la posici\u00f3n anat\u00f3mica utilizada para la exploraci\u00f3n vaginal?",
+            "respuestas": [
+              "a) Posici\u00f3n de dec\u00fabito lateral izquierdo.",
+              "b) Posici\u00f3n de litotom\u00eda.",
+              "c) Posici\u00f3n de Sims.",
+              "d) Posici\u00f3n de Roser."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfA qu\u00e9 grupos de personas se les realiza alg\u00fan tipo de exploraci\u00f3n m\u00e9dica, al entrar como candidatas de los programas de prevenci\u00f3n y despistaje r\u00e1pido de determinadas patolog\u00edas?",
+            "respuestas": [
+              "a) Grupos de personas candidatas.",
+              "b) Grupos de personas enfermas.",
+              "c) Grupos de personas susceptibles.",
+              "d) Grupos de personas de riesgo."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 pruebas se realizar\u00e1 y se registrar\u00e1n antes de iniciar la exploraci\u00f3n al enfermo propiamente dicha?",
+            "respuestas": [
+              "a) Preexploraci\u00f3n.",
+              "b) Exploraci\u00f3n cl\u00e1sica.",
+              "c) Medici\u00f3n de constantes vitales.",
+              "d) Preguntas cl\u00e1sicas de rigor, que forman parte de la Historia Natural de la Enfermedad."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 actitud o/y aptitud es inapropiada del TCAE en su colaboraci\u00f3n en la exploraci\u00f3n m\u00e9dica?",
+            "respuestas": [
+              "a) Nunca salir de la habitaci\u00f3n mientras dure el reconocimiento.",
+              "b) Nunca recibir\u00e1 al paciente, lo har\u00e1 el m\u00e9dico.",
+              "c) Velar por la intimidad del paciente y ayudarle a adoptar la posici\u00f3n deseada por el m\u00e9dico.",
+              "d) Disponer el equipo e instrumentos necesarios seg\u00fan el orden establecido en el protocolo de exploraciones."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 material de estos no se requiere para la exploraci\u00f3n convencional m\u00e9dico-quir\u00fargica?",
+            "respuestas": [
+              "a) Cucharilla de legrado uterino.",
+              "b) Diapas\u00f3n.",
+              "c) Compresas.",
+              "d) Torunda de algod\u00f3n."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estos procedimientos no pertenece a la cl\u00e1sica exploraci\u00f3n f\u00edsica que se realiza inicialmente al paciente en la exploraci\u00f3n m\u00e9dica?",
+            "respuestas": [
+              "a) Palpaci\u00f3n.",
+              "b) Percusi\u00f3n.",
+              "c) Auscultaci\u00f3n.",
+              "d) Electroencefalograma (EEG)."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 m\u00e9todo o procedimiento de la exploraci\u00f3n f\u00edsica nos da m\u00e1s claramente una informaci\u00f3n del tama\u00f1o de determinados \u00f3rganos internos?",
+            "respuestas": [
+              "a) Percusi\u00f3n.",
+              "b) Palpaci\u00f3n.",
+              "c) Inspecci\u00f3n.",
+              "d) Auscultaci\u00f3n."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 procedimiento f\u00edsico a nivel de exploraci\u00f3n m\u00e9dica es aquel que consiste en la aplicaci\u00f3n del o\u00eddo sobre la superficie del cuerpo del paciente, para o\u00edr los ruidos fisiol\u00f3gicos o patol\u00f3gicos que se producen en el interior del mismo?",
+            "respuestas": [
+              "a) Percusi\u00f3n.",
+              "b) Palpaci\u00f3n.",
+              "c) Inspecci\u00f3n.",
+              "d) Auscultaci\u00f3n."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El roncus o sonido an\u00f3malo, se escucha al auscultar por:",
+            "respuestas": [
+              "a) Existir derrame pleural.",
+              "b) Presencia de enfermedad card\u00edaca.",
+              "c) Existir secreciones obstructivas en el \u00e1rbol bronquial.",
+              "d) No existe dicho sonido."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 aparato o sistema estaremos explorando con un ECG?",
+            "respuestas": [
+              "a) Aparato locomotor.",
+              "b) Aparato genitourinario.",
+              "c) Aparato cardiovascular.",
+              "d) Sistema nervioso."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina o qu\u00e9 acr\u00f3nimo se emplea para designar a la exploraci\u00f3n instrumental que consiste en el registro gr\u00e1fico de la actividad bioel\u00e9ctrica del coraz\u00f3n?",
+            "respuestas": [
+              "a) EMG.",
+              "b) EEG.",
+              "c) EKG.",
+              "d) EPG."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La presi\u00f3n arterial se mide en:",
+            "respuestas": [
+              "a) mm de Ag.",
+              "b) Bares.",
+              "c) Pascal.",
+              "d) mm de Hg."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 tiempo de ayuno generalmente se emplea antes de la exploraci\u00f3n para un TAC craneal?",
+            "respuestas": [
+              "a) No hay tiempo de ayuno.",
+              "b) Cuatro horas.",
+              "c) Doce horas.",
+              "d) Veinticuatro horas."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 prueba o exploraci\u00f3n permite valorar el grado de acidez-alcalinidad de las secreciones g\u00e1stricas?",
+            "respuestas": [
+              "a) Enema opaco.",
+              "b) Gastroscopia.",
+              "c) pH-metr\u00eda.",
+              "d) Prueba de ureasa."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 \u00f3rgano es el que se explora o pretende explorar habitualmente con un tacto rectal?",
+            "respuestas": [
+              "a) Ovarios.",
+              "b) Test\u00edculos.",
+              "c) Pr\u00f3stata.",
+              "d) Ap\u00f3fisis xifoide."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La representaci\u00f3n gr\u00e1fica de la actividad el\u00e9ctrica del m\u00fasculo se denomina:",
+            "respuestas": [
+              "a) EMG.",
+              "b) EEG.",
+              "c) EKG.",
+              "d) ECG."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 exploraci\u00f3n instrumental de estas se utiliza el diapas\u00f3n mediante la transmisi\u00f3n del sonido por v\u00eda \u00f3sea?",
+            "respuestas": [
+              "a) Prueba de Ranvier.",
+              "b) Prueba de Weber.",
+              "c) Prueba de Rinnie.",
+              "d) Prueba de Strauss."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina el examen que estudia la transmisi\u00f3n del sonido por v\u00eda a\u00e9rea en cada o\u00eddo por separado, colocando el diapas\u00f3n a varios cent\u00edmetros de distancia del o\u00eddo que se explora?",
+            "respuestas": [
+              "a) Prueba de Ranvier.",
+              "b) Otoscopia.",
+              "c) Prueba de Rinnie.",
+              "d) Examen de Fleming."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina la funci\u00f3n del TCAE que consiste en ayudar al enfermo a desplazarse en la consulta si tiene dificultad, a desvestirse y vestirse, a subirse y bajar de la mesa de exploraciones, etc.?",
+            "respuestas": [
+              "a) Funci\u00f3n de puesta a punto de la consulta.",
+              "b) Funci\u00f3n de mantenimiento de la consulta.",
+              "c) Funci\u00f3n asistencial.",
+              "d) Funci\u00f3n organizativa."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es el personal sanitario responsable de preparar todo lo necesario para una exploraci\u00f3n m\u00e9dica?",
+            "respuestas": [
+              "a) El m\u00e9dico.",
+              "b) El enfermero.",
+              "c) El TCAE.",
+              "d) El celador."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Todo lo que se expone de la puesta a punto de la consulta como labor del TCAE es cierto, excepto:",
+            "respuestas": [
+              "a) Pedir el material que necesite.",
+              "b) Debe revisar la lencer\u00eda y el carro de curas, por si necesita alg\u00fan material de reposici\u00f3n.",
+              "c) Nunca debe enviar a lavander\u00eda la ropa sucia de la camilla, ya que siempre lo hace el celador.",
+              "d) Debe revisar el instrumental de exploraciones y lo que considere necesario que haga falta para la consulta siguiente."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿En qu\u00e9 exploraci\u00f3n radiogr\u00e1fica no se requiere firma por parte del paciente o familiares directos del consentimiento informado?",
+            "respuestas": [
+              "a) Colecistograf\u00eda oral.",
+              "b) Estudio radiogr\u00e1fico de colon.",
+              "c) Colangiograf\u00eda intravenosa.",
+              "d) Exploraci\u00f3n de t\u00f3rax."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿En qu\u00e9 zona de estas de la regi\u00f3n lumbar no se suele introducir una aguja para la punci\u00f3n lumbar?",
+            "respuestas": [
+              "a) En la 2.a v\u00e9rtebra lumbar.",
+              "b) En la 3.a v\u00e9rtebra lumbar.",
+              "c) En la 4.a v\u00e9rtebra lumbar.",
+              "d) En la 5.a v\u00e9rtebra lumbar."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿En qu\u00e9 posici\u00f3n se colocar\u00e1 al paciente para la realizaci\u00f3n de una punci\u00f3n lumbar?",
+            "respuestas": [
+              "a) En posici\u00f3n de litotom\u00eda.",
+              "b) En posici\u00f3n de dec\u00fabito lateral.",
+              "c) En posici\u00f3n de Morestin.",
+              "d) En posici\u00f3n de Roser."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 se extrae en la punci\u00f3n lumbar?",
+            "respuestas": [
+              "a) M\u00e9dula espinal.",
+              "b) Sangre arterial.",
+              "c) L\u00edquido cefalorraqu\u00eddeo.",
+              "d) Sangre venosa."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿En qu\u00e9 posici\u00f3n generalmente se colocar\u00e1 al paciente para la realizaci\u00f3n de una punci\u00f3n de m\u00e9dula \u00f3sea?",
+            "respuestas": [
+              "a) En posici\u00f3n de litotom\u00eda.",
+              "b) En posici\u00f3n de dec\u00fabito lateral.",
+              "c) En posici\u00f3n de dec\u00fabito supino.",
+              "d) En posici\u00f3n de Sims."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 material no se requiere para una gasometr\u00eda?",
+            "respuestas": [
+              "a) Jeringa y aguja de gases arteriales.",
+              "b) Antis\u00e9ptico.",
+              "c) Algod\u00f3n o gasas, y guantes.",
+              "d) Anest\u00e9sico local."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 contiene generalmente el frasco que se emplea en la recogida de muestras de la biopsia hep\u00e1tica?",
+            "respuestas": [
+              "a) Nitrato de plata diluido al 10 %.",
+              "b) Alcohol de 96\u00b0.",
+              "c) Formalina.",
+              "d) Azul de metileno."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el procedimiento realizado para drenar el l\u00edquido pleural que se encuentra entre el recubrimiento externo de los pulmones (pleura) y la pared tor\u00e1cica?",
+            "respuestas": [
+              "a) Paracentesis.",
+              "b) Toracocentesis.",
+              "c) Laparotom\u00eda.",
+              "d) Laparocentesis."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿De qu\u00e9 cavidad se extrae l\u00edquido en una paracentesis?",
+            "respuestas": [
+              "a) De la cavidad tor\u00e1cica.",
+              "b) De la cavidad peritoneal.",
+              "c) De la cavidad pleural.",
+              "d) De la cavidad peric\u00e1rdica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿En qu\u00e9 grupo de cirug\u00eda incluir\u00edas aquella que pretende corregir deformidades, como por ejemplo una escoliosis verdadera?",
+            "respuestas": [
+              "a) Diagn\u00f3stica.",
+              "b) Curativa.",
+              "c) Constructiva.",
+              "d) Est\u00e9tica."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La extirpaci\u00f3n de un c\u00e1ncer en una determinada zona anat\u00f3mica y de los ganglios afectados por la invasi\u00f3n de los mismos pretende ser una intervenci\u00f3n:",
+            "respuestas": [
+              "a) Diagn\u00f3stica.",
+              "b) Reparadora.",
+              "c) Curativa.",
+              "d) Reconstructiva."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cu\u00e1ndo se inicia justo el per\u00edodo intraoperatorio en el proceso quir\u00fargico?",
+            "respuestas": [
+              "a) Cuando el facultativo llega al quir\u00f3fano.",
+              "b) Cuando el paciente est\u00e1 en la antesala del quir\u00f3fano.",
+              "c) Cuando el paciente que llega al quir\u00f3fano es colocado en la mesa de operaci\u00f3n.",
+              "d) Cuando el paciente ingresa en la denominada sala de despertar."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Sobre qui\u00e9n recae generalmente la mayor parte de responsabilidad de la fase preoperatoria del proceso quir\u00fargico (autorizaci\u00f3n, informaci\u00f3n previa, etc.)?",
+            "respuestas": [
+              "a) Sobre la enfermera de atenci\u00f3n primaria.",
+              "b) Sobre el facultativo especialista en Cirug\u00eda.",
+              "c) Sobre la enfermera del hospital.",
+              "d) Sobre el facultativo especialista en el \u00e1rea de medicina interna susceptible del proceso quir\u00fargico."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el sin\u00f3nimo de intervenci\u00f3n curativa?",
+            "respuestas": [
+              "a) Ablativa.",
+              "b) Paliativa.",
+              "c) Reparadora.",
+              "d) Diagn\u00f3stica."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Una intervenci\u00f3n quir\u00f3rgica que pretende aliviar los s\u00edntomas de un proceso morboso, para dar calidad de vida al paciente, sin curar la enfermedad, se denomina:",
+            "respuestas": [
+              "a) Ablativa.",
+              "b) Paliativa.",
+              "c) Reparadora.",
+              "d) Diagn\u00f3stica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina la intervenci\u00f3n quir\u00f3rgica decidida por el m\u00e9dico y necesaria para el paciente?",
+            "respuestas": [
+              "a) Intervenci\u00f3n reparadora o constructiva.",
+              "b) Intervenci\u00f3n urgente o de extrema emergencia.",
+              "c) Intervenci\u00f3n requerida o necesaria.",
+              "d) Intervenci\u00f3n opcional o electiva."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina la preparaci\u00f3n psicol\u00f3gica previa a una intervenci\u00f3n quir\u00fargica?",
+            "respuestas": [
+              "a) Psicolog\u00eda operatoria.",
+              "b) Psicoprofilaxis preventiva.",
+              "c) Psicoprofilaxis posoperatoria.",
+              "d) Psicoprofilaxis preoperatoria."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 objetivo principal posee psicoprofilaxis preoperatoria?",
+            "respuestas": [
+              "a) Reducir la angustia del paciente ante la intervenci\u00f3n.",
+              "b) Aminorar s\u00edntomas psicosom\u00e1ticos preoperatoriamente.",
+              "c) Facilitar el entendimiento con el cirujano.",
+              "d) Facilitar el entendimiento con el equipo quir\u00fargico."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿En qu\u00e9 circunstancias se obtiene la autorizaci\u00f3n de la intervenci\u00f3n con conocimiento por parte del enfermo que va a ser sometido a la misma?",
+            "respuestas": [
+              "a) Cuando la t\u00e9cnica entra\u00f1a penetraci\u00f3n corporal, como una incisi\u00f3n quir\u00fargica, cistoscopia, toracocentesis o paracentesis.",
+              "b) Se efect\u00faa una t\u00e9cnica no quir\u00fargica en la que los riesgos son de mediana a gran magnitud, como una arteriograf\u00eda.",
+              "c) Se practica una t\u00e9cnica con empleo de radiaci\u00f3n, tratamiento con cobalto u otras similares o cuando se emplea anestesia.",
+              "d) En todas las anteriores."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 potencial paciente es el receptor universal de grupos sangu\u00edneos del sistema AB0?",
+            "respuestas": [
+              "a) AB (positivo).",
+              "b) 0 (negativo).",
+              "c) AB (negativo).",
+              "d) 0 (positivo)."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Hasta d\u00f3nde abarcar\u00e1 el rasurado en cirug\u00eda de mama?",
+            "respuestas": [
+              "a) Abarcar\u00e1 la axila homolateral y contralateral.",
+              "b) Abarcar\u00e1 la axila homolateral y el brazo afecto hasta el codo.",
+              "c) Abarcar\u00e1 la axila homolateral y el brazo afecto hasta el antebrazo completo.",
+              "d) Abarcar\u00e1 la axila homolateral y el brazo afecto hasta la mu\u00f1eca."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 cuidado previo de la intervenci\u00f3n no es del todo cierto?",
+            "respuestas": [
+              "a) Identificar al paciente comprobando que todos los datos coinciden con los de la Historia Cl\u00ednica.",
+              "b) Revisar el estado de la cama y vestir adecuadamente al paciente (bata corta y gorro dejando el pelo libre de cualquier tipo de broche u horquilla). Quitar cualquier tipo de pr\u00f3tesis que presente el paciente as\u00ed como cualquier joya, que deber\u00e1n ser entregadas a los familiares.",
+              "c) Comprobar que ha permanecido en ayunas 24-36 horas antes de la intervenci\u00f3n.",
+              "d) Todos los enfermos (excepto los que presenten problemas urol\u00f3gicos) deben orinar antes de que les sea administrada la premedicaci\u00f3n."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La familia del paciente que va a ser intervenido quir\u00fargicamente debe recibir informaci\u00f3n acerca de:",
+            "respuestas": [
+              "a) D\u00f3nde permanecer hasta que el enfermo regrese a la habitaci\u00f3n.",
+              "b) Qu\u00e9 tiempo suele tardar ese tipo de intervenci\u00f3n y saber c\u00f3mo se encuentra el paciente tras la intervenci\u00f3n.",
+              "c) Qui\u00e9n y c\u00f3mo va a recibir informaci\u00f3n acerca de la intervenci\u00f3n.",
+              "d) Debe conocer todo lo anterior."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿D\u00f3nde incluir\u00edas a las benzodiacepinas dentro de la premedicaci\u00f3n quir\u00fargica?",
+            "respuestas": [
+              "a) Dentro de los tranquilizantes.",
+              "b) Dentro de los opi\u00e1ceos.",
+              "c) Dentro de los anticolin\u00e9rgicos.",
+              "d) Dentro de los antibi\u00f3ticos."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Respecto al bloque quir\u00fargico, todo lo que se dice es cierto, excepto que:",
+            "respuestas": [
+              "a) Est\u00e1 situado en una zona del hospital tranquila.",
+              "b) El personal asignado al servicio, puede ser sanitario y no sanitario, pero cualificado para realizar eficientemente sus funciones.",
+              "c) Debe estar mal comunicado con el resto de las unidades del hospital.",
+              "d) Debe poseer poco tr\u00e1nsito de personas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Cu\u00e1ntas veces se renueva el aire por hora en el bloque quir\u00fargico, mediante sistema independiente de climatizaci\u00f3n?",
+            "respuestas": [
+              "a) 5 a 10 veces.",
+              "b) 10 a 15 veces.",
+              "c) 15 a 20 veces.",
+              "d) 25 a 30 veces."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el \u00e1rea del bloque quir\u00fargico donde solo es necesario el empleo de gorro y papis?",
+            "respuestas": [
+              "a) Area de intercambio.",
+              "b) \u00c1rea est\u00e9ril.",
+              "c) \u00c1rea sucia.",
+              "d) Area limpia."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Cu\u00e1l es el lugar donde el celador debe permanecer durante la intervenci\u00f3n quir\u00fargica estando atento a aquello para lo que se le pudiera requerir durante la misma?",
+            "respuestas": [
+              "a) De intercambio.",
+              "b) As\u00e9ptica.",
+              "c) Limpia.",
+              "d) Antequir\u00f3fano."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El antequir\u00f3fano pertenece a la zona quir\u00fargica:",
+            "respuestas": [
+              "a) Sin limitaci\u00f3n de acceso.",
+              "b) Semilimitada.",
+              "c) Limitada.",
+              "d) Prohibida."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La humedad del ambiente (en %) de un quir\u00f3fano debe mantenerse entre:",
+            "respuestas": [
+              "a) 10-20 %.",
+              "b) 30-40 %.",
+              "c) 45 \u00fa 55 %.",
+              "d) 80-90 %."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 m\u00e9todo de barrera se requiere en el \u00e1rea est\u00e9ril del bloque quir\u00fargico sin que haya previsto realizar intervenci\u00f3n en ese momento?",
+            "respuestas": [
+              "a) El uso de papis exclusivamente.",
+              "b) El uso de gorro y calzas.",
+              "c) El uso de mascarilla y papis.",
+              "d) El uso de mascarilla, gorro y calzas o papis."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina la sala o dependencia, anexa al quir\u00f3fano, que sirve para proporcionar atenci\u00f3n y asistencia al paciente, as\u00ed como llevar a cabo los cuidados que requiera este, antes de ser operado?",
+            "respuestas": [
+              "a) Zona de lavados quir\u00fargicos.",
+              "b) Intermedia.",
+              "c) Antequir\u00f3fano.",
+              "d) Sala de reanimaci\u00f3n."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿A qu\u00e9 se conoce como zona \"negra\" del bloque quir\u00fargico?",
+            "respuestas": [
+              "a) Zona o \u00e1rea sucia.",
+              "b) Zona o \u00e1rea intermedia.",
+              "c) Zona o \u00e1rea est\u00e9ril.",
+              "d) Zona o \u00e1rea limpia."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 es falso de la enfermera circulante como componente del personal del equipo del bloque quir\u00fargico?",
+            "respuestas": [
+              "a) Asiste al paciente a su llegada a quir\u00f3fano.",
+              "b) Pertenece a los miembros del equipo de lavados est\u00e9riles.",
+              "c) Sirve de intermediario entre los miembros est\u00e9riles y no est\u00e9riles.",
+              "d) Durante la intervenci\u00f3n vigila y controla determinadas constantes vitales."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 personal pertenece al grupo de miembros del equipo no est\u00e9riles en quir\u00f3fanos?",
+            "respuestas": [
+              "a) Cirujano intervencionista.",
+              "b) Enfermera instrumentista.",
+              "c) Ayudante del cirujano.",
+              "d) Celador."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el accesorio met\u00e1lico, que se fija a la mesa quir\u00fargica encima del paciente y permite separar la zona de anestesia de la zona de intervenci\u00f3n o campo quir\u00fargico?",
+            "respuestas": [
+              "a) L\u00e1mpara quir\u00fargica.",
+              "b) Arco de anestesia.",
+              "c) Escabel.",
+              "d) L\u00e1mpara escial\u00edtica."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿De qu\u00e9 elementos de estos no consta el carro de parada en quir\u00f3fanos?",
+            "respuestas": [
+              "a) De resucitador, respirador manual o bal\u00f3n de ox\u00edgeno (amb\u00fa), con mascarilla oronasal.",
+              "b) De bistur\u00ed el\u00e9ctrico.",
+              "c) De tabla de parada cardiorrespiratoria.",
+              "d) De desfibrilador con palas."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qui\u00e9n es el encargado del manejo de los aparatos de rayos X port\u00e1tiles en quir\u00f3fanos y de aplicar las t\u00e9cnicas diagn\u00f3sticas m\u00e1s adecuadas durante una intervenci\u00f3n?",
+            "respuestas": [
+              "a) El m\u00e9dico cirujano.",
+              "b) El t\u00e9cnico en imagen para el diagn\u00f3stico.",
+              "c) El Diplomado de Enfermer\u00eda.",
+              "d) El m\u00e9dico anestesista."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 anestesia pretende insensibilizar al dolor de solo una regi\u00f3n del cuerpo, sin que el paciente pierda la conciencia?",
+            "respuestas": [
+              "a) Anestesia general por v\u00eda inhalatoria.",
+              "b) Anestesia general por v\u00eda intravenosa.",
+              "c) Anestesia regional.",
+              "d) Anestesia local."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 sustancias de estas se emplea en anestesia general endovenosa?",
+            "respuestas": [
+              "a) Isofluoranos con ox\u00edgeno.",
+              "b) \u00d3xido nitroso.",
+              "c) Barbit\u00farcicos.",
+              "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 es lo primero que debe observarse o realizarse una vez llega el paciente a la sala de despertar tras la operaci\u00f3n?",
+            "respuestas": [
+              "a) Vigilancia de las constantes vitales.",
+              "b) La entrada del paciente en el libro de ingresos en la sala.",
+              "c) Cu\u00e1l es el estado de consciencia.",
+              "d) Existencia de dolor."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Los cambios posturales en enfermos reci\u00e9n operados en su habitaci\u00f3n deben efectuarse cada:",
+            "respuestas": [
+              "a) 2 horas.",
+              "b) 5 horas.",
+              "c) 8 horas.",
+              "d) No deben efectuarse, para no lesionar m\u00e1s al enfermo posquir\u00fargico."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Todo lo que se expone de la retirada de puntos es cierto, excepto:",
+            "respuestas": [
+              "a) Se har\u00e1 en dos d\u00edas de forma alterna primero los pares o impares y luego los contrarios.",
+              "b) La tracci\u00f3n para retirar la sutura debe hacerse en direcci\u00f3n contraria a la cicatriz.",
+              "c) Se retirar\u00e1n en fecha seg\u00fan protocolo.",
+              "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 antibi\u00f3tico no se emplea generalmente de forma t\u00f3pica?",
+            "respuestas": [
+              "a) Neomicina.",
+              "b) Bacitracina.",
+              "c) Cefalosporina.",
+              "d) Mupirocina."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿A qu\u00e9 se denomina cirug\u00eda de alto riesgo?",
+            "respuestas": [
+              "a) A la que es sucia.",
+              "b) A la cirug\u00eda menor.",
+              "c) A la cirug\u00eda mayor (grandes disecciones).",
+              "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 3
+          }
+    ]
+}

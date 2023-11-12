@@ -1,0 +1,724 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "¿Qu\u00e9 estructura del sistema cardiocirculatorio act\u00faa como bomba?",
+            "respuestas": [
+                "a) Coraz\u00f3n.",
+                "b) Arterias.",
+                "c) Venas.",
+                "d) Son ciertas las respuestas a) y b."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Entre qu\u00e9 v\u00e9rtebras est\u00e1 situado el coraz\u00f3n en el t\u00f3rax?",
+            "respuestas": [
+                "a) Entre C7 y D3.",
+                "b) Entre D2 y D6.",
+                "c) Entre D5 y D8.",
+                "d) Entre D6 y D12."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Sobre qu\u00e9 espacio intercostal se desv\u00eda el coraz\u00f3n de la l\u00ednea media?",
+            "respuestas": [
+                "a) Espacio intercostal 1\u00b0.",
+                "b) Espacio intercostal 3\u00b0.",
+                "c) Espacio intercostal 5\u00b0.",
+                "d) Espacio intercostal 7\u00b0."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El coraz\u00f3n es esencialmente de naturaleza:",
+            "respuestas": [
+                "a) Epitelial.",
+                "b) Conjuntiva.",
+                "c) Muscular.",
+                "d) Nerviosa."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿De d\u00f3nde nacen las denominadas como arterias coronarias?",
+            "respuestas": [
+                "a) Del propio coraz\u00f3n.",
+                "b) De la vena aorta.",
+                "c) De la arteria pulmonar.",
+                "d) De la arteria aorta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿En qu\u00e9 cavidad se sit\u00faa la punta o v\u00e9rtice del coraz\u00f3n?",
+            "respuestas": [
+                "a) En el ventr\u00edculo izquierdo.",
+                "b) En el ventr\u00edculo derecho.",
+                "c) En la aur\u00edcula izquierda.",
+                "d) En la aur\u00edcula derecha."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 grandes vasos llevan sangre venosa (pobre en ox\u00edgeno)?",
+            "respuestas": [
+                "a) Venas cavas y venas pulmonares.",
+                "b) Arteria aorta y arteria pulmonar.",
+                "c) Venas pulmonares y arteria pulmonar.",
+                "d) Venas cavas y arteria pulmonar."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 v\u00e1lvula card\u00edaca separa ventr\u00edculo izquierdo de aorta?",
+            "respuestas": [
+                "a) V\u00e1lvula Mitral.",
+                "b) V\u00e1lvula Tric\u00faspide.",
+                "c) V\u00e1lvula Sigmoidea a\u00f3rtica.",
+                "d) V\u00e1lvula Sigmoidea pulmonar."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 vaso o vasos se comunican con la aur\u00edcula izquierda?",
+            "respuestas": [
+                "a) Venas pulmonares, que son cuatro.",
+                "b) Venas pulmonares, que son dos.",
+                "c) Venas cavas, que son dos.",
+                "d) Vena aorta, que es una."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El epicardio realmente es el:",
+            "respuestas": [
+                "a) Miocardio.",
+                "b) Pericardio visceral.",
+                "c) Endocardio.",
+                "d) Pericardio parietal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 cantidad de l\u00edquido seroso (en ml) existe entre ambas paredes peric\u00e1rdicas que evita los rozamientos del coraz\u00f3n?",
+            "respuestas": [
+                "a) Ninguna.",
+                "b) 30-50.",
+                "c) 55- 75.",
+                "d) 75- 100."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es el marcapaso fisiol\u00f3gico card\u00edaco al generar impulsos r\u00edtmicos?",
+            "respuestas": [
+                "a) N\u00f3dulo de Keith-Flask.",
+                "b) N\u00f3dulo de Tawara (o Aschoff Tawara).",
+                "c) N\u00f3dulo auriculoventricular.",
+                "d) N\u00f3dulo o fasc\u00edculo de His."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La capa m\u00e1s exterior de un vaso sangu\u00edneo es:",
+            "respuestas": [
+                "a) La muscular.",
+                "b) La adventicia.",
+                "c) La \u00edntima.",
+                "d) El endotelio."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una arteriola es un vaso de:",
+            "respuestas": [
+                "a) Conducci\u00f3n.",
+                "b) Distribuci\u00f3n.",
+                "c) Resistencia.",
+                "d) Intercambio."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿C\u00f3mo se llama el per\u00edodo de contracci\u00f3n del ciclo card\u00edaco?",
+            "respuestas": [
+                "a) Fase.",
+                "b) S\u00edstole.",
+                "c) Di\u00e1stole.",
+                "d) Reastole."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Respecto al ciclo card\u00edaco, todo es cierto excepto que:",
+            "respuestas": [
+                "a) Posee dos per\u00edodos consecutivos, uno de contracci\u00f3n y otro de relajaci\u00f3n.",
+                "b) Este se inicia siempre por ambas aur\u00edculas.",
+                "c) La s\u00edstole ventricular coincide con la s\u00edstole auricular.",
+                "d) La s\u00edstole auricular contribuye a la apertura de las v\u00e1lvulas auriculoventriculares."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 tipo de mecanismos reguladores de la tensi\u00f3n arterial act\u00faan a largo plazo?",
+            "respuestas": [
+                "a) Nerviosos.",
+                "b) Vegetativos.",
+                "c) Renales.",
+                "d) Hep\u00e1ticos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 v\u00e1lvulas de estas evitan el reflujo de sangre desde ventr\u00edculos a aur\u00edculas?",
+            "respuestas": [
+                "a) Mitral y tric\u00faspide.",
+                "b) Tric\u00faspide y sigmoidea pulmonar.",
+                "c) Mitral y sigmoidea a\u00f3rtica.",
+                "d) Sigmoidea pulmonar y sigmoidea a\u00f3rtica."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿De d\u00f3nde parte el circuito mayor sangu\u00edneo?",
+            "respuestas": [
+                "a) Del ventr\u00edculo izquierdo.",
+                "b) Del ventr\u00edculo derecho.",
+                "c) De la aur\u00edcula izquierda.",
+                "d) De la aur\u00edcula derecha."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Todo lo que se dice de la respiraci\u00f3n es cierto, excepto que:",
+            "respuestas": [
+                "a) En la respiraci\u00f3n se aspira aire.",
+                "b) El aparato respiratorio est\u00e1 constituido por las llamadas v\u00edas respiratorias y por los pulmones. El conjunto de todas estas estructuras constituye la anatom\u00eda del aparato respiratorio.",
+                "c) En la respiraci\u00f3n se expelen gases al aire.",
+                "d) Las v\u00edas respiratorias est\u00e1n a su vez formadas por las fosas nasales, faringe, laringe, tr\u00e1quea, bronquios principales y pulmones."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿C\u00f3mo se denominan las cavidades neum\u00e1ticas de los huesos que rodean la cavidad nasal?",
+            "respuestas": [
+                "a) Frontis.",
+                "b) Senos.",
+                "c) Neumos.",
+                "d) Coanas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Por qu\u00e9 zona la faringe se comunica con la laringe?",
+            "respuestas": [
+                "a) Por su extremo superior y por delante.",
+                "b) Por su extremo superior y por detr\u00e1s.",
+                "c) Por su extremo inferior y por delante.",
+                "d) Por su extremo inferior y por detr\u00e1s."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿C\u00f3mo se denomina tambi\u00e9n la bucofaringe?",
+            "respuestas": [
+                "a) Orofaringe.",
+                "b) Rinofaringe.",
+                "c) Nasofaringe.",
+                "d) Laringofaringe."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 cart\u00edlago lar\u00edngeo es el de mayor tama\u00f1o?",
+            "respuestas": [
+                "a) El cart\u00edlago aritenoides.",
+                "b) El cart\u00edlago cricoides.",
+                "c) El cart\u00edlago de Santorini.",
+                "d) El cart\u00edlago tiroides."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La tr\u00e1quea mide aproximadamente de:",
+            "respuestas": [
+                "a) 2 a 5 cm.",
+                "b) 5 a 8 cm.",
+                "c) 10 a 15 cm.",
+                "d) 17 a 22 cm."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 existe dentro de la cavidad pleural?",
+            "respuestas": [
+                "a) Aire pleural.",
+                "b) Sangre.",
+                "c) L\u00edquido pleural.",
+                "d) No existe dentro nada."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿C\u00f3mo se denominan los orificios de entrada y salida a los pulmones de los bronquios, arterias y venas pulmonares?",
+            "respuestas": [
+                "a) Pleuras.",
+                "b) Mediastinos.",
+                "c) Hilios.",
+                "d) Alveolos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿A qu\u00e9 se le llama mediastino?",
+            "respuestas": [
+                "a) Se le llama mediastino al espacio del interior de todo el t\u00f3rax.",
+                "b) Se le llama mediastino al espacio existente entre las caras internas de ambos pulmones.",
+                "c) Se le llama mediastino al espacio existente en las caras externas de ambos pulmones.",
+                "d) Se le llama mediastino al espacio existente entre las caras inferiores o bases de ambos pulmones y el diafragma."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La pleura visceral se encuentra en contacto con:",
+            "respuestas": [
+                "a) El tejido pulmonar.",
+                "b) La pared tor\u00e1cica.",
+                "c) El m\u00fasculo diafragma.",
+                "d) Son ciertas las respuestas b) y c."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es el principal m\u00fasculo respiratorio?",
+            "respuestas": [
+                "a) Los pectorales mayores.",
+                "b) Los pectorales menores.",
+                "c) El diafragma.",
+                "d) Son ciertas las respuestas a) y b."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La frecuencia respiratoria media en un adulto joven y sano es de:",
+            "respuestas": [
+                "a) 12-15 respiraciones por minuto.",
+                "b) 15-18 respiraciones por minuto.",
+                "c) 18-21 respiraciones por minuto.",
+                "d) 22-25 respiraciones por minuto."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es la capacidad pulmonar total aproximadamente (en litros) en un adulto sano?",
+            "respuestas": [
+                "a) 3.",
+                "b) 4.",
+                "c) 6.",
+                "d) 8."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 mol\u00e9cula es la que mayormente transporta el ox\u00edgeno por la sangre?",
+            "respuestas": [
+                "a) La hemoglobina.",
+                "b) La transferrina.",
+                "c) La carboxihemoglobina.",
+                "d) La bilirrubina."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es una desventaja de la pulsioximetr\u00eda en relaci\u00f3n con la gasometr\u00eda?",
+            "respuestas": [
+                "a) Es cruenta.",
+                "b) No informa de la frecuencia card\u00edaca.",
+                "c) Es de dif\u00edcil manejo.",
+                "d) No detecta hiperoxemia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se define bronquitis cr\u00f3nica cuando hipersecreci\u00f3n de moco y la tos productiva cr\u00f3nica recurrente durante un m\u00ednimo de:",
+            "respuestas": [
+                "a) Tres meses al a\u00f1o en dos a\u00f1os consecutivos.",
+                "b) Tres meses al a\u00f1o en tres a\u00f1os consecutivos.",
+                "c) Dos meses al a\u00f1o en tres a\u00f1os consecutivos.",
+                "d) Dos meses al a\u00f1o en dos a\u00f1os consecutivos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El mecanismo inicial del ataque asm\u00e1tico se da por:",
+            "respuestas": [
+                "a) Espasmo bronquial.",
+                "b) Obstrucci\u00f3n bronquial por cuerpo extra\u00f1o.",
+                "c) Obstrucci\u00f3n bronquial por mocos y secreciones.",
+                "d) Inflamaci\u00f3n posprandial."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 germen causa la tuberculosis?",
+            "respuestas": [
+                "a) El bacilo de Koch.",
+                "b) El Mycobacterium tuberculosis.",
+                "c) El bacilo de Hansen.",
+                "d) Son ciertas las respuestas a) y b."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 virus gripales poseen mayor variabilidad antig\u00e9nica?",
+            "respuestas": [
+                "a) Virus influenza A.",
+                "b) Virus influenza B.",
+                "c) Virus influenza C",
+                "d) Thogotovirus."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 disnea de estas es de mayor gravedad?",
+            "respuestas": [
+                "a) Disnea en reposo.",
+                "b) Disnea a peque\u00f1os esfuerzos.",
+                "c) Disnea a medianos esfuerzos.",
+                "d) Disnea a grandes esfuerzos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 nivel alcanza la disnea (Escala de Sadoul) cuando aparece la disnea en la marcha en llano lenta, esto es, que el sujeto solo es capaz de marchar lentamente?",
+            "respuestas": [
+                "a) Nivel 2.",
+                "b) Nivel 3.",
+                "c) Nivel 4.",
+                "d) Nivel 5."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de estas suele ser una causa de hemot\u00f3rax?",
+            "respuestas": [
+                "a) Tuberculosis pleural.",
+                "b) Artritis reumatoide.",
+                "c) Tumor pleural.",
+                "d) Embolia pulmonar."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La tasa normal de ox\u00edgeno en el aire atmosf\u00e9rico es del:",
+            "respuestas": [
+                "a) 9,5 %.",
+                "b) 17 %.",
+                "c) 21 %.",
+                "d) 75 %."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es una constante vital junto a la temperatura, respiraci\u00f3n, pulso y tensi\u00f3n arterial?",
+            "respuestas": [
+                "a) Presi\u00f3n intraarterial (PIA).",
+                "b) Presi\u00f3n capilar central (PCC).",
+                "c) Presi\u00f3n venosa perif\u00e9rica (PVP).",
+                "d) Presi\u00f3n venosa central (PVC)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿C\u00f3mo se denomina la presi\u00f3n que la sangre ejerce en el interior de las venas que entran en el coraz\u00f3n?",
+            "respuestas": [
+                "a) Presi\u00f3n arterial central (PAC).",
+                "b) Presi\u00f3n diast\u00f3lica (PD).",
+                "c) Presi\u00f3n venosa central (PVC).",
+                "d) Tensi\u00f3n arterial (TA)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿C\u00f3mo se denomina la capacidad de generar calor a partir de reacciones metab\u00f3licas?",
+            "respuestas": [
+                "a) Termoestabilidad.",
+                "b) Termometabolismo.",
+                "c) Termog\u00e9nesis.",
+                "d) Termonuclear."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 factor de estos no afecta de forma sustancial a la temperatura corporal?",
+            "respuestas": [
+                "a) La edad.",
+                "b) La hora del d\u00eda.",
+                "c) El ejercicio.",
+                "d) Tomar un comprimido cada 3 d\u00edas de vitamina C."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La fiebre muy alta es aquella temperatura por encima de:",
+            "respuestas": [
+                "a) 37,5 \u00b0C.",
+                "b) 38,5 \u00b0C.",
+                "c) 39,5 \u00b0C.",
+                "d) 40,5 \u00b0C."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La carne de gallina o piloerecci\u00f3n est\u00e1 causada por:",
+            "respuestas": [
+                "a) Los escalofr\u00edos.",
+                "b) Los temblores acompa\u00f1antes.",
+                "c) La vasoconstricci\u00f3n.",
+                "d) La contracci\u00f3n de los m\u00fasculos pil\u00edferos erectores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para tomar la temperatura bucal hay que colocarlo adecuadamente y esperar aproximadamente:",
+            "respuestas": [
+                "a) 1 minuto.",
+                "b) 5 minutos.",
+                "c) 10 minutos.",
+                "d) 15 minutos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El pulso es la onda puls\u00e1til de la sangre producida por la contracci\u00f3n de:",
+            "respuestas": [
+              "a) El ventr\u00edculo derecho.",
+              "b) El ventr\u00edculo izquierdo.",
+              "c) La aur\u00edcula derecha.",
+              "d) La aur\u00edcula izquierda."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Si se presenta un pulso con dos latidos seguidos de una pausa se denomina:",
+            "respuestas": [
+              "a) R\u00edtmico.",
+              "b) Arr\u00edtmico.",
+              "c) Bigeminado.",
+              "d) Doble."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es el pulso m\u00e1s utilizado en la pr\u00e1ctica?",
+            "respuestas": [
+              "a) El pulso humeral.",
+              "b) El pulso pedio.",
+              "c) El pulso braquial.",
+              "d) El pulso radial."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfDe cu\u00e1ntas personas se requiere para tomar el pulso apical-radial?",
+            "respuestas": [
+              "a) De 1 persona.",
+              "b) De 2 personas.",
+              "c) De 3 personas.",
+              "d) De ninguna, lo hace una m\u00e1quina."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La frecuencia cardiaca se expresa en:",
+            "respuestas": [
+              "a) Pulsos por minuto.",
+              "b) Pulsos por presi\u00f3n por minuto.",
+              "c) Latidos por minuto.",
+              "d) Volumen latido por minuto."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 circunstancia o fase que se da en la respiraci\u00f3n nos permite tomar esta constante?",
+            "respuestas": [
+              "a) El ritmo respiratorio.",
+              "b) La inspiraci\u00f3n.",
+              "c) La espiraci\u00f3n.",
+              "d) La suspiraci\u00f3n."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Se dice que existe y comienza la bradipnea, por debajo de:",
+            "respuestas": [
+              "a) 20 respiraciones/minuto.",
+              "b) 18 respiraciones/minuto.",
+              "c) 15 respiraciones/minuto.",
+              "d) 12 respiraciones/minuto."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 factores de estos no modifica la frecuencia respiratoria?",
+            "respuestas": [
+              "a) El ejercicio.",
+              "b) Tomar agua normalmente.",
+              "c) El estr\u00e9s.",
+              "d) El tabaco."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo debe tomarse la respiraci\u00f3n?",
+            "respuestas": [
+              "a) Se le advierte al paciente de lo que se le hace, as\u00ed como nunca con la mano cogida se la posicionaremos en t\u00f3rax, sino que observaremos cu\u00e1ntas veces se expande en un minuto, posteriormente se anota en gr\u00e1fico.",
+              "b) Se le advierte al paciente de lo que se le hace, con la mano cogida se la posiciona en t\u00f3rax, y contamos sus expansiones en un minuto, posteriormente se anota en gr\u00e1fico.",
+              "c) No se le advierte al paciente de lo que se le hace, as\u00ed como nunca con la mano cogida se la posicionaremos en t\u00f3rax, sino que observaremos cu\u00e1ntas veces se expande en un minuto, posteriormente se anota en gr\u00e1fico.",
+              "d) No se le advierte al paciente de lo que se le hace, con la mano cogida se la posiciona en t\u00f3rax, y contamos sus expansiones en un minuto, posteriormente se anota en gr\u00e1fico."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La TA se mide en:",
+            "respuestas": [
+              "a) mm de Hg.",
+              "b) mm de Ag.",
+              "c) Bares.",
+              "d) Pascales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 elemento del tensi\u00f3metro mide la presi\u00f3n?",
+            "respuestas": [
+              "a) El manguito.",
+              "b) La perilla de goma.",
+              "c) El man\u00f3metro.",
+              "d) Estetoscopio."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfSobre qu\u00e9 arteria se coloca normalmente la membrana del estetoscopio en la toma de tensi\u00f3n arterial?",
+            "respuestas": [
+              "a) Sobre la arteria carot\u00eddea.",
+              "b) Sobre la arteria humeral.",
+              "c) Sobre la arteria radial.",
+              "d) Sobre la arteria cubital."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La presi\u00f3n venosa central (PVC) se expresa en:",
+            "respuestas": [
+              "a) Atm\u00f3sfera (a).",
+              "b) mm de mercurio.",
+              "c) cm de H\u2082O.",
+              "d) cm de cobre."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 material no necesitaremos para la toma de la PVC?",
+            "respuestas": [
+              "a) Tens\u00f3metro.",
+              "b) Llave de tres pasos.",
+              "c) Envase de suero fisiol\u00f3gico.",
+              "d) V\u00eda central canalizada, bien con acceso central o perif\u00e9rico."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 porcentaje representa el agua en el peso corporal de un lactante?",
+            "respuestas": [
+              "a) 85 %.",
+              "b) 75 %.",
+              "c) 65 %.",
+              "d) 55 %."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es el cati\u00f3n m\u00e1s abundante en el espacio intersticial?",
+            "respuestas": [
+              "a) Sodio.",
+              "b) Hidr\u00f3geno.",
+              "c) Potasio.",
+              "d) Cloruro."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es el cati\u00f3n m\u00e1s abundante en el espacio intracelular?",
+            "respuestas": [
+              "a) Sodio.",
+              "b) Hidr\u00f3geno.",
+              "c) Potasio.",
+              "d) Cloruro."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfPor d\u00f3nde se elimina m\u00e1s agua despu\u00e9s de la v\u00eda renal (orina)?",
+            "respuestas": [
+              "a) Heces.",
+              "b) Respiraci\u00f3n.",
+              "c) Piel.",
+              "d) Pelos."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Las p\u00e9rdidas insensibles de agua se realizan por:",
+            "respuestas": [
+              "a) Piel y heces.",
+              "b) Respiraci\u00f3n y heces.",
+              "c) Respiraci\u00f3n y piel.",
+              "d) Respiraci\u00f3n, orina y piel."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Cuando existe un balance h\u00eddrico positivo es que hay:",
+            "respuestas": [
+              "a) Retenci\u00f3n de l\u00edquidos.",
+              "b) M\u00e1s aportes que p\u00e9rdidas.",
+              "c) Sobrehidrataci\u00f3n.",
+              "d) Todo lo anterior es posible."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La gr\u00e1fica del enfermo es un documento incluido:",
+            "respuestas": [
+              "a) En la vida laboral del enfermo.",
+              "b) En la Historia Natural de la Enfermedad del paciente.",
+              "c) En la Historia Cl\u00ednica del enfermo.",
+              "d) En el CBM."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La gr\u00e1fica que sirve para un solo d\u00eda se denomina:",
+            "respuestas": [
+              "a) Especial.",
+              "b) Ordinaria.",
+              "c) Diaria.",
+              "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La temperatura se pondr\u00e1 en el gr\u00e1fico en color:",
+            "respuestas": [
+              "a) Azul.",
+              "b) Rojo.",
+              "c) Verde.",
+              "d) Negro."
+            ],
+            "verdadera": 2
+          }
+    ]
+}
