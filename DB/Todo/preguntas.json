@@ -3779,6 +3779,966 @@
               "d) Negro."
             ],
             "verdadera": 2
-          }
+          },
+          {
+            "enunciado": "El tubo digestivo tiene una longitud aproximada de:",
+            "respuestas": [
+              "a) 5 a 7,5 m.",
+              "b) 7 a 10 m.",
+              "c) 10 a 12 m.",
+              "d) 14 a 18 m."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 papilas de la lengua forman la V lingual?",
+            "respuestas": [
+              "a) Caliciformes.",
+              "b) Filiformes.",
+              "c) Mucosas.",
+              "d) Fungiformes."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 estructura dentaria presenta una corona cuadrangular con dos c\u00faspides y ra\u00edz simple?",
+            "respuestas": [
+              "a) Incisivo.",
+              "b) Canino.",
+              "c) Premolar.",
+              "d) Molar."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 m\u00fasculos de estos durante la masticaci\u00f3n no tiran de la mand\u00edbula hacia arriba?",
+            "respuestas": [
+              "a) Temporales.",
+              "b) Pterigoideos internos.",
+              "c) Dig\u00e1stricos.",
+              "d) Maseteros."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La zona de entrada al est\u00f3mago se llama:",
+            "respuestas": [
+              "a) Fundus.",
+              "b) F\u00f3rnix.",
+              "c) Cardias.",
+              "d) P\u00edloro."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 porci\u00f3n del intestino grueso cruza la cavidad abdominal de derecha a izquierda?",
+            "respuestas": [
+              "a) Recto.",
+              "b) Ciego.",
+              "c) Colon sigmoideo.",
+              "d) Colon transverso."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qu\u00e9 esf\u00ednter delimita el final del es\u00f3fago y el comienzo del est\u00f3mago?",
+            "respuestas": [
+              "a) P\u00edloro.",
+              "b) Zenker.",
+              "c) Cardias.",
+              "d) Bahuin."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 gl\u00e1ndulas salivales son las de mayor tama\u00f1o?",
+            "respuestas": [
+              "a) Par\u00f3tidas.",
+              "b) Submandibulares.",
+              "c) Submaxilares.",
+              "d) Sublinguales."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿C\u00f3mo se denomina el conducto principal del p\u00e1ncreas secretor de jugo pancre\u00e1tico a duodeno?",
+            "respuestas": [
+              "a) Conducto de Vater.",
+              "b) Conducto de Santorini.",
+              "c) Conducto de Wirsung.",
+              "d) Conducto de Bahuin."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qu\u00e9 produce la bilis?",
+            "respuestas": [
+              "a) La ves\u00edcula biliar.",
+              "b) El h\u00edgado.",
+              "c) El p\u00e1ncreas.",
+              "d) Los tres anteriores."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 produce las ulceraciones del estoma?",
+            "respuestas": [
+              "a) La aplicaci\u00f3n sucesiva de las bolsas.",
+              "b) El uso inadecuado del dispositivo recolector.",
+              "c) Una alteraci\u00f3n de la circulaci\u00f3n de la sangre en la zona.",
+              "d) La progresi\u00f3n del tumor maligno."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 fermento digestivo proteol\u00edtico se produce en el est\u00f3mago?",
+            "respuestas": [
+              "a) Pepsina.",
+              "b) Tripsina.",
+              "c) Quimiotripsina.",
+              "d) Proteus."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 compuesto es el mayoritario en las heces (masa fecal) en condiciones normales?",
+            "respuestas": [
+              "a) Fibra.",
+              "b) Grasa.",
+              "c) Prote\u00edna.",
+              "d) Agua."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La sensaci\u00f3n de sequedad en la boca se denomina:",
+            "respuestas": [
+              "a) Glosonco.",
+              "b) Estomatitis seca.",
+              "c) Estomatosis.",
+              "d) Xerostom\u00eda."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿A qu\u00e9 parte del est\u00f3mago de las que se nombra, afecta la denominada gastritis cr\u00f3nica tipo A?",
+            "respuestas": [
+              "a) Fundus.",
+              "b) Cardias.",
+              "c) Antro.",
+              "d) P\u00edloro."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿En qu\u00e9 parte del est\u00f3mago se desarrolla el c\u00e1ncer g\u00e1strico?",
+            "respuestas": [
+              "a) En el fundus.",
+              "b) En el p\u00edloro.",
+              "c) En el antro.",
+              "d) Se puede desarrollar en cualquier parte del est\u00f3mago."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿De qué tipo son las lesiones de la colitis ulcerosa?",
+            "respuestas": [
+              "a) Inflamatorias.",
+              "b) Escleróticas.",
+              "c) Fibrosas.",
+              "d) Precancerosas."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Las dilataciones del plexo venoso por fuera del esfínter anal son generalmente:",
+            "respuestas": [
+              "a) Hemorroides externas.",
+              "b) Hemorroides internas.",
+              "c) Hemorroide centinela.",
+              "d) Trombosis hemorroidal."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Dónde se localizan generalmente las impactaciones fecales en el intestino grueso asociadas a estreñimiento?",
+            "respuestas": [
+              "a) Se localizan en recto.",
+              "b) Se localizan en sigma.",
+              "c) Se localizan en colon.",
+              "d) Se localizan en ciego."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Cuál es la causa más importante y frecuente de cirrosis hepática?",
+            "respuestas": [
+              "a) Hemocromatosis primaria.",
+              "b) Hepatitis medicamentosa (hepatotoxicidad del paracetamol).",
+              "c) Alcoholismo.",
+              "d) Enfermedad de Wilson."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿En qué zona de la pared abdominal duele cuando existe cólico hepático?",
+            "respuestas": [
+              "a) Epigastrio.",
+              "b) Mesogastrio.",
+              "c) Hipocondrio derecho.",
+              "d) Hipocondrio izquierdo."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿A qué se denomina la forma y manera de proporcionar al organismo los alimentos que le son indispensables?",
+            "respuestas": [
+              "a) Nutrición.",
+              "b) Alimentación.",
+              "c) Metabolismo.",
+              "d) Asimilación."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Los componentes químicos de la dieta son:",
+            "respuestas": [
+              "a) Los principios activos.",
+              "b) Los alimentos.",
+              "c) Los nutrientes.",
+              "d) Nada de lo anterior."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qué alimentos son aquellos cuya composición principal son las proteínas y el calcio?",
+            "respuestas": [
+              "a) Alimentos reguladores.",
+              "b) Alimentos biocatalizadores.",
+              "c) Alimentos energéticos.",
+              "d) Alimentos plásticos."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué alimentos se van a utilizar por nuestro organismo como combustible metabólico?",
+            "respuestas": [
+              "a) Los alimentos reguladores.",
+              "b) Los alimentos energéticos.",
+              "c) Los alimentos naturales.",
+              "d) Los alimentos plásticos."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "El grupo IV de la nueva rueda de alimentos es:",
+            "respuestas": [
+              "a) Regulador.",
+              "b) Plástico.",
+              "c) Energético.",
+              "d) Termoestable."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cuántos grupos de alimentos se encuentran en la nueva rueda de alimentos?",
+            "respuestas": [
+              "a) 5.",
+              "b) 6.",
+              "c) 7.",
+              "d) 8."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qué alimentos de los expuestos no se incluye en el segundo nivel de la pirámide de alimentación saludable?",
+            "respuestas": [
+              "a) Pan.",
+              "b) Patatas.",
+              "c) Huevos.",
+              "d) Carnes rojas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La ingesta adecuada de agua diaria está en torno a los:",
+            "respuestas": [
+              "a) 1,5 litros.",
+              "b) 2 litros.",
+              "c) 2,5 litros.",
+              "d) 3,5 litros."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qué formas de preparación de alimento ofertan mejor valor nutricional e incluso organoléptico?",
+            "respuestas": [
+              "a) Fritos con aceites vegetales o a la plancha y bien condimentada o macerada.",
+              "b) Fritos con mantecas o grasa de origen animal o hervido sin aderezos.",
+              "c) Hervidos en ollas o cocinados en perol con aceite de oliva de base.",
+              "d) Cocinados al vapor, las preparaciones seguras en crudo o las menos elaboradas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿Qué alimento pertenece al tercer nivel de la pirámide de alimentación saludable?",
+            "respuestas": [
+              "a) Aceite de oliva.",
+              "b) Verduras y hortalizas.",
+              "c) Sal.",
+              "d) Frutas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Quién pone directamente en marcha y desarrolla la estrategia NAOS?",
+            "respuestas": [
+              "a) La Sociedad Española de Nutrición Comunitaria (SENC).",
+              "b) La Agencia Española de Seguridad Alimentaria y Nutrición (AESAN).",
+              "c) La Secretaría de Estado de Consejos dietéticos, mediante el programa EDALNU del Ministerio de Sanidad.",
+              "d) El Ministerio de Innovación, Desarrollo e Industria."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qué porcentaje de residuos sólidos posee la leche de vaca?",
+            "respuestas": [
+              "a) Aproximadamente el 1%.",
+              "b) Aproximadamente el 7%.",
+              "c) Aproximadamente el 12%.",
+              "d) Aproximadamente el 25 %."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿Qué carne de estas consideras con más grasa?",
+            "respuestas": [
+              "a) La carne de cordero.",
+              "b) La carne de ternera.",
+              "c) La carne de conejo.",
+              "d) La carne de caballo."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "El grupo de verduras y hortalizas, según la clasificaci\u00f3n NAOS es el n\u00famero:",
+            "respuestas": [
+              "a) 1.",
+              "b) 3.",
+              "c) 5.",
+              "d) 6."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfA qu\u00e9 nos referimos cuando empleamos una fuerza necesaria para provocar a un kilo una aceleraci\u00f3n de un metro por segundo?",
+            "respuestas": [
+              "a) Nos referimos a un ergio.",
+              "b) Nos referimos a una dina.",
+              "c) Nos referimos a un julio.",
+              "d) Nos referimos a un newton."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "En el Sistema Internacional la unidad de energ\u00eda es:",
+            "respuestas": [
+              "a) El julio.",
+              "b) La Calor\u00eda.",
+              "c) El grado cent\u00edgrado.",
+              "d) El ergio."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina la energ\u00eda que necesita el organismo para mantener sus funciones vitales en estado de absoluto reposo?",
+            "respuestas": [
+              "a) Homeostasis.",
+              "b) Hemostasia.",
+              "c) Metabolismo basal.",
+              "d) Energ\u00eda esencial."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Empleando la f\u00f3rmula de Harris y Benedict del metabolismo basal diremos que un var\u00f3n de 35 kg de peso, 1,40 m de talla y 11 a\u00f1os de edad, ser\u00e1 aproximadamente de:",
+            "respuestas": [
+              "a) 700.",
+              "b) 850.",
+              "c) 1100.",
+              "d) 2100."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Si los alimentos preparados permanecen sin cubrir frente a personas que hablan, estos se pueden contaminar generalmente por v\u00eda:",
+            "respuestas": [
+              "a) Cut\u00e1nea.",
+              "b) A\u00e9rea.",
+              "c) Digestiva.",
+              "d) Parenteral."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 medida es fundamental y la que m\u00e1s influye para que haya una buena higiene alimentaria, y disminuyamos considerablemente su contaminaci\u00f3n microbiana?",
+            "respuestas": [
+              "a) Limpiar bien donde se colocan los alimentos.",
+              "b) Limpiar superficialmente los alimentos y mantenerlos as\u00ed hasta su consumo.",
+              "c) Emplear mercuriales y otros desinfectantes sobre los mismos.",
+              "d) Lavarse las manos con frecuencia."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfA partir de qu\u00e9 temperatura por encima de la humana se deben mantener los alimentos antes de su consumo, para evitar riesgos de infecci\u00f3n?",
+            "respuestas": [
+              "a) A m\u00e1s de 45 \u00b0C.",
+              "b) A m\u00e1s de 55 \u00b0C.",
+              "c) A m\u00e1s de 65 \u00b0C.",
+              "d) A m\u00e1s de 120 \u00b0C."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denominan las patolog\u00edas producidas por la ingesti\u00f3n de productos t\u00f3xicos, ya sea de origen bi\u00f3tico, como en el caso de las toxinas producidas por algunas bacterias, o de origen abi\u00f3tico o qu\u00edmico no bacteriano?",
+            "respuestas": [
+              "a) Toxiinfecci\u00f3n alimentaria.",
+              "b) Intoxicaci\u00f3n alimentaria.",
+              "c) Infecci\u00f3n alimentaria.",
+              "d) Contaminaci\u00f3n alimentaria."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 agentes bi\u00f3ticos de los siguientes son m\u00e1s productores de toxiinfecciones alimentarias?",
+            "respuestas": [
+              "a) Hongos.",
+              "b) Bacterias.",
+              "c) Protozoos.",
+              "d) Par\u00e1sitos."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 modalidad de bacterias producen el botulismo?",
+            "respuestas": [
+              "a) Estafilococos.",
+              "b) Salmonellas.",
+              "c) Clostridium.",
+              "d) Pseudomonas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es el medio alimenticio por el que se contrae la triquinosis?",
+            "respuestas": [
+              "a) Leche mal cocida.",
+              "b) Carne cruda o poco cocida.",
+              "c) Huevos contaminados.",
+              "d) Ensaladillas y/o mayonesas."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Seg\u00fan el n\u00famero de Atwater, quien produce 4 Kcal un gramo de:",
+            "respuestas": [
+              "a) Alcohol o grasa.",
+              "b) Grasa o prote\u00edna.",
+              "c) Az\u00facar o prote\u00edna.",
+              "d) Grasa o az\u00facar."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 amino\u00e1cido no es esencial?",
+            "respuestas": [
+              "a) Tript\u00f3fano.",
+              "b) Valina.",
+              "c) Fenilalanina.",
+              "d) Alanina."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 amino\u00e1cido es esencial?",
+            "respuestas": [
+              "a) Prolina.",
+              "b) Cisteina.",
+              "c) Tript\u00f3fano.",
+              "d) Alanina."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 hidrato de carbono es monosac\u00e1rido?",
+            "respuestas": [
+              "a) Fructosa.",
+              "b) Sacarosa.",
+              "c) Almid\u00f3n.",
+              "d) Maltosa."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Todos los az\u00fcares deben poseer en su composici\u00f3n los elementos:",
+            "respuestas": [
+              "a) Hidr\u00f3geno, nitr\u00f3geno y azufre.",
+              "b) Ox\u00edgeno, hidr\u00f3geno y carbono.",
+              "c) Nitr\u00f3geno, azufre y carbono.",
+              "d) Carbono, nitr\u00f3geno, azufre y f\u00f3sforo."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Todo lo que se expone de las grasas es cierto, excepto que:",
+            "respuestas": [
+              "a) El \u00e1cido palm\u00edtico es un \u00e1cido graso.",
+              "b) Las grasas son insolubles en los disolventes org\u00e1nicos como el benzol, y el \u00e9ter.",
+              "c) Est\u00e1n tambi\u00e9n formadas por hidr\u00f3geno, ox\u00edgeno y carbono, lo mismo que los hidratos de carbono, pero asociados de manera diferente, d\u00e1ndoles caracter\u00edsticas propias.",
+              "d) Las grasas son insolubles en agua."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 \u00e1cido graso es monoinsaturado?",
+            "respuestas": [
+              "a) \u00c1cido linoleico.",
+              "b) \u00c1cido linol\u00e9nico.",
+              "c) \u00c1cido oleico.",
+              "d) \u00c1cido palm\u00edtico."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l de estos nutrientes se considera micronutriente (imprescindibles en peque\u00f1as cantidades)?",
+            "respuestas": [
+              "a) Vitaminas.",
+              "b) Azucares.",
+              "c) Prote\u00ednas.",
+              "d) Grasas."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 vitamina es hidrosoluble?",
+            "respuestas": [
+              "a) Vitamina A.",
+              "b) Vitamina D.",
+              "c) Vitamina C.",
+              "d) Vitamina K."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La carencia de la vitamina K produce:",
+            "respuestas": [
+              "a) Beri-beri.",
+              "b) Xeroftalmia.",
+              "c) Raquitismo.",
+              "d) Hemorragias."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La pelagra la ocasiona el d\u00e9ficit de la vitamina llamada:",
+            "respuestas": [
+              "a) Acido asc\u00f3rbico.",
+              "b) Niacina.",
+              "c) \u00c1cido f\u00f3lico.",
+              "d) Acido pantot\u00e9nico."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 porcentaje de agua posee el hombre tipo?",
+            "respuestas": [
+              "a) 25 %.",
+              "b) 45 %.",
+              "c) 60 %.",
+              "d) 75 %."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfCon qu\u00e9 t\u00e9rmino se corresponde esta definici\u00f3n: la t\u00e9cnica y el arte de utilizar los alimentos de la forma adecuada, partiendo del conocimiento profundo del organismo humano y de los alimentos, para proponer y promover formas de alimentaci\u00f3n, variada, suficiente y equilibrada?",
+            "respuestas": [
+              "a) Dietoterapia.",
+              "b) Nutrici\u00f3n.",
+              "c) Bromatolog\u00eda.",
+              "d) Diet\u00e9tica."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La ingesta de prote\u00ednas, independientemente del sexo, para los adultos, que est\u00e1 recomendada por la OMS/FAO es de:",
+            "respuestas": [
+              "a) 0,08 g/kg peso/d\u00eda.",
+              "b) 0,18 g/kg peso/d\u00eda.",
+              "c) 0,8 g/kg peso/d\u00eda.",
+              "d) 1,8 g/kg peso/d\u00eda."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La talla en ni\u00f1os peque\u00f1os se debe determinar sobre la mesa calibrada en posici\u00f3n de:",
+            "respuestas": [
+              "a) Dec\u00fabito ventral.",
+              "b) Dec\u00fabito dorsal.",
+              "c) Dec\u00fabito lateral izquierdo.",
+              "d) Dec\u00fabito prono."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "La obesidad m\u00f3rbida ser\u00eda aquella que se alcanza con un \u00edndice de masa corporal superior a:",
+            "respuestas": [
+              "a) 20.",
+              "b) 30.",
+              "c) 40.",
+              "d) 50."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfA qu\u00e9 se define como el conocimiento de la administraci\u00f3n de los alimentos de la forma adecuada en los estados de enfermedad, partiendo del conocimiento profundo del organismo humano y de los alimentos?",
+            "respuestas": [
+              "a) Dietoterapia.",
+              "b) Nutrici\u00f3n.",
+              "c) Bromatolog\u00eda.",
+              "d) Diet\u00e9tica."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 tipo de dieta est\u00e1 indicada para personas que van a ser operadas y prescrita doce horas antes de la intervenci\u00f3n?",
+            "respuestas": [
+              "a) Dieta blanda.",
+              "b) Dieta l\u00edquida.",
+              "c) Dieta s\u00f3lida.",
+              "d) Dieta absoluta."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es la dieta inicial en paciente con infarto agudo de miocardio?",
+            "respuestas": [
+              "a) Se suele administrar l\u00edquidos por v\u00eda oral.",
+              "b) Se suele administrar dieta blanda.",
+              "c) Se suele administrar dieta semiblanda.",
+              "d) Se suele administrar l\u00edquidos por v\u00eda parenteral."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfEn qu\u00e9 es m\u00e1s pobre el calostro que la leche definitiva?",
+            "respuestas": [
+              "a) En vitaminas.",
+              "b) En sodio.",
+              "c) En prote\u00ednas.",
+              "d) En lactosa."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1nto como m\u00e1ximo debe durar la leche materna en frigor\u00edfico (4\u00b0C)?",
+            "respuestas": [
+              "a) 1 d\u00eda.",
+              "b) 3 d\u00edas.",
+              "c) 5 d\u00edas.",
+              "d) 15 d\u00edas."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Las leches humanizadas de inicio se emplean:",
+            "respuestas": [
+              "a) Hasta los 5-6 meses de vida.",
+              "b) Hasta los 11-12 meses de vida.",
+              "c) Despu\u00e9s de los 5-6 meses de vida.",
+              "d) Despu\u00e9s de los 11-12 meses de vida."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 tipo de alimento es el primero en dar en alimentaci\u00f3n complementaria?",
+            "respuestas": [
+              "a) Pur\u00e9 de verdura.",
+              "b) Pur\u00e9 de frutas.",
+              "c) Zumo de frutas.",
+              "d) Pur\u00e9 de verdura con carne de ternera."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 sustancia de estas es escasa en la leche materna y no cubre adecuadamente los requerimientos del lactante?",
+            "respuestas": [
+              "a) Los l\u00edpidos.",
+              "b) Las prote\u00ednas.",
+              "c) Los hidratos de carbono.",
+              "d) Hierro."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 m\u00e9todo se emplea para el c\u00e1lculo de la raci\u00f3n de leche en los diez primeros d\u00edas de vida del neonato?",
+            "respuestas": [
+              "a) M\u00e9todo calorim\u00e9trico.",
+              "b) M\u00e9todo de Finkelstein.",
+              "c) M\u00e9todo de Roger.",
+              "d) M\u00e9todo de Zetterstrom."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 instrumentos son necesarios para una alimentaci\u00f3n enteral?",
+            "respuestas": [
+                "a) Sondas y/o cat\u00e9teres.",
+                "b) Estomas.",
+                "c) Cirug\u00eda local.",
+                "d) Nada de lo anterior."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es lo primero que debe hacer el TCAE en la t\u00e9cnica de alimentaci\u00f3n oral en su procedimiento o administraci\u00f3n en el paciente encamado?",
+            "respuestas": [
+                "a) Colocarle la servilleta o babero.",
+                "b) Sentarse a su lado, evitando todo tipo de prisas.",
+                "c) Informar al paciente del procedimiento y solicitarle su ayuda.",
+                "d) Incorporarlo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La alimentaci\u00f3n enteral mediante sonda nasog\u00e1strica se denomina tambi\u00e9n alimentaci\u00f3n:",
+            "respuestas": [
+                "a) Artificial.",
+                "b) Natural.",
+                "c) Facilitada.",
+                "d) Forzada."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se debe colocar a un paciente para alimentar, que tiene insertado un tubo de gastrostom\u00eda?",
+            "respuestas": [
+                "a) En posici\u00f3n de Sims.",
+                "b) En posici\u00f3n de Trendelemburg.",
+                "c) En posici\u00f3n de Fowler.",
+                "d) En posici\u00f3n de Morestin."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La nutrici\u00f3n perif\u00e9rica hipocal\u00f3rica es la nutrici\u00f3n:",
+            "respuestas": [
+                "a) Enteral perif\u00e9rica.",
+                "b) Enteral central.",
+                "c) Parenteral central.",
+                "d) Parenteral perif\u00e9rica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se colocar\u00e1 al paciente para alimentaci\u00f3n enteral mediante sonda nasog\u00e1strica?",
+            "respuestas": [
+                "a) Sims.",
+                "b) Trendelemburg.",
+                "c) Fowler.",
+                "d) Morestin."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El equipo de infusi\u00f3n debe cambiarse en alimentaci\u00f3n enteral por sonda en pacientes intubados cada:",
+            "respuestas": [
+                "a) 6 horas.",
+                "b) 12 horas.",
+                "c) 24 horas.",
+                "d) 48 horas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 complicaci\u00f3n por la nutrici\u00f3n con sonda es considerada m\u00e1s grave?",
+            "respuestas": [
+                "a Diarreas.",
+                "b) Broncoaspiraci\u00f3n.",
+                "c) Obstrucci\u00f3n de la sonda.",
+                "d) Estre\u00f1imiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La nutrici\u00f3n parenteral est\u00e1 indicada en todos los casos excepto:",
+            "respuestas": [
+                "a) Paciente con diarreas cr\u00f3nicas severas.",
+                "b) Paciente que vomita durante largo periodo de tiempo.",
+                "c) Paciente con intolerancia a la alimentaci\u00f3n por sonda.",
+                "d) Est\u00e1 indicada en todos los anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para realizar un sondaje nasog\u00e1strico, se precisa:",
+            "respuestas": [
+                "a) Guantes.",
+                "b) Lubricante.",
+                "c) Batea.",
+                "d) Todos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de sonda es la m\u00e1s utilizada en un sondaje nasog\u00e1strico?",
+            "respuestas": [
+                "a) Sonda de Foucher.",
+                "b) Sonda de Salem.",
+                "c) Sonda de Cantor.",
+                "d) Sonda de Levin."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Podemos definir la nutrici\u00f3n enteral como:",
+            "respuestas": [
+                "a) La administraci\u00f3n de f\u00f3rmulas enterales por v\u00eda digestiva.",
+                "b) La administraci\u00f3n de nutrientes por v\u00eda parenteral.",
+                "c) La administraci\u00f3n de nutrientes a un paciente con problemas nutricionales.",
+                "d) La administraci\u00f3n de suero por medio de una sonda nasog\u00e1strica."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Una de las formas que tenemos para la administraci\u00f3n de la nutrici\u00f3n enteral es la administraci\u00f3n mediante sonda nasog\u00e1strica. La alimentaci\u00f3n por SNG tambi\u00e9n se conoce como:",
+            "respuestas": [
+                "a) Alimentaci\u00f3n natural.",
+                "b) Alimentaci\u00f3n forzada.",
+                "c) Alimentaci\u00f3n enteral.",
+                "d) Alimentaci\u00f3n artificial."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una de las formas que tenemos para la administraci\u00f3n de la nutrici\u00f3n enteral es la administraci\u00f3n mediante sonda nasog\u00e1strica, para colocar la SNG deberemos poner al paciente en la posici\u00f3n:",
+            "respuestas": [
+                "a) Fowler.",
+                "b) Prono.",
+                "c) Supino.",
+                "d) Mahometano."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "A la hora de administrar alimentos por la SNG podremos escoger entre alimentaci\u00f3n artesanal o preparados comerciales. Los preparados comerciales presentan como ventaja:",
+            "respuestas": [
+                "a) Una alta manipulaci\u00f3n.",
+                "b) Una nutrici\u00f3n completa y equilibrada.",
+                "c) La dosis es la correcta.",
+                "d) La alimentaci\u00f3n artesanal presentan m\u00e1s ventajas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La alimentaci\u00f3n por SNG est\u00e1 indicada en pacientes que presentan malnutrici\u00f3n por diferentes causas. Antes de iniciar la alimentaci\u00f3n deberemos limpiar la sonda mediante:",
+            "respuestas": [
+                "a) La introducci\u00f3n de 30 cc de agua caliente.",
+                "b) La introducci\u00f3n de 30 cc de aire.",
+                "c) La introducci\u00f3n de la gu\u00eda de la SNG.",
+                "d) La sonda no debe ser limpiada antes de proceder a la alimentaci\u00f3n, s\u00f3lo despu\u00e9s."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las sondas que se nombran se introduce por un procedimiento quir\u00fargico a trav\u00e9s de la pared abdominal hasta el est\u00f3mago?",
+            "respuestas": [
+                "a) Sonda nasog\u00e1strica.",
+                "b) Sonda de gastrostom\u00eda.",
+                "c) Sonda de yeyunostom\u00eda.",
+                "d) Sonda nasoent\u00e9rica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Definimos la gastrostom\u00eda como el procedimiento a trav\u00e9s del cual se abre una comunicaci\u00f3n entre el est\u00f3mago y el exterior a trav\u00e9s de un tubo; para realizar la alimentaci\u00f3n deberemos tener en cuenta que:",
+            "respuestas": [
+                "a) La nutrici\u00f3n deber\u00e1 estar a 37 \u00b0C.",
+                "b) El paciente deber\u00e1 estar en posici\u00f3n supina.",
+                "c) Deberemos limpiar el tubo tras la alimentaci\u00f3n.",
+                "d) Deberemos dejar la sonda abierta para evitar la formaci\u00f3n de gases."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las complicaciones de la nutrici\u00f3n enteral van a variar dependiendo de la v\u00eda que se utilice; as\u00ed, los problemas de car\u00e1cter digestivo que pueden surgir en la alimentaci\u00f3n:",
+            "respuestas": [
+                "a) Trastornos electrol\u00edticos.",
+                "b) Diarreas.",
+                "c) Broncoaspiraci\u00f3n.",
+                "d) Infecciones."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Entre las complicaciones de la nutrici\u00f3n parenteral destaca:",
+            "respuestas": [
+                "a) Flebitis.",
+                "b) Neumot\u00f3rax.",
+                "c) Infecci\u00f3n en la entrada del cat\u00e9ter.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Est\u00e1 indicada la nutrici\u00f3n parenteral total en:",
+            "respuestas": [
+                "a) Pacientes que vomitan durante un largo per\u00edodo de tiempo.",
+                "b) Pacientes con diarreas cr\u00f3nicas severas.",
+                "c) Pacientes con intolerancia a la alimentaci\u00f3n por sonda.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Una de las formas de nutrir a los pacientes con problemas es la nutrici\u00f3n parenteral, que consiste en:",
+            "respuestas": [
+                "a) Administrar los nutrientes que el paciente necesite.",
+                "b) Administrar f\u00f3rmulas diet\u00e9ticas por v\u00eda intravenosa para mantener la s\u00edntesis de prote\u00ednas.",
+                "c) Introducir complejos diet\u00e9ticos directamente en el est\u00f3mago para compensar las p\u00e9rdidas nutricionales del paciente.",
+                "d) Todas son falsas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las bolsas que contienen la nutrici\u00f3n parenteral, tienen una capacidad de:",
+            "respuestas": [
+                "a) 3 litros.",
+                "b) 3,5 litros.",
+                "c) 4 litros.",
+                "d) 5 litros."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se colocar\u00e1 a un paciente en sondaje nasog\u00e1strico?",
+            "respuestas": [
+                "a) En posici\u00f3n de Roser.",
+                "b) En posici\u00f3n de Fowler.",
+                "c) En posici\u00f3n de sims izquierdo.",
+                "d) En posici\u00f3n de Morestin."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sonda esofagog\u00e1strica es la m\u00e1s empleada en hemorragias por roturas de varices esof\u00e1gicas?",
+            "respuestas": [
+                "a) Millet-Abbot.",
+                "b) Cantor.",
+                "c) Foucher.",
+                "d) Sengstaken."
+            ],
+            "verdadera": 4
+        }
     ]
 }

@@ -1,0 +1,254 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 instrumentos son necesarios para una alimentaci\u00f3n enteral?",
+            "respuestas": [
+                "a) Sondas y/o cat\u00e9teres.",
+                "b) Estomas.",
+                "c) Cirug\u00eda local.",
+                "d) Nada de lo anterior."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es lo primero que debe hacer el TCAE en la t\u00e9cnica de alimentaci\u00f3n oral en su procedimiento o administraci\u00f3n en el paciente encamado?",
+            "respuestas": [
+                "a) Colocarle la servilleta o babero.",
+                "b) Sentarse a su lado, evitando todo tipo de prisas.",
+                "c) Informar al paciente del procedimiento y solicitarle su ayuda.",
+                "d) Incorporarlo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La alimentaci\u00f3n enteral mediante sonda nasog\u00e1strica se denomina tambi\u00e9n alimentaci\u00f3n:",
+            "respuestas": [
+                "a) Artificial.",
+                "b) Natural.",
+                "c) Facilitada.",
+                "d) Forzada."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se debe colocar a un paciente para alimentar, que tiene insertado un tubo de gastrostom\u00eda?",
+            "respuestas": [
+                "a) En posici\u00f3n de Sims.",
+                "b) En posici\u00f3n de Trendelemburg.",
+                "c) En posici\u00f3n de Fowler.",
+                "d) En posici\u00f3n de Morestin."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La nutrici\u00f3n perif\u00e9rica hipocal\u00f3rica es la nutrici\u00f3n:",
+            "respuestas": [
+                "a) Enteral perif\u00e9rica.",
+                "b) Enteral central.",
+                "c) Parenteral central.",
+                "d) Parenteral perif\u00e9rica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se colocar\u00e1 al paciente para alimentaci\u00f3n enteral mediante sonda nasog\u00e1strica?",
+            "respuestas": [
+                "a) Sims.",
+                "b) Trendelemburg.",
+                "c) Fowler.",
+                "d) Morestin."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El equipo de infusi\u00f3n debe cambiarse en alimentaci\u00f3n enteral por sonda en pacientes intubados cada:",
+            "respuestas": [
+                "a) 6 horas.",
+                "b) 12 horas.",
+                "c) 24 horas.",
+                "d) 48 horas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 complicaci\u00f3n por la nutrici\u00f3n con sonda es considerada m\u00e1s grave?",
+            "respuestas": [
+                "a Diarreas.",
+                "b) Broncoaspiraci\u00f3n.",
+                "c) Obstrucci\u00f3n de la sonda.",
+                "d) Estre\u00f1imiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La nutrici\u00f3n parenteral est\u00e1 indicada en todos los casos excepto:",
+            "respuestas": [
+                "a) Paciente con diarreas cr\u00f3nicas severas.",
+                "b) Paciente que vomita durante largo periodo de tiempo.",
+                "c) Paciente con intolerancia a la alimentaci\u00f3n por sonda.",
+                "d) Est\u00e1 indicada en todos los anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para realizar un sondaje nasog\u00e1strico, se precisa:",
+            "respuestas": [
+                "a) Guantes.",
+                "b) Lubricante.",
+                "c) Batea.",
+                "d) Todos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de sonda es la m\u00e1s utilizada en un sondaje nasog\u00e1strico?",
+            "respuestas": [
+                "a) Sonda de Foucher.",
+                "b) Sonda de Salem.",
+                "c) Sonda de Cantor.",
+                "d) Sonda de Levin."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Podemos definir la nutrici\u00f3n enteral como:",
+            "respuestas": [
+                "a) La administraci\u00f3n de f\u00f3rmulas enterales por v\u00eda digestiva.",
+                "b) La administraci\u00f3n de nutrientes por v\u00eda parenteral.",
+                "c) La administraci\u00f3n de nutrientes a un paciente con problemas nutricionales.",
+                "d) La administraci\u00f3n de suero por medio de una sonda nasog\u00e1strica."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Una de las formas que tenemos para la administraci\u00f3n de la nutrici\u00f3n enteral es la administraci\u00f3n mediante sonda nasog\u00e1strica. La alimentaci\u00f3n por SNG tambi\u00e9n se conoce como:",
+            "respuestas": [
+                "a) Alimentaci\u00f3n natural.",
+                "b) Alimentaci\u00f3n forzada.",
+                "c) Alimentaci\u00f3n enteral.",
+                "d) Alimentaci\u00f3n artificial."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una de las formas que tenemos para la administraci\u00f3n de la nutrici\u00f3n enteral es la administraci\u00f3n mediante sonda nasog\u00e1strica, para colocar la SNG deberemos poner al paciente en la posici\u00f3n:",
+            "respuestas": [
+                "a) Fowler.",
+                "b) Prono.",
+                "c) Supino.",
+                "d) Mahometano."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "A la hora de administrar alimentos por la SNG podremos escoger entre alimentaci\u00f3n artesanal o preparados comerciales. Los preparados comerciales presentan como ventaja:",
+            "respuestas": [
+                "a) Una alta manipulaci\u00f3n.",
+                "b) Una nutrici\u00f3n completa y equilibrada.",
+                "c) La dosis es la correcta.",
+                "d) La alimentaci\u00f3n artesanal presentan m\u00e1s ventajas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La alimentaci\u00f3n por SNG est\u00e1 indicada en pacientes que presentan malnutrici\u00f3n por diferentes causas. Antes de iniciar la alimentaci\u00f3n deberemos limpiar la sonda mediante:",
+            "respuestas": [
+                "a) La introducci\u00f3n de 30 cc de agua caliente.",
+                "b) La introducci\u00f3n de 30 cc de aire.",
+                "c) La introducci\u00f3n de la gu\u00eda de la SNG.",
+                "d) La sonda no debe ser limpiada antes de proceder a la alimentaci\u00f3n, s\u00f3lo despu\u00e9s."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las sondas que se nombran se introduce por un procedimiento quir\u00fargico a trav\u00e9s de la pared abdominal hasta el est\u00f3mago?",
+            "respuestas": [
+                "a) Sonda nasog\u00e1strica.",
+                "b) Sonda de gastrostom\u00eda.",
+                "c) Sonda de yeyunostom\u00eda.",
+                "d) Sonda nasoent\u00e9rica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Definimos la gastrostom\u00eda como el procedimiento a trav\u00e9s del cual se abre una comunicaci\u00f3n entre el est\u00f3mago y el exterior a trav\u00e9s de un tubo; para realizar la alimentaci\u00f3n deberemos tener en cuenta que:",
+            "respuestas": [
+                "a) La nutrici\u00f3n deber\u00e1 estar a 37 \u00b0C.",
+                "b) El paciente deber\u00e1 estar en posici\u00f3n supina.",
+                "c) Deberemos limpiar el tubo tras la alimentaci\u00f3n.",
+                "d) Deberemos dejar la sonda abierta para evitar la formaci\u00f3n de gases."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las complicaciones de la nutrici\u00f3n enteral van a variar dependiendo de la v\u00eda que se utilice; as\u00ed, los problemas de car\u00e1cter digestivo que pueden surgir en la alimentaci\u00f3n:",
+            "respuestas": [
+                "a) Trastornos electrol\u00edticos.",
+                "b) Diarreas.",
+                "c) Broncoaspiraci\u00f3n.",
+                "d) Infecciones."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Entre las complicaciones de la nutrici\u00f3n parenteral destaca:",
+            "respuestas": [
+                "a) Flebitis.",
+                "b) Neumot\u00f3rax.",
+                "c) Infecci\u00f3n en la entrada del cat\u00e9ter.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Est\u00e1 indicada la nutrici\u00f3n parenteral total en:",
+            "respuestas": [
+                "a) Pacientes que vomitan durante un largo per\u00edodo de tiempo.",
+                "b) Pacientes con diarreas cr\u00f3nicas severas.",
+                "c) Pacientes con intolerancia a la alimentaci\u00f3n por sonda.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Una de las formas de nutrir a los pacientes con problemas es la nutrici\u00f3n parenteral, que consiste en:",
+            "respuestas": [
+                "a) Administrar los nutrientes que el paciente necesite.",
+                "b) Administrar f\u00f3rmulas diet\u00e9ticas por v\u00eda intravenosa para mantener la s\u00edntesis de prote\u00ednas.",
+                "c) Introducir complejos diet\u00e9ticos directamente en el est\u00f3mago para compensar las p\u00e9rdidas nutricionales del paciente.",
+                "d) Todas son falsas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las bolsas que contienen la nutrici\u00f3n parenteral, tienen una capacidad de:",
+            "respuestas": [
+                "a) 3 litros.",
+                "b) 3,5 litros.",
+                "c) 4 litros.",
+                "d) 5 litros."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se colocar\u00e1 a un paciente en sondaje nasog\u00e1strico?",
+            "respuestas": [
+                "a) En posici\u00f3n de Roser.",
+                "b) En posici\u00f3n de Fowler.",
+                "c) En posici\u00f3n de sims izquierdo.",
+                "d) En posici\u00f3n de Morestin."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sonda esofagog\u00e1strica es la m\u00e1s empleada en hemorragias por roturas de varices esof\u00e1gicas?",
+            "respuestas": [
+                "a) Millet-Abbot.",
+                "b) Cantor.",
+                "c) Foucher.",
+                "d) Sengstaken."
+            ],
+            "verdadera": 4
+        }
+    ]
+}
