@@ -2,7 +2,11 @@
     "categorias": [
         {
             "nombre_categoria": "Todo",
-            "numero_preguntas": 599	    
+            "numero_preguntas": 666	    
+        },
+        {
+            "nombre_categoria": "Tema 7",
+            "numero_preguntas": 66	    
         },
         {
             "nombre_categoria": "Tema 8",
