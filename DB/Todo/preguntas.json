@@ -6468,7 +6468,7 @@
           "c) Los deprimidos, introvertidos y autoagresivos",
           "d) Los ansiosos de evasi\u00f3n, los autoagresivos y los anor\u00e9xicos"
       ],
-      "verdadera": "a) Los masoquistas, ansiosos de evasi\u00f3n y ansiosos de estimaci\u00f3n"
+      "verdadera": 1
   },
   {
       "enunciado": "¿Qu\u00e9 autor considera que las situaciones de estr\u00e9s son aquellas que necesitan un ajuste del organismo, pudiendo ser estas agradables o desagradables, d\u00e1ndole mayor importancia a la intensidad del ajuste que la situaci\u00f3n requiera?",
@@ -6478,7 +6478,7 @@
           "c) Lazarus",
           "d) Selye"
       ],
-      "verdadera": "d) Selye"
+      "verdadera": 4
   },
   {
       "enunciado": "¿Qu\u00e9 tipo de respuesta de afrontamiento trata de buscar el significado de la enfermedad y reinterpretar nuestra vida en funci\u00f3n de ello, se da en personas que afrontan la situaci\u00f3n con mayor optimismo y parece aumentar la supervivencia en pacientes con c\u00e1ncer de mama?",
@@ -6488,7 +6488,7 @@
           "c) Evitaci\u00f3n",
           "d) Conductas confrontativas"
       ],
-      "verdadera": "b) Reinterpretaci\u00f3n positiva"
+      "verdadera": 2
   },
   {
       "enunciado": "Se\u00f1ale la respuesta incorrecta respecto al paciente hospitalizado:",
@@ -6498,7 +6498,7 @@
           "c) En el hospital, se le impide al paciente utilizar determinados recursos a los que acudir\u00eda un enfermo no hospitalizado",
           "d) El paciente en la situaci\u00f3n de desamparo buscar\u00e1 m\u00e1s activamente mejorar su condici\u00f3n y le costar\u00e1 menos trabajo decidir sobre su propio"
       ],
-      "verdadera": "d) El paciente en la situaci\u00f3n de desamparo buscar\u00e1 m\u00e1s activamente mejorar su condici\u00f3n y le costar\u00e1 menos trabajo decidir sobre su propio"
+      "verdadera": 4
   },
   {
       "enunciado": "Seg\u00fan Rodr\u00edguez y Zurriaga, son factores personales importantes la inteligencia, las destrezas del lenguaje, las defensas psicol\u00f3gicas, las variables de personalidad, el estatus socioecon\u00f3mico, la posici\u00f3n social, la extensi\u00f3n y disponibilidad del apoyo social, los medios econ\u00f3micos… Estos factores influyen en la valoraci\u00f3n de la siguiente forma:",
@@ -6508,7 +6508,7 @@
           "c) Proporcionando las bases para evaluar los resultados",
           "d) Todas son correctas"
       ],
-      "verdadera": "d) Todas son correctas"
+      "verdadera": 4
   },
   {
       "enunciado": "Seg\u00fan Rodr\u00edguez y Zurriaga hay 3 formas b\u00e1sicas de negaci\u00f3n:",
@@ -6518,7 +6518,7 @@
           "c) Negaci\u00f3n subjetiva, negaci\u00f3n objetiva y negaci\u00f3n causal",
           "d) Negaci\u00f3n causal, negaci\u00f3n de los hechos y negaci\u00f3n del significado de los hechos"
       ],
-      "verdadera": "a) Negaci\u00f3n de los hechos, negaci\u00f3n del significado de los hechos y negaci\u00f3n de nuestro estado emocional"
+      "verdadera": 1
   },
   {
       "enunciado": "La conducta de enfermedad pasa por las siguientes fases:",
@@ -6528,7 +6528,7 @@
           "c) Previa, asunci\u00f3n del rol de enfermo, negaci\u00f3n/asimilaci\u00f3n de la enfermedad y recuperaci\u00f3n/asunci\u00f3n del papel de paciente cr\u00f3nico.",
           "d) Inicial, asimilaci\u00f3n de la enfermedad, b\u00fasqueda de asistencia t\u00e9cnica, desarrollo de la enfermedad y recuperaci\u00f3n del enfermo."
       ],
-      "verdadera": "b) Inicial, asunci\u00f3n del papel de enfermo, b\u00fasqueda de asistencia t\u00e9cnica, asunci\u00f3n del papel de paciente y recuperaci\u00f3n/asunci\u00f3n del papel de paciente cr\u00f3nico."
+      "verdadera": 2
   },
   {
       "enunciado": "Para Rodr\u00edguez Mar\u00edn, una de las consecuencias del ingreso de un enfermo en el hospital es:",
@@ -6538,7 +6538,7 @@
           "c) Separaci\u00f3n brusca del marco social habitual, especialmente de la familia y del trabajo",
           "d) Todas son correctas"
       ],
-      "verdadera": "d) Todas son correctas"
+      "verdadera": 4
   },
   {
       "enunciado": "¿En qu\u00e9 respuesta de adaptaci\u00f3n el paciente intenta escapar del hospital, pero como su movilidad est\u00e1 controlada, la retirada es sobre todo psicol\u00f3gica?",
@@ -6548,7 +6548,7 @@
           "c) En la regresi\u00f3n",
           "d) En la desintegraci\u00f3n"
       ],
-      "verdadera": "c) En la regresi\u00f3n"
+      "verdadera": 3
   },
   {
       "enunciado": "Para la delimitaci\u00f3n del \u00e1mbito territorial de cada ZBS se tendr\u00e1n en cuenta criterios:",
@@ -6558,7 +6558,7 @@
           "c) Sociales",
           "d) Cualitativos"
       ],
-      "verdadera": "c) Sociales"
+      "verdadera": 3
   },
   {
       "enunciado": "Como norma general, una ZBS abarcar\u00e1 una poblaci\u00f3n comprendida:",
@@ -6568,7 +6568,7 @@
           "c) 5.000 y 40.000 habitantes",
           "d) 25.000 y 100.000 habitantes"
       ],
-      "verdadera": "a) 5.000 y 25.000 habitantes"
+      "verdadera": 1
   },
   {
       "enunciado": "La participaci\u00f3n en los programas de salud mental, laboral y ambiental es:",
@@ -6578,7 +6578,7 @@
           "c) Una de las directrices de actuaci\u00f3n del EAP",
           "d) Una de las funciones del EAP"
       ],
-      "verdadera": "d) Una de las funciones del EAP"
+      "verdadera": 4
   },
   {
       "enunciado": "Los municipios que no son cabecera de la ZBS:",
@@ -6588,7 +6588,7 @@
           "c) Garantizan la asistencia de su poblaci\u00f3n con el centro de salud del municipio cabecera",
           "d) Garantizan la asistencia de su poblaci\u00f3n en el correspondiente ambulatorio de zona"
       ],
-      "verdadera": "b) Disponen de su propio centro de AP"
+      "verdadera": 2
   },
   {
       "enunciado": "El personal de los centros de salud depende funcionalmente del:",
@@ -6598,7 +6598,7 @@
           "c) Director de programas",
           "d) Coordinador m\u00e9dico del equipo"
       ],
-      "verdadera": "d) Coordinador m\u00e9dico del equipo"
+      "verdadera": 4
   },
   {
       "enunciado": "Se\u00f1ale la definici\u00f3n correcta de centro de salud:",
@@ -6608,7 +6608,7 @@
           "c) Instituci\u00f3n sanitaria totalmente jerarquizada y provista de servicios capaces de realizar una asistencia ambulatoria completa a la poblaci\u00f3n protegida por el SNS que le ha sido derivada en funci\u00f3n de las exigencias emanadas de razones asistenciales objetivas",
           "d) Instituci\u00f3n sanitaria en la que solo se ofrece asistencia especializada en r\u00e9gimen ambulatorio"
       ],
-      "verdadera": "a) La estructura f\u00edsica y funcional que permite el adecuado desarrollo de una atenci\u00f3n primaria de salud coordinada globalmente, integral, permanente y continuada, y con base en el trabajo de equipo de los profesionales sanitarios y no sanitarios que act\u00faan en el mismo"
+      "verdadera": 1
   },
   {
       "enunciado": "Forma parte del EAP",
@@ -6628,7 +6628,7 @@
           "c) El r\u00e9gimen disciplinario",
           "d) El r\u00e9gimen patrimonial"
       ],
-      "verdadera": "b) El r\u00e9gimen asistencial"
+      "verdadera": 2
   },
   {
       "enunciado": "Cuando una ZBS est\u00e1 constituida por varios municipios:",
@@ -6638,7 +6638,7 @@
           "c) Se constituir\u00e1 un EAP en cada municipio",
           "d) Se fijar\u00e1 un municipio cabecera en el que se ubicar\u00e1 el \u00fanico centro de atenci\u00f3n primaria que le corresponde a la ZBS"
       ],
-      "verdadera": "a) Se fijar\u00e1 un municipio cabecera en el que se ubicar\u00e1 el centro de salud"
+      "verdadera": 1
   },
   {
       "enunciado": "El centro de salud del municipio cabecera de la ZBBS no debe distar del resto de los municipios de la zona:",
@@ -6648,7 +6648,7 @@
           "c) M\u00e1s de 30 minutos con los medios habituales de locomoci\u00f3n",
           "d) M\u00e1s de 30 minutos seg\u00fan la velocidad de traslado de una ambulancia"
       ],
-      "verdadera": "c) M\u00e1s de 30 minutos con los medios habituales de locomoci\u00f3n"
+      "verdadera": 3
   }
     ]
 }
