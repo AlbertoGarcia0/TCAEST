@@ -1,0 +1,334 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Toda sustancia empleada en la fabricaci\u00f3n de un medicamento, ya permanezca inalterada, se modifique o desaparezca en el transcurso del proceso, se llama:",
+            "respuestas": [
+                "a) Excipiente.",
+                "b) Coadyuvante.",
+                "c) Materia prima.",
+                "d) Principio activo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfMediante qu\u00e9 normativa de estas se aprueba el texto refundido de la Ley de garant\u00edas y uso racional de los medicamentos y productos sanitarios?",
+            "respuestas": [
+                "a) Real Decreto 213/2010.",
+                "b) Ley 15/1999.",
+                "c) Ley 41/2002.",
+                "d) Real Decreto Legislativo 1/2015."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina al componente de un medicamento distinto del principio activo y del material de acondicionamiento?",
+            "respuestas": [
+                "a) Principio activo.",
+                "b) Coadyuvante.",
+                "c) Excipiente.",
+                "d) Principio pasivo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los medicamentos fotosensibles son aquellos que deben conservarse:",
+            "respuestas": [
+                "a) En la luz.",
+                "b) En el frigor\u00edfico.",
+                "c) En el congelador.",
+                "d) En la oscuridad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 rama de la farmacolog\u00eda trata el estudio y caracter\u00edsticas f\u00edsico-qu\u00edmicas de las materias primas o principios activos de origen biol\u00f3gico destinadas a la preparaci\u00f3n del f\u00e1rmaco?",
+            "respuestas": [
+                "a) Farmacodinamia.",
+                "b) Farmacognosia.",
+                "c) Farmacocin\u00e9tica.",
+                "d) Farmacotecnia."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medicaci\u00f3n se emplea en la prevenci\u00f3n de enfermedades?",
+            "respuestas": [
+                "a) Analg\u00e9sicos.",
+                "b) Antibioticos.",
+                "c) Vacunas.",
+                "d) Anticatarrales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Es sin\u00f3nimo de farmacia gal\u00e9nica:",
+            "respuestas": [
+                "a) Farmacodinamia.",
+                "b) Farmacognosia.",
+                "c) Farmacocin\u00e9tica.",
+                "d) Farmacotecnia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 parte de la farmacolog\u00eda estudia los mecanismos de acci\u00f3n y efectos de los f\u00e1rmacos en el organismo?",
+            "respuestas": [
+                "a) Farmacoterapia.",
+                "b) Farmacocin\u00e9tica.",
+                "c) Farmacodin\u00e1mica.",
+                "d) Farmacognosia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las siglas LADME de un medicamento tiene que ver con su:",
+            "respuestas": [
+                "a) Farmacodinamia.",
+                "b) Farmacocin\u00e9tica.",
+                "c) Farmacognosia.",
+                "d) Farmacotecnia."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la v\u00eda de administraci\u00f3n de un f\u00e1rmaco donde este llevar\u00e1 a cabo su absorci\u00f3n a trav\u00e9s del est\u00f3mago e intestino?",
+            "respuestas": [
+                "a) V\u00eda oral.",
+                "b) V\u00eda parenteral.",
+                "c) V\u00eda t\u00f3pica.",
+                "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El efecto primario pretendido, es decir, la raz\u00f3n por la cual se prescribe el f\u00e1rmaco, con una dosis m\u00ednima eficaz es el efecto:",
+            "respuestas": [
+                "a) Secundario.",
+                "b) Lateral.",
+                "c) Terap\u00e9utico.",
+                "d) Adverso."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medicamentos no se presentan en forma farmac\u00e9utica l\u00edquida?",
+            "respuestas": [
+                "a) Suspensiones.",
+                "b) Emulsiones.",
+                "c) Cremas.",
+                "d) Todas son formas l\u00edquidas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas no consideras una forma s\u00f3lida de medicamentos?",
+            "respuestas": [
+                "a) Polvos.",
+                "b) Comprimidos.",
+                "c) Supositorios.",
+                "d) Son todas formas s\u00f3lidas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medicamento se presenta de forma farmac\u00e9utica l\u00edquida?",
+            "respuestas": [
+                "a) Elixires.",
+                "b) Pastas.",
+                "c) Linimentos.",
+                "d) Ung\u00fcentos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina a un efecto farmacol\u00f3gico no deseado?",
+            "respuestas": [
+                "a) Reacci\u00f3n coadyuvante.",
+                "b) Interacci\u00f3n medicamentosa.",
+                "c) Reacci\u00f3n adversa.",
+                "d) Reacci\u00f3n yatrog\u00e9nica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina introducir el f\u00e1rmaco en el organismo?",
+            "respuestas": [
+                "a) A la absorci\u00f3n.",
+                "b) A la inyecci\u00f3n.",
+                "c) A la administraci\u00f3n.",
+                "d) Nada de lo anterior."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La administraci\u00f3n de f\u00e1rmacos por v\u00eda oral es siempre una prescripci\u00f3n:",
+            "respuestas": [
+                "a) Enfermera oral.",
+                "b) Enfermera escrita.",
+                "c) M\u00e9dica oral.",
+                "d) M\u00e9dica escrita."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l suele ser un inconveniente de la administraci\u00f3n de f\u00e1rmacos por v\u00eda oral?",
+            "respuestas": [
+                "a) Son inc\u00f3modos.",
+                "b) Son caros.",
+                "c) Son de absorci\u00f3n lenta.",
+                "d) Son inseguros."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el motivo de la r\u00e1pida absorci\u00f3n en la v\u00eda sublingual?",
+            "respuestas": [
+                "a) La medicaci\u00f3n empleada.",
+                "b) Lo cerca que est\u00e1 del coraz\u00f3n.",
+                "c) Por ser una zona de amplia vascularizaci\u00f3n.",
+                "d) Es realmente una v\u00eda lenta de absorci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Despu\u00e9s de la aplicaci\u00f3n de pomadas oculares para permitir que la medicaci\u00f3n se extienda y pueda absorberse, se deber\u00e1 mantener los p\u00e1rpados cerrados durante:",
+            "respuestas": [
+                "a) 5 a 10 segundos.",
+                "b) 15 a 20 segundos.",
+                "c) 20 a 30 segundos.",
+                "d) 1 a 2 minutos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo se deben desechar inmediatamente las gotas \u00f3ticas?",
+            "respuestas": [
+                "a) Si est\u00e1n caducadas.",
+                "b) Si presenta sedimentos.",
+                "c) Si la soluci\u00f3n est\u00e1 decolorada.",
+                "d) En todos los casos anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los parches de estr\u00f3genos o de nitroglicerina utilizan la v\u00eda:",
+            "respuestas": [
+                "a) T\u00f3pica general.",
+                "b) Transd\u00e9rmica.",
+                "c) Intrad\u00e9rmica.",
+                "d) Oral."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 administraci\u00f3n no es t\u00f3pica?",
+            "respuestas": [
+                "a) Administraci\u00f3n de gotas nasales.",
+                "b) Administraci\u00f3n de pomadas oculares.",
+                "c) Administraci\u00f3n de inhaladores.",
+                "d) Administraci\u00f3n de gotas \u00f3ticas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 v\u00eda no es parenteral directa?",
+            "respuestas": [
+                "a) V\u00eda intravenosa.",
+                "b) V\u00eda intralinf\u00e1tica.",
+                "c) V\u00eda intraarticular.",
+                "d) V\u00eda intraarterial."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 v\u00eda parenteral se emplea cuando se aplican dosis grandes de hasta 5 ml depositando la sustancia en la profundidad del tejido muscular?",
+            "respuestas": [
+                "a) V\u00eda subcut\u00e1nea.",
+                "b) V\u00eda intra\u00f3sea.",
+                "c) V\u00eda intrad\u00e9rmica.",
+                "d) V\u00eda intramuscular."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 zona es desaconsejable en la perfusi\u00f3n venosa por riesgo de tromboflebitis?",
+            "respuestas": [
+                "a) Brazo.",
+                "b) Extremidades inferiores.",
+                "c) Fosa antecubital.",
+                "d) Porci\u00f3n inferior del antebrazo y de la mano."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas no es una complicaci\u00f3n local de la punci\u00f3n venosa?",
+            "respuestas": [
+                "a) Shock.",
+                "b) Hematoma.",
+                "c) Flebitis.",
+                "d) Extravasaci\u00f3n de la perfusi\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntas gotas de perfusi\u00f3n hay en 2,5 cc?",
+            "respuestas": [
+                "a) 25.",
+                "b) 45.",
+                "c) 50.",
+                "d) 100."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La prueba de la tuberculina o Mantoux se realiza por v\u00eda:",
+            "respuestas": [
+                "a) Venosa.",
+                "b) Cut\u00e1nea.",
+                "c) Intrad\u00e9rmica.",
+                "d) Subcut\u00e1nea."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 v\u00eda consiste en aplicar medicamentos mediante inyecci\u00f3n en el tejido celular subcut\u00e1neo?",
+            "respuestas": [
+                "a) V\u00eda subcut\u00e1nea.",
+                "b) V\u00eda adiposa.",
+                "c) V\u00eda subd\u00e9rmica.",
+                "d) Son ciertas las respuestas a) y c)."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfPara qu\u00e9 se utiliza normalmente la v\u00eda intraperitoneal?",
+            "respuestas": [
+                "a) Para evacuar el ac\u00famulo del l\u00edquido.",
+                "b) Para limpiar el espacio pleura.",
+                "c) Para introducir gas.",
+                "d) Para introducir nutrici\u00f3n parenteral."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el \u00e1rea del servicio de farmacia donde se almacenan y conservan los medicamentos seg\u00fan sus caracter\u00edsticas para cubrir las demandas del centro?",
+            "respuestas": [
+                "a) \u00c1rea de almacenamiento y conservaci\u00f3n de medicamentos.",
+                "b) \u00c1rea de dispensaci\u00f3n farmacol\u00f3gica.",
+                "c) \u00c1rea de farmacotecnia.",
+                "d) \u00c1rea de nutrici\u00f3n artificial."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La temperatura de conservaci\u00f3n de los medicamentos termol\u00e1biles debe estar comprendida entre:",
+            "respuestas": [
+                "a) (-2) -1 \u00b0C.",
+                "b) De 2 a 8 \u00b0C.",
+                "c) De 6 a 10 \u00b0C.",
+                "d) De 8 a 14 \u00b0C."
+            ],
+            "verdadera": 2
+        }
+    ]
+}

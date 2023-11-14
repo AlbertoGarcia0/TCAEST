@@ -1,0 +1,244 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "La sonda o cat\u00e9ter nasal se introduce por la fosa nasal hasta:",
+            "respuestas": [
+                "a) La nasofaringe.",
+                "b) La orofaringe.",
+                "c) La laringe.",
+                "d) La tr\u00e1quea."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 debe ser igual la presi\u00f3n durante la inspiraci\u00f3n (IPAP)?",
+            "respuestas": [
+                "a) Debe ser igual a la presi\u00f3n durante la espiraci\u00f3n, consigui\u00e9ndose una presi\u00f3n positiva al final de la espiraci\u00f3n.",
+                "b) Debe ser igual a la presi\u00f3n del aire corriente sumado a la presi\u00f3n del volumen residual.",
+                "c) Debe ser igual a la presi\u00f3n del volumen residual, consigui\u00e9ndose una presi\u00f3n positiva al final de la espiraci\u00f3n.",
+                "d) Debe ser igual a la presi\u00f3n del volumen residual y presi\u00f3n de m\u00e1s al realizar inspiraci\u00f3n forzada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n colocar\u00e1 al paciente el TCAE por requerimiento del facultativo como ayuda a una intubaci\u00f3n endotraqueal del enfermo?",
+            "respuestas": [
+                "a) Posici\u00f3n de Roser.",
+                "b) Posici\u00f3n de Morestin.",
+                "c) Posici\u00f3n de Trendelenburg.",
+                "d) Posici\u00f3n de Fowler."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEntre qu\u00e9 anillos traqueales se realiza orificio quir\u00fargico en una traqueotom\u00eda?",
+            "respuestas": [
+                "a) Entre los anillos traqueales primero y segundo.",
+                "b) Entre los anillos traqueales segundo y tercero.",
+                "c) Entre los anillos traqueales cuarto y quinto.",
+                "d) Entre los anillos traqueales sexto y s\u00e9ptimo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 datos nos indica la cantidad de bicarbonato disuelto en sangre en una gasometr\u00eda?",
+            "respuestas": [
+                "a) PaO2",
+                "b) HCO3",
+                "\u0441) \u0420\u0430\u0421\u041e2",
+                "d) pH"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el f\u00e1rmaco m\u00e1s empleado en la aerosolterapia?",
+            "respuestas": [
+                "a) Salbutamol.",
+                "b) Budesonida.",
+                "c) Bromuro de ipratropio.",
+                "d) Teofilina."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modalidad de traqueotom\u00eda es menos cruenta, menos compleja y que reduce posteriormente de forma importante el riesgo de estenosis traqueal? Traqueotom\u00eda...",
+            "respuestas": [
+                "a) Reglada.",
+                "b) Urgente.",
+                "c) Percut\u00e1nea.",
+                "d) Translaringea."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El ventimask es:",
+            "respuestas": [
+                "a) Una mascarilla oronasal.",
+                "b) Unas gafas nasales.",
+                "c) Una tienda de ox\u00edgeno.",
+                "d) Una campana de ox\u00edgeno."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El ox\u00edgeno se administra habitualmente a los enfermos:",
+            "respuestas": [
+                "a) Ox\u00edgeno gaseoso",
+                "b) En estado puro.",
+                "c) Humidificado.",
+                "d) Con anh\u00eddrido carb\u00f3nico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La oxigenoterapia est\u00e1 indicada en:",
+            "respuestas": [
+                "a) Insuficiencia respiratoria.",
+                "b) Intoxicaciones por gases bloqueantes de la hematosis.",
+                "c) Situaciones de asfixia.",
+                "d) Todos los casos anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las balas de ox\u00edgeno:",
+            "respuestas": [
+                "a) Contienen ox\u00edgeno a presi\u00f3n superior a la atm\u00f3sfera.",
+                "b) Son de diferentes tama\u00f1os.",
+                "c) Constituyen el sistema m\u00e1s utilizado a la cabecera del paciente en grandes hospitales.",
+                "d) Las respuestas a) y b) son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El frasco humidificador:",
+            "respuestas": [
+                "a) Contiene agua destilada.",
+                "b) Contiene aire solamente.",
+                "c) No es necesario utilizarlo cuando se toma el ox\u00edgeno de la Central de Ox\u00edgeno.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Las bombonas o balas de ox\u00edgeno utilizadas en oxigenoterapia contiene el gas a:",
+            "respuestas": [
+                "a) Una presi\u00f3n igual a la atmosf\u00e9rica.",
+                "b) Una presi\u00f3n menor a la atmosf\u00e9rica.",
+                "c) Una presi\u00f3n mayor a la atmosf\u00e9rica.",
+                "d) Una presi\u00f3n m\u00ednima."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes dispositivos de administraci\u00f3n produce la concentraci\u00f3n de ox\u00edgeno m\u00e1s alta?",
+            "respuestas": [
+                "a) Mascarilla Venturi.",
+                "b) Mascarilla con bolsa de reservorio.",
+                "c) Mascarilla de traqueotom\u00eda.",
+                "d) Mascarilla oronasal de no reinhalaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La tienda de ox\u00edgeno se usa:",
+            "respuestas": [
+                "a) En adultos sobre todo.",
+                "b) En ni\u00f1os peque\u00f1os.",
+                "c) Cuando interesa que quede fuera de la tienda el resto de cuerpo.",
+                "d) En todos los casos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las mascarillas de administraci\u00f3n de ox\u00edgeno est\u00e1n preparadas para administrar una concentraci\u00f3n que puede oscilar entre:",
+            "respuestas": [
+                "a) 24-40%.",
+                "b) 28-30%.",
+                "c) 30-33%.",
+                "d) 33-36%."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Para evitar accidentes durante la administraci\u00f3n de ox\u00edgeno hay que tomar, entre otras, algunas medidas importantes. \u00bfCu\u00e1l de ellas considera que no es necesaria?",
+            "respuestas": [
+                "a) Evitar fumar al lado del paciente.",
+                "b) Controlar la temperatura de la habitaci\u00f3n.",
+                "c) Ajustar el flujo, humedad y concentraci\u00f3n de ox\u00edgeno a lo que ha prescrito el facultativo.",
+                "d) Todas son necesarias."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de ventilaci\u00f3n mec\u00e1nica no invasiva posibilita una presi\u00f3n positiva continua en las v\u00edas respiratorias sin utilizar un ventilador?",
+            "respuestas": [
+                "a) BIPAP.",
+                "b) CPAP.",
+                "c) NIPSV.",
+                "d) PEEP."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El tama\u00f1o del tubo que empleamos en intubaci\u00f3n orotraqueal est\u00e1 codificado por n\u00fameros; \u00bfcu\u00e1l es el tama\u00f1o normal que se utiliza en el var\u00f3n?",
+            "respuestas": [
+                "a) 7,5.",
+                "b) 8.",
+                "c) 8,5.",
+                "d) 9."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes aparatos es utilizado para la intubaci\u00f3n?",
+            "respuestas": [
+                "a) Oftalmoscopio.",
+                "b) Rinoscopio.",
+                "c) Laringoscopio.",
+                "d) Otoscopio."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El drenaje postural:",
+            "respuestas": [
+                "a) Es la implantaci\u00f3n de un cat\u00e9ter en el espacio pleural.",
+                "b) Se emplea en pacientes con exceso de volumen circulante.",
+                "c) S\u00f3lo lo puede realizar el m\u00e9dico especialista.",
+                "d) Se utiliza para la eliminaci\u00f3n de secreciones traqueobronquiales."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Cuando se produce una elevaci\u00f3n de la cantidad de di\u00f3xido de carbono en la sangre por encima de los valores normales, se denomina:",
+            "respuestas": [
+                "a) Hipocapnia.",
+                "b) Hiperoxia.",
+                "c) Hipercapnia.",
+                "d) Fiperoxia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes caracter\u00edsticas se corresponde con la acidosis metab\u00f3lica?",
+            "respuestas": [
+                "a) Una concentraci\u00f3n de bicarbonato baja y un pH bajo.",
+                "b) Una concentraci\u00f3n de bicarbonato baja y un pH alto.",
+                "c) Una concentraci\u00f3n de bicarbonato alta y un pH bajo.",
+                "d) Una concentraci\u00f3n de bicarbonato alta y un pH alto."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes caracter\u00edsticas se corresponde con la alcalosis metab\u00f3lica?",
+            "respuestas": [
+                "a) Una concentraci\u00f3n de bicarbonato baja y un pH bajo.",
+                "b) Una concentraci\u00f3n de bicarbonato baja y un pH alto.",
+                "c) Una concentraci\u00f3n de bicarbonato alta y un pH bajo.",
+                "d) Una concentraci\u00f3n de bicarbonato alta y un pH alto."
+            ],
+            "verdadera": 4
+        }
+    ]
+}

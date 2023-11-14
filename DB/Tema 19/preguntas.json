@@ -1,0 +1,354 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 lesi\u00f3n de la piel es primaria?",
+            "respuestas": [
+                "a) Escama.",
+                "b) Costra.",
+                "c) Hab\u00f3n.",
+                "d) \u00dalcera."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 lesi\u00f3n elemental de la piel no es primaria?",
+            "respuestas": [
+                "a) P\u00fastula.",
+                "b) Tumor.",
+                "c) Ves\u00edcula.",
+                "d) \u00dalcera."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 lesi\u00f3n es aquella que se manifiesta como una induraci\u00f3n de la piel con p\u00e9rdida de su elasticidad, provocada fundamentalmente por fibrosis de la dermis?",
+            "respuestas": [
+                "a) Liquenificaci\u00f3n.",
+                "b) Esclerosis.",
+                "c) Excoriaci\u00f3n.",
+                "d) Quiste."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se puede denominar tambi\u00e9n al acn\u00e9?",
+            "respuestas": [
+                "a) Acn\u00e9 vulgar.",
+                "b) Acn\u00e9 juvenil.",
+                "c) Acn\u00e9 polimorfo.",
+                "d) Son v\u00e1lidas todas las anteriores formas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 enfermedad de la piel posee un componente etiol\u00f3gico familiar?",
+            "respuestas": [
+                "a) Psoriasis.",
+                "b) Herpes simple.",
+                "c) Herpes z\u00f3ster.",
+                "d) Pediculosis."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afecci\u00f3n de la piel de estas pertenece al grupo de las piodermitis y es de origen bacteriano?",
+            "respuestas": [
+                "a) For\u00fanculo.",
+                "b) Herpes simple.",
+                "c) Ti\u00f1a cut\u00e1nea.",
+                "d) Dermatofitosis."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los dermatofitos producen:",
+            "respuestas": [
+                "a) Psoriasis.",
+                "b) Pediculosis.",
+                "c) Tinas.",
+                "d) \u00c1ntrax."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la piodermitis que afecta al fol\u00edculo piloso y zonas adyacentes?",
+            "respuestas": [
+                "a) Herpes z\u00f3ster.",
+                "b) Pediculosis.",
+                "c) Ros\u00e1cea.",
+                "d) For\u00fanculo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 cuesti\u00f3n no es cierta en la recogida de excretas?",
+            "respuestas": [
+                "a) Las mujeres pueden usar las cu\u00f1as, tanto para miccionar como para defecar.",
+                "b) Las cu\u00f1as empleadas fundamentalmente en recogida de excretas son de pl\u00e1stico o acero.",
+                "c) El procedimiento del uso de la cu\u00f1a no tiene por qu\u00e9 explicarlo el TCAE.",
+                "d) Hay cu\u00f1as especiales para pacientes traumatizados, siendo generalmente de menor altura para favorecer su colocaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La queratosis act\u00ednica degenera maligniz\u00e1ndose en un 20% de casos a c\u00e1nceres:",
+            "respuestas": [
+                "a) Espinocelulares o escamosos.",
+                "b) Sarcomas.",
+                "c) Melanomas.",
+                "d) C\u00e1nceres basocelulares."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 cuesti\u00f3n no se pretende con un correcto aseo del paciente?",
+            "respuestas": [
+                "a) Conservar el buen estado de la piel, eliminando la suciedad, el mal olor y el sudor.",
+                "b) Cubrir parte de las necesidades de seguridad del paciente al prevenir la aparici\u00f3n de infecciones.",
+                "c) Refrescar al paciente, para que sienta sensaci\u00f3n de confort y bienestar.",
+                "d) Evitar la necesidad de aseo en los genitales varias veces al d\u00eda, debido a su efecto yatrog\u00e9nico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 material se incluir\u00eda como elemento de protecci\u00f3n respecto a la higiene de la piel?",
+            "respuestas": [
+                "a) Ropa del enfermo.",
+                "b) S\u00e1bana peque\u00f1a.",
+                "c) Palangana.",
+                "d) Cu\u00f1a."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El orinal plano es un material o elemento de:",
+            "respuestas": [
+                "a) Evacuaci\u00f3n.",
+                "b) Protecci\u00f3n.",
+                "c) Lavado.",
+                "d) Recambio."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La zona del lavado de genitales externos del paciente se debe hacer con:",
+            "respuestas": [
+                "a) Jab\u00f3n l\u00edquido y agua.",
+                "b) Antis\u00e9ptico no irritante y agua.",
+                "c) Antis\u00e9ptico irritante y agua.",
+                "d) Antis\u00e9ptico no irritante y jab\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La uña encarnada se denomina tambi\u00e9n:",
+            "respuestas": [
+                "a) Onicofagia.",
+                "b) Onicocriptosis.",
+                "c) Onicomicosis.",
+                "d) Onicomalacia."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n es incorrecta del vestido y desvestido del enfermo?",
+            "respuestas": [
+                "a) Al paciente hay que taparlo con una toalla o con la s\u00e1bana a la hora de desnudarlo.",
+                "b) El camis\u00f3n se retira por la cadera, hasta miembros inferiores, sac\u00e1ndolo por debajo de los pies.",
+                "c) El TCAE debe colocarse guantes para realizar este procedimiento.",
+                "d) La chaqueta del pijama se desabrocha y se saca primero un brazo y despu\u00e9s el otro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 temperatura debe estar el agua del ba\u00f1o del reci\u00e9n nacido?",
+            "respuestas": [
+                "a) A 20 \u00b0C.",
+                "b) A 25 \u00b0C.",
+                "c) \u00c0 30 \u00b0C.",
+                "d) A 35 \u00b0C."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La temperatura ambiental del lugar donde se ubica el reci\u00e9n nacido debe ser en torno a los:",
+            "respuestas": [
+                "a) 15 \u00b0C.",
+                "b) 20 \u00b0C.",
+                "c) 25 \u00b0C.",
+                "d) 30 \u00b0C."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todo lo que se expone de la ropa hospitalaria infantil es cierto, excepto que:",
+            "respuestas": [
+                "a) Debe ser holgada y c\u00f3moda, que permita una adecuada movilidad al ni\u00f1o.",
+                "b) Su composici\u00f3n debe ser natural, evitando prendas sint\u00e9ticas que perjudican la piel del ni\u00f1o.",
+                "c) Debe llevar botones como medio de ajuste, para que no se le caiga y pase fr\u00edo.",
+                "d) Ha de ser f\u00e1cil de poner y quitar."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todo lo que se dice de la cuna del reci\u00e9n nacido es cierto excepto que:",
+            "respuestas": [
+                "a) Debe poseer balanceo, para dormir al ni\u00f1o.",
+                "b) Debe ser fija.",
+                "c) Debe poseer ruedas, para su potencial desplazamiento.",
+                "d) No debe contener mucha ropa."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se debe proceder con los pacientes tetrapl\u00e9jicos para realizar su higiene de la zona posterior?",
+            "respuestas": [
+                "a) Nunca deben levantarse.",
+                "b) Levant\u00e1ndolos en bloque.",
+                "c) En la posici\u00f3n de dec\u00fabito lateral derecho.",
+                "d) En la posici\u00f3n de dec\u00fabito lateral izquierdo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 debe vigilar el ATS/DUE durante la realizaci\u00f3n de la higiene del paciente asistido con ventilaci\u00f3n artificial?",
+            "respuestas": [
+                "a) Su estado an\u00edmico.",
+                "b) Los sistemas y conexiones del respirador, as\u00ed como los tubos y c\u00e1nulas.",
+                "c) La frecuencia card\u00edaca y dem\u00e1s constantes vitales.",
+                "d) Nada de lo antes mencionado tiene inter\u00e9s."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los enemas oleosos o emolientes deben ir a la temperatura de:",
+            "respuestas": [
+                "a) 25 \u00b0C.",
+                "b) 28 \u00b0C.",
+                "c) 30 \u00b0C.",
+                "d) 37 \u00b0C."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para poder realizar un estudio radiol\u00f3gico del intestino grueso emplearemos un enema:",
+            "respuestas": [
+                "a) Medicamentoso.",
+                "b) Opaco.",
+                "c) De Harris.",
+                "d) De Murphy."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas es una raz\u00f3n para aplicar un enema en un paciente con colostom\u00eda?",
+            "respuestas": [
+                "a) Preparaci\u00f3n para cirug\u00eda.",
+                "b) Evacuaci\u00f3n en caso de estre\u00f1imiento.",
+                "c) Preparaci\u00f3n para pruebas radiol\u00f3gicas.",
+                "d) Son todas las anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas es una ostom\u00eda de eliminaci\u00f3n?",
+            "respuestas": [
+                "a) Gastrostom\u00eda.",
+                "b) Yeyunostom\u00eda.",
+                "c) Cecostom\u00eda.",
+                "d) Esofagostom\u00eda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la urostom\u00eda que deriva la orina desvi\u00e1ndola de la pelvis renal mediante un cat\u00e9ter hacia un flanco del cuerpo a trav\u00e9s de una incisi\u00f3n?",
+            "respuestas": [
+                "a) Nefrostom\u00eda.",
+                "b) Ureteroileostom\u00eda.",
+                "c) Citostomia.",
+                "d) Ureterosigmoidostom\u00eda."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el procedimiento de introducci\u00f3n de una sonda por la uretra hasta la vejiga de la orina?",
+            "respuestas": [
+                "a) Uretraci\u00f3n.",
+                "b) Extubaci\u00f3n uretral.",
+                "c) Sondaje vesical.",
+                "d) Intubaci\u00f3n vesical."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sondas de estas no es de una v\u00eda?",
+            "respuestas": [
+                "a) Malecot.",
+                "b) Pezzet.",
+                "c) Foley.",
+                "d) Robinson."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las sondas de dos v\u00edas de silicona se pueden cambiar hasta:",
+            "respuestas": [
+                "a) Los 3 d\u00edas.",
+                "b) Los 15 d\u00edas.",
+                "c) Las 3 semanas.",
+                "d) M\u00e1s de un mes."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sonda vesical se utiliza para facilitar el drenaje en hematuria (arrastrar co\u00e1gulos)?",
+            "respuestas": [
+                "a) De punta roma.",
+                "b) De punta olivar.",
+                "c) De punta en pico de flauta.",
+                "d) De punta en pico de loro."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 antis\u00e9ptico se emplea generalmente en el material necesario para el sondaje vesical?",
+            "respuestas": [
+                "a) Povidona fluorada.",
+                "b) Agua oxigenada.",
+                "c) Alcohol de 70\u00b0.",
+                "d) Clorhexidina."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 cantidad de agua destilada (en cc) hay que meter en el bal\u00f3n del que va provisto la sonda vesical en su extremo distal, una vez se ha introducido el cat\u00e9ter en la vejiga del var\u00f3n?",
+            "respuestas": [
+                "a) 1.",
+                "b) 5.",
+                "c) 10.",
+                "d) 20."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es lo primero que se realiza en el procedimiento de sondaje vesical en mujeres?",
+            "respuestas": [
+                "a) Tirar los guantes y ponerse unos est\u00e9riles.",
+                "b) Proporcionar intimidad.",
+                "c) Informar a la paciente de lo que se le va a hacer y para qu\u00e9.",
+                "d) Ayudar a la paciente a colocarse en dec\u00fabito supino con las rodillas flexionadas y los muslos rotados externamente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El cambio de sonda vesical, si es de l\u00e1tex, se ha de realizarse cada:",
+            "respuestas": [
+                "a) Cada semana.",
+                "b) 7-15 d\u00edas.",
+                "c) Dos meses.",
+                "d) Tres meses."
+            ],
+            "verdadera": 2
+        }
+    ]
+}
