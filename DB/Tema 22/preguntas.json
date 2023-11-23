@@ -1,0 +1,654 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 normativa de investigaci\u00f3n biom\u00e9dica define muestra biol\u00f3gica, como cualquier material biol\u00f3gico de origen humano susceptible de conservaci\u00f3n y que pueda albergar informaci\u00f3n sobre la dotaci\u00f3n gen\u00e9tica caracter\u00edstica de una persona?",
+            "respuestas": [
+                "a) Ley 14/2007.",
+                "b) Ley 22/2015.",
+                "c) Real Decreto 344/2009.",
+                "d) Real Decreto 431/2012."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Generalmente, cuando pretendemos identificar la presencia de g\u00e9rmenes en muestras biol\u00f3gicas estamos realizando un estudio:",
+            "respuestas": [
+                "a) Hematol\u00f3gico.",
+                "b) Inmunol\u00f3gico.",
+                "c) Microbiol\u00f3gico.",
+                "d) Bioqu\u00edmico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 tipo de muestras biol\u00f3gicas se realizan la mayor\u00eda de las pruebas de laboratorio?",
+            "respuestas": [
+                "a) L\u00edquidos corporales.",
+                "b) Exudados.",
+                "c) Tejidos.",
+                "d) Heces."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de envase se emplea para recoger la muestra resultante de una punci\u00f3n capilar?",
+            "respuestas": [
+                "a) Frascos de boca estrecha.",
+                "b) Hisopos.",
+                "c) Frascos de llenado por vac\u00edo.",
+                "d) Microtubos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 procedimiento de toma de muestra se emplea m\u00e1s habitualmente cuando estas se llevan a cabo tanto en orificios naturales como en heridas?",
+            "respuestas": [
+                "a) Mediante frasco de boca ancha.",
+                "b) Mediante hisopo.",
+                "c) Mediante bolsa de recogida de orina o an\u00e1logo.",
+                "d) Mediante frasco de boca estrecha."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medio evita la desecaci\u00f3n y muerte de los microorganismos recogidos con un hisopo est\u00e9ril?",
+            "respuestas": [
+                "a) El medio de Schwann.",
+                "b) El medio de Petri.",
+                "c) El medio de Stuart.",
+                "d) El medio de Lindor."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se puede hacer para evitar una excesiva proliferaci\u00f3n bacteriana en una toma de muestra y que as\u00ed no se altere sustancialmente su resultado anal\u00edtico?",
+            "respuestas": [
+                "a) Realizarla con premura, ya que no admite demora.",
+                "b) Refrigerando la muestra en los casos necesarios.",
+                "c) No se suele hacer nada en particular.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se debe identificar y comprobar antes de los procedimientos de toma de muestra?",
+            "respuestas": [
+                "a) Usuario al que se le van a realizar los procedimientos.",
+                "b) Impresos y protocolos de petici\u00f3n anal\u00edtica.",
+                "c) Requerimientos y preparaci\u00f3n previa del paciente.",
+                "d) Todo lo anterior."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la fase que abarca todos los procedimientos relacionados directamente con el procesamiento de la muestra?",
+            "respuestas": [
+                "a) Fase pre-anal\u00edtica.",
+                "b) Fase extra-anal\u00edtica.",
+                "c) Fase anal\u00edtica.",
+                "d) Fase post-anal\u00edtica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todo lo que se expone de la viscosidad de la sangre es cierto, excepto que:",
+            "respuestas": [
+                "a) La sangre posee viscosidad.",
+                "b) La sangre venosa es menos viscosa que la arterial, ya que posee m\u00e1s CO2 que la segunda.",
+                "c) La viscosidad de la sangre depende de su contenido en c\u00e9lulas y del tama\u00f1o de las mismas.",
+                "d) El aumento de los niveles normales de prote\u00ednas en sangre la hacen m\u00e1s viscosa."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfPara qu\u00e9 estudio se emplea el tubo donde se toma la muestra de sangre venosa con tap\u00f3n de color verde?",
+            "respuestas": [
+                "a) Hemograma.",
+                "b) Plaquetas en suero.",
+                "c) Inmunolog\u00eda y bioqu\u00edmica.",
+                "d) Estudios de velocidad de sedimentaci\u00f3n globular."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde se realiza la punci\u00f3n capilar?",
+            "respuestas": [
+                "a) En el pulpejo del dedo.",
+                "b) En el l\u00f3bulo de la oreja.",
+                "c) En la planta del pie (tal\u00f3n).",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Generalmente, para la extracci\u00f3n venosa, si el estudio a realizar es bioqu\u00edmico, el paciente debe estar en ayunas:",
+            "respuestas": [
+                "a) 4-6 horas.",
+                "b) 10-12 horas.",
+                "c) 12-24 horas.",
+                "d) M\u00e1s de 24 horas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal que realiza la t\u00e9cnica de extracci\u00f3n de sangre venosa es:",
+            "respuestas": [
+                "a) El facultativo.",
+                "b) El hem\u00e1tologo.",
+                "c) El diplomado de enfermer\u00eda.",
+                "d) El TCAE."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El test de Allen nos sirve para asegurar:",
+            "respuestas": [
+                "a) Que la arteria cubital irriga normalmente, si extraemos sangre de la arteria radial.",
+                "b) La circulaci\u00f3n adecuada de la regi\u00f3n de la mano, comprometida en la extracci\u00f3n.",
+                "c) Que la arteria humeral irriga normalmente, si extraemos sangre de la arteria radial.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 anticoagulante se emplea m\u00e1s habitualmente en los \u00fatiles y frascos empleados para las tomas de muestras sangu\u00edneas, esencialmente empleadas en gasometr\u00eda arterial?",
+            "respuestas": [
+                "a) Heparina.",
+                "b) Penicilina.",
+                "c) Metotrexate.",
+                "d) Clorh\u00eddrico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfPara qu\u00e9 se emplea la t\u00e9cnica de los tres vasos en recogida de orina?",
+            "respuestas": [
+                "a) Para detectar de d\u00f3nde proviene la infecci\u00f3n.",
+                "b) Para detectar de d\u00f3nde proviene la neoformaci\u00f3n.",
+                "c) Para detectar de d\u00f3nde proviene la hematuria.",
+                "d) Para cualquiera de lo indicado anteriormente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 puede deberse la presencia de una orina de coloraci\u00f3n negra o marr\u00f3n oscura en una muestra?",
+            "respuestas": [
+                "a) A sangre oculta.",
+                "b) A metahemoglobina o melanina o enfermo alcapton\u00farico.",
+                "c) A carboxihemoglobina o melatonina o enfermo de patolog\u00eda de Harnup.",
+                "d) A oxihemoglobina o melatonina."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancias se debe conservar la muestra de orina para urocultivo si no puede ser procesada inmediatamente?",
+            "respuestas": [
+                "a) Se debe de mantener a una temperatura de -5 \u00b0C, no m\u00e1s de 24 horas.",
+                "b) Se debe de mantener a una temperatura de 0 \u00b0C, no m\u00e1s de 24 horas.",
+                "c) Se debe de mantener a una temperatura de 4 \u00b0C, no m\u00e1s de 24 horas.",
+                "d) Se debe de mantener a una temperatura de 10 \u00b0C, no m\u00e1s de 48 horas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el estudio microbiol\u00f3gico de heces mediante cultivo?",
+            "respuestas": [
+                "a) Hemocultivo.",
+                "b) Urocultivo.",
+                "c) Coprocultivo.",
+                "d) Cultivo de Hiss."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La cantidad m\u00ednima necesaria de muestra de heces para que sea adecuada tiene que ser de:",
+            "respuestas": [
+                "a) 0,5 a 1 g.",
+                "b) 1 a 2 g.",
+                "c) 5 a 10 g.",
+                "d) 15 a 25 g."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 no debe tomarse o comer durante d\u00edas previos a un estudio de sangre oculta en heces para realizar adecuadamente el procedimiento de toma de muestra de la misma?",
+            "respuestas": [
+                "a) Aspirina.",
+                "b) Alimentos picantes.",
+                "c) Tomates y r\u00e1banos.",
+                "d) No debe tomarse nada de lo anterior."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 trastorno indica generalmente la presencia de unas heces blancas (acolia)?",
+            "respuestas": [
+                "a) Sospecha de sangrado del tracto superior gastrointestinal.",
+                "b) Sospecha de obstrucci\u00f3n biliar.",
+                "c) Sospecha de infecci\u00f3n intestinal.",
+                "d) Sospecha de alteraci\u00f3n perist\u00e1ltica a nivel intestinal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos d\u00edas se recomienda tomar las muestras de esputos si estas se van a emplear para estudio microbiol\u00f3gico?",
+            "respuestas": [
+                "a) Se recoger\u00e1n durante un d\u00eda, solo de ma\u00f1ana.",
+                "b) Se recoger\u00e1n durante un d\u00eda, tomando dos, una de ma\u00f1ana y otra de tarde.",
+                "c) Se recoger\u00e1n durante dos d\u00edas.",
+                "d) Se recoger\u00e1n durante tres d\u00edas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En la tuberculosis pulmonar el esputo es generalmente:",
+            "respuestas": [
+                "a) Seroso y sanguinolento.",
+                "b) Seroso y purulento.",
+                "c) Purulento y sanguinolento.",
+                "d) Purulento y mucoso."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Respecto a la toma de muestra de esputos todo lo que se expone es cierto, excepto que:",
+            "respuestas": [
+                "a) Se puede evitar la contaminaci\u00f3n de la muestra recomendando al enfermo que se lave la boca con soluci\u00f3n salina o agua templada antes de proceder a la recogida.",
+                "b) Se puede evitar la contaminaci\u00f3n de la muestra tomando antis\u00e9ptico justo antes de la toma de muestra.",
+                "c) La toma de muestra posee gran facilidad de contaminaci\u00f3n por la flora orofar\u00edngea.",
+                "d) Si es dif\u00edcil conseguir que el enfermo expectore, se le puede ayudar coloc\u00e1ndole en la posici\u00f3n m\u00e1s adecuada para el drenaje."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 circunstancia patol\u00f3gica condiciona generalmente la aparici\u00f3n de un v\u00f3mito extrag\u00e1strico?",
+            "respuestas": [
+                "a) Gastritis aguda.",
+                "b) C\u00e1ncer g\u00e1strico.",
+                "c) Apendicitis aguda.",
+                "d) Todos los est\u00edmulos an\u00f3malos son de origen extrag\u00e1strico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El \u00e1cido clorh\u00eddrico (HCl) es segregado por:",
+            "respuestas": [
+                "a) Las c\u00e9lulas principales del est\u00f3mago.",
+                "b) Las c\u00e9lulas ox\u00ednticas del est\u00f3mago.",
+                "c) Las c\u00e9lulas parietales del est\u00f3mago.",
+                "d) Las c\u00e9lulas clorh\u00eddricas del est\u00f3mago."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la cantidad de jugo g\u00e1strico que se segrega?",
+            "respuestas": [
+                "a) Suele ser m\u00ednima e inferior a 10 ml.",
+                "b) Suele ser m\u00ednima e inferior a 15 ml.",
+                "c) Suele ser m\u00ednima e inferior a 20 ml.",
+                "d) Suele ser m\u00ednima e inferior a 50 ml."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 volumen aproximado debe poseer m\u00ednimamente la muestra de exudado en heridas (en ml) si obviamente esta es l\u00edquida?",
+            "respuestas": [
+                "a) 1 a 10.",
+                "b) 5 a 20.",
+                "c) 15 a 30.",
+                "d) > 30."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Respecto a la toma de muestra de exudado de abscesos todo es cierto, excepto que:",
+            "respuestas": [
+                "a) El m\u00e9dico o enfermero llevar\u00e1 a cabo el procedimiento de toma de muestra.",
+                "b) El TCAE podr\u00e1 tambi\u00e9n llevar a cabo el procedimiento de toma de muestra y no se encargar\u00e1 de preparar el material necesario para la toma de la misma.",
+                "c) La cantidad m\u00ednima necesaria para que la muestra sea adecuada se encuentra entre 5 y 10 ml.",
+                "d) En caso de no ser posible el env\u00edo inmediato, se debe conservar en estufa a 35-37 \u00b0C y, si no existiese estufa, se mantiene a temperatura ambiente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medio de conservaci\u00f3n es el m\u00e1s inadecuado si es imposible el env\u00edo inmediato al laboratorio de una muestra de exudado de absceso?",
+            "respuestas": [
+                "a) Mantenerla a temperatura ambiente.",
+                "b) Mantenerla en estufa a 35-37 \u00b0C.",
+                "c) Refrigerarla.",
+                "d) Son todas formas apropiadas de conservaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 coloraciones presenta la xantocrom\u00eda en el LCR?",
+            "respuestas": [
+                "a) Coloraciones marr\u00f3n-verdosas.",
+                "b) Coloraciones amarillentas-ros\u00e1ceas.",
+                "c) Coloraciones azuladas.",
+                "d) Coloraciones viol\u00e1ceas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde se realiza la punci\u00f3n lumbar?",
+            "respuestas": [
+                "a) Entre la lumbar 1 y 2.",
+                "b) Entre la lumbar 2 y 3.",
+                "c) Entre la lumbar 3 y 4.",
+                "d) Solo se realiza en la v\u00e9rtebras dorsales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancias la presi\u00f3n del LCR estar\u00e1 disminuida?",
+            "respuestas": [
+                "a) Infarto cerebral.",
+                "b) Tumor o quiste intracraneal.",
+                "c) Deshidrataci\u00f3n.",
+                "d) Hematoma subdural."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo es el l\u00edquido pleural ante un hidrot\u00f3rax?",
+            "respuestas": [
+                "a) Es p\u00e1lido que no se coagula.",
+                "b) Es amarillo rojizo.",
+                "c) Es lechoso.",
+                "d) Es p\u00e1lido que se coagula."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 sistema se conectar\u00e1 el paciente al que se le ha realizado una punci\u00f3n pleural para realizar el drenaje?",
+            "respuestas": [
+                "a) Al sistema Columbia agar.",
+                "b) Al sistema Stuart-Amies.",
+                "c) Al sistema Pleur-Evac.",
+                "d) Ninguna de las anteriores respuestas es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de muestra no se toma en garganta?",
+            "respuestas": [
+                "a) Exudado de am\u00edgdalas.",
+                "b) Trasudado de garganta.",
+                "c) Exudado de garganta.",
+                "d) Exudado o aspirado de nasofaringe."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Ante la sospecha en piel de infecci\u00f3n por hongo, la toma de muestra se efectuar\u00e1 mediante:",
+            "respuestas": [
+                "a) Aspiraci\u00f3n.",
+                "b) Uso de hisopo.",
+                "c) Raspado con bistur\u00ed o lanceta.",
+                "d) Uso de torunda h\u00fameda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se toma la muestra en cabello ante la sospecha de micosis?",
+            "respuestas": [
+                "a) Arrancado de varios pelos con pinzas y guardado en recipiente est\u00e9ril.",
+                "b) Uso de hisopo.",
+                "c) Raspado con bistur\u00ed o lanceta.",
+                "d) Uso de torunda h\u00fameda."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfGeneralmente de qu\u00e9 color es la bolsa de segregaci\u00f3n de residuos de car\u00e1cter dom\u00e9stico, tipo papel y cart\u00f3n, que en la pr\u00e1ctica se utilizan habitualmente como material de embalaje, o en otros fines (material de oficina, escolar\u2026). La bolsa debe ser de color...",
+            "respuestas": [
+                "a) Amarillo.",
+                "b) Verde oscuro.",
+                "c) Azul.",
+                "d) Gris."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 numeraci\u00f3n tendr\u00e1n los residuos sanitarios considerados dom\u00e9sticos?",
+            "respuestas": [
+                "a) I.",
+                "b) II.",
+                "c) III.",
+                "d) IV."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 nombre reciben los residuos de car\u00e1cter dom\u00e9stico que son org\u00e1nicos biodegradables de origen vegetal y/o animal, susceptibles de degradarse biol\u00f3gicamente?",
+            "respuestas": [
+                "a) Bioorg\u00e1nicos.",
+                "b) Biodegradables naturalmente.",
+                "c) Biorresiduos.",
+                "d) Ninguno de los nombres anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo de denomina la fracci\u00f3n de los biorresiduos dom\u00e9sticos que est\u00e1n constituidos por restos vegetales de jardiner\u00eda y poda de mayor tama\u00f1o y de tipo le\u00f1oso?",
+            "respuestas": [
+                "a) Fracci\u00f3n resto.",
+                "b) Fracci\u00f3n org\u00e1nica.",
+                "c) Fracci\u00f3n vegetal.",
+                "d) Poda."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 bolsa de segregaci\u00f3n se depositar\u00e1n los residuos dom\u00e9sticos de fracci\u00f3n resto? En bolsas de color...",
+            "respuestas": [
+                "a) Azul.",
+                "b) Rojo.",
+                "c) Amarillo.",
+                "d) Negro."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn cu\u00e1nto se estima que puede contaminar de agua un litro de aceite? Se estima que un litro de aceite puede contaminar:",
+            "respuestas": [
+                "a) 50 litros.",
+                "b) 100 litros.",
+                "c) 1000 litros.",
+                "d) 5000 litros."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde incluir\u00edas dentro de la clasificaci\u00f3n de residuos sanitarios a aquellos procedentes del material de curas? Dentro de los tipos...",
+            "respuestas": [
+                "a) Dom\u00e9sticos.",
+                "b) Asimilables a dom\u00e9sticos.",
+                "c) A los tipo II.",
+                "d) Son ciertas b y c."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 bolsa de segregaci\u00f3n se depositar\u00e1n los residuos sanitarios asimilables a dom\u00e9sticos? En bolsas de color...",
+            "respuestas": [
+                "a) Amarillo.",
+                "b) Gris.",
+                "c) Verde oscuro.",
+                "d) Rojo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 residuos de estos no debe incluirse dentro de los biosanitarios espec\u00edficos? Los residuos...",
+            "respuestas": [
+                "a) Desechos de vacunas vivas o atenuadas.",
+                "b) Procedentes de pacientes con enfermedades infecciosas incluidas en el anexo I.",
+                "c) Procedentes de medicamentos (citot\u00f3xicos).",
+                "d) Se incluyen todos los anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 contenedores se depositar\u00e1n los residuos biosanitarios espec\u00edficos que son objetos punzantes o cortantes? Contenedores de color...",
+            "respuestas": [
+                "a) Amarillo.",
+                "b) Verde oscuro.",
+                "c) Gris.",
+                "d) Rojo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Un medicamento no peligroso que est\u00e1 caducado entrar\u00eda en el grupo de residuos sanitarios del tipo:",
+            "respuestas": [
+                "a) II.",
+                "b) IIIb.",
+                "c) IVa.",
+                "d) IVb."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las amalgamas dentales que contiene mercurio se incluir\u00eda en los residuos sanitarios...",
+            "respuestas": [
+                "a) Medicamentosos peligrosos.",
+                "b) Medicamentosos no peligrosos.",
+                "c) Espec\u00edficos.",
+                "d) Qu\u00edmicos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 grupo de residuos sanitarios incluir\u00edas un tubo fluorescente fundido?",
+            "respuestas": [
+                "a) Residuos industriales y de mantenimiento.",
+                "b) Residuos qu\u00edmicos.",
+                "c) Residuos del grupo IVb.",
+                "d) Son ciertas b y c."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 residuos existentes en al \u00e1mbito sanitario no consideras dom\u00e9sticos?",
+            "respuestas": [
+                "a) Aceite de cocina (de origen oliva).",
+                "b) Aceite sint\u00e9tico o de origen industrial.",
+                "c) Desechos de vasos de pl\u00e1stico.",
+                "d) Son todos de origen dom\u00e9stico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfPor qu\u00e9 normativa de CLM se regulan los residuos de cad\u00e1veres y restos humanos procedentes de abortos, mutilaciones y operaciones quir\u00fargicas?",
+            "respuestas": [
+                "a) Real Decreto 102/2014.",
+                "b) Decreto 72/1999.",
+                "c) Ley 7/2022.",
+                "d) Decreto 37/2010."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 residuos no se regulan o no es de aplicaci\u00f3n la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una econom\u00eda circular?",
+            "respuestas": [
+                "a) Residuos urbanos.",
+                "b) Residuos asimilables a urbanos.",
+                "c) Residuos radiactivos.",
+                "d) Son de aplicaci\u00f3n a todos los anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 fases no se cumplir\u00e1 lo establecido en la legislaci\u00f3n vigente respecto a la gesti\u00f3n intracentro de los residuos sanitarios?",
+            "respuestas": [
+                "a) Segregaci\u00f3n.",
+                "b) Producci\u00f3n.",
+                "c) Transporte y almacenamiento.",
+                "d) Se cumplir\u00e1 en todas las fases anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde incluir\u00edas una jeringa de pl\u00e1stico sin su aguja no contaminada por g\u00e9rmenes infecciosos y sin sustancias ni fluidos peligrosos? En residuos sanitarios:",
+            "respuestas": [
+                "a) I.",
+                "b) II.",
+                "c) III.",
+                "d) IV."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 contenedores se eliminar\u00e1n los tejidos de infectividad alta y baja de las personas con EETH confirmada o sospechosa o tejidos de infectividad alta de personas con exposici\u00f3n anterior conocida a c\u00f3rnea, duramadre o hormona de crecimiento humano? El contenedor de color...",
+            "respuestas": [
+                "a) Azul.",
+                "b) Rojo.",
+                "c) Amarillo.",
+                "d) Verde oscuro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCon qu\u00e9 otro residuo es incompatible y por tanto no se puede mezclar, aquel que contenga un \u00e1cido fuerte? No se puede mezclar con...",
+            "respuestas": [
+                "a) \u00c1cidos d\u00e9biles.",
+                "b) Bases d\u00e9biles.",
+                "c) Bases fuertes.",
+                "d) \u00c1cidos fuertes."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tejidos consideras de alta infectividad?",
+            "respuestas": [
+                "a) Bazo",
+                "b) Ri\u00f1\u00f3n.",
+                "c) H\u00edgado.",
+                "a) M\u00e9dula espinal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 color ser\u00eda la bolsa si para los residuos biosanitarios espec\u00edficos el SESCAM optara por un sistema de contenedor reutilizable con bolsa de un solo uso? De color...",
+            "respuestas": [
+                "a) Amarillo.",
+                "b) Verde oscuro.",
+                "c) Gris.",
+                "a) Rojo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo ser\u00eda la galga m\u00ednima empleada, si para los residuos biosanitarios espec\u00edficos el SESCAM optara por un sistema de contenedor reutilizable con bolsa de un solo uso?",
+            "respuestas": [
+                "a) 100.",
+                "b) 150.",
+                "c) 200.",
+                "d) 300."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l ser\u00e1 de los envases nombrados el que contendr\u00e1 m\u00e1s externamente a aquellos que contienen residuos sanitarios punzantes y cortantes, para facilitar su transporte extracentro?",
+            "respuestas": [
+                "a) Bolsa de polietileno de media densidad.",
+                "b) Contendor met\u00e1lico (acero).",
+                "c) Caja de cart\u00f3n homologada.",
+                "d) Bolsa de polietileno de alta densidad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n respecto al etiquetado de residuos no es cierta? En el etiquetado\u2026",
+            "respuestas": [
+                "a) Debe identificarse el residuo que contienen.",
+                "b) No es necesario identificar el riesgo del residuo.",
+                "c) En el momento de cierre, deben fecharse.",
+                "d) Todo lo anterior es falso."
+            ],
+            "verdadera": 2
+        }
+    ]
+}

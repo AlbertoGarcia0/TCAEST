@@ -1,0 +1,244 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas es la infecci\u00f3n hospitalaria que m\u00e1s frecuentemente ocasiona mortalidad?",
+            "respuestas": [
+                "a) Neumon\u00edas.",
+                "b) Infecciones urinarias.",
+                "c) Infecciones de heridas quir\u00fargicas.",
+                "d) Infecciones cut\u00e1neas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas patolog\u00edas causan m\u00e1s muertes a nivel de infecciones hospitalarias?",
+            "respuestas": [
+                "a) Infecciones quir\u00fargicas.",
+                "b) Infecciones urinarias.",
+                "c) Neumon\u00edas.",
+                "d) Infecciones cut\u00e1neo-mucosas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA partir de qu\u00e9 a\u00f1o los estudios EPINE de prevalencia comienzan a ser referidos a las infecciones relacionadas con la asistencia sanitaria (IRAS)?",
+            "respuestas": [
+                "a) 2017.",
+                "b) 2018.",
+                "c) 2019.",
+                "d) 2020."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 agente de infecci\u00f3n nosocomial de estos est\u00e1 m\u00e1s relacionado con infecciones urinarias?",
+            "respuestas": [
+                "a) Streptococus Epidermis.",
+                "b) Lysteria Albicans.",
+                "c) Streptococus Mirabilis.",
+                "d) Enterococos Faecalis."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfPara el TCAE cu\u00e1l debe ser la principal medida a llevar a cabo para prevenir la transmisi\u00f3n de infecciones por contacto directo?",
+            "respuestas": [
+                "a) Uso de mascarilla.",
+                "b) Empleo de bata y guantes est\u00e9riles.",
+                "c) Lavado cuidadoso de manos en cada contacto con los pacientes.",
+                "d) Uso de mascarilla y papis."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las heridas quir\u00fargicas seg\u00fan contaminaci\u00f3n existente si son abiertas y recientes (menos de 4 horas), efectuadas en operaciones con alteraciones de la t\u00e9cnica est\u00e9ril?",
+            "respuestas": [
+                "a) Limpia.",
+                "b) Limpia-contaminada.",
+                "c) Contaminada.",
+                "d) Sucia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 profesionales sanitarios deben tener una parte activa en los programas de control de las infecciones hospitalarias, adem\u00e1s de la enfermera responsable?",
+            "respuestas": [
+                "a) M\u00e9dicos especialistas en medicina f\u00edsica.",
+                "b) Facultativos de medicina interna.",
+                "c) Personal hospitalario responsable de la prevenci\u00f3n de riesgos laborales.",
+                "d) Epidemi\u00f3logos con conocimientos sobre la infecci\u00f3n nosocomial y las infecciones relacionadas con la asistencia sanitaria (IRAS)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n debe elaborar una lista limitada de antibi\u00f3ticos y establecer normas respecto a las indicaciones terap\u00e9uticas y preventivas? La debe elaborar...",
+            "respuestas": [
+                "a) El Comit\u00e9 Cient\u00edfico del Hospital.",
+                "b) El Servicio de Salud P\u00fablica y Medicina Preventiva.",
+                "c) El Comit\u00e9 de Infecciones.",
+                "d) El Servicio de Microbiolog\u00eda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas medidas de prevenci\u00f3n espec\u00edfica de infecci\u00f3n urinaria nosocomial es correcta en paciente sin sonda vesical?",
+            "respuestas": [
+                "a) Nunca se debe valorar a nivel preventivo la edad y sexo del sujeto en la prevenci\u00f3n, ya que la incidencia de dichas infecciones no dependen de estos par\u00e1metros.",
+                "b) La higiene se debe realizar sin agua y con un antis\u00e9ptico no irritante.",
+                "c) La higiene de los genitales se hace siempre en la direcci\u00f3n de genitales a regi\u00f3n anal y nunca a la inversa.",
+                "d) Se debe instruir al paciente a que aguante el deseo de orinar lo m\u00e1s posible."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la medida m\u00e1s eficaz para la prevenci\u00f3n de las bacteriemias de tipo hospitalario?",
+            "respuestas": [
+                "a) Uso de gorro, mascarilla y bata.",
+                "b) Lavado de manos meticuloso.",
+                "c) Cuidadosa elecci\u00f3n y mantenimiento de las c\u00e1nulas arteriales y venosas.",
+                "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 grado de eficacia de las medidas de prevenci\u00f3n de las infecciones nosocomiales es la vigilancia de cat\u00e9teres intravenosos? Grado..",
+            "respuestas": [
+                "a) 1.",
+                "b) 2.",
+                "c) 3.",
+                "d) 4."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las barreras que emplean mecanismos f\u00edsicos o mec\u00e1nicos que act\u00faan como tal, previniendo la transferencia de contaminantes o fuentes potenciales de contaminaci\u00f3n en cl\u00ednica hospitalaria? Barreras...",
+            "respuestas": [
+                "a) Medioambientales.",
+                "b) Sanitarias.",
+                "c) Higi\u00e9nicas.",
+                "d) Prohibidas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina el conjunto de normas que hay que tomar en el hospital para evitar la propagaci\u00f3n de las enfermedades infecciosas dentro de las distintas estancias y servicios hospitalarios?",
+            "respuestas": [
+                "a) Barreras higi\u00e9nicas.",
+                "b) Aislamiento hospitalario.",
+                "c) Barreras de protecci\u00f3n.",
+                "d) Las opciones a) y c) son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo se realiza en el aislamiento la desinfecci\u00f3n final?",
+            "respuestas": [
+                "a) Antes de la entrada de enfermos en la habitaci\u00f3n de planta.",
+                "b) Antes de la entrada de personas y \u00fatiles en la habitaci\u00f3n de planta, sin tener en cuenta al paciente.",
+                "c) Durante la estancia del enfermo en la habitaci\u00f3n de planta.",
+                "d) Tras la marcha del paciente de la habitaci\u00f3n de planta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El aislamiento hospitalario frente al c\u00f3lera es de tipo:",
+            "respuestas": [
+                "a) Respiratorio.",
+                "b) Ent\u00e9rico.",
+                "c) Protector.",
+                "d) Estricto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 modalidad de aislamiento el paciente no es contagioso?",
+            "respuestas": [
+                "a) Respiratorio.",
+                "b) Ent\u00e9rico.",
+                "c) Protector.",
+                "d) Contra tuberculosis."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 momento en la pr\u00e1ctica diaria debe realizarse el lavado de manos por primera vez en la jornada?",
+            "respuestas": [
+                "a) Al llegar al trabajo.",
+                "b) Despu\u00e9s de quitarse los guantes.",
+                "c) Despu\u00e9s de utilizar los servicios.",
+                "d) Al terminar la jornada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se debe de emplear al finalizar la jornada para evitar lesiones en la piel por la sobrecarga en la misma que se produce por el reiterado lavado de manos?",
+            "respuestas": [
+                "a) Alcohol de 70\u00b0.",
+                "b) Crema protectora.",
+                "c) Clorhexidina.",
+                "d) Mercurocromo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El grifo de agua durante el lavado quir\u00fargico de manos no debe cerrarse con:",
+            "respuestas": [
+                "a) El sistema de pedal de pie.",
+                "b) La palanca de codo.",
+                "c) Las manos directamente.",
+                "d) No puede cerrarse con las opciones a) y b)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo categorizar\u00edas una recomendaci\u00f3n del CDC (Centers for Diseases Control and Prevention) para la higiene de manos del personal sanitario que implica que est\u00e9 fuertemente recomendado para la puesta en pr\u00e1ctica y apoyado por multitud de estudios experimentales, cl\u00ednicos, o epidemiol\u00f3gicos bien dise\u00f1ados?",
+            "respuestas": [
+                "a) IA.",
+                "b) IB.",
+                "c) II.",
+                "d) III."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 categor\u00eda corresponde la recomendaci\u00f3n de pr\u00e1cticas de higiene de manos (seg\u00fan el sistema de CDC/HICPAC) que dice: fuertemente recomendado para la puesta en pr\u00e1ctica y apoyado por ciertos estudios experimentales, cl\u00ednicos o epidemiol\u00f3gicos y un fuerte an\u00e1lisis te\u00f3rico razonado?",
+            "respuestas": [
+                "a) IA.",
+                "b) IB.",
+                "c) IC.",
+                "d) ID."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 recomendaci\u00f3n corrientemente se debe llevar a cabo si las manos no est\u00e1n visiblemente sucias?",
+            "respuestas": [
+                "a) Deben lavarse las manos con agua y jab\u00f3n antimicrobiano.",
+                "b) Usar soluciones alcoh\u00f3licas para la frotaci\u00f3n de manos para la descontaminaci\u00f3n rutinaria.",
+                "c) Deben lavarse las manos con agua y jab\u00f3n antimicrobiano o no antimicrobiano.",
+                "d) No es necesario hacer nada."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El TCAE debe lavarse las manos antes del contacto con el paciente para:",
+            "respuestas": [
+                "a) Para proteger al paciente de los g\u00e9rmenes nocivos que podr\u00edan entrar en su cuerpo, incluidos los g\u00e9rmenes del propio paciente.",
+                "b) Para protegerse y proteger el entorno de atenci\u00f3n de salud de los g\u00e9rmenes da\u00f1inos del paciente.",
+                "c) Para proteger a los familiares del paciente de los g\u00e9rmenes nocivos que tiene en las manos el TCAE y el paciente.",
+                "d) Para proteger al paciente de los g\u00e9rmenes nocivos que tiene en las manos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 m\u00e9todo para medir la higiene de manos es aquel que recoge lo que piensa y conocen los profesionales sanitarios (percepci\u00f3n y conocimiento)?",
+            "respuestas": [
+                "a) Observaci\u00f3n directa.",
+                "b) Consumo del producto.",
+                "c) Encuesta.",
+                "d) Entrevistas medicina preventiva/profesional sanitario."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

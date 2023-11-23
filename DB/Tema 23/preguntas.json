@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de agentes utiliza m\u00e1s frecuentemente la asepsia para conseguir matar y eliminar los microorganismos?",
+            "respuestas": [
+              "a) Agentes mec\u00e1nicos.",
+              "b) Agentes f\u00edsicos.",
+              "c) Agentes biol\u00f3gicos.",
+              "d) Agentes qu\u00edmicos."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "El material est\u00e9ril:",
+            "respuestas": [
+              "a) No posee ning\u00fan tipo de microorganismo pat\u00f3geno.",
+              "b) No posee g\u00e9rmenes tipo virus, bacterias y hongos.",
+              "c) No posee ning\u00fan tipo de microorganismo pat\u00f3geno, ni microorganismo no pat\u00f3geno, e incluso ni siquiera sus formas de resistencia.",
+              "d) No posee ning\u00fan tipo de microorganismo pat\u00f3geno y no pat\u00f3geno."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9rmino es sin\u00f3nimo de antisepsia en la pr\u00e1ctica?",
+            "respuestas": [
+              "a) Descontaminaci\u00f3n.",
+              "b) Desinfecci\u00f3n.",
+              "c) Esterilizaci\u00f3n.",
+              "d) Desinfestaci\u00f3n."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina al conjunto de t\u00e9cnicas destinadas a la eliminaci\u00f3n de los artr\u00f3podos?",
+            "respuestas": [
+              "a) Desinsectaci\u00f3n.",
+              "b) Desinfecci\u00f3n.",
+              "c) Esterilizaci\u00f3n.",
+              "d) Desinfestaci\u00f3n."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 insecticidas en la pr\u00e1ctica se consideran los m\u00e1s importantes?",
+            "respuestas": [
+              "a) Asfixiantes.",
+              "b) Fumigantes.",
+              "c) Repelentes.",
+              "d) Por contacto."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfA qu\u00e9 grupo de insecticidas pertenece el famoso DDT?",
+            "respuestas": [
+              "a) Asfixiantes.",
+              "b) Fumigantes.",
+              "c) Repelentes.",
+              "d) Por contacto."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Se habla de infestaci\u00f3n cuando la agresi\u00f3n se produce por:",
+            "respuestas": [
+              "a) Bacterias.",
+              "b) Virus.",
+              "c) Par\u00e1sitos.",
+              "d) Hongos."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfD\u00f3nde incluir\u00edas a la aguja de Reverdin en la clasificaci\u00f3n del instrumental quir\u00fargico?",
+            "respuestas": [
+              "a) En instrumental de hemostasia.",
+              "b) En instrumental de sutura.",
+              "c) En instrumental de disecci\u00f3n.",
+              "d) En instrumental de corte."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Dentro de la clasificaci\u00f3n de bistur\u00edes entra:",
+            "respuestas": [
+              "a) Tijeras para suturas.",
+              "b) Pinzas de Kelly.",
+              "c) Las lancetas.",
+              "d) Catgut."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Las pinzas llamadas de mano izquierda son las pinzas de:",
+            "respuestas": [
+              "a) Disecci\u00f3n.",
+              "b) Kelly.",
+              "c) Kocher.",
+              "d) Crile."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Las pinzas utilizadas para hemostasia de menor tama\u00f1o son:",
+            "respuestas": [
+              "a) Pean.",
+              "b) Kelly.",
+              "c) Kocher.",
+              "d) Mosquito."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El instrumental quir\u00fargico de s\u00edntesis es el instrumental:",
+            "respuestas": [
+              "a) De talla o campo.",
+              "b) De sutura.",
+              "c) De hemostasia.",
+              "d) De exposici\u00f3n."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina el instrumental quir\u00fargico que sirve para que el campo operatorio est\u00e9 libre y las maniobras del cirujano puedan hacerse con seguridad?",
+            "respuestas": [
+              "a) Instrumental quir\u00fargico de disecci\u00f3n.",
+              "b) Instrumental quir\u00fargico de exposici\u00f3n.",
+              "c) Instrumental quir\u00fargico de aprehensi\u00f3n.",
+              "d) Instrumental quir\u00fargico de sutura."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Las pinzas Duval-Collin son instrumentales quir\u00fargicos de:",
+            "respuestas": [
+              "a) Aprehensi\u00f3n.",
+              "b) De sutura.",
+              "c) De hemostasia.",
+              "d) De exposici\u00f3n."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 es falso de un buen desinfectante?",
+            "respuestas": [
+              "a) Es aquel que no es t\u00f3xico ni corrosivo.",
+              "b) Es aquel que es de bajo costo y de olor agradable.",
+              "c) Es aquel que posee un espectro reducido de acci\u00f3n.",
+              "a) Es aquel que es biodegradable y se puede usar diluido en agua o alcohol."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Una esterilizaci\u00f3n destruye o elimina:",
+            "respuestas": [
+              "a) Todos los g\u00e9rmenes pat\u00f3genos.",
+              "b) Todos los g\u00e9rmenes no pat\u00f3genos.",
+              "c) Las formas de resistencia o esporas.",
+              "d) Todo lo anterior."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 tipo de acci\u00f3n presenta un desinfectante que es activo frente a virus lip\u00eddicos de tama\u00f1o medio, virus no lip\u00eddicos peque\u00f1os, bacterias en su forma vegetativa, bacilos de Koch y hongos, excepto esporas?",
+            "respuestas": [
+              "a) Desinfecci\u00f3n de muy alto nivel.",
+              "b) Desinfecci\u00f3n de alto nivel.",
+              "c) Desinfecci\u00f3n de mediano o intermedio nivel.",
+              "d) Desinfecci\u00f3n de bajo nivel."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Si calentamos la leche a 130-150 \u00b0C durante 1-5 segundos, estamos llevando a cabo:",
+            "respuestas": [
+              "a) Una esterilizaci\u00f3n.",
+              "b) Una pasteurizaci\u00f3n.",
+              "c) Una uperizaci\u00f3n.",
+              "d) Una ebullici\u00f3n."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 rayos solares son considerados desinfectantes?",
+            "respuestas": [
+              "a) Los rayos act\u00ednicos.",
+              "b) Los rayos ultravioletas.",
+              "c) Los rayos infrarrojos.",
+              "d) Los rayos l\u00e1ser."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfSobre qu\u00e9 bacterias posee una muy buena y efectiva acci\u00f3n desinfectante/antis\u00e9ptica, la povidona yodada?",
+            "respuestas": [
+              "a Gram positivo.",
+              "b) Gram negativo.",
+              "c) Bacilo de la tuberculosis.",
+              "d) Sobre todos los anteriores es muy buena su acci\u00f3n."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 procedimiento qu\u00edmico como desinfectante se emplea m\u00e1s habitualmente para grandes superficies?",
+            "respuestas": [
+              "a) Alcohol et\u00edlico de 70\u00b0.",
+              "b) Clorhexidina.",
+              "c) Povidona yodada.",
+              "d) Lej\u00eda (hipoclorito s\u00f3dico)."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9cnica de desinfecci\u00f3n es aquella en la que se empapan las bayetas en una soluci\u00f3n y luego se utilizan para fregar?",
+            "respuestas": [
+              "a) Inmersi\u00f3n.",
+              "b) Loci\u00f3n.",
+              "c) Aerosol.",
+              "d) Fumigaci\u00f3n."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es la t\u00e9cnica de desinfecci\u00f3n que emplea la forma de aerosol en gotas microsc\u00f3picas (menores de 20 micras de di\u00e1metro)?",
+            "respuestas": [
+              "a) Pulverizaci\u00f3n.",
+              "b) Inmersi\u00f3n.",
+              "c) Brumas.",
+              "d) Fumigaci\u00f3n."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfC\u00f3mo se denomina el material sanitario que requiere de asepsia total?",
+            "respuestas": [
+              "a) Cr\u00edtico.",
+              "b) Semicr\u00edtico.",
+              "c) No cr\u00edtico.",
+              "d) Desinfectado."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Una pr\u00f3tesis de la cabeza femoral la incluir\u00edas dentro del material sanitario:",
+            "respuestas": [
+              "a) Cr\u00edtico.",
+              "b) Semicr\u00edtico.",
+              "c) No cr\u00edtico.",
+              "d) Desinfectado."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfA qu\u00e9 temperatura debe estar de forma constante el interior de una incubadora?",
+            "respuestas": [
+              "a) A 34,5 \u00b0C.",
+              "b) A 35,5 \u00b0C.",
+              "c) A 36,5 \u00b0C.",
+              "d) A 38 \u00b0C"
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "\u00bfQu\u00e9 elementos de estos es de fijaci\u00f3n?",
+            "respuestas": [
+              "a) Vendas.",
+              "b) Hule.",
+              "c) Celulosa.",
+              "d) Algod\u00f3n hidr\u00f3filo."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "(\u00bfQu\u00e9 tipo de ropa sucia se incluye en la bolsa amarilla?",
+            "respuestas": [
+              "a) Ropa operatoria.",
+              "b) Ropa infectada.",
+              "c) Ropa sucia simplemente.",
+              "c) Ropa mojada o muy manchada."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "\u00bfCada cu\u00e1nto se limpia el mobiliario de la habitaci\u00f3n del paciente?",
+            "respuestas": [
+              "a) Se limpia cada d\u00eda.",
+              "b) Se limpia cada tres d\u00edas.",
+              "c) Se limpia una vez a la semana.",
+              "d) Se limpia una vez al mes."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "\u00bfCu\u00e1l es la base de la realizaci\u00f3n del procedimiento de limpieza-descontaminaci\u00f3n?",
+            "respuestas": [
+              "a) Realizar una observaci\u00f3n de c\u00f3mo est\u00e1n los materiales antes de ser llevados a la central de esterilizaci\u00f3n.",
+              "b) Hacer una limpieza preliminar y no definitiva del material e instrumental antes de ser llevados a la central de esterilizaci\u00f3n.",
+              "c) Efectuar una limpieza de los materiales, de forma que queden completamente limpios para ser llevados as\u00ed a la central de esterilizaci\u00f3n.",
+              "d) Esencialmente descontaminar con seguridad los materiales antes de ser llevados a la central de esterilizaci\u00f3n, aunque no est\u00e9n limpios al 100 %."
+            ],
+            "verdadera": 3
+          }
+    ]
+}

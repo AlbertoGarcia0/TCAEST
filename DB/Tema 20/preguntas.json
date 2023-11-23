@@ -1,0 +1,224 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 agente transmite la sarna?",
+            "respuestas": [
+                "a) VIH (SIDA).",
+                "b) Sarcoptes scabiei.",
+                "c) Clostridium tetani.",
+                "d) COVID-19"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 caracter\u00edstica no cumple el agente causal de una enfermedad transmisible?",
+            "respuestas": [
+                "a) Es capaz de reproducirse.",
+                "b) Es ex\u00f3geno.",
+                "c) Es \u00fanico.",
+                "d) Puede ser ex\u00f3geno o end\u00f3geno."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 tipo de enfermedad corresponde la definici\u00f3n: es la enfermedad que cumple una serie de caracter\u00edsticas b\u00e1sicas, ya que precisa de un agente causal, que suele ser \u00fanico, ex\u00f3geno, capaz de reproducirse?",
+            "respuestas": [
+                "a) Enfermedad transmisible.",
+                "b) Enfermedad contagiosa.",
+                "c) Enfermedad infecciosa.",
+                "d) Peritonitis."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 corresponde esta definici\u00f3n: asociaci\u00f3n con beneficios para agente y hu\u00e9sped?",
+            "respuestas": [
+                "a) Parasitismo.",
+                "b) Simbiosis.",
+                "c) Comensalismo.",
+                "d) Amebiasis."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En epidemiolog\u00eda se entiende por virulencia:",
+            "respuestas": [
+                "a) La habilidad de un agente causal para producir reacci\u00f3n inmunol\u00f3gica local o general.",
+                "b) El grado o cantidad de enfermedad que puede producir el agente causal.",
+                "c) La capacidad para dar lugar a una enfermedad, una vez infectado un hu\u00e9sped.",
+                "d) La cantidad de eslabones que posee una enfermedad transmisible."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 grupo pertenece aquel biol\u00f3gico que resulta poco probable que cause una enfermedad en el hombre, en funci\u00f3n del riesgo de infecci\u00f3n? Grupo..",
+            "respuestas": [
+                "a) 1.",
+                "b) 2.",
+                "c) 3.",
+                "d) 4."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se define como infectividad:",
+            "respuestas": [
+                "a) La capacidad de virulencia del agente causal.",
+                "b) La capacidad para ocasionar o dar lugar a una enfermedad.",
+                "c) El grado o cantidad de enfermedad que puede producir el agente causal.",
+                "d) La capacidad para multiplicarse el agente causal en los tejidos, dando o no lugar enfermedad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1les son los factores epidemiol\u00f3gicos secundarios?",
+            "respuestas": [
+                "a) Clima.",
+                "b) Tabaco.",
+                "c) Sexo.",
+                "d) Clima y sexo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La triada epidemiol\u00f3gica relaciona:",
+            "respuestas": [
+                "a) Al agente causal, hu\u00e9sped susceptible y ambiente.",
+                "b) Al agente causal, hu\u00e9sped susceptible y reservorio.",
+                "c) Al agente causal, hu\u00e9sped susceptible y mecanismo de transmisi\u00f3n.",
+                "d) Al agente causal, hu\u00e9sped susceptible y factores epidemiol\u00f3gicos secundarios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas se considera la fuente de infecci\u00f3n m\u00e1s importante para el hombre en epidemiolog\u00eda?",
+            "respuestas": [
+                "a) Una fuente hom\u00f3loga.",
+                "b) Una fuente heter\u00f3loga.",
+                "c) Fuente animal.",
+                "d) Fuente inanimada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 fuentes de las infecciones es hom\u00f3loga?",
+            "respuestas": [
+                "a) Animales.",
+                "b) Objetos inanimados.",
+                "c) Personas.",
+                "d) Suelo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de portador, dentro del reservorio humano, es aquel que elimina g\u00e9rmenes no pat\u00f3genos?",
+            "respuestas": [
+                "a) Portador precoz.",
+                "b) Portador convaleciente.",
+                "c) Portador parad\u00f3jico.",
+                "d) Portador sano"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es el n\u00famero de personas portadoras en un per\u00edodo/n\u00famero de personas observadas en el per\u00edodo x meses de observaci\u00f3n?",
+            "respuestas": [
+                "a) La tasa de prevalencia.",
+                "b) Tiempo expuesto.",
+                "c) La tasa de incidencia.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 enfermedad transmisible posee un grado muy bajo de contagiosidad?",
+            "respuestas": [
+                "a) Lepra.",
+                "b) COVID-19.",
+                "c) Varicela.",
+                "d) Gripe."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 enfermedad transmisible de \u00e9stas se causa o transmite por mordedura principalmente?",
+            "respuestas": [
+                "a) Rabia.",
+                "b) Paperas.",
+                "c) Rub\u00e9ola.",
+                "d) Polio."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 v\u00eda de transmisi\u00f3n de estas es directa?",
+            "respuestas": [
+                "a) Transplacentaria.",
+                "b) Por bebida de fuente contaminada.",
+                "c) Por f\u00f3mites.",
+                "d) Son todas las anteriores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 enfermedad de las que se exponen posee un mecanismo de transmisi\u00f3n heter\u00f3logo con tres eslabones?",
+            "respuestas": [
+                "a) C\u00f3lera.",
+                "b) Hepatitis B.",
+                "c) Brucelosis.",
+                "d) Peste."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos factores del hu\u00e9sped susceptible es considerado de gran importancia por poseer mayor grado de susceptibilidad por diferentes causas a la hora de enfermar?",
+            "respuestas": [
+                "a) Sexo.",
+                "b) Lugar de residencia.",
+                "c) Edad.",
+                "d) Profesi\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 barrera hig\u00e9nica es propiamente qu\u00edmica?",
+            "respuestas": [
+                "a) Uso de mascarilla.",
+                "b) Lavado rutinario de manos.",
+                "c) Utilizaci\u00f3n de guantes desechables.",
+                "d) Empleo de desinfectantes y antis\u00e9pticos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfPor qu\u00e9 es necesario el uso de guantes est\u00e9riles en cirug\u00eda?",
+            "respuestas": [
+                "a) Para complementar el lavado de mano, aunque este es ya seguro.",
+                "b) Porque el lavado de manos quir\u00fargico no garantiza la eliminaci\u00f3n de los microorganismos.",
+                "c) No se emplean guantes est\u00e9riles en cirug\u00eda.",
+                "d) En cirug\u00eda se emplean guantes desechables no est\u00e9riles que complementar el lavado de mano."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 prenda es la primera que hay que ponerse para acceder a un \u00e1rea est\u00e9ril?",
+            "respuestas": [
+                "a) Gorros.",
+                "b) Guantes.",
+                "c) Calzas.",
+                "d) Bata."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfPara cu\u00e1ntas intervenciones quir\u00fargicas sirve una mascarilla?",
+            "respuestas": [
+                "a) Exclusivamente para una.",
+                "b) Para dos o tres.",
+                "c) Para varias, mientras dure su material frente a la esterilizaci\u00f3n.",
+                "d) Para siempre, ya que es esterilizable."
+            ],
+            "verdadera": 1
+        }
+    ]
+}

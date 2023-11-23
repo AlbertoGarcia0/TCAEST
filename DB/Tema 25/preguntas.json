@@ -1,0 +1,394 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "¿Qu\u00e9 aspecto de estos es clave que se d\u00e9 en cuidados paliativos, siempre que sea posible?",
+            "respuestas": [
+                "a) La atenci\u00f3n hospitalaria.",
+                "b) La atenci\u00f3n en centro de salud habitual.",
+                "c) La atenci\u00f3n en centro de salud especializado.",
+                "d) La atenci\u00f3n domiciliaria."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 aspecto no es cierto de la situaci\u00f3n terminal de un paciente?",
+            "respuestas": [
+                "a) Se caracteriza por un intenso sufrimiento y una alta demanda asistencial.",
+                "b) Los enfermos sufren s\u00edntomas multifactoriales, cambiantes y de intensidad variable.",
+                "c) El pron\u00f3stico de vida est\u00e1 limitado a 6 meses, con variaci\u00f3n de 3.",
+                "d) Presentan una enfermedad avanzada y progresiva, con ciertas posibilidades razonables de respuesta al tratamiento espec\u00edfico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En un enfermo terminal sometido a cuidados paliativos desde el momento inicial del diagn\u00f3stico y su comunicaci\u00f3n, es prioritario a nivel conceptual:",
+            "respuestas": [
+                "a) El abordaje integral que propone el modelo de los cuidados paliativos.",
+                "b) Salvar la vida del paciente.",
+                "c) Ayudar exclusivamente a los familiares.",
+                "d) El control de hijos menores del paciente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan los principios planteados por Beauchamp y Childress sobre la bio\u00e9tica de los cuidados paliativos, \u00bfcu\u00e1l es aquel que dice: todas las personas tienen igual dignidad y merecen igual consideraci\u00f3n y respeto?",
+            "respuestas": [
+                "a) Principio de autonom\u00eda.",
+                "b) Principio de beneficencia.",
+                "c) Principio de integridad.",
+                "d) Principio de justicia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La expresi\u00f3n desgraciada de un profesional sanitario sobre un enfermo terminal como 'ya no hay nada que hacer' contraviene el principio de:",
+            "respuestas": [
+                "a) Autonom\u00eda.",
+                "b) Beneficencia.",
+                "c) Integridad.",
+                "d) Justicia."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La utilizaci\u00f3n de medidas extraordinarias que no reportan ning\u00fan beneficio al enfermo, para prolongar su vida, se denomina:",
+            "respuestas": [
+                "a) Eutanasia.",
+                "b) Eugenesia.",
+                "c) Distanasia.",
+                "d) Ortotanasia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿En qu\u00e9 base terap\u00e9utica se fundamenta la ortotanasia?",
+            "respuestas": [
+                "a) En la lucha contra las enfermedades infecciosas.",
+                "b) En la aplicaci\u00f3n de medidas rehabilitadoras y fisioterap\u00e9uticas.",
+                "c) En la aplicaci\u00f3n de cuidados post mortem.",
+                "d) Ninguna de las anteriores es cierta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿D\u00f3nde entrar\u00edan los t\u00e9rminos de eutanasia pasiva, indirecta y la no voluntaria?",
+            "respuestas": [
+                "a) Eutanasia.",
+                "b) Distanasia.",
+                "c) Eugenesia.",
+                "d) Ortotanasia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Ante la posibilidad de sufrir una enfermedad incurable e irreversible, como consecuencia de una intervenci\u00f3n facultativa, la aplicaci\u00f3n de tratamientos de reanimaci\u00f3n o de soporte vital, no se har\u00e1 si el paciente as\u00ed lo indica, para morir dignamente. ¿De qu\u00e9 manera debe hacerlo el enfermo?",
+            "respuestas": [
+                "a) Mediante testamento vital.",
+                "b) Mediante voluntad vital anticipada.",
+                "c) Mediante otra persona asignada por \u00e9l, en el caso de que el enfermo sea incapaz.",
+                "d) En todos los casos anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Todo lo que se expone de dar \u00e1nimos al paciente terminal a realizar alguna actividad f\u00edsica es cierto, excepto que:",
+            "respuestas": [
+                "a) La actividad f\u00edsica le va a ayudar a despejar los pensamientos negativos (miedos, angustia), y va a disminuirle el estr\u00e9s de la situaci\u00f3n que padece.",
+                "b) Debido al cansancio f\u00edsico que puede generarle hacer alg\u00fan tipo de ejercicio o actividad, le sienta bien ya que hace que duerma mejor (disminuy\u00e9ndole el insomnio).",
+                "c) La actividad f\u00edsica hace que el tiempo pase de un modo satisfactorio y ameno.",
+                "d) No se debe animar a realizar actividad f\u00edsica; es absurdo animarlo si se va a morir en breve."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 consejo en la alimentaci\u00f3n en cuidados paliativos es incorrecto?",
+            "respuestas": [
+                "a) No presionar o agobiar al paciente con la comida, intentando adaptarse al gusto del paciente.",
+                "b) Presentar la comida de forma atractiva (la comida entra por los ojos).",
+                "c) Fraccionar la dieta en seis o siete tomas al d\u00eda (m\u00e1s veces, menos cantidad), evitando alimentos flatulentos, muy condimentados, y/o con olores intensos.",
+                "d) Hay que obligar a comer a los pacientes, la falta de comida constituye una de las causas de empeoramiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las aftas bucales en cuidados paliativos se tratan con soluciones:",
+            "respuestas": [
+                "a) Desbridantes.",
+                "b) Antis\u00e9pticas.",
+                "c) F\u00fangicas.",
+                "d) V\u00edricas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 t\u00e9rmino se emplea para boca seca?",
+            "respuestas": [
+                "a) Estomatitis.",
+                "b) Xerostom\u00eda.",
+                "c) Aftas.",
+                "d) Muguet."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qui\u00e9n da esta definici\u00f3n de dolor: \u00bfEs una experiencia emocional y sensorial desagradable, asociada o no a una lesi\u00f3n tisular, o que se describe con las manifestaciones propias de tal agresi\u00f3n»?",
+            "respuestas": [
+                "a) Callahan.",
+                "b) Cecily Saunders.",
+                "c) International Association for the Study of Pain (IASP).",
+                "d) OMS."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todo lo que se expone del dolor es cierto, excepto:",
+            "respuestas": [
+                "a) Quien debe cuantificar el dolor es el paciente.",
+                "b) En ocasiones se acompaña de signos externos como la expresi\u00f3n facial, que lo manifiesta.",
+                "c) Como experiencia emocional el dolor es algo objetivo.",
+                "d) El dolor no est\u00e1 siempre relacionado con la alteraci\u00f3n o grado de lesi\u00f3n del paciente, sobre todo si es dolor cr\u00f3nico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las Escalas de Valoraci\u00f3n Verbal (EVV) del dolor son:",
+            "respuestas": [
+                "a) Las Escala Intensiva del dolor (EID).",
+                "b) Las Escalas Descriptivas Simples (EDS).",
+                "c) Las Escalas Num\u00e9ricas de Valoraci\u00f3n (EVN).",
+                "d) La Escala Visual Anal\u00f3gica (EVA)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es la v\u00eda que suele tolerar mejor el paciente sometido a cuidados paliativos si se le administra analgesia?",
+            "respuestas": [
+                "a) Oral.",
+                "b) Cut\u00e1nea.",
+                "c) Parenteral.",
+                "d) Respiratoria."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La escalada gradual de dosis de opioides, hasta lograr analgesia adecuada o efectos secundarios intolerables se denomina:",
+            "respuestas": [
+                "a) Tolerancia.",
+                "b) Titulaci\u00f3n.",
+                "c) Graduaci\u00f3n dosificadora.",
+                "d) Rescate."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 analg\u00e9sico, seg\u00fan la escala OMS de 1986, no antiinflamatorio, pertenece al primer escal\u00f3n?",
+            "respuestas": [
+                "a) Paracetamol.",
+                "b) Petidina.",
+                "c) Trapentadol.",
+                "d) Tramadol."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 opioide por v\u00eda oral es de primera elecci\u00f3n para el dolor oncol\u00f3gico?",
+            "respuestas": [
+                "a) Morfina.",
+                "b) Fentanilo.",
+                "c) Paracetamol.",
+                "d) Ibuprofeno."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 afirmaci\u00f3n es incorrecta acerca de la oxicodona?",
+            "respuestas": [
+                "a) Se debe administrar por v\u00eda oral.",
+                "b) Es un opioide semisint\u00e9tico derivado de la teba\u00edna, clasificado como un agonista puro.",
+                "c) Tiene efecto techo.",
+                "d) Es importante recordar que los comprimidos de oxicodona deben tragarse enteros y nunca fraccionarse."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿C\u00f3mo se denomina el insomnio que consiste en que el paciente se despierta muy pronto y luego no puede dormirse?",
+            "respuestas": [
+                "a) Insomnio precoz.",
+                "b) Insomnio tard\u00edo.",
+                "c) Insomnio de primera hora.",
+                "d) Insomnio de segunda hora."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 dato de los que se expresan pertenece al concepto de eutanasia y no la de sedaci\u00f3n paliativa?",
+            "respuestas": [
+                "a) El resultado de aplicarlo es el alivio del sufrimiento y disminuci\u00f3n del nivel de conciencia.",
+                "b) En el proceso la aplicaci\u00f3n de la dosis est\u00e1 proporcionada a la intensidad de los s\u00edntomas refractarios y su alivio.",
+                "c) Se pretende con ello el aliviar sufrimiento provocando la muerte.",
+                "d) Todo pertenece a sedaci\u00f3n paliativa."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es la media de supervivencia tras iniciar la sedaci\u00f3n terminal?",
+            "respuestas": [
+                "a) La media de supervivencia es de medio a 1 d\u00eda.",
+                "b) La media de supervivencia es de 2 a 3 d\u00edas.",
+                "c) La media de supervivencia es de 3 a 4 d\u00edas.",
+                "d) La media de supervivencia es de 5 a 6 d\u00edas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Decir esta expresi\u00f3n ‘prefiero recordarlo tal como era cuando estaba sano’ ante el conflicto de un enfermo terminal es una conducta de:",
+            "respuestas": [
+                "a) Negaci\u00f3n de la realidad.",
+                "b) Empat\u00eda con el paciente.",
+                "c) Controversia.",
+                "d) Resoluci\u00f3n de conflictos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de comunicaci\u00f3n utiliza generalmente el paciente terminal corrientemente de forma m\u00e1s expl\u00edcita para expresar emociones, actitudes y otras circunstancias de su personalidad?",
+            "respuestas": [
+                "a) No verbal.",
+                "b) Verbal.",
+                "c) Escrita.",
+                "d) Antipostural."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 unidad grupal es el objetivo fundamental de la asistencia en Cuidados Paliativos?",
+            "respuestas": [
+                "a) Enfermo/facultativo.",
+                "b) Enfermo/DUE.",
+                "c) Enfermo/personal sanitario.",
+                "d) Enfermo/familia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El per\u00edodo inicial del duelo se caracteriza por:",
+            "respuestas": [
+                "a) La adaptaci\u00f3n.",
+                "b) Un tiempo de dolor intenso.",
+                "c) Un periodo de soledad y aislamiento social.",
+                "d) El embotamiento y el shock."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 fase del duelo del propio paciente (seg\u00fan la Doctora K. Ross), recoge habitualmente las promesas que se hacen normalmente a Dios con el deseo de la curaci\u00f3n o, por lo menos, la prolongaci\u00f3n de la vida?",
+            "respuestas": [
+                "a) Fase de depresi\u00f3n preparatoria.",
+                "b) Fase de simplemente depresi\u00f3n.",
+                "c) Fase de pacto o negociaci\u00f3n.",
+                "d) Fase de negaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 etapa de aceptaci\u00f3n de la muerte seg\u00fan K\u00fcbler-Ross es la de decatexis o muerte inminente?",
+            "respuestas": [
+                "a) Negociaci\u00f3n.",
+                "b) Depresi\u00f3n reactiva.",
+                "c) Depresi\u00f3n profunda.",
+                "d) Depresi\u00f3n preparatoria."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 etapa se est\u00e1 de las de aceptaci\u00f3n de la muerte cuando el paciente se rebela contra la repentina sensaci\u00f3n de impotencia para controlar su destino por sufrir una enfermedad terminal?",
+            "respuestas": [
+                "a) Etapa de negaci\u00f3n.",
+                "b) Etapa de ira.",
+                "c) Etapa de negociaci\u00f3n.",
+                "d) Etapa de depresi\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 emociones se sufrir\u00e1n (seg\u00fan Spoken) cuando estas se caracterizan por la esperanza y expectativas de curaci\u00f3n y a la vez por un miedo intenso?",
+            "respuestas": [
+                "a) Despreocupaci\u00f3n y ansiedad.",
+                "b) Inseguridad y temor.",
+                "c) Negaci\u00f3n e ignorancia.",
+                "d) Comunicaci\u00f3n de la verdad y negaci\u00f3n impl\u00edcita."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo se dice que un duelo es cr\u00f3nico?",
+            "respuestas": [
+                "a) Cuando dura a\u00f1os.",
+                "b) Cuando no est\u00e1 resuelto en el tiempo.",
+                "c) Cuando no hay apenas progreso en las fases del duelo.",
+                "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos t\u00e9rminos es sin\u00f3nimo de exitus?",
+            "respuestas": [
+                "a) Defunci\u00f3n.",
+                "b) Deceso.",
+                "c) \u00d3bito.",
+                "d) Son todos los anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los signos de muerte es tard\u00edo?",
+            "respuestas": [
+                "a) No se ausculta el latido card\u00edaco.",
+                "b) El pulso desaparece a la palpaci\u00f3n.",
+                "c) Livideces.",
+                "d) EEG plano."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se produce el algor mortis en condiciones normales en un cad\u00e1ver?",
+            "respuestas": [
+                "a) La p\u00e9rdida de medio grado de temperatura por hora.",
+                "b) La presencia de livideces cada hora, en diferentes lugares y su desaparici\u00f3n al aparecer otras.",
+                "c) La p\u00e9rdida de un grado de temperatura por hora.",
+                "d) La contracci\u00f3n ordenada y progresiva de los miembros en sentido proximodistal."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el examen realizado sobre el cad\u00e1ver de una persona fallecida a causa de enfermedad y que tiene como objetivo final la confirmaci\u00f3n de las causas de la muerte?",
+            "respuestas": [
+                "a) Exclusivamente autopsia.",
+                "b) Autopsia judicial.",
+                "c) Autopsia forense.",
+                "d) Autopsia cl\u00ednica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se debe colocar el cad\u00e1ver sobre el sudario durante el amortajamiento?",
+            "respuestas": [
+                "a) En dec\u00fabito prono.",
+                "b) En dec\u00fabito supino.",
+                "c) En dec\u00fabito lateral derecho.",
+                "d) En dec\u00fabito lateral izquierdo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el fen\u00f3meno de separaci\u00f3n gradual del paciente del mundo, que ocurre en la etapa de aceptaci\u00f3n y paz ante la muerte en enfermo terminal?",
+            "respuestas": [
+                "a) Empat\u00eda.",
+                "b) Catarsis.",
+                "c) Decatexis.",
+                "d) Dislocaci\u00f3n."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

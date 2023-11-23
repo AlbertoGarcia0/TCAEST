@@ -1,0 +1,704 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Una patolog\u00eda que puede llevar a la muerte y que debe ser atendida en un tiempo inferior a una hora, seg\u00fan la OMS, es:",
+            "respuestas": [
+                "a) Un accidente.",
+                "b) Un siniestro.",
+                "c) Una urgencia.",
+                "d) Una emergencia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para valorar el nivel de conciencia del politraumatizado usaremos el m\u00e9todo:",
+            "respuestas": [
+                "a) VOS.",
+                "b) PAS.",
+                "c) ALEC.",
+                "d) ALLEN."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1les son las primeras medidas a poner en marcha en un esguince que se encuentra en un paciente politraumatizado mientras se realiza en la valoraci\u00f3n secundaria?",
+            "respuestas": [
+                "a) Venda de sost\u00e9n o presi\u00f3n y hielo o compresas fr\u00edas alrededor de la articulaci\u00f3n lesionada.",
+                "b) Reposo y elevaci\u00f3n de la articulaci\u00f3n.",
+                "c) Evitar la posici\u00f3n colgante de la articulaci\u00f3n lesionada.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se denomina PIC a:",
+            "respuestas": [
+                "a) Presi\u00f3n intercraneal.",
+                "b) Presi\u00f3n intracraneal.",
+                "c) Posici\u00f3n cervical.",
+                "d) Posici\u00f3n craneal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cuál ser\u00e1 la actitud general ante una amputaci\u00f3n traum\u00e1tica parcial?",
+            "respuestas": [
+                "a) Cubrir el miembro parcialmente con una bolsa de pl\u00e1stico impermeable, secar cuidadosamente la porci\u00f3n cercenada, envolverla con un pa\u00f1o est\u00e9ril, envolver esta bolsa con una segunda bolsa sellada y trasladar al paciente con el miembro elevado.",
+                "b) Colocar la parte amputada en una posici\u00f3n funcional y aplicar una cubierta protectora envolviendo el miembro con gasas est\u00e9riles apret\u00e1ndolo bien para parar el sangrado y elevar el miembro.",
+                "c) Colocar la parte amputada en una posici\u00f3n funcional y aplicar una cubierta protectora envolviendo el miembro con gasas est\u00e9riles, pero sin apretarlo tanto que produzca una mayor compresi\u00f3n que comprometa el flujo sangu\u00edneo, cubrir el miembro completamente con una bolsa de pl\u00e1stico impermeable, envolver esta bolsa con una segunda cubierta pl\u00e1stica llena de agua helada o hielo picado cerr\u00e1ndolo con esparadrapo y trasladar al paciente con el miembro elevado.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se consideran quemaduras leves las de extensi\u00f3n de:",
+            "respuestas": [
+                "a) Menos del 10% si las quemaduras son de 2\u00ba grado y menos del 2% si son de 3\u00ba grado y no afectan a localizaciones especiales.",
+                "b) Menos del 18% si son de 2\u00ba grado y menos del 9% si son de 3\u00ba grado y no afectan a localizaciones especiales.",
+                "c) Menos del 15% si son de 2\u00ba grado y menos del 5% si son de 3\u00ba grado y no afectan a localizaciones especiales.",
+                "d) Menos del 9% si son de 2\u00ba grado y menos del 3% si son de 3\u00ba grado y no afectan a localizaciones especiales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Según el origen del shock, podemos clasificarlo en:",
+            "respuestas": [
+                "a) Shock hipovolémico, hipervolémico, cardiogénico, obstructivo, distributivo y vasogénico.",
+                "b) Shock hipovolémico, cardiogénico, obstructivo y distributivo.",
+                "c) Shock hipovolémico, hipervolémico, cardiogénico y vasogénico.",
+                "d) Shock hipovolémico, cardiogénico, obstructivo, distributivo, séptico y vasogénico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cuál es el tipo de shock m\u00e1s frecuente?",
+            "respuestas": [
+                "a) El shock hipovolémico.",
+                "b) El shock cardiogénico.",
+                "c) El shock obstructivo.",
+                "d) El shock hipervolémico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 tres mecanismos se pueden emplear para disminuir la absorci\u00f3n de t\u00f3xicos por v\u00eda digestiva?",
+            "respuestas": [
+                "a) Administraci\u00f3n de em\u00e9ticos, lavado y aspiraci\u00f3n g\u00e1strica y administraci\u00f3n de cat\u00e1rticos.",
+                "b) Vaciado g\u00e1strico, administraci\u00f3n de adsorbentes y administraci\u00f3n de cat\u00e1rticos.",
+                "c) Administraci\u00f3n de em\u00e9ticos, administraci\u00f3n de carb\u00f3n activado y administraci\u00f3n de cat\u00e1rticos.",
+                "d) Administraci\u00f3n de acetilciste\u00edna, administraci\u00f3n de adsorbentes y vaciado g\u00e1strico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cuál de los siguientes es el tratamiento para la intoxicaci\u00f3n por benzodiacepinas?",
+            "respuestas": [
+                "a) El tratamiento es sintom\u00e1tico.",
+                "b) El tratamiento indicado es el lavado g\u00e1strico incluso pasadas 12 horas, monitorizaci\u00f3n card\u00edaca y administraci\u00f3n de bicarbonato s\u00f3dico.",
+                "c) El tratamiento espec\u00edfico es la administraci\u00f3n de su ant\u00eddoto, N-acetilciste\u00edna y si la ingesta es reciente est\u00e1n indicados el lavado g\u00e1strico y el carb\u00f3n activado.",
+                "d) El tratamiento consiste en el lavado g\u00e1strico y carb\u00f3n g\u00e1strico y la administraci\u00f3n intravenosa de flumazenil."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cu\u00e1les son las valoraciones que se deben hacer a un paciente con un traumatismo craneoencef\u00e1lico?",
+            "respuestas": [
+                "a) Valoraci\u00f3n respiratoria y neurol\u00f3gica.",
+                "b) Valoraci\u00f3n circulatoria y externa en busca de heridas.",
+                "c) Valoraci\u00f3n respiratoria, circulatoria y neurol\u00f3gica.",
+                "d) Valoraci\u00f3n circulatoria e inspecci\u00f3n, palpaci\u00f3n y auscultaci\u00f3n de la cabeza."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 tres par\u00e1metros se eval\u00faan en la atenci\u00f3n de enfermer\u00eda de un paciente con un traumatismo craneoencef\u00e1lico para evaluar su conciencia?",
+            "respuestas": [
+                "a) Apertura de ojos, respuesta verbal y respuesta motora.",
+                "b) Apertura de ojos, respuesta pupilar ante un foco de luz y respuesta verbal.",
+                "c) La relaci\u00f3n entre las pupilas, la presi\u00f3n intracraneal y la capacidad pulmonar.",
+                "d) Respuesta motora, respuesta verbal y respuesta pupilar a la luz."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Diferenciaremos que la sintomatolog\u00eda de la contusi\u00f3n es en el deltoides porque:",
+            "respuestas": [
+                "a) La contusi\u00f3n suele provocar lumbalgias de tipo muscular.",
+                "b) La flexi\u00f3n dorsal suele estar muy limitada y es dolorosa.",
+                "c) La contusi\u00f3n puede provocar desde hombros dolorosos simples hasta hombros congelados con compresi\u00f3n nerviosa, que deberemos valorar.",
+                "d) La intensidad de la lesi\u00f3n por la limitaci\u00f3n de la flexi\u00f3n activa y pasiva de la rodilla."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los signos y s\u00edntomas de las fracturas consisten en:",
+            "respuestas": [
+                "a) Hinchaz\u00f3n, cambios de color, mareos, n\u00e1useas, delirios.",
+                "b) Torpeza, sudoraci\u00f3n, angustia, fatiga, hinchaz\u00f3n local, arritmias y cambios de humor.",
+                "c) Dolor, p\u00e9rdida de funci\u00f3n, deformidad, acortamiento, crepitaci\u00f3n, hinchaz\u00f3n local y cambios de color.",
+                "d) Ninguna de las respuestas anteriores es cierta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Una de las fases de cicatrizaci\u00f3n de los huesos es:",
+            "respuestas": [
+                "a) Epifisiaria.",
+                "b) Osificaci\u00f3n.",
+                "c) Impactada.",
+                "d) Oblicua."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En las fracturas de huesos largos los fragmentos pueden presentar un traslado de:",
+            "respuestas": [
+                "a) 3 a 6 cm.",
+                "b) 1,5 a 5 cm.",
+                "c) 2,5 a 4,5 cm.",
+                "d) 2,5 a 5 cm."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de estas corresponde al grado IV de fractura abierta?",
+            "respuestas": [
+                "a) Es una herida abierta de menos de 1 cm de longitud.",
+                "b) Es de mayor di\u00e1metro sin lesi\u00f3n extensa de los tejidos blandos.",
+                "c) No existe el grado IV de fractura abierta.",
+                "d) Es m\u00e1s grave, con lesi\u00f3n amplia de tejidos blandos y alto grado de contaminaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes forma parte de los factores de cicatrizaci\u00f3n de las heridas?",
+            "respuestas": [
+                "a) Insomnio.",
+                "b) Hu\u00e9sped comprometido.",
+                "c) Ansiedad.",
+                "d) Sistema respiratorio."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La infecci\u00f3n de una herida quir\u00fargica se puede hacer evidente entre los:",
+            "respuestas": [
+                "a) 3 y 7 d\u00edas del posoperatorio.",
+                "b) 1 y 8 d\u00edas del posoperatorio.",
+                "c) 2 y 10 d\u00edas del posoperatorio.",
+                "d) 2 y 11 d\u00edas del posoperatorio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Cuando la profundidad de la herida atraviesa el tejido subcut\u00e1neo hablamos de tipo:",
+            "respuestas": [
+                "a) Perforante.",
+                "b) Profunda.",
+                "c) Superficial.",
+                "d) Penetrante."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las heridas se manifiestan cl\u00ednicamente por:",
+            "respuestas": [
+                "a) Dolor, hemorragia y separaci\u00f3n de los bordes de la piel por la herida.",
+                "b) Dolor, contusi\u00f3n y membrana mucosa abierta.",
+                "c) Hemorragia, rotura de la piel y enrojecimiento de esta.",
+                "d) Rotura de la piel, dolor y hemorragia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Forma parte de la actitud de enfermer\u00eda en caso de hemorragia dental:",
+            "respuestas": [
+                "a) Informar al paciente de la necesidad de respirar por la boca y de evitar toser o realizar movimientos bruscos para que no se deshaga el co\u00e1gulo que se forma.",
+                "b) Tomar las constantes vitales de forma continua.",
+                "c) Colocar un tap\u00f3n de gasa humedecido en agua oxigenada en el lugar de la hemorragia e informar al paciente de que debe aprisionarlo fuertemente.",
+                "d) Trasladar al paciente al hospital."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Una p\u00e9rdida de sangre es mortal cuando es superior al:",
+            "respuestas": [
+                "a) 30-60 %.",
+                "b) 60 %.",
+                "c) 80 %.",
+                "d) 70 %."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Sabemos que es una hemorragia arterial cuando:",
+            "respuestas": [
+                "a) La sangre que brota lo hace de forma continua y babeante. Es de color rojo menos intenso que la sangre arterial (color rojo azulado).",
+                "b) La sangre es de color rojo intenso y sale a presi\u00f3n, siendo m\u00e1s acentuada la salida con la s\u00edstole cardiaca.",
+                "c) Brota de m\u00faltiples puntos en forma de s\u00e1bana (como si de manantiales de agua se tratara). Es de color intermedio entre los dos anteriores.",
+                "d) La sangre es de color negro intenso y no se aprecia presi\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una dosis letal de Metanol es:",
+            "respuestas": [
+                "a) 70 ml.",
+                "b) 30 ml.",
+                "c) 50 ml.",
+                "d) 40 ml."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El tratamiento por intoxicaci\u00f3n de mon\u00f3xido de carbono consiste en:",
+            "respuestas": [
+                "a) Un lavado g\u00e1strico y carb\u00f3n activado, debiendo prestar especial atenci\u00f3n a los fallos respiratorios.",
+                "b) La administraci\u00f3n de ox\u00edgeno al 100% (si es necesario en c\u00e1mara hiperb\u00e1rica).",
+                "c) El vaciado g\u00e1strico, no siendo efectivo en este caso el carb\u00f3n activo.",
+                "d) El tratamiento es sintom\u00e1tico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las benzodiacepinas son:",
+            "respuestas": [
+                "a) F\u00e1rmacos hipn\u00f3tico-sedantes que se emplean sobre todo en el tratamiento del insomnio, la ansiedad, las rigideces musculares y en anestesiolog\u00eda.",
+                "b) F\u00e1rmacos hipn\u00f3tico-sedantes (fenobarbital, tiopental, pentobarbital...). Est\u00e1n cayendo r\u00e1pidamente en desuso debido a la fuerte depresi\u00f3n respiratoria que producen y a los problemas de dependencia que generan.",
+                "c) Un mineral empleado en el tratamiento de las psicosis man\u00edaco-depresivas. La intoxicaci\u00f3n se suele producir por la proximidad entre los niveles terap\u00e9uticos (0,7-1,3 mEq/L) y los niveles de toxicidad (por encima de 1,5 mEq/L).",
+                "d) Conocidos como tranquilizantes mayores y provocan en el paciente una fuerte sedaci\u00f3n, tranquilidad psicomotora e indiferencia afectiva y al medio que les rodea."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los IMAO se emplean en:",
+            "respuestas": [
+                "a) El tratamiento de la depresi\u00f3n. Los m\u00e1s usados son probablemente los tric\u00edclicos (imipramida, amitriptilina, trimipramida, doxepina, nortriptilina...).",
+                "b) Aumentar el consumo de glucosa y estimular el centro respiratorio. El \u00e1cido acetilsalic\u00edlico es adem\u00e1s muy utilizado por sus excelentes cualidades como antiagregante plaquetario.",
+                "c) Depresiones que no responden al tratamiento con los antidepresivos c\u00edclicos y tambi\u00e9n en algunos tipos de neurosis y situaciones de estr\u00e9s.",
+                "d) Ninguna de las respuestas anteriores es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1les son los objetivos del tratamiento t\u00f3pico de las quemaduras?",
+            "respuestas": [
+                "a) Combatir la infecci\u00f3n, favorecer la epitelizaci\u00f3n y calmar el dolor.",
+                "b) Evacuar las flictenas y recortarlas.",
+                "c) Combatir la infecci\u00f3n y usar vendas de algod\u00f3n en las quemaduras.",
+                "d) Favorecer la cicatrizaci\u00f3n y combatir la infecci\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿C\u00f3mo se realiza una correcta valoraci\u00f3n de la fase del shock en un paciente?",
+            "respuestas": [
+                "a) Var\u00eda en funci\u00f3n del tipo de shock, la etapa y el grado de compensaci\u00f3n.",
+                "b) Estudiando la repercusi\u00f3n a nivel perif\u00e9rico del inadecuado aporte de ox\u00edgeno.",
+                "c) Estudiando la conciencia del paciente.",
+                "d) Estudiando la repercusi\u00f3n a nivel central del inadecuado aporte de ox\u00edgeno."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Consideramos que lo ideal ser\u00eda que supieran t\u00e9cnicas de RCP:",
+            "respuestas": [
+                "a) Todo el personal sanitario.",
+                "b) Todo el personal de primera intervenci\u00f3n.",
+                "c) Todos los ciudadanos.",
+                "d) Todo el personal que trabaje en un servicio sanitario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El estilo Utstein en el soporte vital b\u00e1sico es:",
+            "respuestas": [
+                "a) Un acuerdo a nivel mundial para consensuar definiciones relacionadas con la RCP.",
+                "b) La principal asociaci\u00f3n de indicaciones en RCP a nivel europeo.",
+                "c) La secuencia de actuaci\u00f3n correcta ante una emergencia cl\u00ednica.",
+                "d) Todas son ciertas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En RCP consideramos finalizado el proceso si:",
+            "respuestas": [
+                "a) Se mantiene la circulaci\u00f3n espont\u00e1nea durante 20 minutos.",
+                "b) Llegan los servicios de emergencias extrahospitalaria.",
+                "c) Aparece respiraci\u00f3n espont\u00e1nea.",
+                "d) Todas las respuestas son ciertas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El primer eslab\u00f3n de la cadena de supervivencia es:",
+            "respuestas": [
+                "a) RCP b\u00e1sica.",
+                "b) Desfibrilaci\u00f3n precoz.",
+                "c) Activaci\u00f3n de los servicios de emergencia.",
+                "d) Soporte vital avanzado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Lo primero que se debe hacer en una situaci\u00f3n de emergencia es:",
+            "respuestas": [
+                "a) Avisar a los servicios sanitarios.",
+                "b) Realizar una valoraci\u00f3n del paciente.",
+                "c) Protegernos a nosotros, al paciente y a la zona.",
+                "d) Socorrer al herido."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El n\u00famero seleccionado en toda Europa para la activaci\u00f3n de los servicios de emergencias es:",
+            "respuestas": [
+                "a) 112.",
+                "b) 061.",
+                "c) 060.",
+                "d) 091."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El cerebro humano empieza a deteriorarse por falta de ox\u00edgeno a los:",
+            "respuestas": [
+                "a) 10 minutos.",
+                "b) 15 minutos.",
+                "c) 4 minutos.",
+                "d) 1 minuto."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La causa m\u00e1s frecuente de parada cardiorrespiratoria en adultos es:",
+            "respuestas": [
+                "a) Torsades de pointes.",
+                "b) FV.",
+                "c) FA.",
+                "d) Enfermedad terminal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes afirmaciones sobre la valoraci\u00f3n de la conciencia es falsa?",
+            "respuestas": [
+                "a) Es la primera valoraci\u00f3n que se realiza en una situaci\u00f3n de emergencia.",
+                "b) Se realiza mediante una valoraci\u00f3n sensitiva y auditiva.",
+                "c) Si la v\u00edctima responde consideraremos que est\u00e1 consciente.",
+                "d) Si la v\u00edctima responde de forma anormal o confusa consideraremos que est\u00e1 inconsciente."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para despejar la v\u00eda a\u00e9rea usaremos la t\u00e9cnica de:",
+            "respuestas": [
+                "a) Tracci\u00f3n mandibular.",
+                "b) VOS.",
+                "c) Insuflaciones.",
+                "d) Dedo en gancho."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Un paciente inconsciente que respira:",
+            "respuestas": [
+                "a) Se deja como est\u00e1 y se avisa a los servicios de emergencias.",
+                "b) No har\u00e1 falta avisar a nadie.",
+                "c) Se inicia de forma inmediata las maniobras de RCP.",
+                "d) Se coloca en PLS (posici\u00f3n lateral de seguridad)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La secuencia correcta entre MCE (masaje cardiaco externo) e insuflaciones es de:",
+            "respuestas": [
+                "a) 30/2.",
+                "b) 15/2.",
+                "c) 30/1.",
+                "d) Depende del n\u00famero de reanimadores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El gaspin es:",
+            "respuestas": [
+                "a) Una t\u00e9cnica de apertura de la v\u00eda a\u00e9rea.",
+                "b) Una respiraci\u00f3n ag\u00f3nica.",
+                "c) Un nivel de conciencia alterado.",
+                "d) Una escala para la valoraci\u00f3n de la respiraci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes afirmaciones sobre el boca a boca es falsa?",
+            "respuestas": [
+                "a) Debemos tapar los orificios nasales.",
+                "b) Debemos sellar la boca del paciente con nuestra boca.",
+                "c) Se realizar\u00e1n 2 insuflaciones cada 30 compresiones.",
+                "d) Se realizar\u00e1 una insuflaci\u00f3n profunda para mejorar la oxigenaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes afirmaciones sobre el masaje cardiaco externo es falsa?",
+            "respuestas": [
+                "a) Se realiza en el centro del pecho.",
+                "b) Se realiza sobre el tercio inferior del estern\u00f3n.",
+                "c) Se realiza con los brazos oblicuos al cuerpo.",
+                "d) Se realiza con el tal\u00f3n de la mano."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Consideraremos una obstrucci\u00f3n como parcial si:",
+            "respuestas": [
+                "a) El paciente no se encuentra atragantado.",
+                "b) El paciente puede respirar y toser.",
+                "c) El paciente no puede toser.",
+                "d) El paciente se encuentra consciente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La maniobra de Heimlich la realizaremos en un paciente:",
+            "respuestas": [
+                "a) Que presente un OVACE incompleto y est\u00e9 inconsciente.",
+                "b) Que presente un OVACE completo y est\u00e9 consciente.",
+                "c) Que presente un OVACE completo y est\u00e9 inconsciente.",
+                "d) Que no pueda respirar con normalidad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Ante una hemorragia debemos:",
+            "respuestas": [
+                "a) Dar agua para reponer el volumen perdido.",
+                "b) Usar un torniquete.",
+                "c) Hacer compresi\u00f3n sobre la herida.",
+                "d) Aplicar calor seco."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los torniquetes est\u00e1n indicados en:",
+            "respuestas": [
+                "a) Amputaciones.",
+                "b) Heridas sangrantes.",
+                "c) Hemorragias arteriales.",
+                "d) Hemorragias venosas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La c\u00e1nula de Guedel:",
+            "respuestas": [
+                "a) Es una c\u00e1nula orofar\u00edngea.",
+                "b) Se utiliza para mantener la v\u00eda a\u00e9rea permeable.",
+                "c) Es un tubo de pl\u00e1stico abierto en su interior.",
+                "d) Todas las respuestas son ciertas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Es un ritmo desfibrilable:",
+            "respuestas": [
+                "a) TVSP.",
+                "b) Asistolia.",
+                "c) Sinusal.",
+                "d) Bloqueo completo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Si est\u00e1 indicada la descarga con el desfibrilador deberemos estar seguros de que:",
+            "respuestas": [
+                "a) El ritmo es desfibrilable.",
+                "b) El nivel de julios es el correcto.",
+                "c) Nadie toca al paciente.",
+                "d) El DESA tiene bater\u00edas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Para utilizar un amb\u00fa de forma correcta debemos situarnos:",
+            "respuestas": [
+                "a) Detr\u00e1s de la cabeza del paciente.",
+                "b) Entre sus hombros.",
+                "c) De rodilla junto a su t\u00f3rax.",
+                "d) En el sitio que podamos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Cu\u00e1ndo se suspende la RCP b\u00e1sica?",
+            "respuestas": [
+                "a) Cuando la valoraci\u00f3n nos indica que el paciente presenta una PCR.",
+                "b) Cuando el paciente necesita una descarga el\u00e9ctrica.",
+                "c) Cuando el reanimador est\u00e1 exhausto.",
+                "d) Todas las respuestas son ciertas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes funciones se considera propias de el celador en una situaci\u00f3n de parada cardiorrespiratoria?",
+            "respuestas": [
+                "a) Alerta del personal.",
+                "b) MCE.",
+                "c) Ventilaci\u00f3n.",
+                "d) Todas las respuestas son ciertas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En los ni\u00f1os las t\u00e9cnicas de RCP se inician con:",
+            "respuestas": [
+                "a) 30 compresiones.",
+                "b) 2 ventilaciones.",
+                "c) 5 ventilaciones.",
+                "d) 15 compresiones."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La secuencia ideal entre compresiones y ventilaciones en los ni\u00f1os es de:",
+            "respuestas": [
+                "a) 30/2.",
+                "b) 15/2.",
+                "c) 30/1.",
+                "d) 15/5."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La realizaci\u00f3n de la RCP en ni\u00f1os debe hacerse con el ni\u00f1o:",
+            "respuestas": [
+                "a) En PLS.",
+                "b) En dec\u00fabito prono sobre una superficie dura.",
+                "c) En dec\u00fabito supino sobre una superficie dura.",
+                "d) En la posici\u00f3n en la que nos encontramos al paciente evitando la movilizaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Para mantener abierta la v\u00eda a\u00e9rea en un lactante la posici\u00f3n de la cabeza debe ser:",
+            "respuestas": [
+                "a) En hiperextensi\u00f3n.",
+                "b) En posici\u00f3n neutra.",
+                "c) En hipoextensi\u00f3n.",
+                "d) Solo se mantendr\u00e1 abierta con una c\u00e1nula orofar\u00edngea."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El \u00e1rea de compresi\u00f3n en los lactantes:",
+            "respuestas": [
+                "a) Es en la l\u00ednea intermamilar, sobre el estern\u00f3n.",
+                "b) Es en el mismo lugar que en los adultos.",
+                "c) Es con 3 dedos sobre la ap\u00f3fisis xifoides.",
+                "d) Es justo bajo la ap\u00f3fisis xifoides."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En un ni\u00f1o que presenta una obstrucci\u00f3n de la v\u00eda a\u00e9rea completa deberemos:",
+            "respuestas": [
+                "a) Iniciar secuencia de RCP.",
+                "b) Realizar 5 insuflaciones de rescate.",
+                "c) Realizar la maniobra frente-ment\u00f3n para mantener la v\u00eda a\u00e9rea abierta.",
+                "d) Alternar 5 compresiones tor\u00e1cicas con 5 golpes interescapulares."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan el estilo Utstein una PC es:",
+            "respuestas": [
+                "a) El cese de la actividad mec\u00e1nica cardiaca, confirmado por la ausencia de pulso detectable, inconsciencia y apnea.",
+                "b) La ausencia de la respiraci\u00f3n con presencia de actividad cardiaca.",
+                "c) La ausencia de respuesta por parte del paciente.",
+                "d) El acto de intentar lograr la restauraci\u00f3n de la circulaci\u00f3n espont\u00e1nea."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "No es un ritmo desfibrilable:",
+            "respuestas": [
+                "a) Fibrilaci\u00f3n ventricular.",
+                "b) Taquicardia ventricular sin pulso.",
+                "c) Asistolia.",
+                "d) Todos son ritmos desfibrilables."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "No es un eslab\u00f3n de la cadena de supervivencia:",
+            "respuestas": [
+                "a) RCP b\u00e1sica.",
+                "b) Alerta del sistema.",
+                "c) Intubaci\u00f3n temprana.",
+                "d) Desfibrilaci\u00f3n precoz."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Ante una supuesta situaci\u00f3n de PCR lo primero ser\u00e1:",
+            "respuestas": [
+                "a) Alertar al sistema.",
+                "b) Iniciar maniobras de RCP.",
+                "c) Realizar una desfibrilaci\u00f3n precoz.",
+                "d) Identificar la situaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para valorar la conciencia:",
+            "respuestas": [
+                "a) Realizaremos la maniobra frente-ment\u00f3n.",
+                "b) Estimularemos auditiva y sensitivamente.",
+                "c) Colocaremos el DEA.",
+                "d) Realizaremos la maniobra de Heimlich."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Ante un paciente inconsciente deberemos:",
+            "respuestas": [
+                "a) Comprobar la consciencia.",
+                "b) Comprobar la respiraci\u00f3n.",
+                "c) Comprobar la circulaci\u00f3n.",
+                "d) Iniciar la RCP."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La maniobra frente-ment\u00f3n sirve para:",
+            "respuestas": [
+                "a) Comprobar la consciencia.",
+                "b) Comprobar la respiraci\u00f3n.",
+                "c) Comprobar la circulaci\u00f3n.",
+                "d) Resolver una obstrucci\u00f3n del tracto respiratorio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La posici\u00f3n lateral de seguridad sirve para:",
+            "respuestas": [
+                "a) Prevenir la obstrucci\u00f3n de la v\u00eda a\u00e9rea y la aspiraci\u00f3n en caso de v\u00f3mito.",
+                "b) Poder evaluar al enfermo.",
+                "c) Liberar la circulaci\u00f3n de los MMII.",
+                "d) Proteger al paciente en PC mientras se va a buscar ayuda o un DEA."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se conoce como gasping a:",
+            "respuestas": [
+                "a) La respiraci\u00f3n ocasional y ag\u00f3nica que precede a la parada cardiaca.",
+                "b) La maniobra que permite liberar la v\u00eda a\u00e9rea.",
+                "c) El pulso d\u00e9bil y lento que precede a la parada cardiaca.",
+                "d) El centro de llamada europeo para casos de emergencias."
+            ],
+            "verdadera": 1
+        }
+    ]
+}

@@ -2,7 +2,7 @@
     "categorias": [
         {
             "nombre_categoria": "Todo",
-            "numero_preguntas": 666	    
+            "numero_preguntas": 975	    
         },
         {
             "nombre_categoria": "Tema 7",
@@ -55,6 +55,38 @@
         {
             "nombre_categoria": "Tema 19",
             "numero_preguntas": 35	    
+        },
+        {
+            "nombre_categoria": "Tema 20",
+            "numero_preguntas": 22	    
+        },
+        {
+            "nombre_categoria": "Tema 21",
+            "numero_preguntas": 24	    
+        },
+        {
+            "nombre_categoria": "Tema 22",
+            "numero_preguntas": 65	    
+        },
+        {
+            "nombre_categoria": "Tema 23",
+            "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 24",
+            "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 25",
+            "numero_preguntas": 39	    
+        },
+        {
+            "nombre_categoria": "Tema 26",
+            "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 27",
+            "numero_preguntas": 70	    
         }
     ],
     "database_id": "9f32f06dae8b0c097227",
