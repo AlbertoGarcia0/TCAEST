@@ -2,7 +2,19 @@
     "categorias": [
         {
             "nombre_categoria": "Todo",
-            "numero_preguntas": 975	    
+            "numero_preguntas": 1086	    
+        },
+        {
+            "nombre_categoria": "Temario especifico",
+            "numero_preguntas": 1086	    
+        },
+        {
+            "nombre_categoria": "Temario leyes",
+            "numero_preguntas": 139	    
+        },
+        {
+            "nombre_categoria": "Tema 1",
+            "numero_preguntas": 139	    
         },
         {
             "nombre_categoria": "Tema 7",
@@ -87,6 +99,18 @@
         {
             "nombre_categoria": "Tema 27",
             "numero_preguntas": 70	    
+        },
+        {
+            "nombre_categoria": "Tema 28",
+            "numero_preguntas": 34	    
+        },
+        {
+            "nombre_categoria": "Tema 29",
+            "numero_preguntas": 38	    
+        },
+        {
+            "nombre_categoria": "Tema 30",
+            "numero_preguntas": 38	    
         }
     ],
     "database_id": "9f32f06dae8b0c097227",

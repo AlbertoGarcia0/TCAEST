@@ -1,0 +1,344 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Cuando un TCAE se comunica con el paciente, trata de compartir adecuadamente todo lo que se expone, excepto:",
+            "respuestas": [
+                "a) Informaciones e ideas.",
+                "b) Actitudes.",
+                "c) Sentimientos.",
+                "d) Asuntos personales de trascendencia del t\u00e9cnico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Al individuo que habla, gesticula, escribe, pinta, etc., en la comunicaci\u00f3n, se le denomina:",
+            "respuestas": [
+                "a) Mensajero.",
+                "b) Fuente.",
+                "c) Receptor.",
+                "d) Destino."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La comunicaci\u00f3n que emplea el c\u00f3digo dibujos es:",
+            "respuestas": [
+                "a) Ling\u00fc\u00edstica escrita.",
+                "b) Ling\u00fc\u00edstica visual.",
+                "c) No ling\u00fc\u00edstica visual.",
+                "d) No ling\u00fc\u00edstica gestual."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 \u00e1rea o aspecto debe recoger (seg\u00fan el Defensor del pueblo) la humanizaci\u00f3n de los comportamientos, de las conductas rec\u00edprocas en las relaciones entre los enfermos, los m\u00e9dicos y cuantos cooperan a la protecci\u00f3n de la salud?",
+            "respuestas": [
+                "a) El aspecto \u00e9tico.",
+                "b) El aspecto est\u00e9tico.",
+                "c) El aspecto profesional.",
+                "d) El aspecto laboral."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿A qu\u00e9 se denomina el m\u00e9todo que permite a una persona hacer comprensible a otra cualquier idea o hecho que se le quiere transmitir?",
+            "respuestas": [
+                "a) Comunicaci\u00f3n.",
+                "b) Transmisi\u00f3n.",
+                "c) Explicaci\u00f3n o charla.",
+                "d) Transferencia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 aspecto de la comunicaci\u00f3n se debe dar para hablar correctamente, con l\u00f3gica y precisi\u00f3n?",
+            "respuestas": [
+                "a) Apropiado l\u00e9xico.",
+                "b) Respeto en la comunicaci\u00f3n (saber escuchar).",
+                "c) Adecuada expresi\u00f3n.",
+                "d) Atenci\u00f3n y escucha activa."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿A qu\u00e9 se denomina el proceso mediante el cual las personas interpretan y organizan la informaci\u00f3n con la finalidad de darle significado y comprensi\u00f3n a su mundo?",
+            "respuestas": [
+                "a) Sensaci\u00f3n.",
+                "b) Percepci\u00f3n.",
+                "c) Racionalidad.",
+                "d) Acci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es el objetivo en la relaci\u00f3n interpersonal celador/paciente/familiar?",
+            "respuestas": [
+                "a) La salud.",
+                "b) La eficiencia profesional.",
+                "c) La ayuda.",
+                "d) La eficacia profesional."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Cuando una relaci\u00f3n interpersonal se desarrolla en un r\u00e9gimen de igualdad se dice que es de:",
+            "respuestas": [
+                "a) Compa\u00f1erismo.",
+                "b) Equilibrada.",
+                "c) Emp\u00e1tica.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 habilidades o destrezas se deben poseer en una adecuada relaci\u00f3n interpersonal?",
+            "respuestas": [
+                "a) Habilidad para solucionar conflictos.",
+                "b) Habilidad para expresarse de manera honesta y aut\u00e9ntica.",
+                "c) Habilidad para comunicarse clara y directamente, as\u00ed como para escuchar atentamente.",
+                "d) Deben poseerse todas las anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿En qu\u00e9 pilares ha de basarse la relaci\u00f3n interpersonal?",
+            "respuestas": [
+                "a) Compromiso, objetivo com\u00fan y desinter\u00e9s.",
+                "b) Sinceridad, confianza y respeto.",
+                "c) Cooperaci\u00f3n, dominaci\u00f3n y aislamiento.",
+                "d) Confianza, creatividad, compromisos renovados y respeto mutuo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 componente de la actitud es aquel formado por la idea, el conocimiento o la creencia que se posee de una persona, objeto o hecho?",
+            "respuestas": [
+                "a) Componente afectivo.",
+                "b) Componente conductual.",
+                "c) Componente cognoscitivo.",
+                "d) Componente f\u00edsico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿En qu\u00e9 componentes de las actitudes, seg\u00fan el modelo de McGill, se deben sustentar el apoyo y la ayuda a la persona enferma, y por ello en su formaci\u00f3n?",
+            "respuestas": [
+                "a) Habilidades sociales y componente conductual de la actitud.",
+                "b) Componente f\u00edsico y conductual de la actitud.",
+                "c) Componente afectivo, cognoscitivo y conductual de la actitud.",
+                "d) Componente f\u00edsico, afectivo, cognoscitivo y conductual de la actitud."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El funcionamiento objetivo de un equipo de trabajo debe reunir todas estas caracter\u00edsticas excepto:",
+            "respuestas": [
+                "a) Determinaci\u00f3n del fin a obtener de modo transparente.",
+                "b) El fin a obtener debe ser conocido por todos sus miembros.",
+                "c) Descripci\u00f3n de soluciones mediante la utilizaci\u00f3n de las sugerencias y soluciones expuestas por los miembros.",
+                "d) Ejecuci\u00f3n del objetivo, exclusivamente a trav\u00e9s del l\u00edder o superior."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En la organizaci\u00f3n de los grupos de trabajo:",
+            "respuestas": [
+                "a) Prima la jerarqu\u00eda.",
+                "b) No existe responsable del grupo.",
+                "c) La jerarqu\u00eda es mediana, pero importante.",
+                "d) Todas las categor\u00edas laborales funcionan con igualdad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En un equipo de trabajo:",
+            "respuestas": [
+                "a) Su organizaci\u00f3n es muy jer\u00e1rquica.",
+                "b) Cada miembro puede tener una manera particular de funcionar.",
+                "c) Es necesario que posean todos sus miembros la misma profesi\u00f3n.",
+                "d) Es necesaria la coordinaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 se define como la integraci\u00f3n de elementos que da como resultado algo m\u00e1s grande que la simple suma de estos?",
+            "respuestas": [
+                "a) Antagonismo.",
+                "b) Coordinaci\u00f3n.",
+                "c) Indiferencia.",
+                "d) Sinergia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para que un equipo de trabajo sea eficiente, \u00bfqu\u00e9 cualidad es aquella que se caracteriza en que los diferentes miembros deben dominar todas las parcelas del proyecto que aspiran a realizar?",
+            "respuestas": [
+                "a) Valoraci\u00f3n.",
+                "b) Complementariedad.",
+                "c) Solidaridad.",
+                "d) Motivaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la acci\u00f3n encaminada a impulsar el comportamiento de otras personas en una determinada direcci\u00f3n, que se estima conveniente, dentro de un equipo de trabajo eficiente?",
+            "respuestas": [
+                "a) Acci\u00f3n de liderazgo.",
+                "b) Excitabilidad del equipo.",
+                "c) Eficiencia de constataci\u00f3n.",
+                "d) Motivaci\u00f3n-Incentivaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la cifra recomendada en cuanto a n\u00famero de miembros en los equipos de salud?",
+            "respuestas": [
+                "a) De aproximadamente 5.",
+                "b) De aproximadamente 10.",
+                "c) De aproximadamente 15.",
+                "d) De aproximadamente 20."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una vez definidos los objetivos propios a alcanzar del equipo de salud, se debe tener en cuenta que re\u00fanan los atributos siguientes, excepto:",
+            "respuestas": [
+                "a) Alcanzables o posibles de realizar.",
+                "b) No necesariamente relacionados con el campo de la salud.",
+                "c) Realistas.",
+                "d) Conocidos por todos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 fase del proceso de un equipo de trabajo se da frecuentemente la disponibilidad, la visi\u00f3n positiva, la ilusi\u00f3n ante un proyecto y el mantenimiento de relaciones cordiales entre los miembros?",
+            "respuestas": [
+                "a) En la fase de inicio.",
+                "b) En la fase de primeras dificultades.",
+                "c) En la fase de agotamiento.",
+                "d) En ninguna de las anteriores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 rol de estos consideras que es funcional de producci\u00f3n en un equipo de trabajo?",
+            "respuestas": [
+                "a) El cr\u00edtico.",
+                "b) El iniciador.",
+                "c) El p\u00edcaro.",
+                "d) El negativo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 rol de estos consideras funcional en un equipo de trabajo?",
+            "respuestas": [
+                "a) El cr\u00edtico.",
+                "b) El negativo.",
+                "c) El p\u00edcaro.",
+                "d) El intelectual."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina a aquel sujeto con capacidad para formar, orientar y dar criterio a un determinado grupo de auxiliares, en una instituci\u00f3n sanitaria?",
+            "respuestas": [
+                "a) L\u00edder.",
+                "b) Intelectual.",
+                "c) Asertivo.",
+                "d) Prol\u00edder."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 caracter\u00edstica del l\u00edder de un grupo multidisciplinario no es cierta?",
+            "respuestas": [
+                "a) Ha de ocupar una posici\u00f3n de autoridad leg\u00edtima.",
+                "b) Debe poseer unos conocimientos t\u00e9cnicos que sustenten y respalden su tarea directiva.",
+                "c) No debe estar dotado de un poder coercitivo, aunque s\u00ed premiador.",
+                "d) A nivel emocional debe ser un individuo equilibrado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 caracter\u00edsticas de estas debe reunir un l\u00edder en un grupo de trabajo multidisciplinario?",
+            "respuestas": [
+                "a) Actividad, vigor f\u00edsico y capacidad de trabajo.",
+                "b) No necesariamente debe poseer equilibrio emotivo.",
+                "c) Poca aptitud para el trato.",
+                "d) Amoral."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 funci\u00f3n de un l\u00edder de un grupo multidisciplinario no es adecuada?",
+            "respuestas": [
+                "a) Hacer que marche y funcione sin m\u00e1s la organizaci\u00f3n.",
+                "b) Ordenar y controlar los conflictos internos.",
+                "c) Imbuir el esp\u00edritu del grupo.",
+                "d) Definir la misi\u00f3n y el papel del grupo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina al equipo de trabajo formado por un conjunto de personas, con diferentes formaciones acad\u00e9micas y experiencias profesionales, que operan en conjunto, durante un periodo de tiempo determinado, con un objetivo com\u00fan?",
+            "respuestas": [
+                "a) Equipo interdisciplinar.",
+                "b) Equipo multidisciplinar.",
+                "c) Equipo transdisciplinar.",
+                "d) Equipo pluridisciplinar."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 importa en un equipo transdisciplinar?",
+            "respuestas": [
+                "a) Las disciplinas que lo integran.",
+                "b) El problema a resolver.",
+                "c) La integraci\u00f3n de disciplinas, sin aprendizaje com\u00fan de sus integrantes.",
+                "d) La acci\u00f3n del l\u00edder sobre las disciplinas que integran el grupo, aunque no haya aprendizaje com\u00fan de sus miembros."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la entrevista cl\u00ednica en la que se combina la obtenci\u00f3n de informaci\u00f3n concreta, mediante preguntas cerradas con informaci\u00f3n libre mediante preguntas abiertas y facilitaciones?",
+            "respuestas": [
+                "a) Entrevista estructurada.",
+                "b) Entrevista semiestructurada.",
+                "c) Entrevista dirigida.",
+                "d) Entrevista libre."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el instrumento m\u00e1s usado por los profesionales de la Salud para dirigirse a grupos?",
+            "respuestas": [
+                "a) La entrevista cl\u00ednica.",
+                "b) La clase.",
+                "c) La charla educativa.",
+                "d) La tertulia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 par\u00e1metro de estos no debe poseer un buen entrevistador?",
+            "respuestas": [
+                "a) Calidez en el trato.",
+                "b) No reactividad.",
+                "c) Asertividad.",
+                "d) Respeto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 nos referimos con la capacidad del entrevistador para dejar hablar y para escuchar?",
+            "respuestas": [
+                "a) Asertividad.",
+                "b) Reactividad.",
+                "c) Simpat\u00eda.",
+                "d) Retroalimentaci\u00f3n."
+            ],
+            "verdadera": 2
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "¿Cu\u00e1ntos a\u00f1os aproximadamente m\u00e1s se incrementa la esperanza de vida en Espa\u00f1a al llegar una persona a la edad de 65 a\u00f1os?",
+            "respuestas": [
+                "a) Se incrementa aproximadamente 4 a\u00f1os.",
+                "b) Se incrementa aproximadamente 8 a\u00f1os.",
+                "c) Se incrementa aproximadamente 20 a\u00f1os.",
+                "d) Se incrementa aproximadamente 25 a\u00f1os."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 edad en el anciano de las que se exponen est\u00e1 definida por el envejecimiento de sus \u00f3rganos y tejidos?",
+            "respuestas": [
+                "a) Edad ps\u00edquica.",
+                "b) Edad fisiol\u00f3gica.",
+                "c) Edad cronol\u00f3gica.",
+                "d) Edad social."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La senectud se caracteriza por:",
+            "respuestas": [
+                "a) Un marasmo senil.",
+                "b) La no persistencia de la vejez propiamente dicha.",
+                "c) La falta de alteraciones parenquimatosas y glandulares.",
+                "d) Nada de lo anterior."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 edad se corresponde con el estado funcional de los \u00f3rganos de nuestro cuerpo comparados con patrones est\u00e1ndar establecidos para cada edad o grupos de edad?",
+            "respuestas": [
+                "a) Edad cronol\u00f3gica.",
+                "b) Edad biol\u00f3gica.",
+                "c) Edad social.",
+                "d) Edad funcional."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 forma poseer\u00e1 la pir\u00e1mide de Bulgdofer si es la representaci\u00f3n de una poblaci\u00f3n joven?",
+            "respuestas": [
+                "a) Forma triangular.",
+                "b) Forma ojival.",
+                "c) Forma rectangular.",
+                "d) Forma de \u00e1nfora."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 poblaci\u00f3n predominar\u00e1, seg\u00fan las edades, si el \u00edndice de Sundbarg vale 15%?",
+            "respuestas": [
+                "a) Poblaci\u00f3n joven, con m\u00e1s ni\u00f1os que propiamente j\u00f3venes.",
+                "b) Poblaci\u00f3n joven, con m\u00e1s j\u00f3venes que ni\u00f1os.",
+                "c) Poblaci\u00f3n de transici\u00f3n, entre j\u00f3venes y ancianos (adultos no ancianos).",
+                "d) Poblaci\u00f3n envejecida, donde predominan los ancianos sobre las dem\u00e1s edades."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Al conjunto de niveles de atenci\u00f3n que, desde una \u00f3ptica sanitaria y social, debe garantizar la calidad de vida de los ancianos habitantes de un \u00e1rea sectorizada, proporcionando respuestas adecuadas a las diferentes situaciones de enfermedad o de dificultad social que aquellos presenten, se denomina:",
+            "respuestas": [
+                "a) Trabajo social geri\u00e1trico.",
+                "b) Asistencia geri\u00e1trica.",
+                "c) Cuidados gerontes.",
+                "d) Institucionalizaci\u00f3n del anciano."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "De las que se nombran, ¿cu\u00e1l de las causas de alta hospitalaria en mayores de 65 a\u00f1os es m\u00e1s frecuente?",
+            "respuestas": [
+                "a) Enfermedades del aparato respiratorio.",
+                "b) Tumores.",
+                "c) Enfermedades del aparato digestivo.",
+                "d) Enfermedades del aparato cardiocirculatorio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Sobre qu\u00e9 metodolog\u00eda del acto geri\u00e1trico de valoraci\u00f3n es necesario realizarla de la manera m\u00e1s real posible?",
+            "respuestas": [
+                "a) Respecto a las actividades b\u00e1sicas de la vida diaria (ABVD o AVD).",
+                "b) Respecto a las actividades complejas de la Vida diaria (ACVD).",
+                "c) Respecto a las actividades instrumentales de la vida diaria (AIVD).",
+                "d) Respecto a las actividades usuales diarias (AUD)."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El anciano que, siendo fr\u00e1gil, sufre problemas mentales y/o sociales en relaci\u00f3n con su estado de salud, enfermedades de base cr\u00f3nica y manifiesta dependencia para las actividades b\u00e1sicas de la vida diaria, por lo que precisa ayuda de otros (que generalmente requiere institucionalizaci\u00f3n), se denomina:",
+            "respuestas": [
+                "a) Anciano fr\u00e1gil propiamente dicho.",
+                "b) Anciano sano.",
+                "c) Anciano enfermo.",
+                "d) Paciente geri\u00e1trico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 modificaciones de la piel del anciano es incorrecta?",
+            "respuestas": [
+                "a) Se va volviendo descolorida.",
+                "b) Aumenta en ella el grosor de los vasos sangu\u00edneos.",
+                "c) Se vuelve m\u00e1s h\u00fameda y con ello sudorosa y menos fr\u00e1gil.",
+                "d) Todo lo anterior es correcto."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las denominadas placas seniles se observan en cerebros:",
+            "respuestas": [
+                "a) Ancianos con diabetes.",
+                "b) Aquejados de psoriasis.",
+                "c) Senescentes y en aquejados de demencia senil.",
+                "d) J\u00f3venes aquejados de demencia senil."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 modificaciones o aspectos psicol\u00f3gicos son incorrectos en el anciano?",
+            "respuestas": [
+                "a) El descenso de las funciones intelectuales en los ancianos guarda una relaci\u00f3n directa con la edad cronol\u00f3gica, y es independiente del nivel cultural que posea.",
+                "b) Disminuci\u00f3n de la autoestima.",
+                "c) Aparece desinter\u00e9s por las cosas.",
+                "d) Ninguna de las anteriores es incorrecta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿En qu\u00e9 se traduce la infelicidad y la impotencia del anciano en cuanto a las relaciones con el familiar que lo cuida?",
+            "respuestas": [
+                "a) En el aislamiento.",
+                "b) En una disminuci\u00f3n de la autoestima.",
+                "c) En un aumento de la autoestima.",
+                "d) En miedo e incertidumbre."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 valoraci\u00f3n de estas consideras m\u00e1s capaz de indagar en profundidad sobre las necesidades del anciano, siendo realmente la piedra angular de la geriatr\u00eda?",
+            "respuestas": [
+                "a) La valoraci\u00f3n geri\u00e1trica integral.",
+                "b) La valoraci\u00f3n estructurada por Necesidades B\u00e1sicas.",
+                "c) La valoraci\u00f3n estructurada por Patrones Funcionales de Salud.",
+                "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 se estimar\u00e1 de estas cuestiones en la valoraci\u00f3n psicol\u00f3gica del anciano al llevarse a cabo una valoraci\u00f3n geri\u00e1trica integral?",
+            "respuestas": [
+                "a) Campo econ\u00f3mico.",
+                "b) Campo de habitabilidad de vivienda.",
+                "c) Campo afectivo/cognitivo.",
+                "d) Campo familiar."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 aspecto de la valoraci\u00f3n geri\u00e1trica integral no es cierto?",
+            "respuestas": [
+                "a) Nos permite identificar los recursos que mantiene la persona mayor.",
+                "b) Nos da informaci\u00f3n sobre qu\u00e9 servicios necesita el mayor concreto que se est\u00e1 valorando.",
+                "c) No aporta detalles de cu\u00e1les pueden ser las posibilidades de mejoras del anciano.",
+                "d) Favorece el desarrollo de un plan de cuidados sobre el anciano valorado integralmente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Como objetivo de la valoraci\u00f3n geri\u00e1trica integral est\u00e1, adem\u00e1s de conocer los recursos del paciente, otros recursos de su entorno:",
+            "respuestas": [
+                "a) Social.",
+                "b) Afectivo.",
+                "c) Social y familiar.",
+                "d) Social, ambiental y familiar."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Todo lo que se expone de las escalas empleadas para la valoraci\u00f3n geri\u00e1trica integral es cierto, excepto que:",
+            "respuestas": [
+                "a) Deben ser instrumentos sencillos que nos permitan una valoraci\u00f3n exhaustiva y r\u00e1pida.",
+                "b) Son m\u00e1s eficaces que el juicio cl\u00ednico en la detecci\u00f3n del deterioro o la incapacidad cuando estos se presentan de forma austera.",
+                "c) Disminuye la permanencia en el domicilio familiar, en pro de la institucionalizaci\u00f3n, prolongando as\u00ed la supervivencia del anciano.",
+                "d) Nos permiten valorar la calidad de los cuidados desarrollados."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de estas consideras una actividad instrumental de la vida diaria (AIVD)?",
+            "respuestas": [
+                "a) Beber.",
+                "b) Vestirse.",
+                "c) Asearse.",
+                "d) Usar el tel\u00e9fono."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cu\u00e1ntos \u00edtems posee el \u00edndice de Katz, usado en gerontolog\u00eda?",
+            "respuestas": [
+                "a) 6.",
+                "b) 8.",
+                "c) 10.",
+                "d) 15."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Para valorar la movilidad del anciano se emplea:",
+            "respuestas": [
+                "a) La Escala de Tinetti.",
+                "b) La Escala de Lawton.",
+                "c) El \u00cdndice de Katz.",
+                "d) La Escala de Barthel."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 valoraci\u00f3n, dentro de la valoraci\u00f3n geri\u00e1trica integral, nos da informaci\u00f3n sobre las capacidades f\u00edsicas de las personas mayores para realizar con autonom\u00eda e independencia las actividades habituales del d\u00eda a d\u00eda que le permite mantener su bienestar y calidad de vida en el medio que les rodea?",
+            "respuestas": [
+                "a) Valoraci\u00f3n cl\u00ednica.",
+                "b) Valoraci\u00f3n funcional.",
+                "c) Valoraci\u00f3n mental.",
+                "d) Valoraci\u00f3n socioambiental."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 valoraci\u00f3n indica superar el \u00cdndice de Lawton para indicarnos que el anciano es independiente?",
+            "respuestas": [
+                "a) 0.",
+                "b) 6.",
+                "c) 8.",
+                "d) 15."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La m\u00e1xima independencia, si esta se mide por el \u00edndice de Barthel, tiene una puntuaci\u00f3n de:",
+            "respuestas": [
+                "a) 25.",
+                "b) 50.",
+                "c) 75.",
+                "d) 100."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 indica la valoraci\u00f3n con la letra G en el \u00edndice de Katz?",
+            "respuestas": [
+                "a) M\u00e1xima dependencia.",
+                "b) M\u00ednima dependencia.",
+                "c) M\u00e1xima independencia.",
+                "d) Nula dependencia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 test cognitivo eval\u00faa las habilidades visoespaciales y visoconstructivas?",
+            "respuestas": [
+                "a) Test del reloj de Shulman.",
+                "b) Prueba SPMSQ.",
+                "c) Test del reloj de Barthel.",
+                "d) Test del reloj de Blessed."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 test de estos eval\u00faan la esfera perceptiva del anciano, dentro de la valoraci\u00f3n geri\u00e1trica integral?",
+            "respuestas": [
+                "a) Escala de Cruz Roja Mental (CRM).",
+                "b) Test de Blessed.",
+                "c) Mini Examen Cognoscitivo de Lobo (MEC).",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿C\u00f3mo se mide la valoraci\u00f3n social en ancianos, en concreto, mediante el estudio de los recursos e interacciones sociales?",
+            "respuestas": [
+                "a) Escala de Recursos Sociales de Nueva York.",
+                "b) Escala de Moral del Centro Geri\u00e1trico de Filadelfia.",
+                "c) Escala de Recursos Sociales del Older American Resources and Services (OARS).",
+                "d) Escala de Recursos Sociales de la Cruz Roja."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿C\u00f3mo se valora la Escala Social de Gij\u00f3n?",
+            "respuestas": [
+                "a) Cualitativamente.",
+                "b) Por la suma total de sus \u00edtems: a mayor puntuaci\u00f3n mayor riesgo o problema social.",
+                "c) Por la suma total de sus \u00edtems: a menor puntuaci\u00f3n mayor riesgo o problema social.",
+                "d) Por la suma total de sus \u00edtems: si consigue el promedio de media, menor riesgo social, si es alto o bajo, aumenta el riesgo social."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 valoraci\u00f3n en la Escala OARS ser\u00eda aquella donde aparecen unas relaciones sociales insatisfactorias de mala calidad y escasas, y no se conseguir\u00eda ayuda de vez en cuando?",
+            "respuestas": [
+                "a) Gravemente incapacitado socialmente.",
+                "b) Levemente incapacitado socialmente.",
+                "c) Totalmente incapacitado socialmente.",
+                "d) Moderadamente incapacitado socialmente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los cuidados de la boca en los ancianos van dirigidos a:",
+            "respuestas": [
+                "a) Evitar la caries, aunque no tengan buena higiene bucodental.",
+                "b) Conservar en buenas condiciones la cavidad bucal.",
+                "c) Evitar el deterioro y ca\u00edda de los dientes.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Todo lo que se expone de los cuidados en el ba\u00f1o de los gerontes es cierto, excepto que:",
+            "respuestas": [
+                "a) En el ba\u00f1o el enfermo debe ser vigilado y acompa\u00f1ado en todo momento.",
+                "b) Cerca del ba\u00f1o no debe haber equipos ni \u00fatiles que funcionen con electricidad.",
+                "c) El ba\u00f1o de limpieza, como m\u00e9todo de higiene corporal, no es un medio id\u00f3neo para favorecer la eliminaci\u00f3n de las toxinas y de la suciedad.",
+                "d) Se cerrar\u00e1n las ventanas y se caldear\u00e1 la estancia donde se vaya a realizar el ba\u00f1o."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Para prevenir los problemas respiratorios es necesario ense\u00f1ar al anciano las t\u00e9cnicas de:",
+            "respuestas": [
+                "a) Respiraci\u00f3n nasal, tor\u00e1cica y expectoraci\u00f3n.",
+                "b) Respiraci\u00f3n nasal, abdominal y expectoraci\u00f3n.",
+                "c) Respiraci\u00f3n profunda y expectoraci\u00f3n.",
+                "d) Respiraci\u00f3n en reposo y respiraci\u00f3n en activo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 ocasiona fundamentalmente la p\u00e9rdida de calcio en el anciano?",
+            "respuestas": [
+                "a) P\u00e9rdida de masa \u00f3sea u osteoporosis.",
+                "b) Fracturas.",
+                "c) Luxaciones.",
+                "d) Esguinces."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 debe tomarse para evitar la aparici\u00f3n de estre\u00f1imiento debido a las circunstancias anatomofuncionales del anciano?",
+            "respuestas": [
+                "a) Una dieta rica en fibra digerible con frutas.",
+                "b) Una dieta rica en fibra digerible con verduras y frutas.",
+                "c) Una dieta rica en fibra indigerible con frutas.",
+                "d) Una dieta rica en fibra indigerible con frutas y verduras."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 grado de la enfermedad de Alzheimer se caracteriza por la aparici\u00f3n de hiperetamorfosis (necesidad de tocar compulsivamente y examinar cada objeto en el entorno)?",
+            "respuestas": [
+                "a) El primer grado.",
+                "b) El segundo grado.",
+                "c) El tercer grado.",
+                "d) El cuarto grado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de los diferentes grados en que se divide la progresi\u00f3n de la enfermedad de Alzheimer es el m\u00e1s prolongado en el tiempo?",
+            "respuestas": [
+                "a) El primer grado.",
+                "b) El segundo grado.",
+                "c) El tercer grado.",
+                "d) El cuarto grado."
+            ],
+            "verdadera": 2
+        }
+    ]
+}
