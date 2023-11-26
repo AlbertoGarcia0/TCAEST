@@ -1389,6 +1389,806 @@
                 "d) Todas las anteriores."
             ],
             "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ala cu\u00e1l de las siguientes es una de las funciones del Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Controlar e inspeccionar las actividades del Sistema Sanitario de Castilla-La Mancha y su adecuaci\u00f3n al Plan de Salud.",
+                "b) Aprobar el reglamento de estructura y funcionamiento del Servicio de Salud de Castilla-La Mancha en los t\u00e9rminos marcados en la Ley de Ordenaci\u00f3n Sanitaria.",
+                "c) Autorizar, catalogar y, en su caso, acreditar los centros, servicios y actividades sanitarias, as\u00ed como el mantener los registros pertinentes.",
+                "d) Aprobar la delimitaci\u00f3n, dentro de las \u00c1reas de Salud, de las Zonas B\u00e1sicas de Salud y de cualquier otra ordenaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1l es la definici\u00f3n de Sistema Nacional de Salud que establece la Ley General de Sanidad (Ley 14/1986, de 25 de abril)?",
+            "respuestas": [
+                "a) Es el conjunto de los Servicios de Salud de las Comunidades Aut\u00f3nomas, coordinados en el Consejo Interterritorial del Sistema Nacional de Salud.",
+                "b) Es el conjunto de los Servicios de Salud dependientes del Instituto Nacional de la Salud y de los Servicios de Salud de las Comunidades Aut\u00f3nomas en los t\u00e9rminos establecidos en la Ley General de Sanidad.",
+                "c) Es el conjunto de los Servicios de Salud de la Administraci\u00f3n del Estado y de los Servicios de Salud de las Comunidades Aut\u00f3nomas en los t\u00e9rminos establecidos en la Ley General de Sanidad.",
+                "d) Es el conjunto de los servicios de Salud de las Comunidades Aut\u00f3nomas y de las Corporaciones Locales en los t\u00e9rminos establecidos en la Ley General de Sanidad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El objeto de la Ley General de Sanidad es:",
+            "respuestas": [
+                "a) La reforma del sistema sanitario privado.",
+                "b) Las necesidades de mejora en los servicios prestados a los ciudadanos extranjeros.",
+                "c) La distribuci\u00f3n de competencias entre el Estado y las Comunidades Aut\u00f3nomas y las Corporaciones Locales.",
+                "d) Hacer efectivo el derecho a la protecci\u00f3n de la salud."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan dispone la Ley 14/1986, de 25 de abril, General de Sanidad, son titulares del derecho a la protecci\u00f3n de la salud y a la atenci\u00f3n sanitaria:",
+            "respuestas": [
+                "a) \u00danicamente los ciudadanos manchegos.",
+                "b) Todos los espa\u00f1oles.",
+                "c) Cualquier ciudadano.",
+                "d) Todos los espa\u00f1oles y los ciudadanos extranjeros que tengan establecida su residencia en Espa\u00f1a."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los medios y actuaciones del sistema sanitario estar\u00e1n orientados prioritariamente a:",
+            "respuestas": [
+                "a) La curaci\u00f3n y la rehabilitaci\u00f3n.",
+                "b) La promoci\u00f3n de la salud.",
+                "c) Atender los grupos de riesgos desde el punto de vista sanitario.",
+                "d) La promoci\u00f3n de la salud y la prevenci\u00f3n de las enfermedades."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿C\u00f3mo se denominan (seg\u00fan lo dispuesto en la Ley General de Sanidad) las estructuras fundamentales del sistema sanitario en las Comunidades Aut\u00f3nomas, responsables de la gesti\u00f3n unitaria de los Centros y establecimientos de los Servicios de Salud de las Comunidades Aut\u00f3nomas?",
+            "respuestas": [
+                "a) Centros hospitalarios.",
+                "b) \u00c1reas de Salud.",
+                "c) Delegaciones Provinciales de Salud.",
+                "d) Centros de Salud."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿En qu\u00e9 art\u00edculo de la Constituci\u00f3n de 1978 se reconoce el derecho a la protecci\u00f3n de la salud de todos los ciudadanos?",
+            "respuestas": [
+                "a) En el art\u00edculo 23.",
+                "b) En el art\u00edculo 32.",
+                "c) En el art\u00edculo 34.",
+                "d) En el art\u00edculo 43."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las \u00c1reas de salud se distribuyen, de forma desconcentrada, en demarcaciones territoriales delimitadas, teniendo en cuenta factores de diversa \u00edndole, pero sobre todo, respondiendo a unas ideas principales, entre las que no figura:",
+            "respuestas": [
+                "a) Proximidad de los servicios a los usuarios.",
+                "b) Gesti\u00f3n descentralizada.",
+                "c) Gesti\u00f3n participativa.",
+                "d) Recursos econ\u00f3micos de la comunidad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿A qui\u00e9n corresponde elaborar el reglamento de composici\u00f3n y funcionamiento del Servicio de Salud de Castilla-La Mancha?",
+            "respuestas": [
+                "a) A la Consejer\u00eda competente en materia de sanidad.",
+                "b) Al Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha.",
+                "c) Al Ministerio competente en materia sanitaria.",
+                "d) Al Consejo Econ\u00f3mico y Social."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La ordenaci\u00f3n territorial de los Servicios de Salud ser\u00e1 competencia:",
+            "respuestas": [
+                "a) Del Estado.",
+                "b) De las Comunidades Aut\u00f3nomas.",
+                "c) De los Ayuntamientos.",
+                "d) De las Diputaciones Provinciales."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Señala la respuesta incorrecta respecto al Consejo de Direcci\u00f3n del \u00c1rea de Salud:",
+            "respuestas": [
+                "a) El Consejo de Direcci\u00f3n estar\u00e1 formado por la representaci\u00f3n de la Comunidad Aut\u00f3noma, que supondr\u00e1 el 50 por 100 de los miembros de aquel, y los representantes de las Corporaciones Locales, elegidos por quienes ostenten tal condici\u00f3n en el Consejo de Salud.",
+                "b) Al Consejo de Direcci\u00f3n del \u00c1rea de Salud corresponde formular las directrices en pol\u00edtica de salud y controlar la gesti\u00f3n del \u00c1rea, dentro de las normas y programas generales establecidos por la Administraci\u00f3n auton\u00f3mica.",
+                "c) Al Consejo de Direcci\u00f3n le corresponde el establecimiento de los criterios generales de coordinaci\u00f3n en el \u00c1rea de Salud.",
+                "d) Una de las funciones del Consejo de Direcci\u00f3n del \u00c1rea es la aprobaci\u00f3n del proyecto del Plan de Salud del \u00c1rea, dentro de las normas, directrices y programas generales establecidos por la Comunidad Aut\u00f3noma."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Qu\u00e9 t\u00edtulo de la Ley 14/1986, de 25 de abril, General de Sanidad, regula la estructura del sistema sanitario p\u00fablico?",
+            "respuestas": [
+                "a) El T\u00edtulo II.",
+                "b) El T\u00edtulo III.",
+                "c) El T\u00edtulo V.",
+                "d) El T\u00edtulo VI."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Señala cuál de los siguientes no es uno de los factores a tener en cuenta a la hora de delimitar las áreas de salud:",
+            "respuestas": [
+                "a) Factores socioeconómicos.",
+                "b) Factores religiosos.",
+                "c) Factores culturales.",
+                "d) Factores climatológicos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Como regla general, y sin perjuicio de las excepciones a que hubiera lugar, el \u00c1rea de Salud extender\u00e1 su acci\u00f3n a una poblaci\u00f3n:",
+            "respuestas": [
+                "a) No inferior a 50.000 habitantes ni superior a 150.000.",
+                "b) No inferior a 100.000 habitantes ni superior a 250.000.",
+                "c) No inferior a 200.000 habitantes ni superior a 250.000.",
+                "d) No inferior a 200.000 habitantes ni superior a 350.000."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "A tenor del art\u00edculo 57 de la Ley 14/1986, el \u00f3rgano de participaci\u00f3n de las \u00c1reas de Salud es:",
+            "respuestas": [
+              "a) El Consejo de Salud de \u00c1rea.",
+              "b) El Consejo de Direcci\u00f3n de \u00c1rea.",
+              "c) El Gerente de \u00c1rea.",
+              "d) El Comit\u00e9 de Participaci\u00f3n del \u00c1rea."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Los Consejos de Salud de \u00c1rea est\u00e1n constituidos por:",
+            "respuestas": [
+              "a) Las organizaciones sindicales m\u00e1s representativas, en una proporci\u00f3n no inferior al 50 por 100, a trav\u00e9s de los profesionales sanitarios titulados.",
+              "b) La Administraci\u00f3n Sanitaria del \u00c1rea de Salud.",
+              "c) La representaci\u00f3n de los ciudadanos a trav\u00e9s de las Corporaciones Locales comprendidas en su demarcaci\u00f3n, que supondr\u00e1 el 25 por 100 de sus miembros.",
+              "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Una de las funciones del Consejo de Salud de \u00c1rea es:",
+            "respuestas": [
+              "a) Proponer medidas a desarrollar en el \u00c1rea de Salud para estudiar los problemas sanitarios espec\u00edficos de la misma, as\u00ed como sus prioridades.",
+              "b) La aprobaci\u00f3n de las prioridades espec\u00edficas del \u00c1rea de Salud.",
+              "c) La propuesta de nombramiento y cese del gerente del \u00c1rea de Salud.",
+              "d) La aprobaci\u00f3n de la Memoria anual del \u00c1rea de salud."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Se\u00f1ala la respuesta incorrecta respecto al Gerente del \u00c1rea de Salud:",
+            "respuestas": [
+              "a) Es el encargado de la ejecuci\u00f3n de las directrices establecidas por el Consejo de Direcci\u00f3n, de las propias del Plan de Salud del \u00c1rea y de las normas correspondientes a la Administraci\u00f3n auton\u00f3mica y del Estado.",
+              "b) Es el \u00f3rgano de gesti\u00f3n del \u00c1rea.",
+              "c) Puede, previa convocatoria, asistir con voz y voto, a las reuniones del Consejo de Direcci\u00f3n.",
+              "d) Es nombrado y cesado por la Direcci\u00f3n del Servicio de Salud de la Comunidad Aut\u00f3noma, a propuesta del Consejo de Direcci\u00f3n del \u00c1rea."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "¿A qui\u00e9n corresponde la elaboraci\u00f3n del Plan de Salud de Castilla-La Mancha?",
+            "respuestas": [
+              "a) A la Consejer\u00eda competente en materia de sanidad.",
+              "b) Al Consejo de Gobierno de Castilla-La Mancha.",
+              "c) Al Ministerio competente en materia sanitaria.",
+              "d) Al Consejo Econ\u00f3mico y Social."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Corresponde a la Consejer\u00eda competente en materia de sanidad de Castilla-La Mancha:",
+            "respuestas": [
+              "a) Aprobar el proyecto de presupuestos del Servicio de Salud de Castilla-La Mancha.",
+              "b) Aprobar la delimitaci\u00f3n geogr\u00e1fica de las \u00c1reas de Salud y los municipios que las integran.",
+              "c) Establecer las directrices y los criterios generales de la pol\u00edtica sanitaria en Castilla-La Mancha.",
+              "d) Ejercitar las competencias sancionadoras y de intervenci\u00f3n p\u00fablica para la protecci\u00f3n de la salud."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Seg\u00fan la Ley General de Sanidad, las actuaciones de las Administraciones P\u00fablicas Sanitarias estar\u00e1n orientadas a:",
+            "respuestas": [
+              "a) La promoci\u00f3n de la salud, garantizar la asistencia sanitaria en todos los casos de p\u00e9rdida de la salud y a promover el inter\u00e9s individual, familiar y social por la salud mediante la adecuada educaci\u00f3n sanitaria de la poblaci\u00f3n.",
+              "b) Que los ciudadanos sean atendidos en los Hospitales.",
+              "c) Que exista una red de servicios de salud para atender a la comunidad.",
+              "d) Promocionar actuaciones en la poblaci\u00f3n que fomenten el autocuidado y elaborar estrategias globales de educaci\u00f3n sanitaria."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Una de las funciones de la Consejer\u00eda competente en materia de sanidad de Castilla-La Mancha es:",
+            "respuestas": [
+              "a) Nombrar y cesar a las personas que integran el Consejo de Administraci\u00f3n del Servicio de Salud de Castilla-La Mancha.",
+              "b) Autorizar la celebraci\u00f3n de convenios con otras Administraciones p\u00fablicas para la prestaci\u00f3n de servicios sanitarios.",
+              "c) Aprobar el Plan de Salud de la Comunidad Aut\u00f3noma.",
+              "d) Nombrar y cesar a los vocales del Consejo de Salud de Castilla-La Mancha."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿A qui\u00e9n corresponde nombrar y cesar a la persona que ocupe la Direcci\u00f3n-Gerencia del Servicio de Salud de Castilla-La Mancha?",
+            "respuestas": [
+              "a) A la Consejer\u00eda competente en materia de sanidad.",
+              "b) Al Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha.",
+              "c) Al Ministerio competente en materia sanitaria.",
+              "d) Al Consejo Econ\u00f3mico y Social."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Cu\u00e1ntas \u00e1reas de salud deben existir como m\u00ednimo por provincia?",
+            "respuestas": [
+              "a) Tres.",
+              "b) Dos.",
+              "c) Una.",
+              "d) Cuatro."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La ordenaci\u00f3n y las actuaciones del Sistema Sanitario en la Comunidad Aut\u00f3noma de Castilla-La Mancha responden al siguiente principio informador:",
+            "respuestas": [
+              "a) Adecuaci\u00f3n de las prestaciones sanitarias a la situaci\u00f3n econ\u00f3mica-financiera de la Comunidad Aut\u00f3noma.",
+              "b) Equidad y superaci\u00f3n de las desigualdades territoriales o sociales en la prestaci\u00f3n de los servicios sanitarios.",
+              "c) Centralizaci\u00f3n, concentraci\u00f3n, coordinaci\u00f3n y responsabilidad en la gesti\u00f3n.",
+              "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Se\u00f1ala la respuesta incorrecta respecto al Consejo de Direcci\u00f3n del \u00c1rea de Salud:",
+            "respuestas": [
+              "a) El Consejo de Direcci\u00f3n estar\u00e1 formado por la representaci\u00f3n de la Comunidad Aut\u00f3noma, que supondr\u00e1 el 50 por 100 de los miembros de aquel, y los representantes de las Corporaciones Locales, elegidos por quienes ostenten tal condici\u00f3n en el Consejo de Salud.",
+              "b) Al Consejo de Direcci\u00f3n del \u00c1rea de Salud corresponde formular las directrices en pol\u00edtica de salud y controlar la gesti\u00f3n del \u00c1rea, dentro de las normas y programas generales establecidos por la Administraci\u00f3n auton\u00f3mica.",
+              "c) Al Consejo de Direcci\u00f3n le corresponde el establecimiento de los criterios generales de coordinaci\u00f3n en el \u00c1rea de Salud.",
+              "d) Una de las funciones del Consejo de Direcci\u00f3n del \u00c1rea es la aprobaci\u00f3n del proyecto del Plan de Salud del \u00c1rea, dentro de las normas, directrices y programas generales establecidos por la Comunidad Aut\u00f3noma."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "¿Qu\u00e9 t\u00edtulo de la Ley 8/2000, de 30 de noviembre, de Ordenaci\u00f3n Sanitaria de Castilla-La Mancha, regula la estructura del Sistema Sanitario?",
+            "respuestas": [
+              "a) El T\u00edtulo II.",
+              "b) El T\u00edtulo V.",
+              "c) El T\u00edtulo VI.",
+              "d) El T\u00edtulo VII."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "A tenor del art\u00edculo 57 de la Ley 14/1986, el \u00f3rgano de direcci\u00f3n de las \u00c1reas de Salud es:",
+            "respuestas": [
+              "a) El Consejo de Salud de \u00c1rea.",
+              "b) El Consejo de Direcci\u00f3n de \u00c1rea.",
+              "c) El Gerente de \u00c1rea.",
+              "d) La Junta de Direcci\u00f3n del \u00c1rea."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Respecto de las Corporaciones Locales, la Ley General de Sanidad determina unas competencias:",
+            "respuestas": [
+              "a) Exclusivas.",
+              "b) De actuaci\u00f3n.",
+              "c) M\u00ednimas de los Ayuntamientos.",
+              "d) Exclusivas de los Ayuntamientos."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "Antes de la aprobaci\u00f3n del Plan de Salud de Castilla-La Mancha ser\u00e1 necesario recabar el informe previo de:",
+            "respuestas": [
+              "a) Las Cortes Regionales.",
+              "b) El Consejo de Gobierno de Castilla-La Mancha.",
+              "c) La Consejer\u00eda competente en materia de sanidad.",
+              "d) El Consejo Econ\u00f3mico y Social."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "El documento en el que se prev\u00e9n las acciones sanitarias a desarrollar en un determinado \u00e1mbito y periodo se denomina:",
+            "respuestas": [
+              "a) Programa de Salud.",
+              "b) Plan de inversi\u00f3n sanitaria.",
+              "c) Plan de Salud.",
+              "d) Plan Integrado de Salud."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La Ley General de Sanidad determina que son Planes de Salud conjuntos los establecidos por:",
+            "respuestas": [
+              "a) El Estado y todas las Comunidades Aut\u00f3nomas.",
+              "b) Algunas Comunidades Aut\u00f3nomas.",
+              "c) Todas las Comunidades Aut\u00f3nomas.",
+              "d) El Estado y las Comunidades Aut\u00f3nomas."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "La Ley General de Sanidad establece en su art\u00edculo 54 que el Plan de Salud de cada Comunidad Aut\u00f3noma deber\u00e1 englobar el conjunto de los planes de las diferentes:",
+            "respuestas": [
+              "a) \u00c1reas de salud.",
+              "b) \u00c1reas hospitalarias.",
+              "c) Administraciones P\u00fablicas Sanitarias.",
+              "d) Administraciones Sanitarias."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "La aprobaci\u00f3n definitiva del Plan Integrado de Salud es competencia:",
+            "respuestas": [
+              "a) Del Ministerio de Sanidad.",
+              "b) Del Gobierno.",
+              "c) Del Consejo Interterritorial del Sistema Nacional de Salud.",
+              "d) Del Congreso de los Diputados."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "¿Qu\u00e9 Plan de Salud recoge en un \u00fanico documento los planes estatales, los planes de las Comunidades Aut\u00f3nomas y los Planes conjuntos?",
+            "respuestas": [
+              "a) El Plan Nacional de Salud.",
+              "b) El Plan de Salud del Ministerio de Sanidad.",
+              "c) El Plan Integral de Salud.",
+              "d) El Plan Integrado de Salud."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "¿A qu\u00e9 \u00f3rgano debe ser sometido el Plan Integrado de Salud provisional para que aporte observaciones y recomendaciones, antes de su formulaci\u00f3n definitiva?",
+            "respuestas": [
+              "a) Al Parlamento.",
+              "b) Al Gobierno.",
+              "c) Al Comit\u00e9 Consultivo.",
+              "d) Al Consejo Interterritorial del Sistema Nacional de Salud."
+            ],
+            "verdadera": 4
+          },
+          {
+            "enunciado": "Seg\u00fan la Ley General de Sanidad, el \u00f3rgano colegiado de participaci\u00f3n comunitaria para la consulta y seguimiento de la gesti\u00f3n en el \u00c1rea de Salud es:",
+            "respuestas": [
+              "a) El Consejo de Direcci\u00f3n.",
+              "b) El Consejo de Salud.",
+              "c) El Gerente del \u00c1rea.",
+              "d) El Consejo del \u00c1rea."
+            ],
+            "verdadera": 2
+          },
+          {
+            "enunciado": "Es funci\u00f3n del Consejo de Salud del \u00c1rea:",
+            "respuestas": [
+              "a) Elaborar el Reglamento del Consejo de Direcci\u00f3n.",
+              "b) Aprobar la memoria anual del \u00c1rea de Salud.",
+              "c) Conocer e informar la memoria anual del \u00c1rea de Salud.",
+              "d) Aprobar el anteproyecto del Plan de Salud del \u00c1rea de Salud."
+            ],
+            "verdadera": 3
+          },
+          {
+            "enunciado": "La representaci\u00f3n de los ciudadanos en los Consejos de Salud del \u00c1rea se articula (Ley General de Sanidad):",
+            "respuestas": [
+              "a) A trav\u00e9s de las Corporaciones Locales.",
+              "b) Directamente.",
+              "c) Por medio de elecciones al Consejo.",
+              "d) A trav\u00e9s de la Administraci\u00f3n Sanitaria del \u00c1rea."
+            ],
+            "verdadera": 1
+          },
+          {
+            "enunciado": "Es una característica fundamental del Sistema Nacional de Salud (se\u00f1ale la incorrecta):",
+            "respuestas": [
+                "a) La extensi\u00f3n de sus servicios a toda la poblaci\u00f3n.",
+                "b) La coordinaci\u00f3n y, en su caso, la integraci\u00f3n de todos los recursos sanitarios p\u00fablicos en un dispositivo \u00fanico.",
+                "c) La coordinaci\u00f3n y, en su caso, la integraci\u00f3n de todos los recursos sanitarios p\u00fablicos en tres dispositivos distintos (estatal, auton\u00f3mico y local).",
+                "d) La prestaci\u00f3n de una atenci\u00f3n integral de la salud procurando altos niveles de calidad debidamente evaluados y controlados."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La prestaci\u00f3n de una atenci\u00f3n integral de la salud con altos niveles de calidad debidamente evaluados y controlados es:",
+            "respuestas": [
+                "a) Una aspiraci\u00f3n del Sistema Sanitario p\u00fablico.",
+                "b) Una caracter\u00edstica del Sistema Nacional de Salud, seg\u00fan la Ley General de Sanidad.",
+                "c) Un objetivo propio de las entidades sanitarias privadas.",
+                "d) Una actuaci\u00f3n de la asistencia sanitaria especializada."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley General de Sanidad, las Comunidades Aut\u00f3nomas ejercer\u00e1n las competencias:",
+            "respuestas": [
+                "a) Asumidas en la Constituci\u00f3n.",
+                "b) Que sus Estatutos les transfieran.",
+                "c) Asumidas en sus Estatutos.",
+                "d) Que les delegue la Constituci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley General de Sanidad, el Servicio de Salud que se ha de constituir en cada Comunidad Aut\u00f3noma, se gestiona bajo la responsabilidad de:",
+            "respuestas": [
+                "a) La Administraci\u00f3n del Estado.",
+                "b) La Consejer\u00eda de Salud.",
+                "c) La Comunidad Aut\u00f3noma.",
+                "d) El Consejo Interterritorial del Sistema Nacional de Salud."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La Ley General de Sanidad establece que, para conseguir su m\u00e1xima operatividad y eficacia en el funcionamiento de la Atenci\u00f3n Primaria, las \u00c1reas de Salud se dividir\u00e1n en:",
+            "respuestas": [
+                "a) Zonas de Atenci\u00f3n Primaria y Hospitalaria.",
+                "b) Zonas B\u00e1sicas de Salud.",
+                "c) Zonas de Salud.",
+                "d) Zonas Sanitarias."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Ley General de Sanidad determina que el establecimiento encargado tanto del internamiento cl\u00ednico como de la asistencia especializada y complementaria que se requiera en su zona de influencia es:",
+            "respuestas": [
+                "a) El Hospital.",
+                "b) El Hospital general.",
+                "c) El Centro sanitario.",
+                "d) El Hospital o el Centro de Salud, seg\u00fan los casos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley General de Sanidad, cada \u00c1rea de Salud estar\u00e1 vinculada o dispondr\u00e1 de, al menos:",
+            "respuestas": [
+                "a) Un Hospital.",
+                "b) Dos hospitales.",
+                "c) Un Hospital de Especialidades.",
+                "d) Un Hospital General."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La atenci\u00f3n integral a la salud, que proclama el art\u00edculo 46 de la Ley General de Sanidad, comprende:",
+            "respuestas": [
+                "a) La promoci\u00f3n de la salud, la prevenci\u00f3n de la enfermedad, su curaci\u00f3n y la rehabilitaci\u00f3n.",
+                "b) La promoci\u00f3n de la salud, la prevenci\u00f3n y curaci\u00f3n de la enfermedad y la reinserci\u00f3n.",
+                "c) La educaci\u00f3n sanitaria, la promoci\u00f3n de la salud y la curaci\u00f3n de la enfermedad.",
+                "d) La promoci\u00f3n de la salud, la prevenci\u00f3n de la enfermedad, la educaci\u00f3n sanitaria y la reinserci\u00f3n social."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan el art\u00edculo 79 de la Ley General de Sanidad, la financiaci\u00f3n de la asistencia sanitaria prestada se realizar\u00e1 con cargo a:",
+            "respuestas": [
+                "a) Cotizaciones sociales.",
+                "b) Dep\u00f3sitos de las Comunidades Aut\u00f3nomas y de las Corporaciones Locales.",
+                "c) Son correctas las respuestas a) y d).",
+                "d) Tributos municipales cedidos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan el art\u00edculo 79 de la Ley General de Sanidad, la financiaci\u00f3n de la asistencia sanitaria prestada se realizar\u00e1, entre otras, con cargo a transferencias del Estado. Dichas transferencias comprenden (se\u00f1ale la respuesta incorrecta):",
+            "respuestas": [
+                "a) La participaci\u00f3n en la contribuci\u00f3n del Estado al sostenimiento de la Seguridad Social.",
+                "b) La compensaci\u00f3n por la extensi\u00f3n de la asistencia sanitaria de la Seguridad Social a aquellas personas sin recursos econ\u00f3micos.",
+                "c) Las aportaciones de las Comunidades Aut\u00f3nomas y de las Corporaciones Locales.",
+                "a) La compensaci\u00f3n por la integraci\u00f3n, en su caso, de los hospitales de las Corporaciones Locales en el Sistema Nacional de Salud."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La Ley General de Sanidad establece que el personal podr\u00e1 ser cambiado de puesto:",
+            "respuestas": [
+                "a) Mediante acuerdo en expediente sancionador.",
+                "b) Por necesidades imperativas de la organizaci\u00f3n sanitaria.",
+                "c) Como consecuencia de la modificaci\u00f3n del \u00e1mbito de un \u00c1rea de Salud.",
+                "d) Por necesidades del servicio."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las \u00c1reas de Salud ser\u00e1n dirigidas por un \u00f3rgano propio, donde deber\u00e1n participar las Corporaciones Locales en ellas situadas, con una representaci\u00f3n no inferior al:",
+            "respuestas": [
+                "a) 10%.",
+                "b) 20%.",
+                "c) 30%.",
+                "d) 40%."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los Consejos de Salud de \u00c1rea estar\u00e1n constituidos por organizaciones sindicales m\u00e1s representativas, en una proporci\u00f3n no inferior al:",
+            "respuestas": [
+                "а) 25%.",
+                "b) 30%.",
+                "c) 40%.",
+                "d) 50%."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "No es una caracter\u00edstica fundamental del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) La extensi\u00f3n de sus servicios a toda la poblaci\u00f3n.",
+                "b) La coordinaci\u00f3n y, en su caso, la integraci\u00f3n de todos los recursos sanitarios p\u00fablicos en un dispositivo \u00fanico central.",
+                "c) La prestaci\u00f3n de una atenci\u00f3n integral de la salud procurando altos niveles de calidad debidamente evaluados y controlados.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn cu\u00e1ntos niveles organizativos se divide el sistema sanitario espa\u00f1ol?",
+            "respuestas": [
+                "a) Tres: central, auton\u00f3mico y \u00e1reas de salud.",
+                "b) Dos: central y auton\u00f3mico.",
+                "c) Central, del que derivan el auton\u00f3mico y local.",
+                "d) \u00danicamente el central."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Para la delimitaci\u00f3n de las zonas b\u00e1sicas no deber\u00e1 tenerse en cuenta:",
+            "respuestas": [
+                "a) El grado de concentraci\u00f3n o dispersi\u00f3n de la poblaci\u00f3n.",
+                "b) Las caracter\u00edsticas epidemiol\u00f3gicas de la zona.",
+                "c) Las instalaciones y recursos sanitarios de la zona.",
+                "d) Las distancias m\u00ednimas de las agrupaciones de poblaci\u00f3n m\u00e1s cercanas de los servicios y el tiempo normal a invertir en su recorrido usando los medios ordinarios."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 \u00f3rgano crea la Ley General de Sanidad, como coordinador entre las Comunidades Aut\u00f3nomas y la Administraci\u00f3n General del Estado?",
+            "respuestas": [
+                "a) Instituto de Informaci\u00f3n Sanitaria.",
+                "b) Consejo Interterritorial del Sistema Nacional de Salud.",
+                "c) Ministro de Sanidad y Consumo.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las Estrategias del Plan de Salud de Castilla La Mancha se desarrollan en Planes espec\u00edficos. Uno de los Planes espec\u00edficos es el:",
+            "respuestas": [
+                "a) Plan Nacional de Adicciones.",
+                "b) Plan Integral de Atenci\u00f3n Sociosanitaria.",
+                "c) Plan de personal estatutario del Sistema sanitario p\u00fablico de Castilla-La Mancha.",
+                "d) Plan de nuevas tecnolog\u00edas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una de las cuatro l\u00edneas estrat\u00e9gicas del vigente Plan de Salud de Castilla-La Mancha es:",
+            "respuestas": [
+                "a) Garant\u00eda de sostenibilidad del sistema sanitario p\u00fablico.",
+                "b) La equidad en salud.",
+                "c) Cambio del modelo organizativo del sistema sanitario.",
+                "d) Calidad y seguridad de la atenci\u00f3n en el marco de la humanizaci\u00f3n de la asistencia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Uno de los cinco principios b\u00e1sicos del vigente Plan de Salud de Castilla-La Mancha es:",
+            "respuestas": [
+                "a) La equidad en salud.",
+                "b) Humanizaci\u00f3n de la asistencia sanitaria.",
+                "c) Los profesionales como valor esencial del sistema.",
+                "d) Sostenibilidad del sistema sanitario."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Uno de los 17 objetivos estrat\u00e9gicos del vigente Plan de Salud de Castilla-La Mancha es:",
+            "respuestas": [
+                "a) Potenciar el papel de la Atenci\u00f3n Especializada como eje principal del sistema.",
+                "b) Centrar la asistencia sanitaria en la autonom\u00eda de los profesionales sanitarios.",
+                "c) Fortalecer la bio\u00e9tica entre los profesionales del \u00e1mbito sanitario.",
+                "d) Reforzar la formaci\u00f3n en \u00e9tica asistencial entre los profesionales del \u00e1mbito sanitario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Es un objetivo estrat\u00e9gico del vigente Plan de Salud de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Orientar la organizaci\u00f3n del sistema hacia el conocimiento y el abordaje de la cronicidad y prevenci\u00f3n de la fragilidad.",
+                "b) Garantizar la sostenibilidad del sistema sanitario mejorando su efectividad y eficiencia.",
+                "c) Fomentar la participaci\u00f3n ciudadana y avanzar en la corresponsabilidad del paciente.",
+                "d) Todas las anteriores respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La elaboraci\u00f3n de informes de seguimiento del Plan de Salud de Castilla-La Mancha tendr\u00e1 car\u00e1cter:",
+            "respuestas": [
+                "a) Mensual.",
+                "b) Semestral.",
+                "c) Anual.",
+                "d) Bienal."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En 2021 est\u00e1 vigente el Plan de Salud de Castilla-La Mancha del periodo:",
+            "respuestas": [
+                "a) 2019-2024.",
+                "b) 2019-2025.",
+                "c) 2020-2024.",
+                "d) 2020-2025."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Es un principio informador de la Ley de Ordenaci\u00f3n Sanitaria de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Formaci\u00f3n especializada en Salud P\u00fablica y Administraci\u00f3n Sanitaria.",
+                "b) Participaci\u00f3n en l\u00edneas de investigaci\u00f3n relacionadas con las prioridades de salud en Castilla-La Mancha.",
+                "c) Evaluaci\u00f3n de las tecnolog\u00edas sanitarias",
+                "d) Adecuaci\u00f3n de las prestaciones sanitarias a las necesidades de salud de la poblaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La Ley de Ordenaci\u00f3n Sanitaria de Castilla-La Mancha tiene por objeto:",
+            "respuestas": [
+                "a) Prevenir la enfermedad y proteger y promover la salud de las personas.",
+                "b) Actuar sobre los procesos y factores que m\u00e1s influyen en la salud individual y colectiva de las personas.",
+                "c) Regular las estructuras que configuran el Sistema Sanitario de Castilla-La Mancha.",
+                "d) Todas las anteriores respuestas son correctas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la naturaleza jur\u00eddica del Servicio de Salud de Castilla-La Mancha?",
+            "respuestas": [
+                "a) Organismo aut\u00f3nomo.",
+                "b) Agencia administrativa.",
+                "c) Agencia p\u00fablica sanitaria.",
+                "d) Empresa p\u00fablica sanitaria."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El Servicio de Salud de Castilla-La Mancha tiene, entre otras, la siguiente funci\u00f3n:",
+            "respuestas": [
+                "a) Conocer e informar el Plan de Salud de Castilla-La Mancha previamente a su aprobaci\u00f3n, as\u00ed como conocer sus revisiones, adaptaciones y el estado de ejecuci\u00f3n.",
+                "b) Garantizar la cobertura universal y el acceso a las prestaciones de atenci\u00f3n a la salud en condiciones de igualdad y equidad.",
+                "c) Velar para que las actuaciones de todos los servicios, centros y establecimientos sanitarios satisfagan las necesidades del Sistema Sanitario, se acomoden a la normativa sanitaria y se desarrollen de acuerdo con las necesidades sociales y las posibilidades econ\u00f3micas del sector p\u00fablico.",
+                "d) La ejecuci\u00f3n y gesti\u00f3n de las prestaciones sanitarias, que le sean asignadas, mediante las actuaciones de promoci\u00f3n de la salud, prevenci\u00f3n de la enfermedad, asistencia sanitaria y rehabilitaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan establece la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, para la prestaci\u00f3n de servicios sanitarios a trav\u00e9s de medios ajenos al Sistema Sanitario de Castilla-La Mancha, se podr\u00e1n establecer:",
+            "respuestas": [
+                "a) Acuerdos.",
+                "b) Consorcios de naturaleza p\u00fablica.",
+                "c) Conciertos y convenios singulares.",
+                "d) Convenios colectivos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Al regular la ordenaci\u00f3n funcional de los servicios sanitarios, la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha establece cinco estructuras operativas. Una de ellas es:",
+            "respuestas": [
+                "a) La salud laboral.",
+                "b) La atenci\u00f3n sociosanitaria.",
+                "c) La docencia e investigaci\u00f3n.",
+                "d) La formaci\u00f3n especializada."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Es una estructura f\u00edsica de la Zona B\u00e1sica de Salud de Castilla-La Mancha, donde presta servicio el conjunto de profesionales que integran los Equipos de Atenci\u00f3n Primaria:",
+            "respuestas": [
+                "a) El Ambulatorio.",
+                "b) El Consultorio local.",
+                "c) El Consultorio auxiliar.",
+                "d) El Centro de diagn\u00f3stico y tratamiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "No forman parte de la red hospitalaria p\u00fablica de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Los centros hospitalarios integrados.",
+                "b) Los centros especializados de diagn\u00f3stico y tratamiento integrados.",
+                "c) Los centros hospitalarios no integrados con concierto para la realizaci\u00f3n de pruebas diagn\u00f3sticas.",
+                "d) Los centros hospitalarios no integrados vinculados mediante convenio singular."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia del Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Aprobar el proyecto de presupuestos del Servicio de Salud de Castilla-La Mancha.",
+                "b) Ejercitar las competencias sancionadoras y de intervenci\u00f3n p\u00fablica para la protecci\u00f3n de la salud.",
+                "c) Elaborar y proponer al Consejo de Gobierno el Plan de Salud de la Comunidad Aut\u00f3noma.",
+                "d) Aprobar la delimitaci\u00f3n, dentro de las \u00c1reas de Salud, de las Zonas B\u00e1sicas de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia de la Consejer\u00eda competente en materia de sanidad de la Junta de Comunidades de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Nombrar y cesar a la persona que ocupe la Direcci\u00f3n-Gerencia del Servicio de Salud de Castilla-La Mancha.",
+                "b) Establecer las directrices y los criterios generales de la pol\u00edtica sanitaria en Castilla-La Mancha.",
+                "c) Aprobar el reglamento de estructura y funcionamiento del Servicio de Salud de Castilla-La Mancha.",
+                "d) Fomentar y regular la participaci\u00f3n ciudadana en el Sistema Sanitario."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia de las Corporaciones locales de la Comunidad aut\u00f3noma:",
+            "respuestas": [
+                "a) El control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones.",
+                "b) Regular y controlar la publicidad sanitaria.",
+                "c) Ejercitar las competencias sancionadoras.",
+                "d) Aprobar el Plan de Salud de la correspondiente localidad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia del Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Ejercitar las competencias sancionadoras y de intervenci\u00f3n p\u00fablica para la protecci\u00f3n de la salud.",
+                "b) Controlar e inspeccionar las actividades del Sistema Sanitario de Castilla-La Mancha y su adecuaci\u00f3n al Plan de Salud.",
+                "c) Autorizar la celebraci\u00f3n de convenios con otras administraciones p\u00fablicas para la prestaci\u00f3n de servicios sanitarios.",
+                "d) Regular y controlar la publicidad sanitaria."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia de la Consejer\u00eda competente en materia de sanidad de la Junta de Comunidades de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Nombrar y cesar a las personas que integran el Consejo de Administraci\u00f3n del Servicio de Salud de Castilla-La Mancha.",
+                "b) Aprobar y desarrollar la estructura b\u00e1sica del Sistema de Informaci\u00f3n sanitaria de Castilla-La Mancha.",
+                "c) Nombrar y cesar a la persona que ocupe la Direcci\u00f3n- Gerencia del Servicio de Salud de Castilla-La Mancha a propuesta del titular de la Consejer\u00eda de Sanidad.",
+                "d) Control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia de las Corporaciones locales de la Comunidad aut\u00f3noma:",
+            "respuestas": [
+                "a) El control sanitario de los cementerios.",
+                "b) La pol\u00edtica de sanidad mortuoria.",
+                "c) La intervenci\u00f3n p\u00fablica para la protecci\u00f3n de la salud.",
+                "d) La participaci\u00f3n en l\u00edneas de investigaci\u00f3n relacionadas con las prioridades de salud en Castilla-La Mancha."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El \u00f3rgano superior de gobierno y administraci\u00f3n del Servicio de Salud de Castilla-La Mancha es:",
+            "respuestas": [
+                "a) El Consejo de administraci\u00f3n.",
+                "b) El Consejo de direcci\u00f3n.",
+                "c) La Direcci\u00f3n gerencia.",
+                "d) La persona titular de la Consejer\u00eda competente en materia de sanidad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Conforme a lo que dispone la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, la representaci\u00f3n legal del Servicio de Salud de Castilla-La Mancha recae en:",
+            "respuestas": [
+                "a) La persona titular de la Consejer\u00eda competente en materia de sanidad.",
+                "b) La persona que ocupa la Direcci\u00f3n gerencia del servicio de Salud de Castila-La Mancha.",
+                "c) Los letrados de Administraci\u00f3n sanitaria de la Junta de Comunidades de Castilla-La Mancha",
+                "d) El Cuerpo de letrados de la Junta de Comunidades de Castilla-La Mancha."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Conforme a lo que dispone la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, el r\u00e9gimen jur\u00eddico aplicable al personal que preste sus servicios en el Servicio Regional de Salud es, con car\u00e1cter general:",
+            "respuestas": [
+                "a) Funcionarial.",
+                "b) Laboral.",
+                "c) Estatutario.",
+                "d) Mercantil."
+            ],
+            "verdadera": 3
         }
     ]
 }

@@ -10,11 +10,19 @@
         },
         {
             "nombre_categoria": "Temario leyes",
-            "numero_preguntas": 139	    
+            "numero_preguntas": 299	    
         },
         {
             "nombre_categoria": "Tema 1",
             "numero_preguntas": 139	    
+        },
+        {
+            "nombre_categoria": "Tema 2",
+            "numero_preguntas": 80	    
+        },
+        {
+            "nombre_categoria": "Tema 3",
+            "numero_preguntas": 80	    
         },
         {
             "nombre_categoria": "Tema 7",
