@@ -2189,6 +2189,806 @@
                 "d) Mercantil."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qui\u00e9n realiza las acciones de coordinaci\u00f3n y cooperaci\u00f3n de las Administraciones P\u00fablicas sanitarias?",
+            "respuestas": [
+                "a) El Consejo Interterritorial.",
+                "b) La Alta Inspecci\u00f3n.",
+                "c) Son correctas las opciones a y b.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las acciones de coordinaci\u00f3n y cooperaci\u00f3n de las Administraciones P\u00fablicas sanitarias, no comprender\u00e1n:",
+            "respuestas": [
+                "a) Las prestaciones sanitarias.",
+                "b) La farmacia.",
+                "c) Los profesionales.",
+                "d) La salud privada."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La cohesi\u00f3n y calidad del Sistema Nacional de Salud, se aprob\u00f3 por ley, en el a\u00f1o:",
+            "respuestas": [
+                "a) 2002.",
+                "b) 2003.",
+                "c) 2004.",
+                "d) 2005."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿De cu\u00e1ntos Cap\u00edtulos consta la Ley de Cohesi\u00f3n y Calidad del Sistema Nacional de Salud?",
+            "respuestas": [
+                "a) Once.",
+                "b) Diez.",
+                "c) Nueve.",
+                "d) Ocho."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Al amparo de qu\u00e9 art\u00edculo de la Constituci\u00f3n se dicta la Ley de Cohesi\u00f3n y Calidad del Sistema Nacional de Salud?",
+            "respuestas": [
+                "a) 143.",
+                "b) 141.",
+                "c) 149.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan el art. 61 de la Ley 16/2003, el/la ... dar\u00e1 cuenta al/a la ... del cumplimiento de los Planes de Calidad del Sistema Nacional de Salud. Se\u00f1ale la opci\u00f3n que completa correctamente esta frase (respetando las denominaciones actualizadas, en su caso):",
+            "respuestas": [
+                "a) Direcci\u00f3n del Sistema Nacional de Salud / Gobierno.",
+                "b) Ministro de Sanidad, Pol\u00edtica Social e Igualdad / Cortes Generales.",
+                "c) Ministro de Sanidad y Consumo / Senado.",
+                "d) Gobierno / Congreso de los Diputados."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Entre las funciones de la Agencia de Calidad del Sistema Nacional de Salud no se encuentra:",
+            "respuestas": [
+                "a) Elaborar o adoptar los elementos de la infraestructura, con el debido asesoramiento.",
+                "b) Dar cuenta al Gobierno del cumplimiento de los Planes de Calidad del Sistema Nacional de Salud.",
+                "c) Promover convenios con instituciones cient\u00edficas.",
+                "d) Difundir los elementos de la infraestructura para su conocimiento y utilizaci\u00f3n por parte de las Comunidades Aut\u00f3nomas y los centros y servicios del Sistema Nacional de Salud."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La infraestructura para la calidad del Sistema Nacional de Salud no estar\u00e1 constituida por:",
+            "respuestas": [
+                "a) Normas de Calidad y Seguridad.",
+                "b) Gu\u00edas de pr\u00e1ctica cl\u00ednica y asistencial.",
+                "c) Registro de acontecimientos adversos.",
+                "d) Informes sobre el cumplimiento de los Planes de Calidad del Sistema Nacional de Salud."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Respecto a las personas extranjeras, ¿cu\u00e1ndo ser\u00e1 preceptiva la emisi\u00f3n de un informe previo favorable de los servicios sociales competentes de las comunidades aut\u00f3nomas?",
+            "respuestas": [
+                "a) En todos los casos.",
+                "b) Cuando se encuentre en situaci\u00f3n de estancia temporal de acuerdo con lo previsto en la Ley Org\u00e1nica 4/2000, de 11 de enero, sobre Derechos y Libertades de los Extranjeros en Espa\u00f1a y su Integraci\u00f3n Social.",
+                "c) Cuando se encuentren en situaci\u00f3n de residencia de acuerdo con lo previsto en la Ley Org\u00e1nica 4/2000, de 11 de enero, sobre Derechos y Libertades de los Extranjeros en Espa\u00f1a y su Integraci\u00f3n Social.",
+                "d) Cuando se encuentren en situaci\u00f3n de estancia o residencia de acuerdo con lo previsto en la Ley Org\u00e1nica 4/2000, de 11 de enero, sobre Derechos y Libertades de los Extranjeros en Espa\u00f1a y su Integraci\u00f3n Social."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una Tarjeta Sanitaria Individual normalizada deber\u00e1 incluir en todo caso (se\u00f1alar la respuesta incorrecta):",
+            "respuestas": [
+                "a) Los datos b\u00e1sicos de identificaci\u00f3n de su titular.",
+                "b) Los datos del servicio de salud o entidad responsable de la asistencia sanitaria.",
+                "c) El derecho que asista al titular en relaci\u00f3n con la prestaci\u00f3n farmac\u00e9utica.",
+                "d) El derecho que asista al titular en relaci\u00f3n con la prestaci\u00f3n ortoprot\u00e9sica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La informaci\u00f3n necesaria para la elaboraci\u00f3n de estad\u00edsticas en el \u00e1mbito sanitario, seg\u00fan la Ley de Cohesi\u00f3n y Calidad, se recabar\u00e1 tanto del sector p\u00fablico como del sector privado. Esta afirmaci\u00f3n es:",
+            "respuestas": [
+                "a) Incorrecta, solo se recaba del sector p\u00fablico.",
+                "b) Incompleta, se recaba del sector p\u00fablico y del sector privado, pero solo en cuanto a servicios concertados con el sector p\u00fablico.",
+                "c) Imprecisa, se recabar\u00e1 del sector p\u00fablico, y el sector privado podr\u00e1 aportar datos por propia iniciativa en casos muy concretos.",
+                "d) Correcta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ale la opci\u00f3n incorrecta respecto a la garant\u00eda del tiempo en las prestaciones sanitarias:",
+            "respuestas": [
+                "a) Los criterios marco para garantizar un tiempo m\u00e1ximo de acceso a las prestaciones del Sistema Nacional de Salud se acordar\u00e1n en el seno del Consejo Interterritorial.",
+                "b) Los criterios marco para garantizar un tiempo m\u00e1ximo de acceso a las prestaciones del Sistema Nacional de Salud se aprobar\u00e1n mediante Ley.",
+                "c) Las Comunidades Aut\u00f3nomas definir\u00e1n los tiempos m\u00e1ximos de acceso a su cartera de servicios en relaci\u00f3n a estos criterios marco.",
+                "d) De la garant\u00eda del tiempo quedan excluidas las intervenciones quir\u00fargicas de trasplantes de \u00f3rganos y tejidos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La prestaci\u00f3n de salud p\u00fablica comprende las siguientes actuaciones, seg\u00fan el art. 11.2 de la Ley 16/2003:",
+            "respuestas": [
+                "a) La evaluaci\u00f3n de impacto en salud.",
+                "b) La protecci\u00f3n de la salud, evitando los efectos negativos que diversos elementos del medio pueden tener sobre la salud y el bienestar de las personas.",
+                "c) La prevenci\u00f3n y detecci\u00f3n precoz de las enfermedades raras, as\u00ed como el apoyo a las personas que las presentan y a sus familias.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 \u00f3rgano es el encargado de promover convenios con instituciones cient\u00edficas para elaborar o gestionar los elementos de la infraestructura?",
+            "respuestas": [
+                "a) La Agencia de Calidad del Sistema Nacional de Salud.",
+                "b) El Consejo Interterritorial del Sistema Nacional de Salud.",
+                "c) La Comisi\u00f3n Delegada del Consejo Interterritorial del Sistema Nacional de Salud.",
+                "d) El Observatorio del Sistema Nacional de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La infraestructura para la mejora de la calidad en el sistema sanitario estar\u00e1 constituida por los elementos siguientes (se\u00f1ale la respuesta incorrecta):",
+            "respuestas": [
+                "a) Normas de Calidad y Seguridad.",
+                "b) Registro de buenas pr\u00e1cticas.",
+                "c) Registro de acontecimientos adversos.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Respecto a la informaci\u00f3n generada, el Instituto de Informaci\u00f3n Sanitaria se encargar\u00e1 de recabar, elaborar y distribuir la informaci\u00f3n que responda a las necesidades del Sistema Nacional de Salud, ¿con qu\u00e9 dos criterios?",
+            "respuestas": [
+                "a) Eficacia y coordinaci\u00f3n.",
+                "b) Transparencia y objetividad.",
+                "c) Igualdad y objetividad.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La creaci\u00f3n del Instituto de Informaci\u00f3n Sanitaria se llevar\u00e1 a cabo mediante:",
+            "respuestas": [
+                "a) Ley.",
+                "b) Decreto.",
+                "c) Real Decreto.",
+                "d) Orden."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 regula el Cap\u00edtulo XI de la Ley 16/2003?",
+            "respuestas": [
+                "a) La Participaci\u00f3n Social.",
+                "b) El Consejo Interterritorial.",
+                "c) La Alta Inspecci\u00f3n.",
+                "d) La Calidad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ale cu\u00e1l de los siguientes principios (reproducidos literalmente) no informa la Ley 16/2003:",
+            "respuestas": [
+                "a) La colaboraci\u00f3n entre los servicios sanitarios p\u00fablicos y privados en la prestaci\u00f3n de servicios a los usuarios del Sistema Nacional de Salud.",
+                "b) La prestaci\u00f3n de una atenci\u00f3n integral a la salud, comprensiva tanto de su promoci\u00f3n como de la prevenci\u00f3n de enfermedades, de la asistencia y de la rehabilitaci\u00f3n, procurando un alto nivel de calidad, en los t\u00e9rminos previstos en esta Ley y en la Ley General de Salud P\u00fablica.",
+                "c) La igualdad de oportunidades y la libre circulaci\u00f3n de los profesionales en el conjunto del Sistema Nacional de Salud, en los t\u00e9rminos previstos en esta Ley y en la Ley General de Salud P\u00fablica.",
+                "d) La coordinaci\u00f3n y la cooperaci\u00f3n de las Administraciones p\u00fablicas sanitarias para la superaci\u00f3n de las desigualdades en salud, en los t\u00e9rminos previstos en esta Ley y en la Ley General de Salud P\u00fablica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El art\u00edculo 43.1 de la Constituci\u00f3n Espa\u00f1ola dispone:",
+            "respuestas": [
+                "a) Compete a los poderes p\u00fablicos organizar y tutelar la salud p\u00fablica a trav\u00e9s de medidas preventivas y de las prestaciones y servicios necesarios.",
+                "b) Se reconoce el derecho a la protecci\u00f3n de la salud.",
+                "c) Los poderes p\u00fablicos fomentar\u00e1n la educaci\u00f3n sanitaria, la educaci\u00f3n f\u00edsica y el deporte.",
+                "d) Todas las respuestas anteriores son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes normas derog\u00f3 parcialmente la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha?",
+            "respuestas": [
+                "a) La Ley 24/2002, de 5 de diciembre, de Garant\u00edas en la Atenci\u00f3n Sanitaria Especializada.",
+                "b) La Ley 15/2002, de 11 de julio, sobre drogodependencias y otros trastornos adictivos.",
+                "c) La Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha.",
+                "d) La Ley 8/2000, de 30 de noviembre, de ordenaci\u00f3n sanitaria de Castilla-La Mancha."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿A trav\u00e9s de qu\u00e9 norma se traspas\u00f3 a la Comunidad Aut\u00f3noma de Castilla-La Mancha, las funciones y servicios del Instituto Nacional de la Salud?",
+            "respuestas": [
+                "a) A trav\u00e9s de la Ley org\u00e1nica 9/1982, de 10 de agosto.",
+                "b) A trav\u00e9s de la Ley 8/2000, de 30 de noviembre.",
+                "c) A trav\u00e9s del Real decreto 1476/2001, de 27 de diciembre.",
+                "d) A trav\u00e9s de la Ley 5/2010, de 24 de junio."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de las siguientes normas deroga la Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha?",
+            "respuestas": [
+                "a) La Ley 24/2002, de 5 de diciembre, de Garant\u00edas en la Atenci\u00f3n Sanitaria Especializada.",
+                "b) La Ley 14/2010, de 16 de diciembre, de Servicios Sociales de Castilla-La Mancha.",
+                "c) La Ley 4/2011, de 10 de marzo, del Empleo P\u00fablico de Castilla-La Mancha.",
+                "d) La Ley 8/2000, de 30 de noviembre, de ordenaci\u00f3n sanitaria de Castilla-La Mancha."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha, tiene por objeto:",
+            "respuestas": [
+                "a) Regular el derecho a la libre elecci\u00f3n de m\u00e9dico, centro y servicio en el \u00e1mbito del Servicio de Salud de Castilla-La Mancha.",
+                "b) Establecer las garant\u00edas de respuesta en la atenci\u00f3n sanitaria especializada, de car\u00e1cter no programado y urgente.",
+                "c) Las respuestas a) y b) son correctas.",
+                "d) Ninguna de las respuestas anteriores es correcta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Son beneficiarios de las garant\u00edas que establece la Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Todos los ciudadanos.",
+                "b) Quienes dispongan de tarjeta sanitaria.",
+                "c) Todas las personas que dispongan de tarjeta sanitaria.",
+                "d) Ninguna de las respuestas anteriores es correcta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 establece la Disposici\u00f3n final quinta de la Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha, en relaci\u00f3n con su entrada en vigor?",
+            "respuestas": [
+                "a) La presente ley entrar\u00e1 en vigor el d\u00eda siguiente a su publicaci\u00f3n en el Diario Oficial de Castilla-La Mancha.",
+                "b) La presente ley entrar\u00e1 en vigor el d\u00eda siguiente a su publicaci\u00f3n en el Bolet\u00edn Oficial del Estado.",
+                "c) La presente ley entrar\u00e1 en vigor el d\u00eda 1 de octubre de 2014.",
+                "d) La presente ley entrar\u00e1 en vigor a los seis meses de su publicaci\u00f3n en el Diario Oficial de Castilla-La Mancha."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Qu\u00e9 incluye la Parte dispositiva de la Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha?",
+            "respuestas": [
+                "a) El Pre\u00e1mbulo, el articulado, la disposici\u00f3n transitoria \u00fanica, las disposiciones finales y la disposici\u00f3n derogatoria.",
+                "b) El articulado y las disposiciones finales.",
+                "c) La disposici\u00f3n transitoria \u00fanica, las disposiciones finales y la disposici\u00f3n derogatoria.",
+                "d) La disposici\u00f3n transitoria \u00fanica y las disposiciones finales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El Servicio de Salud de Castilla-La Mancha establecer\u00e1, para la adecuada priorizaci\u00f3n de los pacientes que est\u00e1n en lista de espera para patolog\u00eda programada y no urgente, los siguientes criterios (se\u00f1ala la alternativa de respuesta incorrecta):",
+            "respuestas": [
+                "a) Oportunidad de la intervenci\u00f3n: su realizaci\u00f3n temprana evita la progresi\u00f3n de la enfermedad o las secuelas de la misma.",
+                "b) Gravedad de las patolog\u00edas motivo de la atenci\u00f3n: patolog\u00edas que en su evoluci\u00f3n posterior originan riesgo vital o de discapacidad o disminuyen de forma importante la calidad de vida.",
+                "c) Eficacia de la intervenci\u00f3n: la intervenci\u00f3n quir\u00fargica es eficaz para aumentar la supervivencia, disminuir la discapacidad o mejorar la calidad de vida del usuario.",
+                "d) Ninguna de las respuestas anteriores es correcta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El Tiempo Medio de Espera (TME) se define como:",
+            "respuestas": [
+                "a) El tiempo promedio expresado en d\u00edas, que llevan esperando todos los pacientes en espera no estructural, desde su fecha de entrada en el registro de Lista de Espera hasta una fecha determinada o fecha de corte.",
+                "b) El tiempo promedio expresado en d\u00edas, que llevan esperando los pacientes que forman la demanda asistencial, desde su fecha de entrada en el registro de Lista de Espera Estructural hasta una fecha determinada o fecha de corte.",
+                "c) El tiempo promedio expresado en d\u00edas, que llevan esperando todos los pacientes en espera estructural, desde su fecha de entrada en el registro de Lista de Espera hasta una fecha determinada o fecha de corte.",
+                "d) El tiempo promedio expresado en horas, que llevan esperando los pacientes que forman la demanda asistencial, desde su fecha de entrada en el registro de Lista de Espera Estructural hasta una fecha determinada o fecha de corte."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la Lista de Espera referida a pacientes pendientes de primeras consultas m\u00e9dicas, externas, de atenci\u00f3n especializada, con exclusi\u00f3n de las de tipo preventivo?",
+            "respuestas": [
+                "a) Lista de Espera de pruebas diagn\u00f3sticas/terap\u00e9uticas (LET).",
+                "b) Lista de Espera No Estructural.",
+                "c) Lista de Espera Quir\u00fargica (LEQ).",
+                "d) Lista de Espera de Consultas (LEC)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los gastos de desplazamiento de un enfermo que precise recibir atenci\u00f3n sanitaria especializada, programada y no urgente, en un \u00e1rea sanitaria distinta de aquella en la que est\u00e9 ubicado el centro del Servicio de Salud de Castilla-La Mancha desde el que se le indic\u00f3 la necesidad de la atenci\u00f3n sanitaria especializada, as\u00ed como los gastos del acompa\u00f1ante en el caso de menores, incapacitados y personas dependientes, ser\u00e1n abonados:",
+            "respuestas": [
+                "a) Por el Servicio de Salud de Castilla-La Mancha cuando se superen los plazos reglamentarios en el centro elegido por el paciente.",
+                "b) Por el Servicio de Salud de Castilla-La Mancha cuando se superen los plazos reglamentarios en el centro que este le haya designado.",
+                "c) Por el Servicio de Salud de Castilla-La Mancha cuando se prevea que el paciente no pueda ser atendido en el centro que ha elegido dentro del plazo reglamentario.",
+                "d) Todas las respuestas anteriores son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las ayudas por desplazamiento, manutenci\u00f3n y alojamiento compensan los gastos de desplazamiento, manutenci\u00f3n y alojamiento que tiene que asumir el paciente y, en su caso, su acompa\u00f1ante, cuando se tenga que desplazar para recibir atenci\u00f3n programada y no urgente a un centro de atenci\u00f3n especializada ubicado fuera de su \u00e1rea sanitaria y provincia de residencia. Tendr\u00e1n derecho a la presencia de acompa\u00f1ante:",
+            "respuestas": [
+                "a) Los pacientes menores de 12 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento.",
+                "b) Los pacientes menores de 14 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento.",
+                "c) Los pacientes menores de 16 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento.",
+                "d) Los pacientes menores de 18 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se establece un m\u00e1ximo de 585 \u20ac en concepto de ayudas para alojamiento y manutenci\u00f3n, por persona y periodo de seis meses. Se excluyen de este l\u00edmite:",
+            "respuestas": [
+                "a) A los pacientes pedi\u00e1tricos.",
+                "b) A los acompa\u00f1antes de los pacientes pedi\u00e1tricos.",
+                "c) A los pacientes con complicaciones sobrevenidas que agraven el estado cl\u00ednico inicial del paciente.",
+                "d) Todas las respuestas anteriores son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El plazo m\u00e1ximo para solicitar las ayudas por desplazamiento y las ayudas econ\u00f3micas por alojamiento y manutenci\u00f3n es de...",
+            "respuestas": [
+                "a) Un mes, a contar desde el d\u00eda siguiente al de generaci\u00f3n de los gastos.",
+                "b) Tres meses, a contar desde el d\u00eda siguiente al de generaci\u00f3n de los gastos.",
+                "c) Seis meses, a contar desde el d\u00eda siguiente al de generaci\u00f3n de los gastos.",
+                "d) Un a\u00f1o, a contar desde el d\u00eda siguiente al de generaci\u00f3n de los gastos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las ayudas econ\u00f3micas por alojamiento:",
+            "respuestas": [
+                "a) Se reconocen a pacientes y, en su caso, acompa\u00f1antes que hayan pernoctado fuera de su domicilio.",
+                "b) Se reconocen a los pacientes que deban desplazarse para recibir atenci\u00f3n programada y no urgente a un centro de atenci\u00f3n especializada, situado fuera de su \u00e1rea sanitaria y provincia de residencia.",
+                "c) Se reconocen a aquellos pacientes que, precisando atenci\u00f3n sanitaria en centros ubicados fuera de su \u00e1rea sanitaria y provincia de residencia, se vean obligados a pernoctar fuera de su residencia habitual por necesidades del tratamiento que deben recibir y/o por imposibilidad de llegada al centro o regreso a su domicilio en el d\u00eda.",
+                "d) Se reconocen a aquellos pacientes, y su acompa\u00f1ante, si fuera necesario, que tengan que desplazarse para recibir tratamiento prolongado en centros sanitarios ubicados en su \u00e1rea de salud o provincia de residencia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Qu\u00e9 d\u00eda entr\u00f3 en vigor la Ley 16/2003 a tenor de la disposici\u00f3n final sexta de la Ley de cohesi\u00f3n y calidad del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) El 29 de mayo de 2003.",
+                "b) El 30 de mayo de 2003.",
+                "c) El 31 de mayo de 2003.",
+                "d) El 31 de diciembre de 2003."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Qu\u00e9 art\u00edculo de la Carta Magna otorga al Estado competencia exclusiva para regular la legislaci\u00f3n b\u00e1sica y r\u00e9gimen econ\u00f3mico de la Seguridad Social, sin perjuicio de la ejecuci\u00f3n de sus servicios por las Comunidades Aut\u00f3nomas:",
+            "respuestas": [
+                "a) El art. 149.1.17.",
+                "b) El art. 149.1.16.",
+                "c) El art. 149.1.15.",
+                "d) El art. 149.1.14."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes no es uno de los servicios o conjunto de servicios que desarrollan las prestaciones de atenci\u00f3n sanitaria del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) Servicios Terap\u00e9uticos.",
+                "b) Servicios Rehabilitadores.",
+                "c) Servicios Reanimadores.",
+                "d) Servicios Preventivos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ala la respuesta incorrecta:",
+            "respuestas": [
+                "a) En el seno del Consejo Interterritorial del Sistema Nacional de Salud se acordar\u00e1 la cartera com\u00fan de servicios del Sistema Nacional de Salud, que se aprobar\u00e1 mediante Real Decreto.",
+                "b) Una de las prestaciones de atenci\u00f3n sanitaria del Sistema Nacional de Salud es la prestaci\u00f3n farmac\u00e9utica.",
+                "c) El Ministerio de Sanidad, Servicios Sociales e Igualdad realizar\u00e1 semestralmente una evaluaci\u00f3n de los costes de aplicaci\u00f3n de la cartera com\u00fan de servicios del Sistema Nacional de Salud.",
+                "d) La cartera com\u00fan suplementaria del Sistema Nacional de Salud incluye todas aquellas prestaciones cuya provisi\u00f3n se realiza mediante dispensaci\u00f3n ambulatoria y est\u00e1n sujetas a aportaci\u00f3n del usuario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ala cu\u00e1l de las siguientes no es una de las prestaciones de la cartera com\u00fan suplementaria del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) Prestaci\u00f3n de atenci\u00f3n sociosanitaria.",
+                "b) Prestaci\u00f3n ortoprot\u00e9sica.",
+                "c) Prestaci\u00f3n con productos diet\u00e9ticos.",
+                "d) Prestaci\u00f3n farmac\u00e9utica."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "A qui\u00e9n corresponde aprobar la inclusi\u00f3n de servicios accesorios, los importes m\u00e1ximos de financiaci\u00f3n y los coeficientes de correcci\u00f3n a aplicar para determinar la facturaci\u00f3n definitiva a los servicios auton\u00f3micos de salud por parte de los proveedores, as\u00ed como las modalidades de aportaci\u00f3n o reembolso aplicables en cada caso:",
+            "respuestas": [
+                "a) Al Consejo Interterritorial del Sistema Nacional de Salud.",
+                "b) A la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad.",
+                "c) A la Comisi\u00f3n de prestaciones, aseguramiento y financiaci\u00f3n.",
+                "d) A las propias Comunidades Aut\u00f3nomas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Qui\u00e9n podr\u00e1 de acuerdo con lo establecido en el art\u00edculo 71.1.b) de la Ley 16/2003, emitir recomendaciones sobre el establecimiento por parte de las comunidades aut\u00f3nomas de prestaciones sanitarias complementarias a las prestaciones comunes del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) Las Cortes Generales.",
+                "b) El Consejo de Ministros.",
+                "c) La persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad.",
+                "d) El Consejo Interterritorial del Sistema Nacional de Salud."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ala el art. 10.3 de la Ley 16/2003, que la inclusi\u00f3n de una nueva prestaci\u00f3n en el cat\u00e1logo de prestaciones del Sistema Nacional de Salud se acompa\u00f1ar\u00e1 de una memoria econ\u00f3mica que contenga la valoraci\u00f3n del impacto positivo o negativo que pueda suponer. Dicha memoria se elevar\u00e1 para su an\u00e1lisis en el contexto del principio de lealtad institucional a:",
+            "respuestas": [
+                "a) A la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad.",
+                "b) Al Consejo Interterritorial del Sistema Nacional de Salud.",
+                "c) Al Consejo de Polic\u00edtica Fiscal y Financiera.",
+                "d) Al Consejo de Ministros."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La Atenci\u00f3n Primaria comprende:",
+            "respuestas": [
+                "a) La rehabilitaci\u00f3n especializada.",
+                "b) La indicaci\u00f3n o prescripci\u00f3n y la realizaci\u00f3n, en su caso, de procedimientos diagn\u00f3sticos y terap\u00e9uticos.",
+                "c) La hospitalizaci\u00f3n en r\u00e9gimen de internamiento.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Tienen la consideraci\u00f3n de prestaci\u00f3n complementaria:",
+            "respuestas": [
+                "a) Los tratamientos dietoter\u00e1picos complejos.",
+                "b) La oxigenoterapia a domicilio.",
+                "c) Las prestaciones ortoprot\u00e9sicas.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La cartera com\u00fan de servicios del Sistema Nacional de Salud se aprueba mediante:",
+            "respuestas": [
+                "a) Ley Org\u00e1nica.",
+                "b) Real Decreto.",
+                "c) Ley Ordinaria.",
+                "d) Reglamento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Hasta qu\u00e9 edad comprende la atenci\u00f3n a la infancia:",
+            "respuestas": [
+                "a) Hasta los diez a\u00f1os cumplidos.",
+                "b) Hasta los doce a\u00f1os cumplidos.",
+                "c) Hasta los trece a\u00f1os cumplidos.",
+                "d) Hasta los catorce a\u00f1os cumplidos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La prestaci\u00f3n de salud p\u00fablica comprende:",
+            "respuestas": [
+                "a) La prevenci\u00f3n de las enfermedades, discapacidades y lesiones.",
+                "b) La vigilancia y control de los posibles riesgos para la salud derivados de la importaci\u00f3n, exportaci\u00f3n o tr\u00e1nsito de bienes y del tr\u00e1nsito internacional de viajeros.",
+                "c) La protecci\u00f3n y promoci\u00f3n de la seguridad alimentaria.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La rehabilitaci\u00f3n en pacientes con d\u00e9ficit funcional recuperable se comprende dentro de:",
+            "respuestas": [
+                "a) La atenci\u00f3n de urgencia.",
+                "b) La atenci\u00f3n especializada.",
+                "c) La atenci\u00f3n sociosanitaria.",
+                "d) La atenci\u00f3n primaria."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las ortesis y pr\u00f3tesis especiales tienen la consideraci\u00f3n de:",
+            "respuestas": [
+                "a) Prestaciones complementarias.",
+                "b) Prestaciones farmac\u00e9uticas.",
+                "c) Prestaciones de atenci\u00f3n de urgencia.",
+                "d) Prestaciones de atenci\u00f3n sociosanitaria."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Qu\u00e9 art\u00edculo de la Carta Magna atribuye al Estado competencia exclusiva en materia de fomento y coordinaci\u00f3n general de la investigaci\u00f3n cient\u00edfica y t\u00e9cnica:",
+            "respuestas": [
+                "a) El art. 149.1.15.",
+                "b) El art. 149.1.16.",
+                "c) El art. 149.1.17.",
+                "d) El art. 149.1.18."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se\u00f1ala uno de los principios generales que informan la Ley 16/2003:",
+            "respuestas": [
+                "a) El aseguramiento universal y p\u00fablico por parte del Estado.",
+                "b) La igualdad de oportunidades y la libre circulaci\u00f3n de los profesionales en el conjunto del Sistema Nacional de Salud.",
+                "c) La colaboraci\u00f3n de las oficinas de farmacia con el Sistema Nacional de Salud en el desempe\u00f1o de la prestaci\u00f3n farmac\u00e9utica.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La Consejer\u00eda responsable de la gesti\u00f3n sanitaria elaborar\u00e1 por escrito un Informe Anual de Listas de Espera que ser\u00e1 presentado a la Comisi\u00f3n competente de las Cortes de Castilla-La Mancha en:",
+            "respuestas": [
+                "a) Enero de cada a\u00f1o natural.",
+                "b) Antes del 28 de febrero de cada a\u00f1o natural.",
+                "c) El primer trimestre de cada a\u00f1o natural.",
+                "d) El primer semestre de cada a\u00f1o natural."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Cu\u00e1l es el m\u00e1ximo establecido en concepto de ayudas para alojamiento y manutenci\u00f3n:",
+            "respuestas": [
+                "a) 585 \u20ac por persona y periodo de un a\u00f1o.",
+                "b) 585 \u20ac por persona y periodo de seis meses.",
+                "c) 565 \u20ac por persona y periodo de seis meses.",
+                "d) 565 \u20ac por persona y periodo de cinco meses."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El Servicio de Salud de Castilla-La Mancha facilita informaci\u00f3n en su p\u00e1gina web, a la que podr\u00e1n tener acceso todos los ciudadanos, sobre el n\u00famero de pacientes que figuran en las listas de espera de todas las especialidades. Dicha informaci\u00f3n se actualizar\u00e1 con car\u00e1cter:",
+            "respuestas": [
+                "a) Semanal.",
+                "b) Mensual.",
+                "c) Trimestral.",
+                "d) Diariamente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha se estructura en:",
+            "respuestas": [
+                "a) Una Exposici\u00f3n de Motivos, nueve art\u00edculos, una disposici\u00f3n transitoria, cinco disposiciones finales y una disposici\u00f3n derogatoria.",
+                "b) Una Exposici\u00f3n de Motivos, nueve art\u00edculos, dos disposiciones transitorias, tres disposiciones finales y una disposici\u00f3n derogatoria.",
+                "c) Una Exposici\u00f3n de Motivos, doce art\u00edculos, dos disposiciones transitorias, tres disposiciones finales y una disposici\u00f3n derogatoria.",
+                "d) Una Exposici\u00f3n de Motivos, doce art\u00edculos, tres disposiciones transitorias, tres disposiciones finales y una disposici\u00f3n derogatoria."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Qui\u00e9n preside la Comisi\u00f3n Delegada del Consejo Interterritorial del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) La persona titular del Ministerio de Sanidad.",
+                "b) La persona titular de la Subsecretar\u00eda de Sanidad.",
+                "c) La persona titular de la Secretar\u00eda de Estado de Servicios Sociales.",
+                "d) La persona titular de la Secretar\u00eda General de Sanidad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ala la respuesta incorrecta respecto al Consejo Interterritorial del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) El Consejo Interterritorial del Sistema Nacional de Salud elevar\u00e1 anualmente una memoria de las actividades desarrolladas al Senado.",
+                "b) El Consejo Interterritorial es el principal instrumento de configuraci\u00f3n del Sistema Nacional de Salud.",
+                "c) Cuenta con una Secretar\u00eda cuyo titular ser\u00e1 propuesto por el Ministro de Sanidad y Politica Social y ratificado por el mismo Consejo, y asistir\u00e1 a las sesiones con voz y voto.",
+                "d) Una de sus funciones es el desarrollo de la cartera de servicios correspondiente al Cat\u00e1logo de Prestaciones del Sistema Nacional de Salud, as\u00ed como su actualizaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Qui\u00e9n ejerce la vicepresidencia del Consejo Interterritorial del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) La persona titular de la Subsecretar\u00eda de Sanidad.",
+                "b) La persona titular de la Secretar\u00eda General de Sanidad.",
+                "c) La persona titular de la Secretar\u00eda de Estado de Servicios Sociales.",
+                "d) Uno de los Consejeros competentes en materia de sanidad de las Comunidades Aut\u00f3nomas, elegido por todos los Consejeros que lo integran."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ala una de las funciones del Consejo Interterritorial del Sistema Nacional de Salud en relaci\u00f3n con la coordinaci\u00f3n del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) Los acuerdos sanitarios internacionales por los que se colabore con otros pa\u00edses y organismos internacionales en las materias a las que se refiere el art\u00edculo 39 de la Ley General de Salud.",
+                "b) Las l\u00edneas gen\u00e9ricas del programa formativo de los profesionales del Sistema Nacional de Salud, as\u00ed como los criterios b\u00e1sicos de acreditaci\u00f3n de centros y servicios para la docencia de postgrado y para la evaluaci\u00f3n de la competencia.",
+                "c) La evoluci\u00f3n de los planes auton\u00f3micos de salud y la formulaci\u00f3n de los planes conjuntos y del Plan integral de salud.",
+                "d) La definici\u00f3n de objetivos y estrategias de funcionamiento de los organismos y restantes estructuras de apoyo dependientes del Consejo Interterritorial del Sistema Nacional de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se\u00f1ala una de las modalidades de prestaci\u00f3n de Atenci\u00f3n Especializada:",
+            "respuestas": [
+                "a) Atenci\u00f3n de la salud mental y asistencia psiqui\u00e1trica.",
+                "b) Asistencia en r\u00e9gimen de hospitalizaci\u00f3n, a trav\u00e9s del m\u00e9dico especialista o a trav\u00e9s de los servicios de urgencia.",
+                "c) Asistencia en consultas ambulatorias especializadas y en hospitales de d\u00eda.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En qu\u00e9 Cap\u00edtulo de la Ley 16/2003 se regula el Consejo Interterritorial:",
+            "respuestas": [
+                "a) En el Cap\u00edtulo VI.",
+                "b) En el Cap\u00edtulo VIII.",
+                "c) En el Cap\u00edtulo X.",
+                "d) En el Cap\u00edtulo XI."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y calidad del Sistema Nacional de Salud se estructura en:",
+            "respuestas": [
+                "a) 1 cap\u00edtulo preliminar y otros 12 cap\u00edtulos, 12 disposiciones adicionales, 1 disposici\u00f3n transitoria, 2 disposiciones derogatorias y 4 disposiciones finales.",
+                "b) 1 cap\u00edtulo preliminar y otros 10 cap\u00edtulos, 11 disposiciones adicionales, 1 disposici\u00f3n transitoria, 3 disposiciones derogatorias y 6 disposiciones finales.",
+                "c) 1 cap\u00edtulo preliminar y otros 11 cap\u00edtulos, 10 disposiciones adicionales, 1 disposici\u00f3n transitoria, 2 disposiciones derogatorias y 6 disposiciones finales.",
+                "d) 1 cap\u00edtulo preliminar y otros 12 cap\u00edtulos, 10 disposiciones adicionales, 1 disposici\u00f3n transitoria, 3 disposiciones derogatorias y 4 disposiciones finales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley de Cohesi\u00f3n y Calidad del Sistema Nacional de Salud, los titulares del derecho a la protecci\u00f3n a la salud y a la atenci\u00f3n sanitaria son:",
+            "respuestas": [
+                "a) Las personas extranjeras que tengan establecida su residencia en el territorio espa\u00f1ol.",
+                "b) Todas las personas con nacionalidad espa\u00f1ola.",
+                "c) Solo las personas con nacionalidad espa\u00f1ola mayores de edad.",
+                "d) Las respuestas a y b son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "A qui\u00e9n corresponde el reconocimiento y control del derecho a la protecci\u00f3n de la salud y a la atenci\u00f3n sanitaria con cargo a fondos p\u00fablicos:",
+            "respuestas": [
+                "a) Al Ministerio de Hacienda.",
+                "b) Al Ministerio de Trabajo y Econom\u00eda Social.",
+                "c) Al Ministerio de Sanidad.",
+                "d) Al Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Qu\u00e9 art\u00edculo de la Constituci\u00f3n espa\u00f1ola concede al Estado competencia exclusiva para regular: bases y coordinaci\u00f3n general de la sanidad:",
+            "respuestas": [
+                "a) El art. 149.1.17.",
+                "b) El art. 149.1.16.",
+                "c) El art. 149.1.15.",
+                "d) El art. 149.1.14."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Qu\u00e9 art\u00edculo de la Ley 16/2003, de 28 de mayo, recoge las prestaciones de salud p\u00fablica:",
+            "respuestas": [
+                "a) El art\u00edculo 11.",
+                "b) El art\u00edculo 12.",
+                "c) El art\u00edculo 15.",
+                "d) El art\u00edculo 16."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los acuerdos del Consejo se plasmar\u00e1n a trav\u00e9s de …que se aprobar\u00e1n, en su caso, por …",
+            "respuestas": [
+                "a) Acuerdos mayor\u00eda.",
+                "b) Dict\u00e1menes unanimidad.",
+                "c) Recomendaciones consenso.",
+                "d) \u00d3rdenes mayor\u00eda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "C\u00f3mo se denomina el \u00f3rgano que ejerce las funciones y adoptar las decisiones que el Consejo Interterritorial del Sistema Nacional de Salud le delegue y, en todo caso, act\u00faa como \u00f3rgano de apoyo y discusi\u00f3n previa de cuantos asuntos hayan de ser sometidos al Consejo y como \u00f3rgano de coordinaci\u00f3n t\u00e9cnica y administrativa en aquellas cuestiones que sean de su competencia:",
+            "respuestas": [
+                "a) El Consejo de Direcci\u00f3n.",
+                "b) La Comisi\u00f3n Delegada.",
+                "c) La Junta Delegada.",
+                "d) El Comit\u00e9 T\u00e9cnico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para el adecuado ejercicio de sus funciones la Comisi\u00f3n Delegada podr\u00e1 establecer:",
+            "respuestas": [
+                "a) Direcciones y grupos de trabajo.",
+                "b) Subcomisiones y comit\u00e9s.",
+                "c) Subcomisiones y grupos de trabajo.",
+                "d) Comit\u00e9s y Subcomit\u00e9s de trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes es uno de los derechos de los ciudadanos en el conjunto del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) A recibir asistencia sanitaria en su comunidad aut\u00f3noma de residencia en un tiempo m\u00ednimo.",
+                "b) A disponer de una tercera opini\u00f3n facultativa sobre su proceso.",
+                "c) A recibir, por parte del servicio de salud de la comunidad aut\u00f3noma en la que se encuentre desplazado, la asistencia sanitaria del cat\u00e1logo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e id\u00e9nticas garant\u00edas que los ciudadanos residentes en esa comunidad aut\u00f3noma.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En qu\u00e9 cap\u00edtulo se recogen las prestaciones del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) En el Cap\u00edtulo I.",
+                "b) En el Cap\u00edtulo II.",
+                "c) En el Cap\u00edtulo IV.",
+                "d) En el Cap\u00edtulo VI."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se consideran prestaciones de atenci\u00f3n sanitaria del Sistema Nacional de Salud seg\u00fan la Ley 16/2003:",
+            "respuestas": [
+                "a) Los servicios o conjunto de servicios preventivos, diagn\u00f3sticos y terap\u00e9uticos.",
+                "b) Los servicios o conjunto de servicios preventivos, terap\u00e9uticos, rehabilitadores y de promoci\u00f3n de los ciudadanos.",
+                "c) Los servicios o conjunto de servicios preventivos, rehabilitadores y de promoci\u00f3n y mantenimiento de la salud dirigidos a los ciudadanos.",
+                "a) Los servicios o conjunto de servicios preventivos, diagn\u00f3sticos, terap\u00e9uticos, rehabilitadores y de promoci\u00f3n y mantenimiento de la salud dirigidos a los ciudadanos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La Ley 16/2003, establece como prestaciones de salud p\u00fablica:",
+            "respuestas": [
+                "a) La atenci\u00f3n a la salud mental.",
+                "b) La atenci\u00f3n a la salud bucodental.",
+                "c) La protecci\u00f3n y promoci\u00f3n de la sanidad ambiental.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ala la respuesta incorrecta respecto al desarrollo y actualizaci\u00f3n de la cartera de servicios:",
+            "respuestas": [
+                "a) El contenido de la cartera com\u00fan de servicios del Sistema Nacional de Salud se determinar\u00e1 por acuerdo de la Comisi\u00f3n de prestaciones, aseguramiento y financiaci\u00f3n a propuesta del Consejo Interterritorial del Sistema Nacional de Salud.",
+                "b) El Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la Cartera de Servicios Comunes del Sistema Nacional de Salud y el procedimiento para su actualizaci\u00f3n, ha venido a derogar al Real Decreto 63/1995, de 20 de enero, excepto la Disposici\u00f3n Adicional Cuarta en tanto se desarrolla el contenido de la Cartera de Servicios de Atenci\u00f3n Sociosanitaria.",
+                "c) En la elaboraci\u00f3n del contenido de la cartera com\u00fan de servicios del Sistema Nacional de Salud se tendr\u00e1 en cuenta la eficacia, eficiencia, efectividad, seguridad y utilidad terap\u00e9uticas, as\u00ed como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, as\u00ed como su impacto econ\u00f3mico y organizativo.",
+                "d) En cualquier caso, no se incluir\u00e1n en la cartera com\u00fan de servicios aquellas t\u00e9cnicas, tecnolog\u00edas y procedimientos cuya contribuci\u00f3n eficaz a la prevenci\u00f3n, diagn\u00f3stico, tratamiento, rehabilitaci\u00f3n y curaci\u00f3n de las enfermedades, conservaci\u00f3n o mejora de la esperanza de vida, autonom\u00eda y eliminaci\u00f3n o disminuci\u00f3n del dolor y el sufrimiento no est\u00e9 suficientemente probada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "A tenor del art. 21.5 de la Ley 16/2003, la exclusi\u00f3n de una t\u00e9cnica, tecnolog\u00eda o procedimiento actualmente incluido en la cartera de servicios se llevar\u00e1 a cabo cuando:",
+            "respuestas": [
+                "a) Haya perdido su inter\u00e9s sanitario como consecuencia del desarrollo tecnol\u00f3gico y cient\u00edfico.",
+                "b) Deje de cumplir los requisitos establecidos por la legislaci\u00f3n vigente.",
+                "c) Evidencie su falta de eficacia, efectividad o eficiencia, o que el balance entre beneficio y riesgo sea significativamente desfavorable.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Qui\u00e9n podr\u00e1 por iniciativa o a propuesta de las correspondientes Administraciones P\u00fablicas sanitarias y previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, autorizar el uso tutelado de determinadas t\u00e9cnicas, tecnolog\u00edas o procedimientos:",
+            "respuestas": [
+                "a) El Ministerio de Salud.",
+                "b) El titular de los Servicios de Salud.",
+                "c) El Consejo Interterritorial del Sistema Nacional de Salud.",
+                "d) El Centro de Investigaci\u00f3n del Sistema Nacional de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La Ley 16/2003, establece como prestaciones de atenci\u00f3n primaria:",
+            "respuestas": [
+                "a) La atenci\u00f3n a la salud mental.",
+                "b) La atenci\u00f3n especializada en consultas.",
+                "c) La rehabilitaci\u00f3n b\u00e1sica.",
+                "d) La asistencia especializada en hospital de d\u00eda, m\u00e9dico y quir\u00fargico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ala uno de los criterios que establece el Servicio de Salud de Castilla-La Mancha para la adecuada priorizaci\u00f3n de los pacientes que est\u00e1n en lista de espera para patolog\u00eda programada y no urgente:",
+            "respuestas": [
+                "a) Car\u00e1cter invalidante de la enfermedad, que suponga la imposibilidad, al paciente",
+                "b) Gravedad de las patolog\u00edas motivo de la atenci\u00f3n.",
+                "c) Eficacia de la intervenci\u00f3n.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En el registro de pacientes en lista de espera de Castilla-La Mancha, adscrito al Servicio de Salud de Castilla-La Mancha, se inscribir\u00e1n todos los pacientes que soliciten una atenci\u00f3n sanitaria especializada de car\u00e1cter programado y no urgente. Todos los pacientes afectados tendr\u00e1n acceso a comprobar telem\u00e1ticamente, y en tiempo real, su situaci\u00f3n personal en el citado registro. La Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha, establece para el desarrollo de esta informaci\u00f3n personalizada a pacientes el plazo m\u00e1ximo de:",
+            "respuestas": [
+                "a) Cinco a\u00f1os.",
+                "b) Tres a\u00f1os.",
+                "c) Dos a\u00f1os.",
+                "d) Un a\u00f1o."
+            ],
+            "verdadera": 4
         }
     ]
 }
