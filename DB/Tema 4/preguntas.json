@@ -1,0 +1,1504 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "El Estatuto Marco del Personal Estatutario de los Servicios de Salud es aplicable:",
+            "respuestas": [
+                "a) Al personal estatutario y funcionario que desempe\u00f1e su funci\u00f3n en los centros e instituciones sanitarias de los Servicios de Salud de las Comunidades Aut\u00f3nomas.",
+                "b) Al personal estatutario que desempe\u00f1e su funci\u00f3n en los centros e instituciones sanitarias de los Servicios de Salud de la Comunidades Aut\u00f3nomas o en los centros y servicios sanitarios de la Administraci\u00f3n General del Estado.",
+                "c) Al personal estatutario, funcionario y laboral que preste servicios en los centros e instituciones sanitarias de las Comunidades Aut\u00f3nomas.",
+                "d) Al personal estatutario que preste servicios en centros e instituciones sanitarias de la Administraci\u00f3n del Estado, \u00fanicamente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Son principios y criterios por los que se rige la ordenaci\u00f3n del R\u00e9gimen del Personal Estatutario:",
+            "respuestas": [
+                "a) Sometimiento pleno a la ley y al derecho.",
+                "b) Libre circulaci\u00f3n del personal estatutario en el conjunto del Sistema Nacional de Salud.",
+                "c) Planificaci\u00f3n eficiente de las necesidades de recursos y programaci\u00f3n peri\u00f3dica de las convocatorias.",
+                "d) Los tres anteriores lo son."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Es personal estatutario sanitario:",
+            "respuestas": [
+                "a) El que ejerce una profesi\u00f3n o especialidad sanitaria.",
+                "b) El que ostenta esta condici\u00f3n en virtud de nombramiento expedido para el ejercicio de una profesi\u00f3n o especializaci\u00f3n sanitaria.",
+                "c) El que desempe\u00f1a una categor\u00eda clasificada como sanitaria.",
+                "d) Quien ejerza una profesi\u00f3n sanitaria sin ostentar la condici\u00f3n de funcionario."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal estatutario de Gesti\u00f3n y Servicio se clasifica en funci\u00f3n del t\u00edtulo exigido para el ingreso en:",
+            "respuestas": [
+                "a) Personal de formaci\u00f3n universitaria, personal de formaci\u00f3n personal y otro personal.",
+                "b) Personal universitario, personal de formaci\u00f3n profesional y personal subalterno.",
+                "c) Personal licenciado universitario, personal de administraci\u00f3n y personal auxiliar.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se expedir\u00e1 nombramiento estatutario temporal con car\u00e1cter eventual:",
+            "respuestas": [
+                "a) Para cargos de confianza.",
+                "b) Para atender funciones del personal durante periodos de vacaciones.",
+                "c) Para la prestaci\u00f3n de servicios determinados de naturaleza temporal, coyuntural o extraordinaria.",
+                "d) Para el desempe\u00f1o de una plaza vacante."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El objetivo de constituir un \u00e1mbito de di\u00e1logo e informaci\u00f3n de car\u00e1cter laboral, as\u00ed como de promover el desarrollo arm\u00f3nico de los recursos humanos del Sistema Nacional de Salud, se articula a trav\u00e9s de:",
+            "respuestas": [
+                "a) El Consejo Interterritorial del Sistema Nacional de Salud.",
+                "b) La Comisi\u00f3n de Recursos Humanos del Sistema Nacional de Salud.",
+                "c) La Consejer\u00eda de Salud de la correspondiente Comunidad Aut\u00f3noma.",
+                "d) El Foro Marco para el Di\u00e1logo Social."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "No constituye un derecho individual del personal estatutario:",
+            "respuestas": [
+                "a) La estabilidad en el empleo.",
+                "b) La movilidad voluntaria.",
+                "c) El descanso necesario.",
+                "d) La negociaci\u00f3n colectiva."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El r\u00e9gimen de derechos del personal estatutario ser\u00e1 aplicable al personal temporal:",
+            "respuestas": [
+                "a) En la medida en que la naturaleza del derecho lo permita.",
+                "b) En todo caso.",
+                "c) En ning\u00fan caso.",
+                "d) Solo cuando as\u00ed se establezca en su nombramiento."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La condici\u00f3n de personal estatutario fijo se adquiere:",
+            "respuestas": [
+                "a) Por la superaci\u00f3n de las pruebas de selecci\u00f3n, contrato firmado con el \u00f3rgano competente e incorporaci\u00f3n a una plaza.",
+                "b) Por la superaci\u00f3n de las pruebas de selecci\u00f3n, publicaci\u00f3n de su designaci\u00f3n en el bolet\u00edn oficial correspondiente e incorporaci\u00f3n a la plaza.",
+                "c) Por la superaci\u00f3n de la prueba selectiva, nombramiento conferido por el \u00f3rgano.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Quienes no acrediten, una vez superado el proceso selectivo, que re\u00fanen los requisitos y condiciones exigidos en la convocatoria:",
+            "respuestas": [
+                "a) No podr\u00e1n ser nombrados hasta que subsanen el defecto.",
+                "b) No podr\u00e1n ser nombrados, y quedar\u00e1n sin efecto sus actuaciones.",
+                "c) Podr\u00e1n ser nombrados de forma condicional.",
+                "d) Una vez superado el proceso selectivo, se entiende que re\u00fanen los requisitos exigidos, salvo prueba en contrario."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "No es causa de extinci\u00f3n de la condici\u00f3n de personal estatutario fijo:",
+            "respuestas": [
+                "a) La renuncia.",
+                "b) La jubilaci\u00f3n.",
+                "c) La sanci\u00f3n disciplinaria firme de separaci\u00f3n del servicio.",
+                "d) La incapacidad temporal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La incapacidad permanente, cuando sea declarada en sus grados de incapacidad permanente total para la profesi\u00f3n habitual, absoluta para todo trabajo o gran invalidez conforme a las normas reguladoras del R\u00e9gimen General de la Seguridad Social:",
+            "respuestas": [
+                "a) Da derecho a la reserva del puesto.",
+                "b) Produce la suspensi\u00f3n de la condici\u00f3n de personal estatutario.",
+                "c) Produce la p\u00e9rdida de la condici\u00f3n de personal estatutario.",
+                "d) Imposibilita la recuperaci\u00f3n de la condici\u00f3n de personal estatutario fijo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La recuperaci\u00f3n de la condici\u00f3n de personal estatutario:",
+            "respuestas": [
+                "a) Supondr\u00e1 la simult\u00e1nea declaraci\u00f3n del interesado en la situaci\u00f3n de excedencia voluntaria, salvo en el caso de que se hubiera perdido como consecuencia de incapacidad.",
+                "b) Supondr\u00e1 la simult\u00e1nea declaraci\u00f3n del interesado en la situaci\u00f3n de excedencia voluntaria.",
+                "c) Supondr\u00e1 la reincorporaci\u00f3n del interesado a su puesto anterior.",
+                "d) Supondr\u00e1 la reincorporaci\u00f3n del interesado a su puesto en reingreso provisional."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "No es un principio b\u00e1sico de la provisi\u00f3n de plazas del personal estatutario:",
+            "respuestas": [
+                "a) Igualdad, m\u00e9rito, capacidad y publicidad en la selecci\u00f3n, promoci\u00f3n y movilidad del personal de los servicios de salud.",
+                "b) Movilidad del personal en el conjunto de las Administraciones P\u00fablicas.",
+                "c) Coordinaci\u00f3n, cooperaci\u00f3n y mutua informaci\u00f3n entre las Administraciones sanitarias p\u00fablicas.",
+                "d) Integraci\u00f3n en el r\u00e9gimen organizativo y funcional del servicio de salud y de sus instituciones y centros."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para el ingreso en el subgrupo C1 de las categor\u00edas de personal estatutario, se exige la titulaci\u00f3n:",
+            "respuestas": [
+                "a) De graduado en Educaci\u00f3n Secundaria Obligatoria.",
+                "b) De Bachiller o T\u00e9cnico.",
+                "c) De T\u00e9cnico superior.",
+                "d) De Certificado de Escolaridad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal estatutario con nombramiento expedido para el ejercicio de una profesi\u00f3n o especialidad sanitaria se denomina:",
+            "respuestas": [
+                "a) Personal sanitario.",
+                "b) Otro personal.",
+                "c) Personal de mantenimiento.",
+                "d) Personal de gesti\u00f3n y servicios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan establece el art. 8 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco de los Servicios de Salud, es personal estatutario fijo:",
+            "respuestas": [
+                "a) El que, una vez superado el correspondiente proceso selectivo, obtiene un nombramiento para el desempe\u00f1o, con car\u00e1cter permanente, de las funcionales que de tal nombramiento se deriven.",
+                "b) Todo el personal al servicio de los Servicios de Salud.",
+                "c) El personal que realice una prestaci\u00f3n de servicios determinados de naturaleza temporal, coyuntural o extraordinaria.",
+                "d) El personal en posesi\u00f3n de un contrato laboral indefinido."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Conforme al art\u00edculo 6.2 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, atendiendo al nivel acad\u00e9mico del t\u00edtulo exigido para el ingreso, el personal estatutario sanitario de formaci\u00f3n profesional se divide en:",
+            "respuestas": [
+                "a) T\u00e9cnicos sanitarios y Auxiliares de Enfermer\u00eda.",
+                "b) T\u00e9cnicos superiores y T\u00e9cnicos.",
+                "c) T\u00e9cnicos superiores y T\u00e9cnicos de gesti\u00f3n.",
+                "d) T\u00e9cnicos especialistas y T\u00e9cnicos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1ndo finaliza el nombramiento de personal estatutario temporal interino seg\u00fan lo dispuesto en el Estatuto Marco de Personal Estatutario de los Servicios de Salud?",
+            "respuestas": [
+                "a) Cuando se incorpore la persona a que sustituya as\u00ed como cuando se supriman las funciones que en su d\u00eda lo motivaron.",
+                "b) Cuando se produzca la causa o venza el plazo que expresamente se determinen en su nombramiento as\u00ed como cuando se supriman las funciones que en su d\u00eda lo motivaron.",
+                "c) Cuando se incorpore personal fijo, por el procedimiento legal o reglamentariamente establecido a la plaza que desempe\u00f1e as\u00ed como cuando dicha plaza resulte amortizada.",
+                "d) Cuando se resuelva la convocatoria del concurso-oposici\u00f3n de la categor\u00eda de que se trate."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La categor\u00eda profesional de Celador est\u00e1 comprendida dentro del grupo de:",
+            "respuestas": [
+                "a) Personal de gesti\u00f3n y servicios.",
+                "b) Personal no estatutario.",
+                "c) Personal estatutario sanitario.",
+                "d) Personal estatutario de formaci\u00f3n profesional."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Conforme a lo dispuesto en el art\u00edculo 2.2 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, en lo no previsto en la misma ser\u00e1n aplicables al personal estatutario:",
+            "respuestas": [
+                "a) Las disposiciones y principios generales sobre funci\u00f3n p\u00fablica de la Administraci\u00f3n correspondiente.",
+                "b) Las disposiciones de derecho laboral, dictadas al amparo del art\u00edculo 149.1.7.\u00b0 de la Constituci\u00f3n.",
+                "c) Las disposiciones sobre funci\u00f3n p\u00fablica de la Administraci\u00f3n del Estado, en todo caso, conforme a lo dispuesto en el art\u00edculo 149.3 de la Constituci\u00f3n.",
+                "d) El convenio colectivo del personal laboral al servicio de la Administraci\u00f3n correspondiente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La renuncia a la condici\u00f3n de personal estatutario, en los casos en que no exista un expediente disciplinario abierto, deber\u00e1 ser solicitada por el interesado con una antelaci\u00f3n m\u00ednima a su efectividad:",
+            "respuestas": [
+                "a) En cualquier momento.",
+                "b) De 15 d\u00edas.",
+                "c) Tiene car\u00e1cter voluntario y no est\u00e1 sometida a preaviso.",
+                "d) De un mes."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Se\u00f1ale la respuesta incorrecta. Seg\u00fan el art. 5 del Estatuto Marco, el personal estatutario se clasifica atendiendo a:",
+            "respuestas": [
+                "a) La funci\u00f3n desarrollada.",
+                "b) El nivel del t\u00edtulo exigido para el ingreso.",
+                "c) El tipo de nombramiento.",
+                "d) El expediente laboral."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La Ley 55/2003 del Estatuto Marco de Personal Estatutario de los Servicios de Salud, en su Cap\u00edtulo II, clasifica al personal:",
+            "respuestas": [
+                "a) Personal estatutario sanitario, personal no sanitario, personal fijo y personal contratado.",
+                "b) Personal estatutario sanitario, personal de gesti\u00f3n y servicios, personal estatutario fijo y personal estatutario temporal.",
+                "c) M\u00e9dicos, enfermeras, administrativos y celadores-conductores.",
+                "d) Estatutario sanitario m\u00e9dico, estatutario sanitario enfermero y estatutario no sanitario."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal estatutario con nombramiento de car\u00e1cter interino, eventual o de sustituci\u00f3n, se denomina:",
+            "respuestas": [
+                "a) Personal estatutario fijo discontinuo.",
+                "b) Personal estatutario de gesti\u00f3n y servicios.",
+                "c) Personal estatutario temporal.",
+                "d) Personal estatutario sanitario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El Estatuto Marco clasifica al personal estatutario de los servicios de salud, atendiendo a la funci\u00f3n desarrollada, al nivel del t\u00edtulo exigido para el ingreso y al tipo de su nombramiento en:",
+            "respuestas": [
+                "a) Personal estatutario sanitario y personal estatutario de gesti\u00f3n y servicios.",
+                "b) Personal estatutario facultativo, personal estatutario sanitario y personal no sanitario.",
+                "c) Personal estatutario de gesti\u00f3n y servicios y personal estatutario facultativo.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan establece el Estatuto Marco del personal estatutario de los servicios de salud se acordar\u00e1 el cese del personal estatutario interino:",
+            "respuestas": [
+                "a) Cuando dicha plaza resulte amortizada.",
+                "b) Cuando se reincorpore la persona a la que sustituya.",
+                "c) Cuando pierda el derecho a la reincorporaci\u00f3n la persona a la que sustituya.",
+                "d) Cuando venza el plazo que expresamente se determine en su nombramiento."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, cuando sea necesario para garantizar el funcionamiento permanente y continuado de los centros sanitarios se expedir\u00e1 un nombramiento:",
+            "respuestas": [
+                "a) Interino.",
+                "b) Eventual.",
+                "c) Sustituto.",
+                "d) Estatutario fijo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El Estatuto Marco del personal estatutario considera a este personal como titular de una relaci\u00f3n:",
+            "respuestas": [
+                "a) Funcionarial com\u00fan.",
+                "b) Laboral com\u00fan.",
+                "c) Estatutaria de la Seguridad Social.",
+                "d) Funcionarial especial."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La provisi\u00f3n de plazas de personal estatutario se realizar\u00e1:",
+            "respuestas": [
+                "a) Por los sistemas de selecci\u00f3n de personal, de promoci\u00f3n interna y de movilidad.",
+                "b) Por los sistemas de selecci\u00f3n de personal y movilidad.",
+                "c) Por los sistemas de selecci\u00f3n y provisi\u00f3n de puestos.",
+                "d) Por los sistemas de selecci\u00f3n de personal, de promoci\u00f3n interna y de movilidad, as\u00ed como por reingreso al servicio activo en los supuestos y mediante el procedimiento que en cada servicio de salud se establezcan."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "No es una retribuci\u00f3n complementaria:",
+            "respuestas": [
+                "a) El complemento de destino.",
+                "b) El complemento espec\u00edfico.",
+                "c) El complemento de productividad.",
+                "d) El complemento de antig\u00fcedad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El personal estatutario temporal percibir\u00e1:",
+            "respuestas": [
+                "a) Las mismas retribuciones que el personal fijo excepto los trienios.",
+                "b) Las mismas retribuciones que el personal fijo salvo en complemento espec\u00edfico.",
+                "c) La totalidad de las retribuciones b\u00e1sicas y complementarias que, en el correspondiente servicio de salud corresponda a su nombramiento.",
+                "d) Ninguna de las anteriores es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La retribuci\u00f3n de los aspirantes en pr\u00e1cticas ascender\u00e1, como m\u00ednimo a:",
+            "respuestas": [
+                "a) Las mismas retribuciones que el personal fijo excepto los trienios.",
+                "b) Las mismas retribuciones que el personal fijo salvo en complemento espec\u00edfico.",
+                "c) La totalidad de las retribuciones b\u00e1sicas y complementarias que, en el correspondiente servicio de salud corresponda a su nombramiento.",
+                "d) Las retribuciones b\u00e1sicas, excluidos trienios, del grupo al que aspiren ingresar."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La jornada ordinaria de trabajo del personal estatutario en los centros sanitarios:",
+            "respuestas": [
+                "a) Se determinar\u00e1 en las normas dictadas por la administraci\u00f3n.",
+                "b) Se determinar\u00e1 en los pactos o acuerdos alcanzados.",
+                "c) Se determinar\u00e1 en las normas, pactos o acuerdos, seg\u00fan en cada caso resulte procedente.",
+                "d) Se pactar\u00e1 individualmente con cada trabajador."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se entiende por tiempo de trabajo:",
+            "respuestas": [
+                "a) El per\u00edodo en el que el personal permanece en el centro sanitario, a disposici\u00f3n del mismo y en ejercicio efectivo de su actividad y funciones.",
+                "b) El per\u00edodo en el que el personal permanece en el centro sanitario.",
+                "c) El per\u00edodo que el personal dedica al ejercicio efectivo de su actividad y funciones.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El Personal Estatutario tendr\u00e1 derecho a una vacaci\u00f3n retribuida:",
+            "respuestas": [
+                "a) No inferior a 30 d\u00edas naturales.",
+                "b) A un m\u00ednimo de 22 d\u00edas h\u00e1biles.",
+                "c) A un mes.",
+                "d) A 30 d\u00edas h\u00e1biles."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El objeto perseguido por el Estatuto Marco en materia de tiempo de trabajo y r\u00e9gimen de descansos es:",
+            "respuestas": [
+                "a) El establecimiento de las disposiciones m\u00ednimas para la protecci\u00f3n de la seguridad y salud del personal estatutario en materia de ordenaci\u00f3n del tiempo de trabajo.",
+                "b) El establecimiento de las disposiciones m\u00ednimas para la organizaci\u00f3n de los servicios y la gesti\u00f3n del tiempo de trabajo.",
+                "c) El establecimiento de las disposiciones necesarias en dicha materia para garantizar en todo momento las necesidades asistenciales.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Deber\u00e1 establecerse un per\u00edodo de descanso durante la jornada de duraci\u00f3n no inferior a 15 minutos:",
+            "respuestas": [
+                "a) Siempre que la duraci\u00f3n de la misma exceda de ocho horas continuadas.",
+                "b) Siempre que la duraci\u00f3n de la misma exceda de seis horas continuadas u ocho discontinuas.",
+                "c) Siempre que la duraci\u00f3n de la misma exceda de seis horas continuadas.",
+                "d) Siempre que la duraci\u00f3n de la misma no exceda de seis horas continuadas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La duraci\u00f3n m\u00e1xima conjunta de los tiempos de trabajo correspondientes a la jornada complementaria y a la jornada ordinaria ser\u00e1 de:",
+            "respuestas": [
+                "a) 48 horas continuadas.",
+                "b) 48 horas semanales.",
+                "c) 12 horas continuadas.",
+                "d) 12 horas diarias en el c\u00f3mputo total del semestre."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El per\u00edodo m\u00ednimo de descanso ininterrumpido entre el fin de una jornada y el comienzo de la siguiente es de:",
+            "respuestas": [
+                "a) 8 horas.",
+                "b) 12 horas.",
+                "c) 24 horas.",
+                "d) 9 horas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Por regla general, el tiempo de trabajo correspondiente a la jornada ordinaria no exceder\u00e1:",
+            "respuestas": [
+                "a) De 12 horas ininterrumpidas.",
+                "b) De 24 horas de forma no continuada.",
+                "c) De 8 horas continuadas.",
+                "d) De 16 horas diarias en jornada partida."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "No es una situaci\u00f3n administrativa propia del personal estatutario la de:",
+            "respuestas": [
+                "a) Servicios especiales.",
+                "b) Excedencia forzosa.",
+                "c) Excedencia voluntaria.",
+                "d) Excedencia por servicios en el sector p\u00fablico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para que el personal estatutario fijo sea declarado en la situaci\u00f3n de servicios de gesti\u00f3n cl\u00ednica, deb\u00eda encontrarse en la situaci\u00f3n de:",
+            "respuestas": [
+                "a) Servicios especiales.",
+                "b) Servicios bajo otro r\u00e9gimen jur\u00eddico.",
+                "c) Excedencia voluntaria.",
+                "d) Excedencia por servicios en el sector p\u00fablico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal estatutario ser\u00e1 declarado en situaci\u00f3n de servicios especiales:",
+            "respuestas": [
+                "a) Cuando acceda a plaza de formaci\u00f3n sanitaria especializada mediante residencia.",
+                "b) En los supuestos establecidos con car\u00e1cter general para los funcionarios.",
+                "c) Cuando sea autorizado a colaborar con organizaciones no gubernamentales.",
+                "d) Todas las opciones son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Un trabajador que, finalizada la causa que determin\u00f3 el pase a una situaci\u00f3n distinta a la de activo, incumpla la obligaci\u00f3n de solicitar el reingreso al servicio activo:",
+            "respuestas": [
+                "a) Pasar\u00e1 a la situaci\u00f3n de reingreso provisional en otro destino.",
+                "b) Ser\u00e1 declarado de oficio en excedencia voluntaria.",
+                "c) Pasar\u00e1 a la situaci\u00f3n de servicios especiales.",
+                "d) Seguir\u00e1 su reingreso provisional en el mismo destino."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En las convocatorias para la selecci\u00f3n de personal estatutario se reservar\u00e1 un cupo no inferior al 5%, o al porcentaje que se encuentre vigente con car\u00e1cter general para la funci\u00f3n p\u00fablica, de las plazas convocadas:",
+            "respuestas": [
+                "a) Para ser cubiertas entre personas con discapacidad de grado igual o superior al 33%.",
+                "b) Para ser cubiertas entre personas con discapacidad de grado igual o superior al 66%.",
+                "c) Para ser cubiertas entre personas con discapacidad de cualquier grado siempre que acrediten alguno.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La selecci\u00f3n del personal estatutario se efectuar\u00e1 mediante procedimientos que garanticen:",
+            "respuestas": [
+                "a) Los principios de igualdad y m\u00e9rito.",
+                "b) Los principios de igualdad, m\u00e9rito y celeridad.",
+                "c) Los principios de igualdad, m\u00e9rito, celeridad y competencia.",
+                "d) Los principios de igualdad, m\u00e9rito, capacidad y competencia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La selecci\u00f3n del personal estatutario se efectuar\u00e1 con car\u00e1cter general a trav\u00e9s del sistema:",
+            "respuestas": [
+                "a) De oposici\u00f3n.",
+                "b) De concurso-oposici\u00f3n.",
+                "c) De concurso de m\u00e9ritos.",
+                "d) De libre designaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los miembros de los \u00f3rganos de selecci\u00f3n deber\u00e1n:",
+            "respuestas": [
+                "a) Ostentar la condici\u00f3n de personal estatutario fijo.",
+                "b) Ostentar la condici\u00f3n de personal estatutario o laboral.",
+                "c) Ostentar la condici\u00f3n de funcionario de carrera o estatutario fijo de las Administraciones P\u00fablicas o laboral de los centros vinculados al Sistema Nacional de Salud.",
+                "d) Ostentar la condici\u00f3n de personal funcionario, estatutario o laboral del Sistema Nacional de Salud."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La selecci\u00f3n del personal estatutario temporal se efectuar\u00e1 a trav\u00e9s de:",
+            "respuestas": [
+                "a) Los mismos procedimientos que el personal fijo.",
+                "b) Procedimientos que permitan la m\u00e1xima agilidad en la selecci\u00f3n.",
+                "c) Procedimientos que permitan la m\u00e1xima objetividad en la selecci\u00f3n.",
+                "d) Procedimientos que permitan la m\u00e1xima celeridad y seguridad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El per\u00edodo de prueba del personal estatutario temporal, en el caso de que tuvieran formaci\u00f3n universitaria, no podr\u00e1 ser superior, en tiempo de trabajo efectivo, a:",
+            "respuestas": [
+                "a) Tres meses.",
+                "b) Dos meses.",
+                "c) Cuatro meses.",
+                "d) Un mes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los aspirantes seleccionados en la oposici\u00f3n, concurso o concurso-oposici\u00f3n deber\u00e1n superar un per\u00edodo formativo, o de pr\u00e1cticas:",
+            "respuestas": [
+                "a) En todo caso.",
+                "b) Si as\u00ed se establece en la convocatoria, y como parte del proceso selectivo.",
+                "c) Si as\u00ed se establece en la convocatoria pero sin formar parte del proceso selectivo.",
+                "d) Si as\u00ed lo estima el Tribunal de Selecci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para poder acceder, mediante promoci\u00f3n interna y dentro de su servicio de salud de destino, a nombramientos correspondientes a otra categor\u00eda, ser\u00e1 exigible siempre:",
+            "respuestas": [
+                "a) Ser personal estatutario fijo.",
+                "b) Haber prestado servicios durante cinco a\u00f1os en la categor\u00eda de origen.",
+                "c) Ambas son correctas.",
+                "d) Ninguna de las respuestas anteriores son correctas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Cuando de un procedimiento de movilidad voluntaria de personal estatutario, se derive cambio en el servicio de salud de destino:",
+            "respuestas": [
+                "a) El plazo de toma de posesi\u00f3n ser\u00e1 de 30 d\u00edas h\u00e1biles.",
+                "b) El plazo de toma de posesi\u00f3n ser\u00e1 de un mes.",
+                "c) El plazo de toma de posesi\u00f3n ser\u00e1 de 15 d\u00edas h\u00e1biles.",
+                "d) El plazo de toma de posesi\u00f3n ser\u00e1 de 3 d\u00edas h\u00e1biles."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Cu\u00e1ndo podr\u00e1 ser cubierta una plaza en comisi\u00f3n de servicios?",
+            "respuestas": [
+                "a) Por necesidades del servicio en cualquier momento.",
+                "b) Cuando se encuentre vacante o temporalmente desatendida.",
+                "c) Por necesidades del servicio y cuando se encuentre vacante o temporalmente desatendida.",
+                "d) Cuando la solicita un interesado y exista vacante."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La pena de inhabilitaci\u00f3n especial para la correspondiente profesi\u00f3n supondr\u00e1 la p\u00e9rdida de la condici\u00f3n de personal estatutario:",
+            "respuestas": [
+                "a) Si excede de 10 a\u00f1os.",
+                "b) Si excede de 6 a\u00f1os.",
+                "c) Si excede de 1 a\u00f1o.",
+                "d) No supone tal p\u00e9rdida."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El sistema retributivo del personal estatutario responde:",
+            "respuestas": [
+                "a) A los principios de cualificaci\u00f3n t\u00e9cnica y profesional y asegura el mantenimiento de un modelo com\u00fan en relaci\u00f3n con las retribuciones b\u00e1sicas.",
+                "b) A los principios de cualificaci\u00f3n t\u00e9cnica y profesional y asegura el mantenimiento de un modelo com\u00fan en relaci\u00f3n con las retribuciones b\u00e1sicas y complementarias.",
+                "c) A los principios de cualificaci\u00f3n t\u00e9cnica y profesional y asegura el mantenimiento de un modelo homog\u00e9neo en relaci\u00f3n con las retribuciones b\u00e1sicas.",
+                "d) A los principios de capacidad y profesionalidad y asegura el mantenimiento de un modelo com\u00fan en relaci\u00f3n con las retribuciones b\u00e1sicas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Sin perjuicio de la sanci\u00f3n disciplinaria que, en su caso, pueda corresponder, la parte de jornada no realizada por causas imputables al interesado:",
+            "respuestas": [
+                "a) Dar\u00e1 lugar a la deducci\u00f3n proporcional de haberes y tendr\u00e1 car\u00e1cter sancionador.",
+                "b) Dar\u00e1 lugar a la deducci\u00f3n proporcional de haberes, que no tendr\u00e1 car\u00e1cter sancionador.",
+                "c) No dar\u00e1 lugar a la deducci\u00f3n proporcional de haberes, aunque tendr\u00e1 car\u00e1cter sancionador.",
+                "d) No ser\u00e1 recuperable."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las retribuciones b\u00e1sicas son:",
+            "respuestas": [
+                "a) El sueldo, los trienios y las pagas extraordinarias.",
+                "b) El salario base, los trienios y las pagas extras.",
+                "c) El sueldo, los quinquenios y las pagas extraordinarias.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El importe de las pagas extraordinarias:",
+            "respuestas": [
+                "a) Ser\u00e1 como m\u00ednimo de una mensualidad del sueldo y trienios al que se a\u00f1adir\u00e1 la catorceava parte del importe anual del complemento de destino.",
+                "b) Ser\u00e1 igual a una mensualidad de sueldo, trienios y complementos.",
+                "c) Ser\u00e1 como m\u00ednimo de una mensualidad de sueldos y trienios.",
+                "d) Ser\u00e1 al menos igual a la mensualidad percibida el mes anterior."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La suspensi\u00f3n firme del personal estatutario determinar\u00e1:",
+            "respuestas": [
+                "a) La p\u00e9rdida del puesto de trabajo cuando exceda 1 a\u00f1o.",
+                "b) El cambio de destino cuando exceda de 6 meses.",
+                "c) La p\u00e9rdida del puesto de trabajo cuando exceda de 6 meses.",
+                "d) La p\u00e9rdida autom\u00e1tica del puesto de trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El r\u00e9gimen disciplinario responder\u00e1 a los principios de:",
+            "respuestas": [
+                "a) Legalidad, eficacia y proporcionalidad.",
+                "b) Tipicidad, eficacia y proporcionalidad.",
+                "c) Tipicidad, eficacia y congruencia.",
+                "d) Tipicidad, justicia y proporcionalidad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El abuso de autoridad en el ejercicio de sus funciones es:",
+            "respuestas": [
+                "a) Una falta muy grave.",
+                "b) Una falta grave.",
+                "c) Una falta leve.",
+                "d) No es una falta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las faltas muy graves prescribir\u00e1n:",
+            "respuestas": [
+                "a) A los 4 a\u00f1os.",
+                "b) A los dos a\u00f1os.",
+                "c) A los 6 a\u00f1os.",
+                "d) No prescriben."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La sanci\u00f3n de traslado forzoso con cambio de localidad:",
+            "respuestas": [
+                "a) S\u00f3lo podr\u00e1 imponerse por faltas muy graves.",
+                "b) Podr\u00e1 imponerse por faltas graves y muy graves.",
+                "c) No podr\u00e1 imponerse por faltas leves.",
+                "d) Podr\u00e1 imponerse por faltas muy graves cualificadas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "No ser\u00e1 preceptiva la previa instrucci\u00f3n del procedimiento disciplinario:",
+            "respuestas": [
+                "a) Para la imposici\u00f3n de sanciones por faltas leves, salvo el tr\u00e1mite de audiencia al inculpado, que deber\u00e1 evacuarse en todo caso.",
+                "b) Para la imposici\u00f3n de faltas leves y graves.",
+                "c) Siempre es necesario un procedimiento previo.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Podr\u00e1 acordarse como medida cautelar, mediante resoluci\u00f3n motivada, la suspensi\u00f3n provisional de funciones del interesado en caso de:",
+            "respuestas": [
+                "a) Faltas muy graves.",
+                "b) Faltas graves.",
+                "c) Expediente judicial.",
+                "d) Todos los supuestos anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para el personal estatutario, la percepci\u00f3n de pensi\u00f3n de jubilaci\u00f3n por un r\u00e9gimen p\u00fablico de Seguridad Social ser\u00e1 compatible con:",
+            "respuestas": [
+                "a) La situaci\u00f3n del personal em\u00e9rito.",
+                "b) Las retribuciones derivadas de una actividad a tiempo parcial.",
+                "c) Con ambos de los supuestos anteriores.",
+                "d) Es incompatible."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En el seno de las mesas de negociaci\u00f3n, los representantes de la Administraci\u00f3n o servicio de salud y los representantes de las organizaciones sindicales podr\u00e1n concertar:",
+            "respuestas": [
+                "a) Pactos y convenios.",
+                "b) Convenios y resoluciones.",
+                "c) Una Mesa sectorial.",
+                "d) Pactos y acuerdos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "No es materia objeto de negociaci\u00f3n obligatoria en la Mesa sectorial:",
+            "respuestas": [
+                "a) La regulaci\u00f3n de la jornada laboral, tiempo de trabajo y r\u00e9gimen de descansos.",
+                "b) El r\u00e9gimen de permisos y licencias.",
+                "c) Las decisiones del servicio de salud que afecten al ejercicio de derechos por los ciudadanos.",
+                "d) La determinaci\u00f3n y aplicaci\u00f3n de las retribuciones del personal estatutario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan el art\u00edculo 73 del Estatuto Marco, las anotaciones por sanciones disciplinarias firmes de car\u00e1cter leves se cancelar\u00e1n de oficio en el plazo de:",
+            "respuestas": [
+                "a) Seis a\u00f1os.",
+                "b) Cuatro a\u00f1os.",
+                "c) Dos a\u00f1os.",
+                "d) Seis meses."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El r\u00e9gimen retributivo del personal estatutario se concreta anualmente por:",
+            "respuestas": [
+                "a) Cada comunidad aut\u00f3noma respecto del personal a su servicio.",
+                "b) El Gobierno del Estado respecto de todo el personal.",
+                "c) El convenio colectivo estatal respecto de todo el personal.",
+                "d) Las mesas sectoriales respecto del personal de su \u00e1mbito."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En el Estatuto Marco se establece que el personal estatutario en comisi\u00f3n de servicios percibir\u00e1 las retribuciones:",
+            "respuestas": [
+                "a) Correspondientes a las funciones especiales que realice en el puesto de destino.",
+                "b) De su plaza o puesto de origen.",
+                "c) Proporcional a cada Centro.",
+                "d) Correspondientes a la plaza o puesto efectivamente desempe\u00f1ado, salvo que sean inferiores a las que correspondan por la plaza de origen, en cuyo caso se percibir\u00e1n estas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los representantes de los trabajadores con competencia en materia de prevenci\u00f3n de riesgos laborales son:",
+            "respuestas": [
+                "a) Los miembros de la Junta de personal, Junta Facultativo y Junta de Enfermer\u00eda.",
+                "b) Los t\u00e9cnicos de prevenci\u00f3n de riesgos laborales.",
+                "c) El Servicio de Medicina Preventiva.",
+                "d) Los delegados de prevenci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Qu\u00e9 se entiende por riesgo laboral?",
+            "respuestas": [
+                "a) La posibilidad de que un trabajador sufra un determinado da\u00f1o derivado del trabajo.",
+                "b) La posibilidad de que un trabajador sufra una enfermedad en el trabajo.",
+                "c) La posibilidad de que un trabajador sufra acoso.",
+                "d) El riesgo que supone el ir a trabajar."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n debe garantizar a los trabajadores la vigilancia peri\u00f3dica de su estado de salud en funci\u00f3n de los riesgos inherentes al trabajo?",
+            "respuestas": [
+                "a) La Inspecci\u00f3n de Trabajo.",
+                "b) El propio trabajador.",
+                "c) El empresario.",
+                "d) Las secciones sindicales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Indica cu\u00e1l es la definici\u00f3n de prevenci\u00f3n:",
+            "respuestas": [
+                "a) La probabilidad racional de que un riesgo se materialice de forma inminente.",
+                "b) El estudio de los procesos potencialmente peligrosos para el trabajo.",
+                "c) Conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+                "d) Posibilidad de que un trabajador sufra un determinado da\u00f1o derivado del trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la vigente Ley de Prevenci\u00f3n de Riesgos Laborales?",
+            "respuestas": [
+                "a) Ley 32/1995, de 8 de noviembre.",
+                "b) Ley 30/1996, de 8 de noviembre.",
+                "c) Ley 31/1995, de 6 de noviembre.",
+                "d) Ley 31/1995, de 8 de noviembre."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Entre los principios de la acci\u00f3n preventiva recogidos por el art\u00edculo 15 de la Ley de Prevenci\u00f3n de Riesgos Laborales, no figura:",
+            "respuestas": [
+                "a) Evitar los riesgos.",
+                "b) Evaluar los riesgos que se puedan evitar.",
+                "c) Tener en cuenta la evoluci\u00f3n de la t\u00e9cnica.",
+                "d) Dar las debidas instrucciones a los trabajadores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos delegados de prevenci\u00f3n se deber\u00e1n elegir en empresas entre 3.001 y 4.000 trabajadores?",
+            "respuestas": [
+                "a) 5.",
+                "b) 6.",
+                "c) 7.",
+                "d) 8."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley de Prevenci\u00f3n de Riesgos Laborales, se constituir\u00e1 un Comit\u00e9 de Seguridad y Salud en todas las empresas o centros de trabajo que cuenten con:",
+            "respuestas": [
+                "a) 30 o m\u00e1s trabajadores.",
+                "b) 50 o m\u00e1s trabajadores.",
+                "c) 75 o m\u00e1s trabajadores.",
+                "d) 100 o m\u00e1s trabajadores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Entre las obligaciones de los trabajadores recogidas por la Ley de Prevenci\u00f3n de Riesgos Laborales, no figura:",
+            "respuestas": [
+                "a) Informar directamente al empresario de cualquier situaci\u00f3n que entra\u00f1e riesgo para la seguridad o salud de los trabajadores.",
+                "b) Contribuir al cumplimiento de las obligaciones establecidas por la autoridad competente con el fin de proteger la seguridad y la salud de los trabajadores en el trabajo.",
+                "c) Cooperar con el empresario para que este pueda garantizar unas condiciones de trabajo que sean seguras y no entra\u00f1en riesgos para la seguridad y la salud de los trabajadores.",
+                "d) Utilizar correctamente los medios y equipos de protecci\u00f3n facilitados por el empresario, de acuerdo con las instrucciones recibidas de este."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El \u00f3rgano paritario y colegiado de participaci\u00f3n destinado a la consulta regular y peri\u00f3dica de las actuaciones de la empresa en materia de prevenci\u00f3n de riesgos, es:",
+            "respuestas": [
+                "a) El Comit\u00e9 de Empresa.",
+                "b) El Consejo de Vigilancia de la Prevenci\u00f3n.",
+                "c) La Comisi\u00f3n de Evaluaci\u00f3n de Riesgos Laborales.",
+                "d) El Comit\u00e9 de Seguridad y Salud."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La evaluaci\u00f3n de los riesgos laborales es:",
+            "respuestas": [
+                "a) Es un proceso t\u00e9cnico en la organizaci\u00f3n del trabajo.",
+                "b) Un proceso dirigido a estimar la magnitud de los riesgos que no hayan podido evitarse.",
+                "c) Es un procedimiento est\u00e1tico.",
+                "d) Es una pr\u00e1ctica para el control y la protecci\u00f3n de los trabajadores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan establece el art. 4 de la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales, se define como da\u00f1os derivados del trabajo:",
+            "respuestas": [
+                "a) La posibilidad de que un trabajador sufra un determinado da\u00f1o derivado del trabajo.",
+                "b) El que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un da\u00f1o grave para la salud de los trabajadores.",
+                "c) Las enfermedades, patolog\u00edas o lesiones sufridas con motivo u ocasi\u00f3n del trabajo.",
+                "d) Cualquier m\u00e1quina, aparato, instrumento o instalaci\u00f3n utilizada en el trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El art. 21 de la LPRL establece los requisitos y el procedimiento para que los representantes legales de los trabajadores acuerden la paralizaci\u00f3n de la actividad de los trabajadores que est\u00e1n o puedan estar expuestos a un riesgo grave e inminente si el empresario no adopta las medidas necesarias para garantizar la seguridad y salud de los trabajadores. La medida ser\u00e1 adoptada por:",
+            "respuestas": [
+                "a) Acuerdo por mayor\u00eda absoluta de sus miembros. Tal acuerdo ser\u00e1 comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de 48 horas, anular\u00e1 o ratificar\u00e1 la paralizaci\u00f3n acordada.",
+                "b) Acuerdo por mayor\u00eda de 2/3 de sus miembros. Tal acuerdo ser\u00e1 comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de 24 horas, anular\u00e1 o ratificar\u00e1 la paralizaci\u00f3n acordada.",
+                "c) Acuerdo por mayor\u00eda de sus miembros. Tal acuerdo ser\u00e1 comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de 48 horas, anular\u00e1 o ratificar\u00e1 la paralizaci\u00f3n acordada.",
+                "d) Acuerdo por mayor\u00eda de sus miembros. Tal acuerdo ser\u00e1 comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de 24 horas, anular\u00e1 o ratificar\u00e1 la paralizaci\u00f3n acordada."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El art. 23 de la LPRL establece la documentaci\u00f3n que el empresario debe elaborar y conservar a disposici\u00f3n de la autoridad laboral. De las siguientes no est\u00e1 incluido:",
+            "respuestas": [
+                "a) El Plan de prevenci\u00f3n de riesgos laborales.",
+                "b) Evaluaci\u00f3n de los riesgos para la seguridad y la salud en el trabajo.",
+                "c) La planificaci\u00f3n de la actividad laboral.",
+                "d) La relaci\u00f3n de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a un d\u00eda de trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El art. 29 de la LPRL establece las obligaciones de los trabajadores en materia de prevenci\u00f3n de riesgos. De las siguientes no se considera una obligaci\u00f3n del trabajador:",
+            "respuestas": [
+                "a) Utilizar correctamente los medios y equipos de protecci\u00f3n facilitados por el empresario, de acuerdo con las instrucciones recibidas de este.",
+                "b) Usar adecuadamente, de acuerdo con su naturaleza y los riesgos previsibles, las m\u00e1quinas, aparatos, herramientas, sustancias peligrosas, equipos de transporte y, en general, cualesquiera otros medios con los que desarrollen su actividad.",
+                "c) Informar de inmediato a su superior jer\u00e1rquico directo, y a los trabajadores designados para realizar las actualizaciones que consideren oportunas en el equipo de protecci\u00f3n individual.",
+                "d) No poner fuera de funcionamiento y utilizar correctamente los dispositivos de seguridad existentes o que se instalen en los medios relacionados con su actividad o en los lugares de trabajo en los que esta tenga lugar."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ale la afirmaci\u00f3n incorrecta en relaci\u00f3n con el art. 35 de la LPRL:",
+            "respuestas": [
+                "a) Los Delegados de Prevenci\u00f3n son los representantes de los trabajadores con funciones espec\u00edficas en materia de prevenci\u00f3n de riesgos en el trabajo.",
+                "b) Los Delegados de Prevenci\u00f3n ser\u00e1n designados por y entre los representantes del personal.",
+                "c) En una empresa de 2.500 trabajadores existir\u00e1n 6 Delegados de Prevenci\u00f3n.",
+                "d) En las empresas de 31 trabajadores el Delegado de Prevenci\u00f3n ser\u00e1 el Delegado de Personal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los instrumentos esenciales para la gesti\u00f3n y aplicaci\u00f3n del Plan de prevenci\u00f3n de riesgos laborales son:",
+            "respuestas": [
+                "a) La evaluaci\u00f3n de riesgos y la planificaci\u00f3n de la actividad preventiva.",
+                "b) La evaluaci\u00f3n inicial de riesgos y la formaci\u00f3n.",
+                "c) La planificaci\u00f3n y la gesti\u00f3n de la actividad preventiva.",
+                "d) La identificaci\u00f3n y la evaluaci\u00f3n de los riesgos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El posible cambio de puesto de trabajo con riesgo para una trabajadora embarazada:",
+            "respuestas": [
+                "a) Deber\u00e1 realizarse en caso de imposibilidad de adaptaci\u00f3n del propio puesto.",
+                "b) Se har\u00e1 previo informe en tal sentido del Servicio de Prevenci\u00f3n.",
+                "c) Se determinar\u00e1 por el empresario, y dar\u00e1 informaci\u00f3n a los representantes de los trabajadores.",
+                "d) Se extender\u00e1 al per\u00edodo de lactancia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La prevenci\u00f3n de riesgos laborales deber\u00e1 integrarse en el sistema general de gesti\u00f3n de la empresa a trav\u00e9s de:",
+            "respuestas": [
+                "a) La pol\u00edtica preventiva.",
+                "b) El plan de prevenci\u00f3n.",
+                "c) El consenso de las partes.",
+                "d) El poder de decisi\u00f3n del empresario."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La acci\u00f3n preventiva en la empresa:",
+            "respuestas": [
+                "a) Se planificar\u00e1 por el Comit\u00e9 de Seguridad y Salud a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "b) Se planificar\u00e1 por los Delegados de Prevenci\u00f3n a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "c) Se planificar\u00e1 por el empresario a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "d) Se planificar\u00e1 por los Delegados de Personal a partir de una evaluaci\u00f3n inicial de riesgos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Debe el trabajador prestar su consentimiento para que le realicen vigilancia de la salud:",
+            "respuestas": [
+                "a) No.",
+                "b) S\u00ed.",
+                "c) Depende del n\u00famero de trabajadores de la empresa.",
+                "d) Esta prestaci\u00f3n es solo para personal fijo en la empresa."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿En qu\u00e9 casos se podr\u00e1n constituir los Comit\u00e9s de Seguridad y Salud?",
+            "respuestas": [
+                "a) Se podr\u00e1n constituir en cualquier empresa, independientemente del n\u00famero de trabajadores de que disponga.",
+                "b) No existen los Comit\u00e9s de Seguridad y Salud.",
+                "c) Se podr\u00e1n constituir en todas aquellas Empresas o Centros que cuenten con 100 o m\u00e1s trabajadores.",
+                "d) Se podr\u00e1n constituir en todas aquellas Empresas o Centros que cuenten con 50 o m\u00e1s trabajadores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan el art\u00edculo 19 de la Ley de Prevenci\u00f3n de Riesgos Laborales, la formaci\u00f3n te\u00f3rica y pr\u00e1ctica en materia preventiva deber\u00e1:",
+            "respuestas": [
+                "a) Impartirse en horario dentro de la jornada de trabajo.",
+                "b) Impartirse por igual en jornada de trabajo y fuera del horario de trabajo.",
+                "c) Impartirse, siempre que sea posible, dentro de la jornada de trabajo o, en su defecto, en otras horas pero con el descuento en aquella del tiempo invertido en la misma.",
+                "d) La formaci\u00f3n te\u00f3rica siempre debe ser en horario dentro de la jornada de trabajo y la formaci\u00f3n pr\u00e1ctica puede impartirse tanto dentro como fuera de la jornada de trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de los siguientes principios generales de la acci\u00f3n preventiva a aplicar en el trabajo, contenidos en la Ley de Prevenci\u00f3n de Riesgos Laborales, es incorrecto?",
+            "respuestas": [
+                "a) Evaluar los riesgos que no se pueden evitar.",
+                "b) Priorizar medidas individuales a las colectivas.",
+                "c) Combatir los riesgos en su origen.",
+                "d) Tener en cuenta la evoluci\u00f3n de la t\u00e9cnica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Cualquier caracter\u00edstica del trabajo que pueda tener una influencia significativa en la generaci\u00f3n de riesgos para la seguridad y la salud del trabajador, es:",
+            "respuestas": [
+                "a) Una condici\u00f3n de trabajo.",
+                "b) Un factor de riesgo.",
+                "c) Un proceso potencialmente peligroso.",
+                "d) Una zona peligrosa."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En relaci\u00f3n a la vigilancia de la salud que ha de garantizar el empresario, el acceso a la informaci\u00f3n m\u00e9dica de car\u00e1cter personal:",
+            "respuestas": [
+                "a) Se limitar\u00e1 al empresario y a los Servicios de Prevenci\u00f3n propios.",
+                "b) Se limitar\u00e1 al Jefe inmediato del trabajador.",
+                "c) Solo ser\u00e1 accesible al propio trabajador.",
+                "d) Se limitar\u00e1 al personal m\u00e9dico y a las autoridades sanitarias que lleven a cabo la vigilancia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En relaci\u00f3n a la vigilancia de la salud, no es cierto que:",
+            "respuestas": [
+                "a) El derecho a la vigilancia peri\u00f3dica del estado de salud puede prolongarse m\u00e1s all\u00e1 de la finalizaci\u00f3n de la relaci\u00f3n laboral.",
+                "b) Las medidas de vigilancia y control se llevar\u00e1n a cabo por personal sanitario.",
+                "c) Los resultados de la vigilancia de la salud ser\u00e1n comunicados a los representantes de los trabajadores.",
+                "d) Se deber\u00e1 optar por la realizaci\u00f3n de aquellos reconocimientos o pruebas que causen las menores molestias al trabajador."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El Plan de prevenci\u00f3n de riesgos laborales debe ser aprobado por:",
+            "respuestas": [
+                "a) La direcci\u00f3n de la empresa.",
+                "b) La autoridad sanitaria.",
+                "c) Los representantes de los trabajadores.",
+                "d) Todos los trabajadores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Para calificar un riesgo desde el punto de vista de su gravedad, se valorar\u00e1n conjuntamente la severidad del da\u00f1o y:",
+            "respuestas": [
+                "a) La probabilidad de que se produzca.",
+                "b) La cantidad de trabajadores de la empresa.",
+                "c) La existencia o no de equipos individuales de protecci\u00f3n.",
+                "d) Las condiciones de trabajo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de los siguientes departamentos forma parte de la Comisi\u00f3n Gestora de Seguridad del SESCAM?",
+            "respuestas": [
+                "a) Sociedades cient\u00edficas.",
+                "b) Atenci\u00f3n sanitaria.",
+                "c) Inspecci\u00f3n m\u00e9dica.",
+                "d) Colegios profesionales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "¿Cu\u00e1l de los siguientes \u00f3rganos lidera y difunde la pol\u00edtica de seguridad del SESCAM?",
+            "respuestas": [
+                "a) El consejero de Sanidad.",
+                "b) La secretar\u00eda general del SESCAM.",
+                "c) El servicio jur\u00eddico del SESCAM.",
+                "d) La Comisi\u00f3n Gestora de Seguridad del SESCAM."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En relaci\u00f3n al Plan Perseo, corresponde al Director de Seguridad:",
+            "respuestas": [
+                "a) Elaborar un Sistema de Informaci\u00f3n Regional en materia de Seguridad.",
+                "b) Liderar la elaboraci\u00f3n y difusi\u00f3n de campa\u00f1as informativas y de concienciaci\u00f3n de la sociedad de sus deberes en relaci\u00f3n con los centros sanitarios y sus profesionales.",
+                "c) Realizaci\u00f3n de Informaciones Reservadas y Expedientes disciplinarios al Personal Estatutario.",
+                "d) Asesoramiento para la elaboraci\u00f3n de un mapa de riesgos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Aquellos profesionales en formaci\u00f3n por el sistema de residencia que el d\u00eda de toma de posesi\u00f3n no dispongan de la certificaci\u00f3n negativa del Registro Central de Delincuentes Sexuales deber\u00e1n presentar copia de la solicitud de la misma efectuada con anterioridad al referido d\u00eda de toma de posesi\u00f3n, disponiendo para presentarla ante la Gerencia correspondiente de:",
+            "respuestas": [
+                "a) 10 d\u00edas h\u00e1biles.",
+                "b) 1 mes.",
+                "c) 20 d\u00edas naturales.",
+                "d) 3 meses."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Cuando la trabajadora/empleada p\u00fablica de la Junta de Comunidades de Castilla-La Mancha en estado de gestaci\u00f3n, maternidad reciente y/o per\u00edodo de lactancia natural presente la solicitud de adaptaci\u00f3n o cambio de puesto de trabajo, la unidad de personal trasladar\u00e1 la solicitud para su valoraci\u00f3n al \u00e1rea m\u00e9dica de la Unidad de Prevenci\u00f3n que se encuentre adscrita, en un m\u00e1ximo de:",
+            "respuestas": [
+                "a) 48 horas.",
+                "b) 72 horas.",
+                "c) 5 d\u00edas naturales.",
+                "d) 5 d\u00edas h\u00e1biles."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Conforme a la Resoluci\u00f3n de 06/11/2018, de la Direcci\u00f3n-Gerencia, por la que se crea y se regula el Observatorio de la Violencia para la prevenci\u00f3n de agresiones al personal del SESCAM, \u00bfcu\u00e1l de las siguientes funciones de este Observatorio es correcta?",
+            "respuestas": [
+                "a) Elaborar una memoria mensual de actividades en la que se recojan los datos e informaciones m\u00e1s relevantes.",
+                "b) Impartir programas de formaci\u00f3n, dirigidos a los profesionales del SESCAM, que incluyan la metodolog\u00eda de actuaci\u00f3n preventiva ante la violencia, el trato correcto y comunicaci\u00f3n entre profesionales y usuarios.",
+                "c) Firmar Convenios, Acuerdos o Protocolos de actuaci\u00f3n, a nivel regional, con otras entidades u organismos p\u00fablicos con competencias en la materia.",
+                "d) Promover foros y encuentros entre profesionales y expertos para facilitar el intercambio de conocimientos, experiencias, investigaciones, trabajos y nuevas iniciativas en esta materia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La Ley 55/2003 del Estatuto Marco de Personal Estatutario de los Servicios de Salud es aplicable:",
+            "respuestas": [
+                "a) Al personal estatutario de los servicios de salud.",
+                "b) Al personal sanitario excluyendo al personal de gesti\u00f3n y servicios.",
+                "c) Al personal funcionario de las Comunidades Aut\u00f3nomas.",
+                "d) Al personal funcionario del Estado."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El personal estatutario con nombramiento expedido para el desempe\u00f1o de funciones de gesti\u00f3n o para el desempe\u00f1o de profesiones u oficios que no tengan car\u00e1cter sanitario se denomina:",
+            "respuestas": [
+                "a) Personal universitario.",
+                "b) Personal de gesti\u00f3n y servicios.",
+                "c) Personal directivo.",
+                "d) Personal administrativo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los nombramientos del Personal Estatutario Temporal de los Servicios de Salud pueden ser:",
+            "respuestas": [
+                "a) Personal Estatutario Fijo.",
+                "b) Personal Estatutario Contratado.",
+                "c) De interinidad, de car\u00e1cter eventual o de sustituci\u00f3n.",
+                "d) Personal Laboral."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En el Estatuto Marco se acordar\u00e1 el cese del personal eventual:",
+            "respuestas": [
+                "a) Cuando se reincorpore la persona sustituida.",
+                "b) Cuando la plaza resulte amortizada.",
+                "c) Cuando se produzca la causa o venza el plazo que expresamente se determine en su nombramiento.",
+                "d) Cuando se incorpore de la bolsa un profesional con m\u00e1s antig\u00fcedad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El Estatuto Marco del Personal Estatutario de los Servicios de Salud est\u00e1 regulado por:",
+            "respuestas": [
+                "a) Una Ley org\u00e1nica.",
+                "b) Una Ley ordinaria.",
+                "c) Un Real Decreto.",
+                "d) Un Reglamento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Podr\u00e1 concurrir a las pruebas selectivas, por el sistema de promoci\u00f3n interna, el personal estatutario fijo que se encuentre en servicio activo y con nombramiento como personal estatutario fijo, en la categor\u00eda de procedencia, durante al menos:",
+            "respuestas": [
+                "a) 2 a\u00f1os.",
+                "b) 3 a\u00f1os.",
+                "c) 4 a\u00f1os.",
+                "d) 5 a\u00f1os."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los procedimientos de selecci\u00f3n de personal estatutario temporal se basar\u00e1n en diferentes principios recogidos en el art\u00edculo 33.1 del Estatuto Marco del personal estatutario de los servicios de salud, entre los que no est\u00e1 el principio de:",
+            "respuestas": [
+                "a) M\u00e9rito.",
+                "b) Publicidad.",
+                "c) Solidaridad.",
+                "d) Capacidad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco, la selecci\u00f3n de personal estatutario fijo se efectuar\u00e1 con car\u00e1cter general a trav\u00e9s del sistema de:",
+            "respuestas": [
+                "a) Oposici\u00f3n.",
+                "b) Concurso-oposici\u00f3n.",
+                "c) Concurso.",
+                "d) Pruebas selectivas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En relaci\u00f3n con los derechos y deberes regulados en el Estatuto Marco, no se considera un derecho colectivo:",
+            "respuestas": [
+                "a) La huelga.",
+                "b) La actividad sindical.",
+                "c) La reuni\u00f3n.",
+                "d) La estabilidad en el empleo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan el art. 21 del Estatuto Marco, \u00bfcu\u00e1l de los siguientes no es un motivo para perder la condici\u00f3n de personal estatutario?",
+            "respuestas": [
+                "a) La renuncia.",
+                "b) La liberaci\u00f3n sindical.",
+                "c) La jubilaci\u00f3n.",
+                "d) La sanci\u00f3n disciplinaria firme de separaci\u00f3n del servicio."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Entre los siguientes derechos que le reconoce el Estatuto Marco al personal estatutario, \u00bfcu\u00e1l de ellos no tiene el car\u00e1cter de derecho individual?",
+            "respuestas": [
+                "a) La estabilidad en el empleo.",
+                "b) El respeto a la dignidad e intimidad personal en el trabajo.",
+                "c) La formaci\u00f3n continuada adecuada a la funci\u00f3n desempe\u00f1ada.",
+                "d) La inamovilidad del puesto de trabajo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El personal estatutario de los servicios de salud tiene el deber de:",
+            "respuestas": [
+                "a) Participar en la elaboraci\u00f3n de los convenios colectivos.",
+                "b) Realizar sus funciones fuera del horario y jornada habitual.",
+                "c) Realizar actividades sindicales.",
+                "d) Respetar la Constituci\u00f3n, el Estatuto de Autonom\u00eda correspondiente y el resto del ordenamiento jur\u00eddico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco del Personal Estatutario de los Servicios de Salud, \u00bfcu\u00e1l de los siguientes es un derecho colectivo?",
+            "respuestas": [
+                "a) Derecho a la percepci\u00f3n puntual de las retribuciones e indemnizaciones por raz\u00f3n del servicio en cada caso establecidas.",
+                "b) Derecho a la libre sindicaci\u00f3n.",
+                "c) Derecho a la movilidad voluntaria, promoci\u00f3n interna y desarrollo profesional, en la forma en que prevean las disposiciones en cada caso aplicables.",
+                "d) Derecho a la jubilaci\u00f3n en los t\u00e9rminos y condiciones establecidas en las normas en cada caso aplicables."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para participar en los procesos selectivos para la promoci\u00f3n interna ser\u00e1 requisito tener nombramiento como personal estatutario fijo en la categor\u00eda de procedencia durante, al menos:",
+            "respuestas": [
+                "a) 1 a\u00f1o.",
+                "b) 2 a\u00f1os.",
+                "c) 3 a\u00f1os.",
+                "d) 4 a\u00f1os."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco, siempre que la duraci\u00f3n de la jornada exceda de seis horas continuadas, deber\u00e1 establecerse un periodo de descanso durante la misma de al menos:",
+            "respuestas": [
+                "a) 10 minutos.",
+                "b) 15 minutos.",
+                "c) 20 minutos.",
+                "d) 30 minutos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Son faltas muy graves:",
+            "respuestas": [
+                "a) La falta de obediencia debida a los superiores.",
+                "b) El acoso sexual, cuando el sujeto activo del acoso cree con su conducta un entorno laboral intimidatorio, hostil o humillante para la persona que es objeto del mismo.",
+                "c) El incumplimiento del deber de respeto a la Constituci\u00f3n o al respectivo Estatuto de los usuarios de los Servicios de Salud.",
+                "d) La aceptaci\u00f3n de cualquier tipo de contraprestaci\u00f3n por los servicios prestados a los usuarios de los Servicios de Salud."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El funcionario sancionado con la separaci\u00f3n del servicio no podr\u00e1 concurrir a las pruebas de selecci\u00f3n para la obtenci\u00f3n de la condici\u00f3n de personal estatutario fijo, ni prestar servicios como personal estatutario temporal, durante:",
+            "respuestas": [
+                "a) Los 6 a\u00f1os siguientes.",
+                "b) Los 5 a\u00f1os siguientes.",
+                "c) Los 10 a\u00f1os siguientes.",
+                "d) La separaci\u00f3n del servicio es definitiva."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Cuando la suspensi\u00f3n de funciones se imponga por falta muy grave, no podr\u00e1 superar:",
+            "respuestas": [
+                "a) Los seis a\u00f1os.",
+                "b) Los diez a\u00f1os.",
+                "c) Los doce a\u00f1os.",
+                "d) Los quince a\u00f1os."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Las faltas graves prescribir\u00e1n:",
+            "respuestas": [
+                "a) Al a\u00f1o.",
+                "b) A los dos a\u00f1os.",
+                "c) A los tres a\u00f1os.",
+                "d) A los cuatro a\u00f1os."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las sanciones impuestas por faltas leves prescribir\u00e1n:",
+            "respuestas": [
+                "a) Al mes.",
+                "b) A los tres meses.",
+                "c) A los seis meses.",
+                "d) Al a\u00f1o."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las sanciones disciplinarias firmes que se impongan al personal estatutario se anotar\u00e1n en su expediente personal. Las anotaciones por sanciones impuestas por faltas leves se cancelar\u00e1n de oficio, desde el cumplimiento de la sanci\u00f3n, a:",
+            "respuestas": [
+                "a) Los 3 meses.",
+                "b) Los 6 meses.",
+                "c) El a\u00f1o.",
+                "d) Los 2 a\u00f1os."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Es una retribuci\u00f3n b\u00e1sica del personal estatutario:",
+            "respuestas": [
+                "a) El complemento de destino.",
+                "b) El complemento de carrera.",
+                "c) Las pagas extraordinarias.",
+                "d) El complemento de productividad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El complemento de productividad no est\u00e1 destinado a retribuir:",
+            "respuestas": [
+                "a) El especial rendimiento, el inter\u00e9s o la iniciativa del titular del puesto.",
+                "b) La participaci\u00f3n en programas o actuaciones concretas.",
+                "c) La contribuci\u00f3n del personal a la consecuci\u00f3n de los objetivos programados.",
+                "d) Las condiciones particulares de algunos puestos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "No es correcto, en relaci\u00f3n a las retribuciones del personal estatutario, que:",
+            "respuestas": [
+                "a) Podr\u00e1 asignarse m\u00e1s de un complemento espec\u00edfico a cada puesto por una misma circunstancia.",
+                "b) El importe anual del complemento de destino se abonar\u00e1 en catorce pagas.",
+                "c) Las retribuciones complementarias son fijas o variables.",
+                "d) Las retribuciones b\u00e1sicas y las cuant\u00edas del sueldo y los trienios ser\u00e1n iguales en todos los Servicios de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La especial dificultad t\u00e9cnica, dedicaci\u00f3n, responsabilidad, incompatibilidad, peligrosidad o penosidad de algunos puestos de trabajo del Personal Estatutario, se retribuye a trav\u00e9s del:",
+            "respuestas": [
+                "a) Complemento de destino.",
+                "b) Complemento de atenci\u00f3n continuada.",
+                "c) Complemento espec\u00edfico.",
+                "d) Complemento de productividad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La jornada realizada por el personal estatutario fuera de la jornada ordinaria de trabajo con el fin de garantizar la adecuada atenci\u00f3n permanente al usuario de los centros sanitarios, se denomina:",
+            "respuestas": [
+                "a) Jornada extraordinaria.",
+                "b) Jornada complementaria.",
+                "c) Jornada partida.",
+                "d) Jornada de servicios localizados."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La grave desconsideraci\u00f3n con los superiores, compa\u00f1eros, subordinados o usuarios se considera, seg\u00fan el Estatuto Marco Personal Estatutario de los Servicios de Salud:",
+            "respuestas": [
+                "a) Falta leve.",
+                "b) Falta grave.",
+                "c) No se considera falta.",
+                "d) Es una pr\u00e1ctica normal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan el art. 72.2 del Estatuto Marco, tendr\u00e1 la consideraci\u00f3n de falta muy grave:",
+            "respuestas": [
+                "a) Intervenir en un procedimiento administrativo cuando se d\u00e9 alguna de las causas de abstenci\u00f3n legalmente se\u00f1aladas.",
+                "b) Toda actuaci\u00f3n que suponga discriminaci\u00f3n por razones ideol\u00f3gicas, morales, pol\u00edticas, sindicales, de raza, lengua, g\u00e9nero, religi\u00f3n o circunstancias econ\u00f3micas, personales o sociales, tanto del personal como de los usuarios.",
+                "c) El incumplimiento injustificado de la jornada de trabajo que acumulado suponga m\u00e1s de 20 horas al mes.",
+                "d) La incorrecci\u00f3n con los superiores, compa\u00f1eros, subordinados o usuarios."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "¿Qu\u00e9 tiempo m\u00e1ximo puede estar un trabajador en una situaci\u00f3n de suspensi\u00f3n de funciones por sanci\u00f3n disciplinaria?",
+            "respuestas": [
+                "a) 6 a\u00f1os.",
+                "b) 1 mes.",
+                "c) 1 a\u00f1o.",
+                "d) 5 a\u00f1os."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco del Personal Estatutario de los Servicios de Salud, la jubilaci\u00f3n forzosa se declarar\u00e1:",
+            "respuestas": [
+                "a) Al cumplir los 65 a\u00f1os de edad.",
+                "b) Al cumplir 60 a\u00f1os de edad y 25 de servicios prestados.",
+                "c) Al cumplir 70 a\u00f1os de edad.",
+                "d) Solo existe jubilaci\u00f3n voluntaria al cumplir 70 a\u00f1os de edad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Para poder obtener la excedencia voluntaria por inter\u00e9s particular es necesario haber prestado servicios efectivos en cualquiera de las Administraciones P\u00fablicas durante:",
+            "respuestas": [
+                "a) Los cinco a\u00f1os inmediatamente anteriores.",
+                "b) Los cuatro a\u00f1os inmediatamente anteriores.",
+                "c) El a\u00f1o inmediatamente anterior.",
+                "d) No se exige periodo m\u00ednimo de prestaci\u00f3n efectiva de servicios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El art\u00edculo 24 de la Ley 55/2003, de 16 de diciembre (Estatuto Marco del Personal Estatutario de los Servicios de Salud), establece que la sanci\u00f3n de separaci\u00f3n del servicio:",
+            "respuestas": [
+                "a) Cuando adquiere car\u00e1cter firme, supone la p\u00e9rdida de la condici\u00f3n de personal estatutario.",
+                "b) Cuando adquiere car\u00e1cter provisional, supone la p\u00e9rdida de la condici\u00f3n de personal estatutario.",
+                "c) Cuando adquiere car\u00e1cter provisional, supone la p\u00e9rdida de la condici\u00f3n de personal laboral.",
+                "d) Cuando adquiere car\u00e1cter firme, supone la p\u00e9rdida de la condici\u00f3n de personal funcionario."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En el Estatuto Marco se establece que el personal estatutario en comisi\u00f3n de servicios percibir\u00e1 las retribuciones:",
+            "respuestas": [
+                "a) Correspondientes a las funciones especiales que realice en el puesto de destino.",
+                "b) De su plaza o puesto de origen.",
+                "c) Proporcional a cada Centro.",
+                "d) Correspondientes a la plaza o puesto efectivamente desempe\u00f1ado, salvo que sean inferiores a las que correspondan por la plaza de origen, en cuyo caso se percibir\u00e1n estas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco entre las situaciones administrativas del personal estatutario puede estar:",
+            "respuestas": [
+                "a) Servicio preferente en otra Comunidad Aut\u00f3noma.",
+                "b) En r\u00e9gimen de cesi\u00f3n en la Administraci\u00f3n General de Estado.",
+                "c) Destacado en los Servicios provinciales de las Delegaciones de Hacienda.",
+                "d) Suspensi\u00f3n de funciones."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El derecho b\u00e1sico reconocido a los trabajadores por la Ley 31/1995, de 8 de noviembre, es:",
+            "respuestas": [
+                "a) La vigilancia de su estado de salud.",
+                "b) Una protecci\u00f3n eficaz en materia de seguridad y salud en el trabajo.",
+                "c) La formaci\u00f3n en materia preventiva.",
+                "d) La informaci\u00f3n, consulta y participaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En las empresas de hasta 30 trabajadores el Delegado de Prevenci\u00f3n ser\u00e1:",
+            "respuestas": [
+                "a) El propio empresario.",
+                "b) El trabajador m\u00e1s antiguo.",
+                "c) El trabajador de mayor cualificaci\u00f3n.",
+                "d) El delegado de personal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En los casos de concurrencia de trabajadores de varias empresas en un centro de trabajo cuando existe un empresario principal, uno de los deberes de vigilancia por parte de \u00e9ste, consistir\u00e1 en:",
+            "respuestas": [
+                "a) Impulsar la regulaci\u00f3n de esquemas organizativos, que eviten los accidentes de trabajo.",
+                "b) Comprobar que las empresas contratistas y subcontratistas concurrentes en su centro de trabajo han establecido los necesarios medios de coordinaci\u00f3n entre ellas.",
+                "c) Asegurar la correcta utilizaci\u00f3n por parte de los trabajadores de las empresas concurrentes de los correspondientes dispositivos de seguridad disponibles.",
+                "d) Asegurarse de que los trabajadores concurrentes disponen de la formaci\u00f3n preventiva correspondiente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Cuando los trabajadores est\u00e9n expuestos a un riesgo grave e inminente con ocasi\u00f3n de su trabajo, y el empresario no adopte o no permita la adopci\u00f3n de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores, la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales prev\u00e9 que:",
+            "respuestas": [
+                "a) Los trabajadores afectados podr\u00e1n paralizar la actividad.",
+                "b) El \u00f3rgano de representaci\u00f3n del personal instar\u00e1 formalmente al empresario a la adopci\u00f3n de las medidas necesarias.",
+                "c) Los Delegados de Prevenci\u00f3n lo comunicar\u00e1n a la autoridad laboral, que adoptar\u00e1 las medidas necesarias.",
+                "d) El \u00f3rgano de representaci\u00f3n de personal podr\u00e1 acordar la paralizaci\u00f3n de la actividad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "¿Cu\u00e1ndo se deben utilizar los equipos de protecci\u00f3n individual?",
+            "respuestas": [
+                "a) Siempre.",
+                "b) Cuando los riesgos no hayan sido evaluados.",
+                "c) Cuando los riesgos no se puedan evitar o no puedan limitarse.",
+                "d) Cuando el trabajador lo estime oportuno."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley de Prevenci\u00f3n de Riesgos Laborales, es obligaci\u00f3n de los trabajadores en materia de prevenci\u00f3n de riesgos:",
+            "respuestas": [
+                "a) La protecci\u00f3n eficaz en materia de seguridad y salud en el trabajo.",
+                "b) Utilizar correctamente los medios y equipos de protecci\u00f3n facilitados por el empresario, de acuerdo con las instrucciones recibidas de \u00e9ste.",
+                "c) Soportar el coste de las medidas relativas a la seguridad y la salud en el trabajo.",
+                "d) Desarrollar una acci\u00f3n permanente de seguimiento de la actividad preventiva."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Ley de Prevenci\u00f3n de Riesgos laborales, tiene por objeto:",
+            "respuestas": [
+                "a) Prevenir los accidentes en general.",
+                "b) Evitar riesgos en el recorrido al puesto de trabajo.",
+                "c) Promover la seguridad y la salud de los trabajadores.",
+                "d) Que cada vez haya menos accidentes de tr\u00e1fico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los Delegados de Prevenci\u00f3n:",
+            "respuestas": [
+                "a) Son representantes de los sindicatos con funciones espec\u00edficas en materia de prevenci\u00f3n de riesgos laborales.",
+                "b) Son representantes de la empresa con funciones espec\u00edficas en materia de prevenci\u00f3n de riesgos laborales.",
+                "c) Son representantes de los trabajadores con funciones espec\u00edficas en materia de prevenci\u00f3n de riesgos laborales.",
+                "d) Son representantes ajenos a la empresa con funciones espec\u00edficas en materia de prevenci\u00f3n de riesgos laborales."
+            ],
+            "verdadera": 3
+        }
+    ]
+}
