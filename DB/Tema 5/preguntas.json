@@ -1,0 +1,804 @@
+{
+    "Preguntas": [
+      {
+         "enunciado": "La Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha, tiene por objeto regular:",
+         "respuestas": [
+             "a) En el marco de la legislaci\u00f3n del Estado, los derechos y deberes en materia de salud, tanto de los pacientes y usuarios como de los profesionales en Castilla-La Mancha.",
+             "b) Los derechos y deberes en materia de salud, tanto de los pacientes y usuarios como de los profesionales en Castilla-La Mancha.",
+             "c) En el marco de la legislaci\u00f3n b\u00e1sica del Estado, los derechos y deberes en materia de salud de los pacientes y usuarios en Castilla-La Mancha.",
+             "d) En el marco de la legislaci\u00f3n b\u00e1sica del Estado, los derechos y deberes en materia de salud, tanto de los pacientes y usuarios como de los profesionales en Castilla-La Mancha."
+         ],
+         "verdadera": 4
+     },
+     {
+         "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes no es un principio sobre el que se sustenten los derechos y deberes en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha:",
+         "respuestas": [
+             "a) La promoci\u00f3n del inter\u00e9s de las personas por la salud, mediante una informaci\u00f3n adecuada y una mayor educaci\u00f3n para la salud.",
+             "b) La corresponsabilidad y participaci\u00f3n del paciente y usuario en el adecuado uso de las prestaciones y recursos y el respeto a los profesionales y a las normas de organizaci\u00f3n y funcionamiento de los centros, establecimientos y servicios sanitarios.",
+             "c) La equidad en el acceso al conjunto de los servicios y profesionales sanitarios disponibles, as\u00ed como a recibir la asistencia sanitaria y los cuidados m\u00e1s adecuados a su estado de salud, sin que pueda producirse discriminaci\u00f3n alguna de las personas con discapacidad.",
+             "d) El respeto a la objeci\u00f3n de conciencia de los profesionales sanitarios como manifestaci\u00f3n del derecho a la autonom\u00eda de la voluntad."
+         ],
+         "verdadera": 4
+     },
+     {
+         "enunciado": "El derecho a la asistencia sanitaria, la libre elecci\u00f3n de profesional sanitario, la segunda opini\u00f3n m\u00e9dica, el derecho sobre los tejidos o muestras biol\u00f3gicas, la garant\u00eda de tiempos m\u00e1ximos de respuesta, los relacionados con pacientes especialmente protegidos, la obtenci\u00f3n de medicamentos y el derecho al acompa\u00f1amiento, se califican en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha, como:",
+         "respuestas": [
+             "a) Derechos relativos a la autonom\u00eda de la voluntad.",
+             "b) Derechos relativos a la documentaci\u00f3n sanitaria.",
+             "c) Derechos relacionados con los servicios asistenciales.",
+             "d) Derechos relativos a la informaci\u00f3n sanitaria."
+         ],
+         "verdadera": 3
+     },
+     {
+         "enunciado": "En relaci\u00f3n con los derechos relativos a la intimidad y la confidencialidad, reconocidos en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha, es correcto que:",
+         "respuestas": [
+             "a) Los centros, servicios y establecimientos sanitarios vigilar\u00e1n que se guarde la confidencialidad de los datos referidos a la ideolog\u00eda, religi\u00f3n, creencias, origen racial, vida sexual, al hecho de haber sido objeto de malos tratos y, en general, cuantos datos o informaciones puedan tener especial relevancia para la salvaguarda de la intimidad personal y familiar.",
+             "b) Las personas que, en ejercicio de sus funciones, tengan acceso a los datos resultantes de la realizaci\u00f3n de los an\u00e1lisis gen\u00e9ticos podr\u00e1n quedar sujetas al deber de secreto.",
+             "c) El derecho de confidencialidad no comprende la informaci\u00f3n referida al patrimonio gen\u00e9tico.",
+             "d) Cuando la informaci\u00f3n obtenida, seg\u00fan criterio del m\u00e9dico responsable, sea necesaria para evitar un grave perjuicio para la salud del paciente y la de sus familiares, se informar\u00e1 al propio paciente y a un familiar pr\u00f3ximo o, en su caso, a sus representantes, previa consulta del Comit\u00e9 de \u00c9tica Asistencial si lo hubiera."
+         ],
+         "verdadera": 1
+     },
+     {
+         "enunciado": "En relaci\u00f3n con la regulaci\u00f3n del derecho a la informaci\u00f3n asistencial prevista en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha, se\u00f1ala la respuesta incorrecta:",
+         "respuestas": [
+             "a) Deber\u00e1 respetarse la voluntad del paciente de no ser informado. La renuncia al derecho a ser informado deber\u00e1 formularse por cualquier medio que permita dejar constancia y se incorporar\u00e1 a la historia cl\u00ednica.",
+             "b) El titular del derecho a la informaci\u00f3n asistencial es el paciente. Se informar\u00e1 a las personas vinculadas a \u00e9l por razones familiares o de hecho en la medida en que este lo permita expresa o t\u00e1citamente.",
+             "c) Sin perjuicio del derecho del menor a recibir informaci\u00f3n sobre su salud en un lenguaje adecuado a su edad, madurez y estado psicol\u00f3gico, en el caso de menores de 16 a\u00f1os no emancipados se informar\u00e1 tambi\u00e9n a los padres o tutores.",
+             "d) Todas las respuestas anteriores son correctas."
+         ],
+         "verdadera": 1
+     },
+     {
+         "enunciado": "La autonom\u00eda de la voluntad del paciente comprende:",
+         "respuestas": [
+             "a) La libertad para negarse a recibir un procedimiento diagn\u00f3stico, pron\u00f3stico o terap\u00e9utico.",
+             "b) La libertad para poder en todo momento revocar una anterior decisi\u00f3n sobre su propia salud.",
+             "c) La libertad para elegir de forma aut\u00f3noma entre las distintas opciones que exponga el profesional sanitario responsable.",
+             "d) Todas las respuestas anteriores son correctas."
+         ],
+         "verdadera": 4
+     },
+     {
+         "enunciado": "El consentimiento informado:",
+         "respuestas": [
+             "a) Se prestar\u00e1 por escrito, por regla general.",
+             "b) Ser\u00e1 verbal en los procedimientos diagn\u00f3sticos y terap\u00e9uticos invasores.",
+             "c) Se prestar\u00e1 por escrito en los procedimientos que impliquen riesgos o inconvenientes de notoria y previsible repercusi\u00f3n negativa sobre la salud del paciente.",
+             "d) Ser\u00e1 verbal en determinados casos."
+         ],
+         "verdadera": 3
+     },
+     {
+         "enunciado": "¿Cu\u00e1l de los siguientes datos no debe contener el documento de consentimiento informado?",
+         "respuestas": [
+             "a) Una declaraci\u00f3n de quien presta el consentimiento en la que conste que ha comprendido adecuadamente la informaci\u00f3n, que conoce que el consentimiento puede ser revocado en cualquier momento, expresando la causa de la revocaci\u00f3n y que ha recibido una copia del documento.",
+             "b) Riesgos poco frecuentes, cuando sean de especial gravedad y est\u00e9n asociados al procedimiento por criterios cient\u00edficos.",
+             "c) Alternativas razonables al procedimiento.",
+             "d) Firma del profesional sanitario responsable del procedimiento y de la persona que presta el consentimiento."
+         ],
+         "verdadera": 1
+     },
+     {
+         "enunciado": "En relaci\u00f3n con el \u00e1mbito de la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha, se\u00f1ala la respuesta incorrecta:",
+         "respuestas": [
+             "a) Incluye a todas las personas que residan en los municipios de la Comunidad Aut\u00f3noma de Castilla-La Mancha.",
+             "b) Quienes no residan en ella gozar\u00e1n de dichos derechos en la forma y condiciones previstas en la legislaci\u00f3n estatal y en los Convenios nacionales e internacionales que les sean de aplicaci\u00f3n.",
+             "c) Sin perjuicio de lo anterior, en Castilla-La Mancha se garantizar\u00e1 a todas las personas la atenci\u00f3n en situaci\u00f3n de urgencia y emergencia, con especial incidencia en menores, mujeres gestantes y personas que padezcan enfermedades cr\u00f3nicas.",
+             "d) Se incluyen a los profesionales de los centros, servicios y establecimientos sanitarios, siempre que sean p\u00fablicos y se encuentren ubicados en el territorio de la comunidad aut\u00f3noma."
+         ],
+         "verdadera": 4
+     },
+     {
+         "enunciado": "Sin perjuicio del derecho del menor a recibir informaci\u00f3n sobre su salud en un lenguaje adecuado a su edad, madurez y estado psicol\u00f3gico, se informar\u00e1 tambi\u00e9n a los padres o tutores, en el caso de:",
+         "respuestas": [
+             "a) Menores de catorce a\u00f1os no emancipados.",
+             "b) Menores de quince a\u00f1os no emancipados.",
+             "c) Menores de diecis\u00e9is a\u00f1os no emancipados.",
+             "d) Menores de diecisiete a\u00f1os no emancipados."
+         ],
+         "verdadera": 3
+     },
+     {
+         "enunciado": "El plazo m\u00ednimo de conservaci\u00f3n de la historia cl\u00ednica contado desde la fecha del alta del \u00faltimo proceso asistencial ser\u00e1:",
+         "respuestas": [
+             "a) 15 a\u00f1os.",
+             "b) 5 a\u00f1os.",
+             "c) 3 a\u00f1os.",
+             "d) Ilimitado."
+         ],
+         "verdadera": 2
+     },
+     {
+         "enunciado": "¿Cu\u00e1l de los siguientes apartados del contenido de la historia cl\u00ednica se exige cumplimentar cuando se trate de procesos de hospitalizaci\u00f3n?",
+         "respuestas": [
+             "a) Las \u00f3rdenes m\u00e9dicas.",
+             "b) La anamnesis y la exploraci\u00f3n f\u00edsica.",
+             "c) La evoluci\u00f3n y planificaci\u00f3n de cuidados de enfermer\u00eda.",
+             "d) El gr\u00e1fico de constantes."
+         ],
+         "verdadera": 4
+     },
+     {
+      "enunciado": "Deber\u00e1n quedar claramente identificados respecto de la informaci\u00f3n contenida en la historia cl\u00ednica, con el fin de facilitar su disociaci\u00f3n cuando esta sea precisa (se\u00f1ala la opci\u00f3n incorrecta):",
+      "respuestas": [
+        "a) Las anotaciones subjetivas de los profesionales que intervengan en el proceso asistencial.",
+        "b) Los datos que afecten a la intimidad de terceros.",
+        "c) Los datos de filiaci\u00f3n y documentaci\u00f3n relativa a la hoja cl\u00ednico-estad\u00edstica.",
+        "d) Aquella informaci\u00f3n que no haya sido facilitada al paciente debido a un estado acreditado de necesidad terap\u00e9utica."
+      ],
+      "verdadera": 3
+      },
+      {
+         "enunciado": "El derecho del paciente de acceder a la informaci\u00f3n contenida en la historia cl\u00ednica no incluye:",
+         "respuestas": [
+         "a) La informaci\u00f3n de la que el paciente hubiera sido privado debido a la existencia acreditada de un estado de necesidad terap\u00e9utica siempre que as\u00ed conste en la historia cl\u00ednica de forma expresa.",
+         "b) Los datos e informaci\u00f3n que afecten al derecho de terceras personas o que afecten a la confidencialidad de los datos que consten en la historia recogidos en inter\u00e9s terap\u00e9utico del paciente.",
+         "c) Las anotaciones subjetivas de los profesionales participantes en la elaboraci\u00f3n de la historia cl\u00ednica, respecto de los cuales estos podr\u00e1n oponer su reserva al derecho de acceso.",
+         "d) Todas las respuestas anteriores son correctas."
+         ],
+         "verdadera": 4
+      },
+      {
+         "enunciado": "No se considera una anotaci\u00f3n subjetiva:",
+         "respuestas": [
+         "a) Comportamientos ins\u00f3litos.",
+         "b) Valoraciones sobre hip\u00f3tesis diagn\u00f3sticas no demostradas.",
+         "c) Sospechas acerca de incumplimientos terap\u00e9uticos, tratamientos no declarados y h\u00e1bitos no reconocidos.",
+         "d) Ninguna de las respuestas anteriores es correcta."
+         ],
+         "verdadera": 4
+      },
+      {
+         "enunciado": "El ejercicio del derecho a la segunda opini\u00f3n m\u00e9dica est\u00e1 desarrollado reglamentariamente a trav\u00e9s del:",
+         "respuestas": [
+         "a) Decreto 180/2005, de 2 de noviembre.",
+         "b) Decreto 91/2018, de 4 de diciembre.",
+         "c) Orden de 21 de noviembre de 2008.",
+         "d) Decreto 24/2011, de 12 de abril."
+         ],
+         "verdadera": 2
+      },
+      {
+         "enunciado": "¿Qui\u00e9nes deber\u00e1n abstenerse de realizar en las historias cl\u00ednicas anotaciones que carezcan de inter\u00e9s para el manejo de los problemas de salud?",
+         "respuestas": [
+         "a) Los centros sanitarios.",
+         "b) Los profesionales sanitarios.",
+         "c) Los pacientes.",
+         "d) Los servicios sanitarios."
+         ],
+         "verdadera": 2
+      },
+      {
+         "enunciado": "¿Cu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+         "respuestas": [
+         "a) Guardar secreto sobre toda la informaci\u00f3n y documentaci\u00f3n cl\u00ednica sobre los pacientes y usuarios derivada de su actuaci\u00f3n profesional o a la que tengan acceso.",
+         "b) Renunciar a prestar atenci\u00f3n sanitaria en situaciones de injurias, amenazas o agresi\u00f3n si no conlleva desatenci\u00f3n.",
+         "c) La autonom\u00eda cient\u00edfica y t\u00e9cnica en el ejercicio de sus funciones, sin m\u00e1s limitaciones que las establecidas por la ley y por los principios y valores contenidos en el ordenamiento jur\u00eddico y deontol\u00f3gico.",
+         "d) Recibir apoyo profesional en situaciones problem\u00e1ticas."
+         ],
+         "verdadera": 1
+      },
+      {
+         "enunciado": "Es constitutiva de una infracci\u00f3n administrativa muy grave:",
+         "respuestas": [
+         "a) La utilizaci\u00f3n indebida, abusiva o irresponsable de los recursos y prestaciones sanitarias que no respondan a una necesidad objetiva.",
+         "b) La agresi\u00f3n f\u00edsica a profesionales de los centros, servicios y establecimientos sanitarios, a pacientes o a sus acompa\u00f1antes siempre que no sea constitutiva de il\u00edcito penal.",
+         "c) La resistencia, falta de respeto, amenazas, insultos, represalias o cualquier otra forma de presi\u00f3n ejercida contra los profesionales de los centros, servicios y establecimientos sanitarios, los pacientes o sus acompa\u00f1antes siempre que no sean constitutivas de.",
+         "d) Las respuestas b) y c) son correctas."
+         ],
+         "verdadera": 2
+      },
+      {
+         "enunciado": "¿C\u00f3mo pueden sancionarse las infracciones calificadas como muy graves?",
+         "respuestas": [
+         "a) Con multa de hasta 15.000 € en grado m\u00e1ximo.",
+         "b) Con la inhabilitaci\u00f3n para el ejercicio de la profesi\u00f3n por un per\u00edodo de uno a cinco a\u00f1os.",
+         "c) Con el cierre definitivo del establecimiento en el caso de centros, servicios y establecimientos sanitarios de \u00e1mbito privado.",
+         "d) Todas las respuestas anteriores son correctas."
+         ],
+         "verdadera": 2
+      },
+      {
+         "enunciado": "En los casos en que el paciente se niegue a recibir un procedimiento sanitario, el profesional responsable de su aplicaci\u00f3n deber\u00e1 informarle acerca de otras alternativas existentes y, de no existir procedimientos sanitarios alternativos disponibles o de rechazarse todos ellos, se propondr\u00e1 al paciente:",
+         "respuestas": [
+         "a) El alta forzosa en los t\u00e9rminos previstos por la legislaci\u00f3n vigente.",
+         "b) La firma del alta voluntaria.",
+         "c) La hospitalizaci\u00f3n.",
+         "d) La firma de la documentaci\u00f3n en la historia cl\u00ednica."
+         ],
+         "verdadera": 2
+      },
+      {
+         "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes es un principio sobre el que se sustenten los derechos y deberes en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha:",
+         "respuestas": [
+         "a) La equidad en el acceso al conjunto de los servicios y profesionales sanitarios disponibles, as\u00ed como a recibir la asistencia sanitaria y los cuidados m\u00e1s adecuados a su estado de salud, sin que pueda producirse discriminaci\u00f3n alguna de las personas con discapacidad.",
+         "b) La dignidad de las personas y el respeto a sus valores morales y culturales, as\u00ed como a sus convicciones religiosas y filos\u00f3ficas, sin que puedan ser objeto de discriminaci\u00f3n por raz\u00f3n de nacimiento, raza, sexo, opini\u00f3n o cualquier otra condici\u00f3n o circunstancia personal o social.",
+         "c) La corresponsabilidad y participaci\u00f3n del paciente y usuario en el adecuado uso de las prestaciones y recursos y el respeto a los profesionales y a las normas de organizaci\u00f3n y funcionamiento de los centros, establecimientos y servicios sanitarios.",
+         "d) Todas las respuestas son correctas."
+         ],
+         "verdadera": 4
+      },
+      {
+         "enunciado": "En relaci\u00f3n con el derecho a la intimidad, se\u00f1ale la respuesta incorrecta:",
+         "respuestas": [
+         "a) Toda persona tiene derecho a ser atendida en un medio que garantice su intimidad, con especial respeto a la intimidad del cuerpo durante la realizaci\u00f3n de los ex\u00e1menes de diagn\u00f3stico, consultas y tratamientos m\u00e9dicos o quir\u00fargicos, cuidados, actividades de higiene y dem\u00e1s actuaciones sanitarias.",
+         "b) Toda persona tiene derecho a limitar, en los t\u00e9rminos establecidos por la normativa vigente, la grabaci\u00f3n y difusi\u00f3n de im\u00e1genes mediante fotograf\u00edas, videos u otros medios que permitan su identificaci\u00f3n.",
+         "c) En cualquier actividad de investigaci\u00f3n biom\u00e9dica o en proyectos docentes se garantizar\u00e1 el respeto a la intimidad de las personas, en los t\u00e9rminos establecidos por la normativa vigente.",
+         "d) El paciente tiene derecho a recibir o rechazar asistencia espiritual y moral incluso de un representante legal siempre que no se perjudique la actuaci\u00f3n sanitaria."
+         ],
+         "verdadera": 4
+      },
+      {
+         "enunciado": "Toda persona tiene derecho:",
+         "respuestas": [
+         "a) A que se respete el car\u00e1cter confidencial de la informaci\u00f3n relacionada con su salud.",
+         "b) A que se respete el car\u00e1cter confidencial de la informaci\u00f3n relacionada con su estancia en centros sanitarios, p\u00fablicos y privados.",
+         "c) A que nadie pueda acceder a ella sin previa autorizaci\u00f3n amparada por la Ley.",
+         "d) Todas las respuestas son correctas."
+         ],
+         "verdadera": 4
+      },
+      {
+         "enunciado": "Las personas que, en ejercicio de sus funciones, tengan acceso a los datos resultantes de la realizaci\u00f3n de los an\u00e1lisis gen\u00e9ticos quedar\u00e1n sujetas al deber de secreto. Cuando la informaci\u00f3n obtenida, seg\u00fan criterio del m\u00e9dico responsable, sea necesaria para evitar un grave perjuicio para la salud del paciente y la de sus familiares biol\u00f3gicos, se informar\u00e1:",
+         "respuestas": [
+         "a) Al propio paciente, previa consulta del Comit\u00e9 de \u00c9tica Asistencial si lo hubiera.",
+         "b) Al propio paciente y a un familiar biol\u00f3gico pr\u00f3ximo o, en su caso, a sus representantes, previa consulta del Comit\u00e9 de \u00c9tica Asistencial si lo hubiera.",
+         "c) Al propio paciente y al c\u00f3nyuge, en su caso, a sus representantes, previa consulta del Comit\u00e9 de \u00c9tica Asistencial si lo hubiera.",
+         "d) Al propio paciente y al c\u00f3nyuge, en su caso, a sus representantes, sin que sea necesaria la consulta del Comit\u00e9 de \u00c9tica Asistencial si lo hubiera."
+         ],
+         "verdadera": 2
+      },
+      {
+         "enunciado": "Se\u00f1ale la respuesta incorrecta, los centros, servicios y establecimientos sanitarios vigilar\u00e1n que se guarde la confidencialidad de los datos referidos:",
+         "respuestas": [
+           "a) A la ideolog\u00eda.",
+           "b) A la vida sexual.",
+           "c) Al autor de los malos tratos.",
+           "d) Al origen racial."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "En relaci\u00f3n con el derecho a la informaci\u00f3n asistencial, se\u00f1ale la respuesta incorrecta:",
+         "respuestas": [
+           "a) Toda persona tiene derecho a recibir la informaci\u00f3n disponible sobre su proceso y sobre la atenci\u00f3n sanitaria recibida.",
+           "b) La informaci\u00f3n, como regla general, se proporcionar\u00e1 al paciente verbalmente, dejando constancia escrita en la historia cl\u00ednica.",
+           "c) Deber\u00e1 respetarse la voluntad del paciente de ser informado.",
+           "d) La informaci\u00f3n debe formar parte de todas las actuaciones asistenciales, permitiendo comprender la finalidad y la naturaleza de cada intervenci\u00f3n, as\u00ed como sus riesgos y consecuencias."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "¿Cu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+         "respuestas": [
+           "a) Cuidar las instalaciones y equipamientos sanitarios, utiliz\u00e1ndolos de manera adecuada y responsable para garantizar su conservaci\u00f3n y funcionamiento, de acuerdo con las normas establecidas en cada centro, servicio y establecimiento sanitario.",
+           "b) Avisar al sistema sanitario, con la mayor celeridad posible, de la imposibilidad de acudir a una cita o servicio sanitario previamente programado.",
+           "c) Prestar una adecuada atenci\u00f3n sanitaria a los pacientes y usuarios.",
+           "d) Acreditar su identidad mediante los documentos oficiales que se les requieran para ejercer el derecho de acceso a las prestaciones y los recursos sanitarios."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Es constitutiva de una infracci\u00f3n administrativa leve:",
+         "respuestas": [
+           "a) El acceso a la documentaci\u00f3n cl\u00ednica por simple negligencia sin reunir los requisitos que legitiman para ello, siempre que no haya existido uso indebido de la informaci\u00f3n recogida en la misma, a tenor de lo dispuesto en la presente Ley.",
+           "b) El acceso a la documentaci\u00f3n cl\u00ednica falseando las condiciones que legitiman para ello o haciendo un uso indebido de la misma, a tenor de lo dispuesto en la presente Ley.",
+           "c) La agresi\u00f3n f\u00edsica a profesionales de los centros, servicios y establecimientos sanitarios, a pacientes o a sus acompa\u00f1antes siempre que no sea constitutiva de il\u00edcito penal.",
+           "d) Ninguna de las respuestas es correcta."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Las infracciones leves en grado medio previstas en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha ser\u00e1n castigadas con:",
+         "respuestas": [
+           "a) Multa de 401 euros hasta 1.200 euros.",
+           "b) Multa de 501 euros hasta 1.500 euros.",
+           "c) Multa de 601 euros hasta 1.800 euros.",
+           "d) Multa de 701 euros hasta 1.900 euros."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "En los casos en que el paciente se niegue a recibir un procedimiento sanitario, el profesional responsable de su aplicaci\u00f3n deber\u00e1 informarle acerca de otras alternativas existentes y, de no existir procedimientos sanitarios alternativos disponibles o de rechazarse todos ellos, si no firmase el alta voluntaria, la direcci\u00f3n del centro, a propuesta del profesional sanitario responsable, podr\u00e1 ordenar:",
+         "respuestas": [
+           "a) El alta forzosa del paciente en los t\u00e9rminos previstos por la legislaci\u00f3n vigente.",
+           "b) La firma del alta voluntaria del paciente en los t\u00e9rminos previstos por la legislaci\u00f3n vigente.",
+           "c) La hospitalizaci\u00f3n del paciente en los t\u00e9rminos previstos por la legislaci\u00f3n vigente.",
+           "d) La firma de la documentaci\u00f3n en la historia cl\u00ednica del paciente en los t\u00e9rminos previstos por la legislaci\u00f3n vigente."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes es un principio sobre el que se sustenten los derechos y deberes en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha:",
+         "respuestas": [
+           "a) La autonom\u00eda cient\u00edfica y t\u00e9cnica en el ejercicio de sus funciones.",
+           "b) La participaci\u00f3n del paciente y usuario en las actuaciones sanitarias relacionadas con su salud.",
+           "c) El respeto al honor y prestigio profesional en el desempe\u00f1o de sus funciones.",
+           "d) Todas las respuestas son correctas."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "En el caso del paciente declarado incapaz, el titular del derecho a la informaci\u00f3n ser\u00e1:",
+         "respuestas": [
+           "a) El incapacitado, en los t\u00e9rminos que fije la sentencia de incapacitaci\u00f3n en la que se reconozca el derecho del incapacitado a recibir informaci\u00f3n sobre su salud en un lenguaje adecuado que permita la comprensi\u00f3n de la misma.",
+           "b) El tutor, en los t\u00e9rminos que fije la sentencia de incapacitaci\u00f3n y sin perjuicio del derecho del incapacitado a recibir informaci\u00f3n sobre su salud en un lenguaje adecuado que permita la comprensi\u00f3n de la misma.",
+           "c) Las personas vinculadas a \u00e9l por razones familiares, en los t\u00e9rminos que fije la sentencia de incapacitaci\u00f3n y sin perjuicio del derecho del incapacitado a recibir informaci\u00f3n sobre su salud en un lenguaje adecuado que permita la comprensi\u00f3n de la misma.",
+           "d) Las personas vinculadas a \u00e9l por razones de hecho, en los t\u00e9rminos que fije la sentencia de incapacitaci\u00f3n y sin perjuicio del derecho del incapacitado a recibir informaci\u00f3n sobre su salud en un lenguaje adecuado que permita la comprensi\u00f3n de la misma."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "¿Qui\u00e9n ser\u00e1 en todos los centros, servicios y establecimientos sanitarios, el coordinador del proceso asistencial y el responsable de la informaci\u00f3n, as\u00ed como su interlocutor principal con el equipo asistencial, sin perjuicio del deber de todos los profesionales que atiendan al paciente de facilitar la informaci\u00f3n?",
+         "respuestas": [
+           "a) La direcci\u00f3n de cada centro sanitario.",
+           "b) El profesional sanitario responsable del paciente.",
+           "c) La direcci\u00f3n de cada servicio sanitario.",
+           "d) La autoridad sanitaria."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "¿Qui\u00e9n deber\u00e1 ofrecer informaci\u00f3n suficiente sobre las situaciones y las causas de riesgo para la salud individual y colectiva, incluyendo la informaci\u00f3n epidemiol\u00f3gica general y la informaci\u00f3n relativa a los peligros derivados de los h\u00e1bitos y comportamientos individuales, de manera que se fomente un estilo de vida saludable?",
+         "respuestas": [
+           "a) La direcci\u00f3n de cada centro sanitario.",
+           "b) El profesional sanitario responsable del paciente.",
+           "c) La direcci\u00f3n de cada servicio sanitario.",
+           "d) La autoridad sanitaria."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "¿Qui\u00e9n/es dispondr\u00e1/n de una carta de derechos y deberes de las personas relativos a la salud?",
+         "respuestas": [
+           "a) La administraci\u00f3n sanitaria.",
+           "b) Los profesionales sanitarios responsables del paciente.",
+           "c) Todos los centros, servicios y establecimientos sanitarios.",
+           "d) La autoridad sanitaria."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "¿Qui\u00e9n/es velar\u00e1/n por el derecho de las personas a recibir dicha informaci\u00f3n de forma accesible, clara, fiable y actualizada?",
+         "respuestas": [
+           "a) La administraci\u00f3n sanitaria.",
+           "b) Los profesionales sanitarios responsables del paciente.",
+           "c) Todos los centros, servicios y establecimientos sanitarios.",
+           "d) La autoridad sanitaria."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "¿Cu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+         "respuestas": [
+           "a) Facilitar a los pacientes informaci\u00f3n sobre cualquier actuaci\u00f3n en el \u00e1mbito de su salud. Todos los profesionales que presten atenci\u00f3n sanitaria, durante los procesos asistenciales en los que apliquen una t\u00e9cnica o un procedimiento concreto, ser\u00e1n tambi\u00e9n responsables de facilitar la informaci\u00f3n que se derive espec\u00edficamente de sus actuaciones.",
+           "b) Facilitar a los usuarios informaci\u00f3n sobre cualquier actuaci\u00f3n en el \u00e1mbito de su salud. Todos los profesionales que presten atenci\u00f3n sanitaria, durante los procesos asistenciales en los que apliquen una t\u00e9cnica o un procedimiento concreto, ser\u00e1n tambi\u00e9n responsables de facilitar la informaci\u00f3n que se derive espec\u00edficamente de sus actuaciones.",
+           "c) Facilitar a los pacientes informaci\u00f3n sobre cualquier actuaci\u00f3n en el \u00e1mbito de su salud. Todos los profesionales que presten atenci\u00f3n sanitaria, durante los procesos asistenciales en los que apliquen una t\u00e9cnica o un procedimiento concreto, ser\u00e1n tambi\u00e9n responsables de facilitar la documentaci\u00f3n cl\u00ednica que se derive espec\u00edficamente de sus actuaciones.",
+           "d) Facilitar a los usuarios informaci\u00f3n sobre cualquier actuaci\u00f3n en el \u00e1mbito de su salud. Todos los profesionales que presten atenci\u00f3n sanitaria, durante los procesos asistenciales en los que apliquen una t\u00e9cnica o un procedimiento concreto, ser\u00e1n tambi\u00e9n responsables de facilitar la documentaci\u00f3n cl\u00ednica que se derive espec\u00edficamente de sus actuaciones."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Es constitutiva de una infracci\u00f3n administrativa grave:",
+         "respuestas": [
+           "a) El acceso a la documentaci\u00f3n cl\u00ednica por simple negligencia sin reunir los requisitos que legitiman para ello, siempre que no haya existido uso indebido de la informaci\u00f3n recogida en la misma, a tenor de lo dispuesto en la presente Ley.",
+           "b) El acceso a la documentaci\u00f3n cl\u00ednica falseando las condiciones que legitiman para ello o haciendo un uso indebido de la misma, a tenor de lo dispuesto en la presente Ley.",
+           "c) La agresi\u00f3n f\u00edsica a profesionales de los centros, servicios y establecimientos sanitarios, a pacientes o a sus acompa\u00f1antes siempre que sea constitutiva de il\u00edcito penal.",
+           "d) Todas las respuestas son correctas."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Las infracciones graves en grado medio previstas en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha ser\u00e1n castigadas con:",
+         "respuestas": [
+           "a) Multa de 7.001 euros hasta 12.500 euros.",
+           "b) Multa de 6.001 euros hasta 10.500 euros.",
+           "c) Multa de 5.001 euros hasta 10.500 euros.",
+           "d) Multa de 4.001 euros hasta 10.000 euros."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "\u00bfQui\u00e9n/es promover\u00e1/n la difusi\u00f3n entre la poblaci\u00f3n de los planes, programas y actuaciones sanitarias a trav\u00e9s de los medios o instrumentos necesarios que garanticen que la informaci\u00f3n es recibida por todas las personas?",
+         "respuestas": [
+           "a) La administraci\u00f3n sanitaria.",
+           "b) Los profesionales sanitarios responsables del paciente.",
+           "c) Todos los centros, servicios y establecimientos sanitarios.",
+           "d) La autoridad sanitaria."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes es un principio sobre el que se sustenten los derechos y deberes en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha:",
+         "respuestas": [
+           "a) El respeto a la autonom\u00eda de la voluntad del usuario.",
+           "b) El respeto a la autonom\u00eda de la voluntad del paciente.",
+           "c) El respeto a la autonom\u00eda de la voluntad de las personas.",
+           "d) El respeto a la autonom\u00eda de la voluntad de los profesionales sanitarios."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "La informaci\u00f3n que se facilite al paciente antes de recabar su consentimiento ser\u00e1 comprensible, veraz y suficiente, objetiva y adecuada al procedimiento. \u00bfQui\u00e9n/es ser\u00e1/n el/los encargado/s de facilitar la informaci\u00f3n?",
+         "respuestas": [
+           "a) La administraci\u00f3n sanitaria.",
+           "b) Los profesionales sanitarios responsables de la asistencia del paciente.",
+           "c) Todos los centros, servicios y establecimientos sanitarios.",
+           "d) La autoridad sanitaria."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "En relaci\u00f3n con el consentimiento informado, se\u00f1ale la respuesta incorrecta:",
+         "respuestas": [
+           "a) Toda actuaci\u00f3n en el \u00e1mbito de la salud de un paciente necesita el consentimiento del mismo, manifestado libre y voluntariamente una vez que, recibida la informaci\u00f3n adecuada, haya valorado las opciones propias del caso.",
+           "b) En la historia cl\u00ednica de los pacientes deber\u00e1 constar la informaci\u00f3n facilitada a los mismos durante su proceso asistencial y el car\u00e1cter de su consentimiento.",
+           "c) La prestaci\u00f3n del consentimiento informado es un deber del paciente y su obtenci\u00f3n un derecho del profesional sanitario responsable de la asistencia al mismo.",
+           "d) Siempre que el paciente haya expresado por escrito su consentimiento informado, tendr\u00e1 derecho a obtener una copia de dicho documento."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Es una situaci\u00f3n de excepci\u00f3n a la exigencia de consentimiento, la existencia de riesgo grave para la salud p\u00fablica. En este caso, deber\u00e1 comunicarse a la autoridad judicial las medidas adoptadas, siempre que las mismas supongan el internamiento obligatorio de las personas, en un plazo m\u00e1ximo de:",
+         "respuestas": [
+           "a) 12 horas.",
+           "b) 24 horas.",
+           "c) 36 horas.",
+           "d) 72 horas."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Cuando el paciente no sea capaz de tomar decisiones, a criterio del m\u00e9dico responsable de la asistencia, o su estado f\u00edsico o ps\u00edquico no le permita hacerse cargo de su situaci\u00f3n, el consentimiento informado lo prestar\u00e1/n:",
+         "respuestas": [
+           "a) Las personas vinculadas a \u00e9l por razones familiares.",
+           "b) El representante legal.",
+           "c) Las personas vinculadas a \u00e9l por razones de hecho.",
+           "d) El familiar biol\u00f3gico."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Cuando el paciente est\u00e9 incapacitado judicialmente para adoptar la decisi\u00f3n, el consentimiento informado lo prestar\u00e1/n:",
+         "respuestas": [
+           "a) Las personas vinculadas a \u00e9l por razones familiares.",
+           "b) El representante legal.",
+           "c) Las personas vinculadas a \u00e9l por razones de hecho.",
+           "d) El familiar biol\u00f3gico."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "\u00bfCu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+         "respuestas": [
+           "a) Respetar las decisiones adoptadas libre y voluntariamente por el usuario.",
+           "b) Guardar toda la informaci\u00f3n y documentaci\u00f3n cl\u00ednica sobre los pacientes y usuarios derivada de su actuaci\u00f3n profesional.",
+           "c) Respetar las decisiones adoptadas libre y voluntariamente por el paciente.",
+           "d) Guardar toda la informaci\u00f3n y documentaci\u00f3n cl\u00ednica sobre los pacientes y usuarios a la que tengan acceso."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Es constitutiva de una infracci\u00f3n administrativa muy grave:",
+         "respuestas": [
+           "a) El acceso a la documentaci\u00f3n cl\u00ednica por simple negligencia sin reunir los requisitos que legitiman para ello, siempre que no haya existido uso indebido de la informaci\u00f3n recogida en la misma, a tenor de lo dispuesto en la presente Ley.",
+           "b) El acceso a la documentaci\u00f3n cl\u00ednica falseando las condiciones que legitiman para ello o haciendo un uso indebido de la misma, a tenor de lo dispuesto en la presente Ley.",
+           "c) La agresi\u00f3n f\u00edsica a profesionales de los centros, servicios y establecimientos sanitarios, a pacientes o a sus acompa\u00f1antes siempre que sea constitutiva de il\u00edcito penal.",
+           "d) Ninguna de las respuestas es correcta."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "Las infracciones muy graves en grado medio previstas en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha ser\u00e1n castigadas con:",
+         "respuestas": [
+           "a) Multa de 120.001 euros hasta 350.000 euros.",
+           "b) Multa de 110.001 euros hasta 350.000 euros.",
+           "c) Multa de 100.001 euros hasta 300.000 euros.",
+           "d) Multa de 115.001 euros hasta 305.000 euros."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Cuando el paciente menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance de la intervenci\u00f3n, el consentimiento informado lo prestar\u00e1/n:",
+         "respuestas": [
+           "a) Las personas vinculadas a \u00e9l por razones familiares despu\u00e9s de haber escuchado la opini\u00f3n de \u00e9ste si tiene 12 a\u00f1os cumplidos.",
+           "b) El representante legal del menor despu\u00e9s de haber escuchado la opini\u00f3n de \u00e9ste si tiene 12 a\u00f1os cumplidos.",
+           "c) Las personas vinculadas a \u00e9l por razones de hecho despu\u00e9s de haber escuchado la opini\u00f3n de \u00e9ste si tiene 12 a\u00f1os cumplidos.",
+           "d) El familiar biol\u00f3gico despu\u00e9s de haber escuchado la opini\u00f3n de \u00e9ste si tiene 12 a\u00f1os cumplidos."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes es un principio sobre el que se sustenten los derechos y deberes en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha:",
+         "respuestas": [
+           "a) La garant\u00eda a la informaci\u00f3n y documentaci\u00f3n cl\u00ednica.",
+           "b) La calidad y seguridad de la documentaci\u00f3n cl\u00ednica.",
+           "c) La participaci\u00f3n en la formulaci\u00f3n de la documentaci\u00f3n cl\u00ednica y en el control de su ejecuci\u00f3n.",
+           "d) La promoci\u00f3n del inter\u00e9s de las personas por la salud, mediante la documentaci\u00f3n cl\u00ednica."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Se\u00f1ale la respuesta incorrecta en relaci\u00f3n con el derecho al acompa\u00f1amiento:",
+         "respuestas": [
+           "a) Los centros, servicios y establecimientos sanitarios facilitar\u00e1n el acompa\u00f1amiento de los pacientes por un familiar o persona de su confianza, excepto en los casos y situaciones en que esta presencia sea desaconsejable o incompatible con la prestaci\u00f3n sanitaria.",
+           "b) Toda mujer tiene derecho durante el proceso de parto a estar acompa\u00f1ada por su c\u00f3nyuge, salvo cuando las circunstancias cl\u00ednicas no lo aconsejen.",
+           "c) Los menores tienen derecho a estar acompa\u00f1ados por sus padres o tutores, salvo que ello perjudique u obstaculice su asistencia sanitaria. En las mismas condiciones, los incapacitados tienen derecho a estar acompa\u00f1ados por sus representantes legales.",
+           "d) Las personas en situaci\u00f3n de dependencia tienen derecho a estar acompa\u00f1adas por un familiar o persona de su confianza, excepto en los casos y situaciones en que esta presencia sea desaconsejable o incompatible con la prestaci\u00f3n sanitaria."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Toda persona a la que se practique una biopsia o extracci\u00f3n de tejido en los centros y servicios sanitarios tiene derecho:",
+         "respuestas": [
+           "a) A disponer de preparaciones de tejidos o muestras biol\u00f3gicas provenientes de aquellas, con el fin de utilizar tejidos o muestras biol\u00f3gicas para fines l\u00edcitos distintos de aqu\u00e9llos que motivaron la biopsia o extracci\u00f3n.",
+           "b) A disponer de preparaciones de tejidos o muestras biol\u00f3gicas provenientes de aquellas, con el fin de recabar la opini\u00f3n de un segundo profesional o para garantizar la continuidad de la asistencia en un centro o servicio diferente.",
+           "c) A disponer de preparaciones de tejidos o muestras biol\u00f3gicas provenientes de aquellas, con el fin de conservar tejidos o muestras biol\u00f3gicas para fines l\u00edcitos distintos de aqu\u00e9llos que motivaron la biopsia o extracci\u00f3n.",
+           "d) Todas las respuestas son correctas."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Se velar\u00e1 especialmente por el respeto a la dignidad de la persona en los procesos terminales previos al fallecimiento. A tal fin el Gobierno regional aprobar\u00e1 las normas que garanticen:",
+         "respuestas": [
+           "a) Las medidas necesarias y adecuadas que permitan el control del dolor, eviten el sufrimiento innecesario y preserven su calidad de vida.",
+           "b) Los medios necesarios para que aquellos pacientes que padezcan una enfermedad terminal tengan una habitaci\u00f3n individual en la que puedan estar acompa\u00f1ados.",
+           "c) Una atenci\u00f3n personalizada y adecuada a sus circunstancias personales que favorezcan el cumplimiento de los derechos de esta ley.",
+           "d) Ser internadas en contra de su voluntad en los t\u00e9rminos previstos en la legislaci\u00f3n civil y tener derecho a que se reexamine peri\u00f3dicamente la necesidad de su internamiento."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "En caso de solicitudes incompletas o incorrectamente formuladas del derecho a la segunda opini\u00f3n m\u00e9dica, de acuerdo con el Decreto 91/2018, de 4 de diciembre, se requerir\u00e1 al interesado para que, proceda a la subsanaci\u00f3n, en el plazo de:",
+         "respuestas": [
+           "a) Tres d\u00edas.",
+           "b) Diez d\u00edas.",
+           "c) Quince d\u00edas.",
+           "d) Siete d\u00edas."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Los profesionales que intervengan en la asistencia directa de un paciente en los distintos niveles de prestaci\u00f3n tendr\u00e1n acceso a la historia cl\u00ednica del mismo:",
+         "respuestas": [
+           "a) Solo si media autorizaci\u00f3n del facultativo responsable de la asistencia.",
+           "b) Parcialmente en cuanto lo exija el desarrollo de sus funciones.",
+           "c) En ning\u00fan caso, estando reservado al facultativo responsable del paciente.",
+           "d) De forma completa."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "¿Cu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+         "respuestas": [
+           "a) Cumplir sus obligaciones de informaci\u00f3n y documentaci\u00f3n cl\u00ednica, entre ellas elaborar o cooperar en la creaci\u00f3n y mantenimiento de una documentaci\u00f3n cl\u00ednica ordenada, veraz, actualizada, secuencial e inteligible del proceso asistencial de los pacientes, con independencia del tipo de soporte material de la documentaci\u00f3n.",
+           "b) Cumplir sus obligaciones de informaci\u00f3n y documentaci\u00f3n cl\u00ednica, entre ellas elaborar o cooperar en la creaci\u00f3n y mantenimiento de una informaci\u00f3n ordenada, veraz, actualizada, secuencial e inteligible del proceso asistencial de los pacientes, con independencia del tipo de soporte material de la informaci\u00f3n.",
+           "c) Respetar las decisiones adoptadas libre y voluntariamente por el usuario.",
+           "d) Facilitar a los pacientes informaci\u00f3n sobre cualquier actuaci\u00f3n en el \u00e1mbito de su salud. Todos los profesionales que presten atenci\u00f3n sanitaria, durante los procesos asistenciales en los que apliquen una t\u00e9cnica o un procedimiento concreto, ser\u00e1n tambi\u00e9n responsables de facilitar la documentaci\u00f3n cl\u00ednica que se derive espec\u00edficamente de sus actuaciones."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Es constitutiva de una infracci\u00f3n administrativa leve:",
+         "respuestas": [
+           "a) El acceso a la documentaci\u00f3n cl\u00ednica falseando las condiciones que legitiman para ello o haciendo un uso indebido de la misma, a tenor de lo dispuesto en la presente Ley.",
+           "b) El incumplimiento del r\u00e9gimen de visitas establecido por los centros y servicios sanitarios, as\u00ed como los horarios que regulan su actividad.",
+           "c) La destrucci\u00f3n, menoscabo o deterioro de las instalaciones y equipamientos sanitarios siempre que afecte al normal funcionamiento del centro, servicio o establecimiento sanitario.",
+           "d) La realizaci\u00f3n de actuaciones destinadas a menoscabar o restringir los derechos derivados del respeto a la autonom\u00eda del paciente."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Las infracciones leves en grado m\u00e1ximo previstas en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha ser\u00e1n castigadas con:",
+         "respuestas": [
+           "a) Multa de 1.501 euros hasta 3.000 euros.",
+           "b) Multa de 1.601 euros hasta 3.000 euros.",
+           "c) Multa de 1.701 euros hasta 3.000 euros.",
+           "d) Multa de 1.801 euros hasta 3.000 euros."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "Cuando se trate de menores emancipados o con diecis\u00e9is años cumplidos no incapaces ni incapacitados, el consentimiento informado lo prestar\u00e1/n:",
+         "respuestas": [
+           "a) Las personas vinculadas a \u00e9l por razones familiares.",
+           "b) El representante legal.",
+           "c) Las personas vinculadas a \u00e9l por razones de hecho.",
+           "d) No cabe prestar el consentimiento por representaci\u00f3n."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes es un principio sobre el que se sustenten los derechos y deberes en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha:",
+         "respuestas": [
+           "a) La calidad y salubridad de los servicios y prestaciones sanitarias.",
+           "b) La cantidad y seguridad de los servicios y prestaciones sanitarias.",
+           "c) La calidad y seguridad de los servicios y prestaciones sanitarias.",
+           "d) La cantidad y salubridad de los servicios y prestaciones sanitarias."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "\u00bfCu\u00e1l es el plazo para notificar al interesado la resoluci\u00f3n de su solicitud del derecho a una segunda opini\u00f3n m\u00e9dica, de acuerdo con el Decreto 91/2018, de 4 de diciembre, del derecho a la segunda opini\u00f3n m\u00e9dica?",
+         "respuestas": [
+           "a) Tres d\u00edas, contado desde el d\u00eda siguiente al de su presentaci\u00f3n.",
+           "b) Diez d\u00edas, contado desde el d\u00eda siguiente al de su presentaci\u00f3n.",
+           "c) Quince d\u00edas, contado desde el d\u00eda siguiente al de su presentaci\u00f3n.",
+           "d) Un mes, contado desde el d\u00eda siguiente al de su presentaci\u00f3n."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "El personal de administraci\u00f3n y gesti\u00f3n de los centros, servicios o establecimientos sanitarios puede acceder a los datos de la historia cl\u00ednica:",
+         "respuestas": [
+           "a) En cualquier caso, cuando ejerzan funciones de inspecci\u00f3n.",
+           "b) \u00danicamente cuando resulta imprescindible para el ejercicio de sus funciones en relaci\u00f3n con su puesto de trabajo.",
+           "c) En ning\u00fan caso.",
+           "d) S\u00f3lo cuando realicen funciones de comprobaci\u00f3n de la calidad asistencial."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Los directores de los centros, servicios y establecimientos sanitarios, en relaci\u00f3n con las historias cl\u00ednicas asumen las siguientes obligaciones (se\u00f1ale la respuesta incorrecta):",
+         "respuestas": [
+           "a) Establecer procedimientos de uso, acceso, custodia y conservaci\u00f3n de las historias cl\u00ednicas que garanticen el derecho a la intimidad de los pacientes y el deber de secreto de todo aquel que, en el ejercicio de sus funciones, tenga conocimiento de la informaci\u00f3n contenida en la historia cl\u00ednica.",
+           "b) Garantizar la implantaci\u00f3n de las medidas de seguridad de nivel medio previstas en la normativa sobre protecci\u00f3n de datos de car\u00e1cter personal.",
+           "c) Garantizar el ejercicio de los derechos de acceso, rectificaci\u00f3n, cancelaci\u00f3n y oposici\u00f3n de conformidad con lo previsto en la normativa sobre protecci\u00f3n de datos de car\u00e1cter personal.",
+           "d) Garantizar la disponibilidad de la documentaci\u00f3n cl\u00ednica para su uso por el personal autorizado cuando exista motivo asistencial durante todos los d\u00edas y todas las horas en que se preste asistencia sanitaria en el centro."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "La resoluci\u00f3n de su solicitud del derecho a una segunda opini\u00f3n m\u00e9dica, de acuerdo con el Decreto 91/2018, de 4 de diciembre, del derecho a la segunda opini\u00f3n m\u00e9dica ser\u00e1 motivada, de acuerdo con el art\u00edculo 35 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, y frente a ella se podr\u00e1 interponer:",
+         "respuestas": [
+           "a) Recurso de reposici\u00f3n.",
+           "b) Recurso de alzada.",
+           "c) Recurso de revisi\u00f3n.",
+           "d) Recurso contencioso administrativo."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "La responsabilidad de la custodia de las historias cl\u00ednicas corresponde a:",
+         "respuestas": [
+           "a) Los servicios de sistemas y tecnolog\u00edas de la informaci\u00f3n.",
+           "b) Los directores de los centros, servicios y establecimientos sanitarios.",
+           "c) Los servicios de admisi\u00f3n y documentaci\u00f3n cl\u00ednica.",
+           "d) Las comisiones de historias cl\u00ednicas de los centros hospitalarios."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "\u00bfCu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+         "respuestas": [
+           "a) Gestionar y custodiar la documentaci\u00f3n cl\u00ednica que guarden, cuando desarrollen su actividad de manera profesional.",
+           "b) Gestionar y custodiar la documentaci\u00f3n cl\u00ednica que guarden, cuando desarrollen su actividad de manera individual.",
+           "c) Guardar toda la informaci\u00f3n y documentaci\u00f3n cl\u00ednica sobre los pacientes derivada de su actuaci\u00f3n profesional o a la que tengan acceso.",
+           "d) Guardar toda la informaci\u00f3n y documentaci\u00f3n cl\u00ednica sobre los usuarios derivada de su actuaci\u00f3n profesional o a la que tengan acceso."
+         ],
+         "verdadera": 2
+       },
+       {
+         "enunciado": "Es constitutiva de una infracci\u00f3n administrativa grave:",
+         "respuestas": [
+           "a) La utilizaci\u00f3n indebida, abusiva o irresponsable de los recursos y prestaciones sanitarias que no respondan a una necesidad objetiva.",
+           "b) La destrucci\u00f3n, menoscabo o deterioro de bienes, instalaciones y servicios sanitarios, siempre que no afecte al normal funcionamiento del centro, servicio o establecimiento sanitario.",
+           "c) La destrucci\u00f3n, menoscabo o deterioro de las instalaciones y equipamientos sanitarios siempre que afecte al normal funcionamiento del centro, servicio o establecimiento.",
+           "d) La agresi\u00f3n f\u00edsica a profesionales de los centros, servicios y establecimientos sanitarios, a pacientes o a sus acompa\u00f1antes siempre que no sea constitutiva de il\u00edcito penal."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Las infracciones graves en grado m\u00e1ximo previstas en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha ser\u00e1n castigadas con:",
+         "respuestas": [
+           "a) Multa de 10.001 euros hasta 15.000 euros.",
+           "b) Multa de 10.401 euros hasta 15.000 euros.",
+           "c) Multa de 10.501 euros hasta 15.000 euros.",
+           "d) Multa de 10.601 euros hasta 15.000 euros."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "En el caso de consentimiento informado y la decisi\u00f3n del representante legal pueda presumirse contraria a la salud del menor o incapacitado, el profesional responsable deber\u00e1:",
+         "respuestas": [
+           "a) Informar a los padres y su opini\u00f3n ser\u00e1 tenida en cuenta para la toma de la decisi\u00f3n correspondiente.",
+           "b) Proponer el alta forzosa del paciente.",
+           "c) Poner los hechos en conocimiento de la autoridad competente en virtud de lo dispuesto en la legislaci\u00f3n civil.",
+           "d) Pedir el alta voluntaria del paciente."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes no es un principio sobre el que se sustenten los derechos y deberes en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha:",
+         "respuestas": [
+           "a) La promoci\u00f3n del inter\u00e9s de las personas por la salud, mediante una informaci\u00f3n adecuada y una mayor educaci\u00f3n para la salud.",
+           "b) La suficiencia de medios profesionales y materiales.",
+           "c) La cantidad y salubridad de los servicios y prestaciones sanitarias.",
+           "d) La participaci\u00f3n en la formulaci\u00f3n de la pol\u00edtica sanitaria y en el control de su ejecuci\u00f3n."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Transcurrido el plazo para notificar al interesado la resoluci\u00f3n de su solicitud del derecho a una segunda opini\u00f3n m\u00e9dica, de acuerdo con el Decreto 91/2018, de 4 de diciembre, del derecho a la segunda opini\u00f3n m\u00e9dica, sin que se hubiera notificado la resoluci\u00f3n, el interesado podr\u00e1 considerar:",
+         "respuestas": [
+           "a) Desestimada su petici\u00f3n.",
+           "b) Caducada su petici\u00f3n.",
+           "c) Estimada su petici\u00f3n.",
+           "d) Prescrita su petici\u00f3n."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Tiene acceso a las historias cl\u00ednicas en el cumplimiento de sus funciones de comprobaci\u00f3n de la calidad asistencial:",
+         "respuestas": [
+           "a) \u00danicamente el personal sanitario que realizan el diagn\u00f3stico o el tratamiento del paciente.",
+           "b) El personal del Centro, sea sanitario o no, en determinadas circunstancias.",
+           "c) El personal sanitario que ejerza funciones de inspecci\u00f3n.",
+           "d) El personal de administraci\u00f3n y gesti\u00f3n de los centros o establecimientos sanitarios."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "El uso de la historia cl\u00ednica y su cesi\u00f3n entre centros, servicios y establecimientos sanitarios cuando, y en el \u00fanico supuesto de que se realice, para la prestaci\u00f3n de asistencia sanitaria o la gesti\u00f3n de servicios sanitarios:",
+         "respuestas": [
+           "a) No requerir\u00e1 el previo consentimiento del paciente.",
+           "b) Est\u00e1 terminantemente prohibido.",
+           "c) Requiere el consentimiento expresado del paciente.",
+           "d) Requiere el consentimiento, expreso o no, del paciente, en todo caso."
+         ],
+         "verdadera": 1
+       },
+       {
+         "enunciado": "Transcurrido el plazo para notificar al interesado la resoluci\u00f3n de su solicitud del derecho a una segunda opini\u00f3n m\u00e9dica, de acuerdo con el Decreto 91/2018, de 4 de diciembre, del derecho a la segunda opini\u00f3n m\u00e9dica, si el interesado solicita el certificado acreditativo del silencio producido, este deber\u00e1 emitirse en el plazo de:",
+         "respuestas": [
+           "a) Tres d\u00edas, con indicaci\u00f3n del \u00f3rgano, servicio o centro que deba emitir la segunda opini\u00f3n.",
+           "b) Diez d\u00edas, con indicaci\u00f3n del \u00f3rgano, servicio o centro que deba emitir la segunda opini\u00f3n.",
+           "c) Quince d\u00edas, con indicaci\u00f3n del \u00f3rgano, servicio o centro que deba emitir la segunda opini\u00f3n.",
+           "d) Dos d\u00edas, con indicaci\u00f3n del \u00f3rgano, servicio o centro que deba emitir la segunda opini\u00f3n."
+         ],
+         "verdadera": 4
+       },
+       {
+         "enunciado": "La segunda opini\u00f3n m\u00e9dica, seg\u00fan el Decreto 91/2018, de 4 de diciembre, del derecho a la segunda opini\u00f3n m\u00e9dica, ser\u00e1 emitida, a trav\u00e9s del correspondiente informe, por un facultativo del \u00f3rgano, servicio o centro sanitario que se haya indicado en la resoluci\u00f3n, en el plazo m\u00e1ximo de:",
+         "respuestas": [
+           "a) Tres d\u00edas, contado a partir del d\u00eda siguiente al de la recepci\u00f3n de la citada resoluci\u00f3n.",
+           "b) Diez d\u00edas, contado a partir del d\u00eda siguiente al de la recepci\u00f3n de la citada resoluci\u00f3n.",
+           "c) Quince d\u00edas, contado a partir del d\u00eda siguiente al de la recepci\u00f3n de la citada resoluci\u00f3n.",
+           "d) Dos d\u00edas, contado a partir del d\u00eda siguiente al de la recepci\u00f3n de la citada resoluci\u00f3n."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "¿Cu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+         "respuestas": [
+           "a) Participar en la gesti\u00f3n, de conformidad con lo que reglamentariamente se establezca.",
+           "b) Renunciar a prestar atenci\u00f3n sanitaria en situaciones de injurias, amenazas o agresi\u00f3n si no conlleva desatenci\u00f3n.",
+           "c) Cumplimentar los protocolos, registros, informes, estad\u00edsticas y dem\u00e1s documentaci\u00f3n que guarde relaci\u00f3n con los procesos cl\u00ednicos en que intervienen, incluida la relacionada con la investigaci\u00f3n m\u00e9dica y la informaci\u00f3n epidemiol\u00f3gica.",
+           "d) Todas las respuestas son correctas."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Es constitutiva de una infracci\u00f3n administrativa grave:",
+         "respuestas": [
+           "a) Cometer una infracci\u00f3n grave cuando se haya sido sancionado por una o m\u00e1s infracciones graves en el transcurso de un a\u00f1o.",
+           "b) Cometer una infracci\u00f3n grave cuando se haya sido sancionado por una o m\u00e1s infracciones graves en el transcurso de dos a\u00f1os.",
+           "c) Cometer una infracci\u00f3n grave cuando se haya sido sancionado por una o m\u00e1s infracciones graves en el transcurso de tres a\u00f1os.",
+           "d) Cometer una infracci\u00f3n grave cuando se haya sido sancionado por una o m\u00e1s infracciones graves en el transcurso de cuatro a\u00f1os."
+         ],
+         "verdadera": 3
+       },
+       {
+         "enunciado": "Las infracciones muy graves en su grado m\u00e1ximo previstas en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha ser\u00e1n castigadas con:",
+         "respuestas": [
+           "a) Multa de 300.001 euros hasta 600.000 euros.",
+           "b) Multa de 320.001 euros hasta 600.000 euros.",
+           "c) Multa de 350.001 euros hasta 600.000 euros.",
+           "d) Multa de 370.001 euros hasta 600.000 euros."
+         ],
+         "verdadera": 3
+       }         
+    ]
+}
