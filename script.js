@@ -52,8 +52,8 @@ async function startTest() {
     const timeLimit = parseInt(document.getElementById("timeLimit").value);
 
     // Validar el número de preguntas
-    if (numQuestions < 1 || numQuestions > 100) {
-        alert("El número de preguntas debe estar entre 1 y 100.");
+    if (numQuestions < 1 || numQuestions > 105) {
+        alert("El número de preguntas debe estar entre 1 y 105.");
         return;
     }
 
