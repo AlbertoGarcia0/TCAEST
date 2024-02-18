@@ -67,13 +67,15 @@ async function startTest() {
         console.log("questions");
         console.log(questions);
         console.log(questions.length);
-        // Mezcla las preguntas para presentarlas en orden aleatorio
-        const shuffledQuestions = shuffleArray(questions);
-        console.log("shuffledQuestions");
-        console.log(shuffledQuestions);
 
-        // Toma las primeras 'numQuestions' preguntas
-        const selectedQuestionsSubset = shuffledQuestions.slice(0, numQuestions);
+        // Mezcla las preguntas para presentarlas en orden aleatorio
+        // const shuffledQuestions = shuffleArray(questions);
+        // console.log("shuffledQuestions");
+        // console.log(shuffledQuestions);
+
+        // // Toma las primeras 'numQuestions' preguntas
+        // const selectedQuestionsSubset = shuffledQuestions.slice(0, numQuestions);
+        const selectedQuestionsSubset = questions.slice(0, numQuestions);
         console.log("selectedQuestionsSubset");
         console.log(selectedQuestionsSubset);
         testQuestions = selectedQuestionsSubset;
