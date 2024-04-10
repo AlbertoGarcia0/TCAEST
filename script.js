@@ -217,7 +217,7 @@ function generateResults() {
             wrong++; // Respuesta incorrecta
         }
     }
-    let nota= (score-(wrong*0.33))/testQuestions.length*10;
+    let nota= (score-(wrong*0.25))/testQuestions.length*10;
     nota = Math.max(0, Math.min(10, nota));
 
     let resultsHTML = `
