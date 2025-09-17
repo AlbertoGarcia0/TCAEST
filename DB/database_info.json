@@ -1,6 +1,10 @@
 {
     "categorias": [
         {
+            "nombre_categoria": "Tema 8 2025",
+            "numero_preguntas": 30	    
+        },
+        {
             "nombre_categoria": "Todo",
             "numero_preguntas": 1655	    
         },
