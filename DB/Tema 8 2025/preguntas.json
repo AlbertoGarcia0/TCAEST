@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfDe qui\u00e9n depende directamente en t\u00e9rminos generales el Servicio de admisi\u00f3n de un hospital, siempre que esta entidad exista?",
+            "respuestas": [
+                "a) De la Gerencia del hospital.",
+                "b) De la Divisi\u00f3n m\u00e9dica.",
+                "c) De la Divisi\u00f3n de enfermer\u00eda.",
+                "d) De la Subgerencia del \u00e1rea asistencial."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Si un paciente ingresado en el hospital, requiere ser trasladado del Servicio de Medicina Interna al Servicio de Radiolog\u00eda, para la realizaci\u00f3n de ex\u00e1menes, \u00bfqui\u00e9n autorizar\u00e1 de forma operativa dicho traslado?",
+            "respuestas": [
+                "a) El Servicio de Medicina Interna.",
+                "b) El Servicio de Radiolog\u00eda.",
+                "c) El Servicio de Admisi\u00f3n.",
+                "d) No requiere de concesi\u00f3n o autorizaci\u00f3n alguna, el celador lo llevar\u00e1 donde lo requiera el facultativo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el documento individual y personalizado que identifica y acredita al usuario para acceder a los servicios sanitarios de la Seguridad Social propios de la misma?",
+            "respuestas": [
+                "a) DNI.",
+                "b) NIF.",
+                "c) Tarjeta sanitaria individual.",
+                "d) Carn\u00e9 de SNE."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 funci\u00f3n principal tiene el sistema DIRAYA en Andaluc\u00eda?",
+            "respuestas": [
+                "a) Integrar informaci\u00f3n financiera en la red sanitaria.",
+                "b) Proporcionar una plataforma de comunicaci\u00f3n para pacientes.",
+                "c) Unificar la informaci\u00f3n de salud de cada individuo atendido.",
+                "d) Gestionar exclusivamente la facturaci\u00f3n m\u00e9dica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 cualidades no posee un buen registro sanitario?",
+            "respuestas": [
+                "a) Oportuno.",
+                "b) Subjetivo.",
+                "c) Preciso.",
+                "d) Completo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 art\u00edculo de la ley de Cohesi\u00f3n y Calidad del Sistema Nacional de Salud regula las tarjetas sanitarias individuales?",
+            "respuestas": [
+                "a) El art\u00edculo 17.",
+                "b) El art\u00edculo 26.",
+                "c) El art\u00edculo 42.",
+                "d) El art\u00edculo 57."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDe qui\u00e9n depende y est\u00e1 adscrito por normativa el Servicio de Atenci\u00f3n al Paciente (SAP) a nivel hospitalario?",
+            "respuestas": [
+                "a) De la Divisi\u00f3n M\u00e9dica.",
+                "b) De la Gerencia.",
+                "c) De la Divisi\u00f3n de Enfermer\u00eda.",
+                "d) Del Servicio Provincial de Salud."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 profesional no forma parte de la Comisi\u00f3n de Admisi\u00f3n de enfermos de un Centro o Unidad de Internamiento psiqui\u00e1trico?",
+            "respuestas": [
+                "a) Un Trabajador Social.",
+                "b) Un enfermero desde donde se efectu\u00f3 el ingreso del enfermo.",
+                "c) El Director del Centro o Facultativo del mismo en quien delegue.",
+                "d) El Jefe de la Unidad Psiqui\u00e1trica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 cap\u00edtulo espec\u00edfico de la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y calidad del Sistema Nacional de Salud, corresponde la regulaci\u00f3n del Sistema de Informaci\u00f3n Sanitaria?",
+            "respuestas": [
+                "a) Al Cap\u00edtulo III.",
+                "b) Al Cap\u00edtulo IV.",
+                "c) Al Cap\u00edtulo V.",
+                "d) Al Cap\u00edtulo VI."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos a\u00f1os como m\u00ednimo (contados desde la fecha del alta de cada proceso asistencial), los centros sanitarios tienen la obligaci\u00f3n de conservar la documentaci\u00f3n cl\u00ednica en condiciones que garanticen su correcto mantenimiento y seguridad?",
+            "respuestas": [
+                "a) 2.",
+                "b) 5.",
+                "c) 10.",
+                "d) 25."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 deber tienen los profesionales que acceden a los datos de la historia cl\u00ednica en el ejercicio de sus funciones?",
+            "respuestas": [
+                "a) El deber de informaci\u00f3n.",
+                "b) El deber de secreto.",
+                "c) El deber de comunicaci\u00f3n interconsulta.",
+                "d) El deber de comunicaci\u00f3n interhospitalaria mediante alg\u00fan medio, incluida la telemedicina."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde suele emplearse el orden alfab\u00e9tico en la ordenaci\u00f3n de Historias Cl\u00ednicas de pacientes?",
+            "respuestas": [
+                "a) En el medio rural.",
+                "b) En el medio urbano.",
+                "c) En pa\u00edses \u00e1rabes.",
+                "d) En algunas Comunidades Aut\u00f3nomas, por considerarse algo tradicional."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 servicio presta e-SIAP en las Islas Baleares?",
+            "respuestas": [
+                "a) Se utiliza para gestionar la informaci\u00f3n de salud solo de pacientes hospitalizados.",
+                "b) Proporciona servicios exclusivos de telemedicina.",
+                "c) Es una herramienta b\u00e1sica para la prestaci\u00f3n de servicios cl\u00ednicos en atenci\u00f3n primaria.",
+                "d) Gestiona solo la informaci\u00f3n epidemiol\u00f3gica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qui\u00e9n corresponde la custodia y gesti\u00f3n de Historias Cl\u00ednicas en los Centros Hospitalarios?",
+            "respuestas": [
+                "a) A la Unidad de admisi\u00f3n y documentaci\u00f3n cl\u00ednica.",
+                "b) A la Unidad de enfermer\u00eda y archivos cl\u00ednicos.",
+                "c) A la Unidad de Atenci\u00f3n e Informaci\u00f3n al usuario.",
+                "d) Al servicio de Salud P\u00fablica y Epidemiolog\u00eda."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde est\u00e1 directamente adscrito el Servicio de Admisi\u00f3n de un Hospital?",
+            "respuestas": [
+                "a) A la Direcci\u00f3n Gerencia o M\u00e9dica.",
+                "b) A la Divisi\u00f3n de Farmacia.",
+                "c) A la Direcci\u00f3n de Enfermer\u00eda.",
+                "d) A la Divisi\u00f3n de Personal Subalterno y Mantenimiento."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 plataforma del SESCAM se utiliza en Atenci\u00f3n Primaria como historia cl\u00ednica electr\u00f3nica?",
+            "respuestas": [
+                "a) Mambrino XXI.",
+                "b) Receta Electr\u00f3nica.",
+                "c) Turriano.",
+                "d) Ykonos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 personas nos podemos encontrar en la unidad de admisi\u00f3n?",
+            "respuestas": [
+                "a) Solo pacientes.",
+                "b) Auxiliares administrativos y pacientes.",
+                "c) Celadores y pacientes.",
+                "d) Auxiliares administrativos, celadores y pacientes."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 otro requisito de un contrato se requiere junto a los de la causa y el objeto del mismo?",
+            "respuestas": [
+                "a) Confidencialidad.",
+                "b) Protecci\u00f3n de datos.",
+                "c) Consentimiento.",
+                "d) Son ciertas las respuestas a) y c)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 se centra la historia de enfermer\u00eda de atenci\u00f3n primaria?",
+            "respuestas": [
+                "a) En las curas y dem\u00e1s t\u00e9cnicas que realiza el personal de enfermer\u00eda a los distintos pacientes ingresados.",
+                "b) En los cuidados que hay que dispensar a la poblaci\u00f3n relacionados, por ejemplo, con los programas espec\u00edficos para cr\u00f3nicos, hipertensos, diab\u00e9ticos, vacunaciones y educaci\u00f3n sanitaria a los enfermos y a la poblaci\u00f3n en general.",
+                "c) Es un documento en el que se describen las actividades que realizan las enfermeras en la asistencia domiciliaria.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 fundamento \u00e9tico de los profesionales de la salud no es de obligado cumplimiento si la ley no lo menciona, pero constituye un objetivo al que los mismos como personas civilizadas, deben tender?",
+            "respuestas": [
+                "a) Justicia.",
+                "b) No maleficencia.",
+                "c) Autonom\u00eda.",
+                "d) Son todos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 bienes de los pacientes/usuarios se custodian en la pr\u00e1ctica generalmente?",
+            "respuestas": [
+                "a) Todos aquellos de los pacientes ingresados en la UCI.",
+                "b) Todos aquellos de los pacientes ingresados por Urgencias.",
+                "c) Todos aquellos de los pacientes ingresados en consultas externas.",
+                "d) Todos aquellos de los pacientes ingresados en habitaciones dentro de los servicios de un hospital."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n no tendr\u00e1 derecho a recibir el informe de alta del centro, servicio o establecimiento sanitario, una vez finalizado el proceso asistencial?",
+            "respuestas": [
+                "a) Paciente.",
+                "b) Familiar.",
+                "c) Amigo (con v\u00ednculos).",
+                "d) Amigo (conocido sin v\u00ednculos)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los profesionales sanitarios no tienen el deber \u00e9tico de:",
+            "respuestas": [
+                "a) Respetar del paciente su autonom\u00eda, su voluntad y sus decisiones.",
+                "b) Actuar con justicia y con discriminaci\u00f3n.",
+                "c) Evitar el mal y buscar el bien de los pacientes.",
+                "d) De todo lo anterior."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La lista de espera en cuanto a disponibilidad de camas en un hospital se actualizar\u00e1:",
+            "respuestas": [
+                "a) Constantemente.",
+                "b) Cada tres d\u00edas.",
+                "c) Cada semana.",
+                "d) Cada mes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 funci\u00f3n no posee el Servicio de Admisi\u00f3n de ingresos de un hospital?",
+            "respuestas": [
+                "a) La gesti\u00f3n de las camas de hospitalizaci\u00f3n, seg\u00fan la ordenaci\u00f3n establecida por la Direcci\u00f3n del Hospital.",
+                "b) Identificaci\u00f3n de los pacientes, y control y autorizaci\u00f3n de traslados.",
+                "c) La de informar al usuario/paciente, as\u00ed como de atender y garantizar la tramitaci\u00f3n de las reclamaciones que se puedan producir.",
+                "d) Identificaci\u00f3n de los pacientes."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 facilita DRAGO-AP en Canarias?",
+            "respuestas": [
+                "a) Se utiliza principalmente para la gesti\u00f3n de personal m\u00e9dico.",
+                "b) Gestiona la Historia Cl\u00ednica de los pacientes.",
+                "c) Controla solo las operaciones financieras de la atenci\u00f3n m\u00e9dica.",
+                "d) Es un sistema utilizado exclusivamente para la atenci\u00f3n de emergencias."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 dato es falso en relaci\u00f3n con los traslados de pacientes?",
+            "respuestas": [
+                "a) El traslado de un paciente puede realizarse dentro del mismo centro asistencial u hospital.",
+                "b) Una de las causas de traslado puede ser un cambio en la evoluci\u00f3n de la enfermedad que padece el usuario/paciente.",
+                "c) Cualquier traslado no implica seguir el protocolo marcado por el Servicio de Admisi\u00f3n, y solo se pone en marcha cuando los pacientes usuarios salen del hospital.",
+                "d) Solo en casos urgentes, de extrema gravedad, que no permiten espera de tr\u00e1mites administrativos, se puede realizar el traslado y hacer a posteriori la solicitud del cambio."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Dentro de la Unidad de Admisi\u00f3n, la Admisi\u00f3n de consultas externas, se realizar\u00e1 en r\u00e9gimen:",
+            "respuestas": [
+                "a) Extraordinario.",
+                "b) De Hospitalizaci\u00f3n.",
+                "c) De asistencia de Urgencias.",
+                "d) Ambulatorio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 organismo es el responsable de generar un c\u00f3digo de identificaci\u00f3n personal \u00fanico para el Sistema Nacional de Salud?",
+            "respuestas": [
+                "a) La Consejer\u00eda de Salud de cada Comunidad Aut\u00f3noma.",
+                "b) El Ministerio responsable de Sanidad.",
+                "c) El Ministerio de la Presidencia.",
+                "d) La Consejer\u00eda de la Presidencia de cada Comunidad Aut\u00f3noma."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qui\u00e9n debe comunicar el Servicio de Medicina Interna el Alta de un paciente para que esta se produzca de manera formal?",
+            "respuestas": [
+                "a) A la Gerencia del Hospital.",
+                "b) A la Unidad de Admisi\u00f3n.",
+                "c) A la Unidad de Altas.",
+                "d) A la Unidad de Mantenimientos y Movimientos de Pacientes en el Hospital."
+            ],
+            "verdadera": 2
+        }
+    ]
+}
