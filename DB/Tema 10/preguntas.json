@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfHasta qu\u00e9 carga en condiciones especiales pueden trabajadores bien entrenados y sanos f\u00edsicamente manipularlas?",
+            "respuestas": [
+                "a) Hasta 15 kg.",
+                "b) Hasta 25 kg.",
+                "c) Hasta 40 kg.",
+                "d) Hasta 50 kg."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n es el responsable en el \u00e1mbito laboral frente a los trabajadores con riesgos biol\u00f3gicos de proporcionar la vacunaci\u00f3n y posterior seguimiento m\u00e9dico de forma gratuita, equipos de protecci\u00f3n e informaci\u00f3n y formaci\u00f3n sobre las medidas a adoptar para una protecci\u00f3n adecuada?",
+            "respuestas": [
+                "a) Los propios trabajadores.",
+                "b) El empresario.",
+                "c) Las organizaciones sindicales.",
+                "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 normativa de estas trata de la protecci\u00f3n de los trabajadores contra los riesgos relacionados con la exposici\u00f3n a agentes biol\u00f3gicos durante el trabajo?",
+            "respuestas": [
+                "a) Ley 31/1995, de 8 de noviembre.",
+                "b) Ley 13/1990, de 22 de abril.",
+                "c) Real Decreto 664/1997, de 12 de mayo.",
+                "d) Real Decreto 438/2005, de 21 de mayo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es en Espa\u00f1a la norma b\u00e1sica que regula en la actualidad la materia de Prevenci\u00f3n de Riesgos Laborales?",
+            "respuestas": [
+                "a) Ley 31/1995, de 8 de noviembre.",
+                "b) Ley 13/1990, de 22 de abril.",
+                "c) Ley 22/2000, de 12 de diciembre.",
+                "d) Ley 14/1998, de 25 de septiembre."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La profundidad de la carga no debe superar los:",
+            "respuestas": [
+                "a) 90 cm.",
+                "b) 70 cm.",
+                "c) 50 cm.",
+                "d) 35 cm."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los riesgos biol\u00f3gicos de peligro por salpicaduras se da m\u00e1s frecuentemente en:",
+            "respuestas": [
+                "a) Consultas externas.",
+                "b) Operaciones previas a la esterilizaci\u00f3n.",
+                "c) Banco de sangre.",
+                "d) Rehabilitaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el aparato empleado para medir el poder calor\u00edfico de la radiaci\u00f3n electromagn\u00e9tica?",
+            "respuestas": [
+                "a) Heli\u00f3metro.",
+                "b) Term\u00f3metro.",
+                "c) Teleterm\u00f3grafo.",
+                "d) Actin\u00f3metro."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 riesgo de contagio despu\u00e9s de un accidente con riesgo biol\u00f3gico por pinchazo o corte se eval\u00faa para el virus de la hepatitis C (seg\u00fan la NTP n.\u00ba 447, del INSHT)?",
+            "respuestas": [
+                "a) 30 %.",
+                "b) 3 %.",
+                "c) 0,3 %.",
+                "d) 0,03 %."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medida es considerada inadecuada en la manipulaci\u00f3n de cargas?",
+            "respuestas": [
+                "a) Usar para ello el equipo y calzado apropiado.",
+                "b) Unir los pies (no separarlos).",
+                "c) Si el peso fuera excesivo buscar ayuda si es que no pueden usarse medios mec\u00e1nicos.",
+                "d) No girar el tronco ni adoptar posturas forzadas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el m\u00e9todo de elecci\u00f3n mediante esterilizaci\u00f3n, por ser el m\u00e1s fiable, eficaz y de f\u00e1cil empleo?",
+            "respuestas": [
+                "a) Esterilizaci\u00f3n por calor seco a baja presi\u00f3n.",
+                "b) Esterilizaci\u00f3n por calor h\u00famedo a alta presi\u00f3n.",
+                "c) Esterilizaci\u00f3n por calor h\u00famedo a baja presi\u00f3n.",
+                "d) Esterilizaci\u00f3n por calor seco a alta presi\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancias el medio de trabajo no aumenta el riesgo, particularmente dorsolumbar?",
+            "respuestas": [
+                "a) Cuando el espacio libre, especialmente vertical, resulta insuficiente para el ejercicio de la actividad de que se trate.",
+                "b) Cuando el suelo es regular.",
+                "c) Cuando la situaci\u00f3n o el medio de trabajo no permite al trabajador la manipulaci\u00f3n manual de cargas a una altura segura.",
+                "d) Cuando la situaci\u00f3n o el medio de trabajo no permite al trabajador la manipulaci\u00f3n manual de cargas en una postura correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el peso m\u00e1ximo que se recomienda no sobrepasar (en kg), en condiciones ideales de manipulaci\u00f3n?",
+            "respuestas": [
+                "a) 5.",
+                "b) 20.",
+                "c) 25.",
+                "d) 35."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 situaciones no se deben de manejar cargas superiores a 15 kg?",
+            "respuestas": [
+                "a) En mujeres y en trabajadores j\u00f3venes.",
+                "b) En trabajadores j\u00f3venes y en personas de edad avanzada.",
+                "c) En personas de edad avanzada y en mujeres.",
+                "d) En personas de edad avanzada, en trabajadores j\u00f3venes y en mujeres."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el l\u00edmite de alcance para muchas personas en altura (en cm) a la hora de manipular cargas?",
+            "respuestas": [
+                "a) 125.",
+                "b) 150.",
+                "c) 160.",
+                "d) 175."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 lesiones son las m\u00e1s frecuentes producidas en el aparato reproductor de los adultos por efecto de las radiaciones ionizantes?",
+            "respuestas": [
+                "a) Alteraciones de la fertilidad (infertilidad o esterilidad).",
+                "b) Alteraciones gen\u00e9ticas en caso de embarazo, por afectaci\u00f3n de las c\u00e9lulas germinales de los c\u00f3nyuges.",
+                "c) Alteraciones de las defensas org\u00e1nicas.",
+                "d) Alteraciones de la fertilidad (infertilidad o esterilidad) y alteraciones gen\u00e9ticas en caso de embarazo (por afectaci\u00f3n de las c\u00e9lulas germinales de los c\u00f3nyuges)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el primer principio esencial de expertos internacionales que constituyen el Viral Hepatitis Prevention Board (VHPB), necesario para cualquier programa destinado a prevenir la exposici\u00f3n a infecciones de transmisi\u00f3n hem\u00e1tica?",
+            "respuestas": [
+                "a) Mejorar los procedimientos de trabajo.",
+                "b) Aislar el material potencialmente infectado.",
+                "c) Identificar el riesgo.",
+                "d) Proteger a las personas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el mobbing que se produce si un empleado es agredido u hostigado por uno o varios compa\u00f1eros del mismo nivel jer\u00e1rquico en la empresa?",
+            "respuestas": [
+                "a) Ascendente.",
+                "b) Vertical.",
+                "c) Horizontal.",
+                "d) Descendente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo los objetos se consideran carga en relaci\u00f3n con su peso?",
+            "respuestas": [
+                "a) Aquellos que sobrepasen m\u00e1s de 1 kg.",
+                "b) Aquellos que sobrepasen m\u00e1s de 3 kg.",
+                "c) Aquellos que sobrepasen m\u00e1s de 25 kg.",
+                "d) Aquellos que sobrepasen m\u00e1s de 40 kg."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Entre las reglas en la prevenci\u00f3n de lesiones debido a la manipulaci\u00f3n de cargas en el trabajo todo es cierto excepto:",
+            "respuestas": [
+                "a) Alejarse la carga respecto al cuerpo del que la mueve.",
+                "b) Mantener la espalda recta y alineada.",
+                "c) No transportar m\u00e1s carga que la debida, con el fin de ahorrar viajes.",
+                "d) Utilizar si los hubiese los medios mec\u00e1nicos sobre los manuales."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 par\u00e1metro del sonido se mide en caso de sospecha de contaminaci\u00f3n ac\u00fastica?",
+            "respuestas": [
+                "a) Potencia.",
+                "b) Tono.",
+                "c) Intensidad.",
+                "d) Timbre."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La mayor\u00eda de las seroconversiones en el personal de enfermer\u00eda frente al VIH fueron:",
+            "respuestas": [
+                "a) Relacionadas con extracciones sangu\u00edneas.",
+                "b) Producidas por pinchazos.",
+                "c) Estos riesgos no se dan en el personal de enfermer\u00eda.",
+                "d) Relacionadas con extracciones sangu\u00edneas y fueron producidas por pinchazos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 se dice que \u201ces aquel en el que la producci\u00f3n de calor metab\u00f3lico est\u00e1 en equilibrio con las p\u00e9rdidas de calor org\u00e1nico (por convecci\u00f3n e irradiaci\u00f3n), las p\u00e9rdidas de calor respiratorio y la transpiraci\u00f3n insensible\u201d?",
+            "respuestas": [
+                "a) Ambiente t\u00e9rmico fisiol\u00f3gico.",
+                "b) Ambiente t\u00e9rmico neutro.",
+                "c) Ambiente t\u00e9rmico f\u00edsico-qu\u00edmico.",
+                "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 ergonom\u00eda se encarga del estudio de la relaci\u00f3n entre el ser humano y las condiciones m\u00e9tricas de su puesto de trabajo en lo relativo a su comodidad y confort est\u00e1tico, tanto en posiciones de pie como sentado, pie-sentado, etc.?",
+            "respuestas": [
+                "a) Ergonom\u00eda geom\u00e9trica.",
+                "b) Ergonom\u00eda geogr\u00e1fica.",
+                "c) Ergonom\u00eda ambiental.",
+                "d) Ergonom\u00eda temporal."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qui\u00e9n debe comunicarse inmediatamente ante un accidente laboral con exposici\u00f3n a sangre y fluidos corporales contaminados, como incidencia?",
+            "respuestas": [
+                "a) Debe comunicarse al servicio de riesgos laborales del hospital.",
+                "b) Debe comunicarse al responsable de la planta de hospitalizaci\u00f3n (supervisora de enfermer\u00eda).",
+                "c) Debe comunicarse al servicio de prevenci\u00f3n.",
+                "d) Debe comunicarse al gerente del hospital."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 consideras falso respecto de la aireaci\u00f3n natural en un local de trabajo?",
+            "respuestas": [
+                "a) Tiene el inconveniente de que dicho local est\u00e1 sometido a cambios bruscos de temperatura.",
+                "b) Con ella no se garantiza una temperatura m\u00e1s o menos constante a lo largo de todo el a\u00f1o.",
+                "c) En los casos de ambientes contaminados, nunca contribuyen a extender la contaminaci\u00f3n.",
+                "d) Genera corrientes."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 radiaciones electromagn\u00e9ticas de estas consideras ionizante?",
+            "respuestas": [
+                "a) Radiaciones Y e infrarroja.",
+                "b) Radiaciones X y gamma.",
+                "c) Radiaciones alfa y beta.",
+                "d) Radiaciones alfa e infrarroja."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 zonas anat\u00f3micas son frecuentes las lesiones por vibraciones en los trabajadores que emplean martillo neum\u00e1tico?",
+            "respuestas": [
+                "a) En manos.",
+                "b) En pies.",
+                "c) En brazos.",
+                "d) En rodillas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los esfuerzos repetitivos de las mu\u00f1ecas pueden ocasionar:",
+            "respuestas": [
+                "a) Tendinitis.",
+                "b) Cefaleas.",
+                "c) Lumbalgias.",
+                "d) Todo lo anterior."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la unidad m\u00e1s empleada en medicina del trabajo respecto al ambiente sonoro, si queremos evaluar la existencia o no de contaminaci\u00f3n ac\u00fastica?",
+            "respuestas": [
+                "a) Lumen.",
+                "b) Son.",
+                "c) Decibelio.",
+                "d) metro/segundo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 recomendaci\u00f3n o conducta a seguir ante un accidente laboral con exposici\u00f3n a sangre y fluidos corporales contaminados es falsa?",
+            "respuestas": [
+                "a) Se debe limpiar la herida inmediatamente despu\u00e9s del accidente.",
+                "b) Se debe determinar el estado inmunol\u00f3gico del sujeto accidentado frente a los virus: VHB, VHC y VIH.",
+                "c) Se debe comunicar todo accidente de forma inmediata al responsable de la planta de hospitalizaci\u00f3n (supervisor) y al Servicio de Medicina Preventiva del hospital.",
+                "d) No se debe quitar los guantes de manera inmediata despu\u00e9s de producirse el contacto accidental con sangre u otros fluidos del paciente."
+            ],
+            "verdadera": 4
+        }
+    ]
+}

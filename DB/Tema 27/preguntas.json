@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Las catecolaminas producen:",
+            "respuestas": [
+                "a) Vasoconstricci\u00f3n arterial y venosa, desv\u00eda el flujo de sangre de \u00f3rganos no vitales a los vitales.",
+                "b) Elevaci\u00f3n de frecuencia cardiaca y respiratoria.",
+                "c) Elevaci\u00f3n de tensi\u00f3n arterial y gasto card\u00edaco.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes afirmaciones sobre el boca a boca es falsa?",
+            "respuestas": [
+                "a) Debemos tapar los orificios nasales.",
+                "b) Debemos sellar la boca del paciente con nuestra boca.",
+                "c) Se realizar\u00e1n 2 insuflaciones cada 30 compresiones.",
+                "d) Se realizar\u00e1 una insuflaci\u00f3n profunda para mejorar la oxigenaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para valorar el nivel de conciencia del politraumatizado usaremos el m\u00e9todo:",
+            "respuestas": [
+                "a) VOS.",
+                "b) PAS.",
+                "c) ALEC.",
+                "d) ALLEN."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "No se considera material para la apertura de la v\u00eda a\u00e9rea:",
+            "respuestas": [
+                "a) Pinzas de Magill.",
+                "b) Gu\u00eda de tubo.",
+                "c) Tubos orofar\u00edngeos.",
+                "d) Tabla de RCP."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para poder elaborar un diagn\u00f3stico definitivo en un paciente intoxicado se debe recabar la m\u00e1xima informaci\u00f3n posible. Se intentar\u00e1 conseguir:",
+            "respuestas": [
+                "a) Nombre del producto y cantidad del producto ingerido.",
+                "b) V\u00eda de administraci\u00f3n por la que se ha producido la ingesta y posibles mezclas.",
+                "c) Tiempo transcurrido desde la administraci\u00f3n del producto y antecedentes patol\u00f3gicos previos del individuo.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes afirmaciones sobre el masaje cardiaco externo es falsa?",
+            "respuestas": [
+                "a) Se realiza en el centro del pecho.",
+                "b) Se realiza sobre el tercio inferior del estern\u00f3n.",
+                "c) Se realiza con los brazos oblicuos al cuerpo.",
+                "d) Se realiza con el tal\u00f3n de la mano."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se denomina PIC a:",
+            "respuestas": [
+                "a) Presi\u00f3n intercraneal.",
+                "b) Presi\u00f3n intracraneal.",
+                "c) Posici\u00f3n cervical.",
+                "d) Posici\u00f3n craneal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1les son los objetivos del tratamiento t\u00f3pico de las quemaduras?",
+            "respuestas": [
+                "a) Combatir la infecci\u00f3n, favorecer la epitelizaci\u00f3n y calmar el dolor.",
+                "b) Evacuar las flictenas y recortarlas.",
+                "c) Combatir la infecci\u00f3n y usar vendas de algod\u00f3n en las quemaduras.",
+                "d) Favorecer la cicatrizaci\u00f3n y combatir la infecci\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Es un ritmo desfibrilable:",
+            "respuestas": [
+                "a) TVSP.",
+                "b) Asistolia.",
+                "c) Sinusal.",
+                "d) Bloqueo completo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo se suspende la RCP b\u00e1sica?",
+            "respuestas": [
+                "a) Cuando la valoraci\u00f3n nos indica que el paciente presenta una PCR.",
+                "b) Cuando el paciente necesita una descarga el\u00e9ctrica.",
+                "c) Cuando el reanimador est\u00e1 exhausto.",
+                "d) Todas las respuestas son ciertas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la cl\u00ednica de la intoxicaci\u00f3n por litio?",
+            "respuestas": [
+                "a) N\u00e1useas, v\u00f3mitos, diarrea, ataxia, disartria, depresi\u00f3n del nivel de conciencia, convulsiones, poliuria e hiponatremia.",
+                "b) Sopor, p\u00e9rdida de reflejos, hipotermia, hipotensi\u00f3n y trastornos motores.",
+                "c) Alteraci\u00f3n del nivel de conciencia, depresi\u00f3n del SNC, ataxia, n\u00e1useas y v\u00f3mitos.",
+                "d) Disartria, hiperreflexia, depresi\u00f3n respiratoria, convulsiones e hipotensi\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Si est\u00e1 indicada la descarga con el desfibrilador deberemos estar seguros de que:",
+            "respuestas": [
+                "a) El ritmo es desfibrilable.",
+                "b) El nivel de julios es el correcto.",
+                "c) Nadie toca al paciente.",
+                "d) El DESA tiene bater\u00edas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La infecci\u00f3n de una herida quir\u00fargica se puede hacer evidente entre los:",
+            "respuestas": [
+                "a) 3 y 7 d\u00edas del posoperatorio.",
+                "b) 1 y 8 d\u00edas del posoperatorio.",
+                "c) 2 y 10 d\u00edas del posoperatorio.",
+                "d) 2 y 11 d\u00edas del posoperatorio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El \u00e1rea de compresi\u00f3n en los lactantes:",
+            "respuestas": [
+                "a) Es en la l\u00ednea intermamilar, sobre el estern\u00f3n.",
+                "b) Es en el mismo lugar que en los adultos.",
+                "c) Es con 3 dedos sobre la ap\u00f3fisis xifoides.",
+                "d) Es justo bajo la ap\u00f3fisis xifoides."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se realiza una correcta valoraci\u00f3n de la fase del shock en un paciente?",
+            "respuestas": [
+                "a) Var\u00eda en funci\u00f3n del tipo de shock, la etapa y el grado de compensaci\u00f3n.",
+                "b) Estudiando la repercusi\u00f3n a nivel perif\u00e9rico del inadecuado aporte de ox\u00edgeno.",
+                "c) Estudiando la conciencia del paciente.",
+                "d) Estudiando la repercusi\u00f3n a nivel central del inadecuado aporte de ox\u00edgeno."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Diferenciaremos que la sintomatolog\u00eda de la contusi\u00f3n es en el deltoides porque:",
+            "respuestas": [
+                "a) La contusi\u00f3n suele provocar lumbalgias de tipo muscular.",
+                "b) La flexi\u00f3n dorsal suele estar muy limitada y es dolorosa.",
+                "c) La contusi\u00f3n puede provocar desde hombros dolorosos simples hasta hombros congelados con compresi\u00f3n nerviosa, que deberemos valorar.",
+                "d) La intensidad de la lesi\u00f3n por la limitaci\u00f3n de la flexi\u00f3n activa y pasiva de la rodilla."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La c\u00e1nula de Guedel:",
+            "respuestas": [
+                "a) Es una c\u00e1nula orofar\u00edngea.",
+                "b) Se utiliza para mantener la v\u00eda a\u00e9rea permeable.",
+                "c) Es un tubo de pl\u00e1stico abierto en su interior.",
+                "d) Todas las respuestas son ciertas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Una dosis letal de Metanol es:",
+            "respuestas": [
+                "a) 70 ml.",
+                "b) 30 ml.",
+                "c) 50 ml.",
+                "d) 40 ml."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La causa m\u00e1s frecuente de parada cardiorrespiratoria en adultos es:",
+            "respuestas": [
+                "a) Torsades de pointes.",
+                "b) FV.",
+                "c) FA.",
+                "d) Enfermedad terminal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Se\u00f1ale cu\u00e1l de las siguientes no puede ser una causa de Shock Hipovol\u00e9mico:",
+            "respuestas": [
+                "a) Hemot\u00f3rax.",
+                "b) Quemadura.",
+                "c) Hemorragia Digestiva Baja.",
+                "d) Lesi\u00f3n en m\u00e9dula espinal por encima de T5-T6."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El estilo Utstein en el soporte vital b\u00e1sico es:",
+            "respuestas": [
+                "a) Un acuerdo a nivel mundial para consensuar definiciones relacionadas con la RCP.",
+                "b) La principal asociaci\u00f3n de indicaciones en RCP a nivel europeo.",
+                "c) La secuencia de actuaci\u00f3n correcta ante una emergencia cl\u00ednica.",
+                "d) Todas son ciertas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1les son las primeras medidas a poner en marcha en un esguince que se encuentra en un paciente politraumatizado mientras se realiza en la valoraci\u00f3n secundaria?",
+            "respuestas": [
+                "a) Venda de sost\u00e9n o presi\u00f3n y hielo o compresas fr\u00edas alrededor de la articulaci\u00f3n lesionada.",
+                "b) Reposo y elevaci\u00f3n de la articulaci\u00f3n.",
+                "c) Evitar la posici\u00f3n colgante de la articulaci\u00f3n lesionada.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Cuando la profundidad de la herida atraviesa el tejido subcut\u00e1neo hablamos de tipo:",
+            "respuestas": [
+                "a) Perforante.",
+                "b) Profunda.",
+                "c) Superficial.",
+                "d) Penetrante."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El tratamiento por intoxicaci\u00f3n de mon\u00f3xido de carbono consiste en:",
+            "respuestas": [
+                "a) Un lavado g\u00e1strico y carb\u00f3n activado, debiendo prestar especial atenci\u00f3n a los fallos respiratorios.",
+                "b) La administraci\u00f3n de ox\u00edgeno al 100 % (si es necesario en c\u00e1mara hiperb\u00e1rica).",
+                "c) El vaciado g\u00e1strico, no siendo efectivo en este caso el carb\u00f3n activo.",
+                "d) El tratamiento es sintom\u00e1tico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes funciones se considera propia de la TCAE en una situaci\u00f3n de parada cardiorrespiratoria?",
+            "respuestas": [
+                "a) Alerta del personal.",
+                "b) MCE.",
+                "c) Ventilaci\u00f3n.",
+                "d) Todas las respuestas son ciertas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para valorar la extensi\u00f3n de una quemadura se usa:",
+            "respuestas": [
+                "a) La regla de los 9.",
+                "b) La regla de Wallace.",
+                "c) La regla de los 10.",
+                "d) Las respuestas a) y b) son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las benzodiacepinas son:",
+            "respuestas": [
+                "a) F\u00e1rmacos hipn\u00f3tico-sedantes que se emplean sobre todo en el tratamiento del insomnio, la ansiedad, las rigideces musculares y en anestesiolog\u00eda.",
+                "b) F\u00e1rmacos hipn\u00f3tico-sedantes (fenobarbital, tiopental, pentobarbital\u2026). Est\u00e1n cayendo r\u00e1pidamente en desuso debido a la fuerte depresi\u00f3n respiratoria que producen y a los problemas de dependencia que generan.",
+                "c) Un mineral empleado en el tratamiento de las psicosis man\u00edaco-depresivas. La intoxicaci\u00f3n se suele producir por la proximidad entre los niveles terap\u00e9uticos (0,7-1,3 mEq/L) y los niveles de toxicidad (por encima de 1,5 mEq/L).",
+                "d) Conocidos como tranquilizantes mayores y provocan en el paciente una fuerte sedaci\u00f3n, tranquilidad psicomotora e indiferencia afectiva y al medio que les rodea."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La secuencia correcta entre MCE (masaje cardiaco externo) e insuflaciones es de:",
+            "respuestas": [
+                "a) 30/2.",
+                "b) 15/2.",
+                "c) 30/1.",
+                "d) Depende del n\u00famero de reanimadores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La maniobra de Heimlich la realizaremos en un paciente:",
+            "respuestas": [
+                "a) Que presente un OVACE incompleto y est\u00e9 inconsciente.",
+                "b) Que presente un OVACE completo y est\u00e9 consciente.",
+                "c) Que presente un OVACE completo y est\u00e9 inconsciente.",
+                "d) Que no pueda respirar con normalidad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes forma parte de los factores de cicatrizaci\u00f3n de las heridas?",
+            "respuestas": [
+                "a) Insomnio.",
+                "b) Hu\u00e9sped comprometido.",
+                "c) Ansiedad.",
+                "d) Sistema respiratorio."
+            ],
+            "verdadera": 2
+        }
+    ]
+}

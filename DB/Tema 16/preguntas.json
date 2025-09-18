@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 temperatura m\u00ednima no debe exceder nunca la bolsa de agua caliente que se aplica en termoterapia, ya que a partir de ella se dan lesiones (en \u00baC)?",
+            "respuestas": [
+                "a) Nunca a temperatura superior a los 30 \u00baC.",
+                "b) Nunca a temperatura superior a los 50 \u00baC.",
+                "c) Nunca a temperatura superior a los 60 \u00baC.",
+                "d) Nunca a temperatura superior a los 85 \u00baC."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 volumen aproximado se debe de llenar la bolsa de agua caliente?",
+            "respuestas": [
+                "a) 1/4 de su volumen.",
+                "b) 1/2 de su volumen.",
+                "c) 2/4 de su volumen.",
+                "d) 2/3 de su volumen."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se emplea para controlar la temperatura del paciente si se aplica crioterapia mediante mantas de hipotermia?",
+            "respuestas": [
+                "a) Receptor de radiofrecuencias.",
+                "b) Term\u00f3metro de empleo axilar.",
+                "c) Receptor-emisor de radiaci\u00f3n infrarroja.",
+                "d) Term\u00f3metro de empleo rectal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 efectos de estos no produce el fr\u00edo sobre los tejidos?",
+            "respuestas": [
+                "a) Efectos circulatorios, fundamentalmente por la vasoconstricci\u00f3n.",
+                "b) Efectos sobre el metabolismo, aumentando la actividad metab\u00f3lica sobre el organismo.",
+                "c) Efectos musculares: reduciendo el espasmo muscular.",
+                "d) Alivio del dolor."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tiempo de aplicaci\u00f3n debe emplearse en congestiones de la cabeza y cansancios de pies, si se da crioterapia?",
+            "respuestas": [
+                "a) Un cuarto de hora.",
+                "b) Diez minutos.",
+                "c) 4 a 5 minutos.",
+                "d) 30 a 60 segundos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipos de ba\u00f1os son los recomendados en hemorroides, congestiones p\u00e9lvicas, estre\u00f1imiento cr\u00f3nico, insomnio... durante 5-10 segundos varias veces?",
+            "respuestas": [
+                "a) Ba\u00f1os turcos.",
+                "b) Ba\u00f1os de asiento",
+                "c) Ba\u00f1os de agua caliente.",
+                "d) Ba\u00f1os de vapor."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso del uso de la manta el\u00e9ctrica y almohadilla el\u00e9ctrica empleadas en termoterapia?",
+            "respuestas": [
+                "a) La diferencia entre ambas es que la manta tiene mayor superficie que la almohadilla.",
+                "b) Ambas llevan en su interior una resistencia el\u00e9ctrica.",
+                "c) Son variantes de aplicaci\u00f3n de calor h\u00famedo.",
+                "d) No se emplean en crioterapia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modo de transferencia de calor de los empleados en termoterapia es profundo?",
+            "respuestas": [
+                "a) Conducci\u00f3n.",
+                "b) Convecci\u00f3n.",
+                "c) Conversi\u00f3n.",
+                "d) Radiaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 distancia de la piel debe colocarse la l\u00e1mpara de calor utilizada en termoterapia?",
+            "respuestas": [
+                "a) A 15 cm.",
+                "b) A 25 cm.",
+                "c) A 35 cm.",
+                "d) A 45 cm."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El calor no se debe emplear como fin terap\u00e9utico en:",
+            "respuestas": [
+                "a) Calambres.",
+                "b) Traumatismos.",
+                "c) Contracturas.",
+                "d) Se puede aplicar en todos los procesos anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una precauci\u00f3n que deber\u00e1 mantener el TCAE cuando aplique calor a un paciente?",
+            "respuestas": [
+                "a) Observar la piel en la zona a administrar, de manera previa, por si existen alteraciones que puedan modificar o contraindicar el tratamiento.",
+                "b) Los ancianos tienen disminuida la sensibilidad al calor.",
+                "c) Los ni\u00f1os presentan una inmadurez del sistema de termorregulaci\u00f3n.",
+                "d) Es frecuente la cefalea por hipertensi\u00f3n del paciente."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancia de estas se contraindica la crioterapia?",
+            "respuestas": [
+                "a) Hemorroides.",
+                "b) Artrosis.",
+                "c) Enfermedad de Raynaud.",
+                "d) Dismenorrea."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Una aplicaci\u00f3n con hielo seco es una t\u00e9cnica por:",
+            "respuestas": [
+                "a) Evaporaci\u00f3n.",
+                "b) Conversi\u00f3n.",
+                "c) Conducci\u00f3n.",
+                "d) Convecci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfPor qu\u00e9 medio se transmite el calor mediante la aplicaci\u00f3n de ceras o ba\u00f1os de parafina?",
+            "respuestas": [
+                "a) Por conducci\u00f3n.",
+                "b) Por convecci\u00f3n.",
+                "c) Por radiaci\u00f3n.",
+                "d) Por conversi\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 efectos no produce propiamente la hidroterapia?",
+            "respuestas": [
+                "a) F\u00edsico-qu\u00edmicos inertes.",
+                "b) Fisiol\u00f3gicos.",
+                "c) Psicol\u00f3gicos.",
+                "d) Terap\u00e9uticos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfMediante qu\u00e9 artilugio se puede regular el calor generado por una manta el\u00e9ctrica o/y una almohadilla el\u00e9ctrica?",
+            "respuestas": [
+                "a) Reostato.",
+                "b) Term\u00f3metro.",
+                "c) Criostato.",
+                "d) Termostato."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el m\u00e9todo de aplicaci\u00f3n de calor mediante el uso de parafina, aplic\u00e1ndola formando capas con la ayuda de una brocha?",
+            "respuestas": [
+                "a) Ba\u00f1os de parafina, por el m\u00e9todo de inmersi\u00f3n.",
+                "b) M\u00e9todo de vendaje.",
+                "c) Ba\u00f1os de parafina, por el m\u00e9todo de brocheado.",
+                "d) M\u00e9todo de pincelaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 efectos de estos no produce la aplicaci\u00f3n del calor sobre nuestro organismo?",
+            "respuestas": [
+                "a) Vasoconstricciones.",
+                "b) Eritemas.",
+                "c) Calentamientos cut\u00e1neos.",
+                "d) Aumento de la temperatura corporal."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9rmino se emplea para aquellas aplicaciones de placas calientes compuestas de barro y parafina en una zona concreta del cuerpo?",
+            "respuestas": [
+                "a) Peloides.",
+                "b) Pseudoparafinas.",
+                "c) Term\u00f3foros.",
+                "d) Parafangos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la aplicaci\u00f3n de fr\u00edo como medio terap\u00e9utico de fisioterapia?",
+            "respuestas": [
+                "a) Hidroterapia.",
+                "b) Helioterapia.",
+                "c) Crioterapia.",
+                "d) Termoterapia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 temperatura en agua caliente (en \u00baC) se introducen los fomentos calientes para aplicarlos terap\u00e9uticamente?",
+            "respuestas": [
+                "a) 35 \u00baC.",
+                "b) 45 \u00baC.",
+                "c) 55 \u00baC.",
+                "d) 65 \u00baC."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 patolog\u00eda est\u00e1 indicada la termoterapia?",
+            "respuestas": [
+                "a) En el caso de padecer fiebre elevada, y provocar la crisis t\u00e9rmica.",
+                "b) En pacientes con marcapasos.",
+                "c) En zonas corporales con riesgo al sangrado.",
+                "d) Dolor agudo recurrente de etiolog\u00eda neopl\u00e1sica (calor superficial)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 radiaci\u00f3n emite la l\u00e1mpara de calor utilizada en termoterapia?",
+            "respuestas": [
+                "a) Radiaci\u00f3n ultravioleta.",
+                "b) Radiaci\u00f3n infrarroja.",
+                "c) Radiaci\u00f3n X.",
+                "d) No emite radiaci\u00f3n, solo calor."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l debe ser la temperatura del agua para la realizaci\u00f3n de un ba\u00f1o de agua tibia?",
+            "respuestas": [
+                "a) Debe estar en torno a los 28 - 30 \u00baC.",
+                "b) Debe estar en torno a los 30 - 32 \u00baC.",
+                "c) Debe estar en torno a los 34 - 38 \u00baC.",
+                "d) Debe estar en torno a los 38 - 40 \u00baC."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas t\u00e9cnicas aplica calor por convecci\u00f3n?",
+            "respuestas": [
+                "a) Peloides.",
+                "b) Term\u00f3foros.",
+                "c) Ceras o parafinas.",
+                "d) Aire caliente h\u00famedo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el tiempo de aplicaci\u00f3n normalmente de calor mediante l\u00e1mpara de infrarrojos?",
+            "respuestas": [
+                "a) 1 a 3 minutos.",
+                "b) 10 a 20 minutos.",
+                "c) 21 a 27 minutos.",
+                "d) 30 minutos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La aplicaci\u00f3n de fr\u00edo mediante lociones o fricciones se emplea en:",
+            "respuestas": [
+                "a) Esguinces.",
+                "b) Contusiones.",
+                "c) Hipertermia.",
+                "d) Subluxaciones."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todas las formas de aplicaci\u00f3n de fr\u00edo que se expresan son ciertas, excepto:",
+            "respuestas": [
+                "a) Cold-packs.",
+                "b) Mantas de hipotermia.",
+                "c) Lociones o fricciones fr\u00edas.",
+                "d) Bolsa de hielo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las duchas tibias se aplican generalmente en caso de:",
+            "respuestas": [
+                "a) Fiebre en ni\u00f1os.",
+                "b) Artritis cr\u00f3nica.",
+                "c) Efectuar anestesia local en un \u00e1rea musculo-esquel\u00e9tica.",
+                "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfPara qu\u00e9 zonas corporales se emplean los remojos fr\u00edos?",
+            "respuestas": [
+                "a) Cabeza y cara.",
+                "b) T\u00f3rax y espalda.",
+                "c) Manos, brazos, pies, piernas y regi\u00f3n perineal.",
+                "d) Abdomen y zona lumbar."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

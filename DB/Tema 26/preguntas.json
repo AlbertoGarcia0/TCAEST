@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Si la incontinencia del paciente es urinaria y fecal, en ese par\u00e1metro de la Escala de Norton obtendr\u00eda una puntuaci\u00f3n de:",
+            "respuestas": [
+                "a) 4.",
+                "b) 3.",
+                "c) 2.",
+                "d) 1."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 zona de estas es menos expuesta en la g\u00e9nesis de \u00falcera por presi\u00f3n cuando el paciente est\u00e1 en dec\u00fabito supino?",
+            "respuestas": [
+                "a) Tal\u00f3n.",
+                "b) Dedos de los pies.",
+                "c) Regi\u00f3n gl\u00fatea.",
+                "d) Sacro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos par\u00e1metros se valoran en la Escala de Braden?",
+            "respuestas": [
+                "a) 3.",
+                "b) 4.",
+                "c) 5.",
+                "d) 6."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 personas son menos frecuentes las apariciones de \u00falcera por presi\u00f3n?",
+            "respuestas": [
+                "a) En ancianos.",
+                "b) En ni\u00f1os peque\u00f1os.",
+                "c) En adultos j\u00f3venes.",
+                "d) No existe ninguna edad o etapa concreta de la vida de mayor o menor predilecci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 fuerzas o presiones aparecen en la g\u00e9nesis de las \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) Presiones directas ejercidas sobre la piel y presiones indirectas por rozamientos.",
+                "b) Presiones indirectas por rozamientos y presiones indirectas por cizallamiento.",
+                "c) Presiones directas por cizallamiento y presiones directas ejercidas sobre la piel",
+                "d) Presiones directas ejercidas sobre la piel, presiones indirectas por rozamientos y presiones indirectas por cizallamiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1les son los planos duros que ejercen presi\u00f3n para que se d\u00e9 la \u00falcera por presi\u00f3n?",
+            "respuestas": [
+                "a) El colch\u00f3n o asiento sobre el que reposa el enfermo y por otro la superficie \u00f3sea del paciente.",
+                "b) Las s\u00e1banas o colchas empleadas y las manos de los cuidadores.",
+                "c) Las manos de los cuidadores y el colch\u00f3n o asiento sobre el que reposa el enfermo.",
+                "d) Las manos de los cuidadores y la superficie \u00f3sea del paciente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En posici\u00f3n de sentado, la \u00falcera por presi\u00f3n aparecer\u00e1 m\u00e1s frecuentemente en:",
+            "respuestas": [
+                "a) La tuberosidad isqui\u00e1tica.",
+                "b) La tuberosidad p\u00fabica.",
+                "c) Los acromiones.",
+                "d) Los ol\u00e9cranos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es caracter\u00edstico de las \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) La ausencia de relaci\u00f3n entre la presi\u00f3n ejercida y la intensidad de la misma.",
+                "b) Superficie afectada y tama\u00f1o de la lesi\u00f3n.",
+                "c) El exceso tr\u00f3fico de la zona con la ausencia de isquemia.",
+                "d) La ausencia de relaci\u00f3n entre la presi\u00f3n ejercida y el tiempo que se ejerce."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas consideras una causa vascular en la g\u00e9nesis de la \u00falcera por presi\u00f3n?",
+            "respuestas": [
+                "a) Ausencia de reflejos vasomotores.",
+                "b) Arteriosclerosis.",
+                "c) Alteraciones de la microcirculaci\u00f3n y estados de shock.",
+                "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la fase de formaci\u00f3n de la \u00falcera por presi\u00f3n que se caracteriza por la aparici\u00f3n de erosi\u00f3n y/o flictena y m\u00e1s tarde coloraci\u00f3n gris\u00e1cea o negruzca que indica la necrosis del tejido subcut\u00e1neo, acompa\u00f1ado de dolor local?",
+            "respuestas": [
+                "a) Fase de inicio.",
+                "b) Fase escoriativa.",
+                "c) Fase eritematosa.",
+                "d) Fase necr\u00f3tica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 situaciones son m\u00e1s proclives a la aparici\u00f3n de \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) Individuos operados de fractura de cabeza de f\u00e9mur, pelvis o extremidades inferiores.",
+                "b) Personas con peso normal.",
+                "c) Individuos con enfermedad cut\u00e1nea, sin riesgo tr\u00f3fico o de nutrici\u00f3n en sus tejidos.",
+                "d) Enfermos psiqui\u00e1tricos no sedados, ni encamados."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La presi\u00f3n capilar (en mm de Hg) normal var\u00eda entre:",
+            "respuestas": [
+                "a) 80-93.",
+                "b) 16-33.",
+                "c) 66-83.",
+                "d) 10-25."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La aparici\u00f3n de \u00falcera iatrog\u00e9nica en mu\u00f1ecas y pies, suele ser por:",
+            "respuestas": [
+                "a) Agresiones indebidas del sanitario.",
+                "b) Sujeciones mec\u00e1nicas.",
+                "c) Autolesiones.",
+                "d) No se producen."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCada cu\u00e1nto tiempo deben realizarse los cambios de posici\u00f3n en pacientes con riesgos a \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) Cada 2-3 horas.",
+                "b) Cada 4-6 horas.",
+                "c) Cada 6-8 horas.",
+                "d) Cada 12 horas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El estadio II de la \u00falcera por presi\u00f3n seg\u00fan la Agency for Health Care and Research es cuando aparece:",
+            "respuestas": [
+                "a) Necrosis del tejido subcut\u00e1neo, del m\u00fasculo y del hueso.",
+                "b) Un eritema (piel enrojecida) que no cede al retirar el est\u00edmulo de presi\u00f3n en la piel intacta.",
+                "c) Una disminuci\u00f3n del grosor del tejido cut\u00e1neo afectando a la dermis y epidermis (aparecen ves\u00edculas) y comenzando a afectar la hipodermis.",
+                "d) Una p\u00e9rdida total del grosor de la piel que se acompa\u00f1a de lesi\u00f3n o necrosis del tejido subcut\u00e1neo y aparecen escaras."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 estadio es la pre\u00falcera seg\u00fan la clasificaci\u00f3n del Grupo Nacional para el Estudio y Asesoramiento sobre las \u00dalceras por Presi\u00f3n y el Grupo Europeo de \u00dalceras por Presi\u00f3n?",
+            "respuestas": [
+                "a) Estadio 0.",
+                "b) Estadio 1.",
+                "c) Estadio a.",
+                "d) Estadio A."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos no es un par\u00e1metro de la Escala de Norton?",
+            "respuestas": [
+                "a) Incontinencia.",
+                "b) Estado general.",
+                "c) Percepci\u00f3n sensorial.",
+                "d) Movilidad"
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9nes recomiendan la Escala de Braden en la valoraci\u00f3n de los riesgos de padecer \u00falcera de presi\u00f3n?",
+            "respuestas": [
+                "a) Agency USAE.",
+                "b) NURSING.",
+                "c) La GNEAUPP (Grupo Nacional para el Estudio y Asesoramiento sobre las \u00dalceras por Presi\u00f3n).",
+                "d) Todas las instituciones anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la base para la prevenci\u00f3n y el tratamiento de las \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) Sequedad de la cama y sus \u00fatiles.",
+                "b) Sequedad de la piel del paciente y adecuada nutrici\u00f3n de la misma.",
+                "c) Una planificaci\u00f3n de los cuidados de enfermer\u00eda basada en la continuidad sistem\u00e1tica de los mismos.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo no est\u00e1 contraindicado el masaje en la UPP?",
+            "respuestas": [
+                "a) Nunca est\u00e1 contraindicado, es aconsejable",
+                "b) Siempre est\u00e1 contraindicado, est\u00e1 prohibido ya que la agrava.",
+                "c) Cuando no agrava la pre\u00falcera.",
+                "d) Si la zona a\u00fan no tiene enrojecimiento (eritema)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos par\u00e1metros se valoran en la Escala de Norton?",
+            "respuestas": [
+                "a) 3.",
+                "b) 4.",
+                "c) 5.",
+                "d) 6."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 puntuaci\u00f3n presentar\u00eda un paciente (Escala de Norton) con \u00falcera por presi\u00f3n que presenta un estado f\u00edsico general regular, una actividad disminuida, sin incontinencia, y est\u00e1 sentado y confuso?",
+            "respuestas": [
+                "a) 24.",
+                "b) 20.",
+                "c) 13.",
+                "d) 9."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Lo m\u00e1s caracter\u00edstico del tejido que conforma una \u00falcera por presi\u00f3n a nivel celular es:",
+            "respuestas": [
+                "a) La necrosis.",
+                "b) La anemia.",
+                "c) La hiperglucohistia.",
+                "d) Todo lo anterior."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfPor debajo de qu\u00e9 valor en la Escala de Braden existe alto riesgo de \u00falcera por presi\u00f3n? Por debajo de\u2026",
+            "respuestas": [
+                "a) 20.",
+                "b) 17.",
+                "c) 13.",
+                "d) 9."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Es fundamental en la higiene, especialmente en los pliegues cut\u00e1neos para prevenir la UPP que se realice:",
+            "respuestas": [
+                "a) Un lavado en d\u00edas alternos, con jab\u00f3n de pH \u00e1cido y secado escrupuloso.",
+                "b) Un lavado cada tres d\u00edas con jab\u00f3n de pH neutro y secado escrupuloso.",
+                "c) Un lavado diario con jab\u00f3n de pH neutro y secado escrupuloso.",
+                "d) Un lavado diario con jab\u00f3n de pH alcalino y secado poco minucioso."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 ap\u00f3sitos est\u00e1n formados por carboximetilcelulosa s\u00f3dica?",
+            "respuestas": [
+                "a) Hidrogeles.",
+                "b) Alginatos.",
+                "c) Poliuretanos.",
+                "d) Hidrocoloides."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 susceptibilidad crean los enfermos que padecen insuficiencias cardiacas descompensadas o no tratadas, que lo hacen m\u00e1s proclives a padecer \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) Alteraci\u00f3n del estado de consciencia.",
+                "b) Disminuci\u00f3n circulatoria que conlleva a una desnutrici\u00f3n de los tejidos.",
+                "c) Disminuci\u00f3n en el balance de gases.",
+                "d) Mayor peso corporal"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el desbridamiento que es realizado a pie de cama por la enfermera, retirando de forma selectiva el tejido desvitalizado?",
+            "respuestas": [
+                "a) Cortante.",
+                "b) Qu\u00edmico.",
+                "c) Quir\u00fargico.",
+                "d) Autol\u00edtico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de enfermo de estos puede tener la consciencia alterada y por ello ser m\u00e1s susceptible a padecer \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) Enfermos psiqui\u00e1tricos sometidos a fuertes dosis de sedantes.",
+                "b) Enfermos incontinentes.",
+                "c) Enfermos con S\u00edndrome de Cushing.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 numeraci\u00f3n ser\u00eda en la Escala de Braden respecto a la exposici\u00f3n a la humedad en pacientes con \u00falceras por presi\u00f3n cuando es raro que la zona est\u00e9 h\u00fameda?",
+            "respuestas": [
+                "a) 1.",
+                "b) 2.",
+                "c) 3.",
+                "d) 4."
+            ],
+            "verdadera": 4
+        }
+    ]
+}

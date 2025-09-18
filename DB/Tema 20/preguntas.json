@@ -1,0 +1,294 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 vitamina es m\u00e1s escasa en leche vaca?",
+            "respuestas": [
+                "a) Complejo B.",
+                "b) A.",
+                "c) D.",
+                "d) Ninguna."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La inmersi\u00f3n en agua del neonato no se aconseja hasta despu\u00e9s de:",
+            "respuestas": [
+                "a) La ca\u00edda del cord\u00f3n.",
+                "b) El primer mes de vida.",
+                "c) Las dos semanas de vida.",
+                "d) Es indiferente el ba\u00f1o en cualquier momento."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La ictericia fisiol\u00f3gica est\u00e1 relacionada con:",
+            "respuestas": [
+                "a) Inmadurez renal del neonato.",
+                "b) Inmadurez hep\u00e1tica del neonato.",
+                "c) El consumo de la leche artificial.",
+                "d) Incompatibilidad Rh madre/neonato."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El per\u00edmetro tor\u00e1cico al nacer estar\u00e1 en torno a:",
+            "respuestas": [
+                "a) 28 cm.",
+                "b) 33 cm.",
+                "c) 38 cm.",
+                "d) 40 cm."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El reflejo del abrazo o del susto es el de:",
+            "respuestas": [
+                "a) De Moro.",
+                "b) De b\u00fasqueda.",
+                "c) T\u00f3nico del cuello.",
+                "d) De marcha autom\u00e1tica."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos consideras un neonato \u201ca t\u00e9rmino\u201d?",
+            "respuestas": [
+                "a) Aquel que naci\u00f3 con 32 semanas de gestaci\u00f3n.",
+                "b) Aquel que naci\u00f3 con 35 semanas de gestaci\u00f3n.",
+                "c) Aquel que naci\u00f3 con 38 semanas de gestaci\u00f3n.",
+                "d) Aquel que naci\u00f3 con 45 semanas de gestaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto como m\u00e1ximo debe durar la leche materna en frigor\u00edfico (4 \u00baC)?",
+            "respuestas": [
+                "a) 1 d\u00eda.",
+                "b) 3 d\u00edas.",
+                "c) 5 d\u00edas.",
+                "d) 15 d\u00edas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La temperatura del neonato tiende a estabilizarse a:",
+            "respuestas": [
+                "a) 35 \u00baC.",
+                "b) 35,5 \u00baC.",
+                "c) 36,5 \u00baC.",
+                "d) 37 \u00baC."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto m\u00e1s o menos de estos valores son adecuados para un per\u00edmetro cef\u00e1lico normal a los tres d\u00edas de nacer?",
+            "respuestas": [
+                "a) 35 cm.",
+                "b) 40 cm.",
+                "c) 45 cm.",
+                "d) 50 cm."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 caracter\u00edstica define mejor al paciente adolescente en el contexto sanitario?",
+            "respuestas": [
+                "a) Tiene baja necesidad de privacidad.",
+                "b) Requiere juegos para colaborar.",
+                "c) Depende totalmente del cuidador.",
+                "d) Desea ser escuchado y participar en decisiones."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El lanugo en el neonato es:",
+            "respuestas": [
+                "a) Una piel seb\u00e1cea con vellos gruesos en determinados lugares.",
+                "b) Un vello fino que recubre la piel m\u00e1s frecuentemente en frente, mejillas, hombros y espalda.",
+                "c) Un vello de mayor grosor y m\u00e1s corto que protege al ni\u00f1o al nacer.",
+                "d) Capa seb\u00e1cea de la piel del neonato."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sustancia de estas es escasa en la leche materna y no cubre adecuadamente los requerimientos del lactante?",
+            "respuestas": [
+                "a) Los l\u00edpidos.",
+                "b) Las prote\u00ednas.",
+                "c) Los hidratos de carbono.",
+                "d) Hierro."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La talla normal del reci\u00e9n nacido estar\u00e1 en torno a:",
+            "respuestas": [
+                "a) 40 cm.",
+                "b) 45 cm.",
+                "c) 50 cm.",
+                "d) 55 cm."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las leches que se emplean en lactancia artificial?",
+            "respuestas": [
+                "a) Leches en polvo.",
+                "b) Leches en gr\u00e1nulos.",
+                "c) Leches adaptadas.",
+                "d) Leche materna."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La primera semana de vida comprende el per\u00edodo:",
+            "respuestas": [
+                "a) Del beb\u00e9.",
+                "b) Del lactante.",
+                "c) Neonatal precoz.",
+                "d) Neonatal tard\u00edo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos ni\u00f1os puede considerarse reci\u00e9n nacido?",
+            "respuestas": [
+                "a) Si tiene tras parir su madre 27 d\u00edas de vida.",
+                "b) Si tiene tras parir su madre 35 d\u00edas de vida.",
+                "c) Si tiene tras parir su madre 250 d\u00edas de vida.",
+                "d) Si tiene tras parir su madre 1 a\u00f1o de vida."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es un factor interno e importante de la vivencia de la enfermedad durante la hospitalizaci\u00f3n en la infancia o/y adolescencia?",
+            "respuestas": [
+                "a) Sexo.",
+                "b) Edad.",
+                "c) Gravedad de la enfermedad.",
+                "d) Constituci\u00f3n f\u00edsica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Se\u00f1ale la respuesta incorrecta acerca de la dieta en la enfermedad celiaca:",
+            "respuestas": [
+                "a) El gluten se encuentra fundamentalmente en el ma\u00edz y el arroz.",
+                "b) Los que presentan esta enfermedad no pueden digerir parte del gluten por lo que se almacena una sustancia perjudicial para las c\u00e9lulas de la mucosa.",
+                "c) El tratamiento est\u00e1 basado en la dieta sin gluten.",
+                "d) La enfermedad celiaca consiste en una intolerancia al gluten."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sustancia recubre la piel del neonato de color blanco gris\u00e1ceo?",
+            "respuestas": [
+                "a) Lanugo.",
+                "b) V\u00e9rnix caseoso.",
+                "c) Dermatosebo.",
+                "d) Nada de lo anterior."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 debe suministrar la mayor\u00eda de la energ\u00eda al lactante?",
+            "respuestas": [
+                "a) Los l\u00edpidos.",
+                "b) Las prote\u00ednas.",
+                "c) Los hidratos de carbono.",
+                "d) Las vitaminas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El unto seb\u00e1ceo es:",
+            "respuestas": [
+                "a) Lanugo.",
+                "b) V\u00e9rnix caseoso.",
+                "c) Dermatosebo.",
+                "d) Problema seborreico que presenta el neonato."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 es m\u00e1s pobre el calostro que la leche definitiva?",
+            "respuestas": [
+                "a) En vitaminas.",
+                "b) En sodio.",
+                "c) En prote\u00ednas.",
+                "d) En lactosa."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina al ni\u00f1o que nace antes de la 37 semana de gestaci\u00f3n?",
+            "respuestas": [
+                "a) Bajo de peso.",
+                "b) Pret\u00e9rmino.",
+                "c) Post\u00e9rmino.",
+                "d) Hipomaduro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 porcentaje o parte de su cuerpo representa la cabeza en el reci\u00e9n nacido?",
+            "respuestas": [
+                "a) La octava parte de su cuerpo.",
+                "b) La sexta parte de su cuerpo.",
+                "c) La cuarta parte de su cuerpo.",
+                "d) La mitad de su cuerpo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La ictericia patol\u00f3gica se produce:",
+            "respuestas": [
+                "a) En las primeras 24 horas de vida.",
+                "b) Despu\u00e9s de la semana de vida.",
+                "c) Despu\u00e9s de las 2 semanas de vida.",
+                "d) Despu\u00e9s de las 3 semanas de vida."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto debe durar el ba\u00f1o del neonato (en minutos)?",
+            "respuestas": [
+                "a) 25-30.",
+                "b) 20-25.",
+                "c) 15-20.",
+                "d) 5-10."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 cuidado respiratorio del neonato no es cierto?",
+            "respuestas": [
+                "a) Nunca se debe colocar inicialmente al neonato boca abajo, ya que no permitir\u00e1 adecuadamente la salida de secreciones.",
+                "b) Con una sonda blanda y un aparato de aspiraci\u00f3n, se eliminan las secreciones.",
+                "c) Al ni\u00f1o hay que cambiarlo de posici\u00f3n para ayudarle a que drene las secreciones.",
+                "d) La posici\u00f3n m\u00e1s adecuada para que drene es el dec\u00fabito lateral, que facilita su salida de las v\u00edas respiratorias."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 complicaci\u00f3n precoz no se da en un reci\u00e9n nacido?",
+            "respuestas": [
+                "a) Hipertermia por trastorno regulatorio de la temperatura.",
+                "b) Trastornos respiratorios.",
+                "c) Predisposici\u00f3n a infecciones.",
+                "d) Riesgo de hipoglucemia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el estadio del sue\u00f1o del neonato que presenta ojos cerrados, respiraciones irregulares, sigue quieto pero hay alguna que otra contracci\u00f3n espasm\u00f3dica?",
+            "respuestas": [
+                "a) Sue\u00f1o regular.",
+                "b) Sue\u00f1o irregular.",
+                "c) Somnolencia.",
+                "d) Inactividad alerta."
+            ],
+            "verdadera": 2
+        }
+    ]
+}

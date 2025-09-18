@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 grado de eficacia de las medidas de prevenci\u00f3n de las infecciones nosocomiales es la vigilancia de cat\u00e9teres intravenosos? Grado\u2026",
+            "respuestas": [
+                "a) 1.",
+                "b) 2.",
+                "c) 3.",
+                "d) 4."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso o inadecuado para cumplir con el lavado de manos de forma correcta?",
+            "respuestas": [
+                "a) Las u\u00f1as del personal sanitario deben ser cortas.",
+                "b) No se deben llevar reloj de pulseras, ni sortijas cuando se trabaja como personal sanitario.",
+                "c) El personal sanitario puede y debe de llevar anillos, si estos guardan alg\u00fan mensaje de condici\u00f3n o peculiaridad personal.",
+                "d) No se debe de llevar en el trabajo ning\u00fan tipo de esmalte en u\u00f1as."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de \u00e9stas es la infecci\u00f3n hospitalaria que m\u00e1s frecuentemente ocasiona mortalidad?",
+            "respuestas": [
+                "a) Neumon\u00edas.",
+                "b) Infecciones urinarias.",
+                "c) Infecciones de heridas quir\u00fargicas.",
+                "d) Infecciones cut\u00e1neas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es el n\u00ba de personas portadoras en un per\u00edodo/n\u00ba de personas observadas en el per\u00edodo x meses de observaci\u00f3n?",
+            "respuestas": [
+                "a) La tasa de prevalencia.",
+                "b) Tiempo expuesto.",
+                "c) La tasa de incidencia.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 fuentes de las infecciones es hom\u00f3loga?",
+            "respuestas": [
+                "a) Animales.",
+                "b) Objetos inanimados.",
+                "c) Personas.",
+                "d) Suelo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas afirmaciones no es correcta respecto a los postulados de Koch?",
+            "respuestas": [
+                "a) Siempre debemos encontrar el microorganismo en la enfermedad.",
+                "b) Se debe aislar, pero no se cultiva desde las lesiones.",
+                "c) Se reproduce la enfermedad al inocular un cultivo puro a un animal susceptible.",
+                "d) El microorganismo debe dar lugar a una respuesta inmune detectable en laboratorio."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El aislamiento hospitalario frente al c\u00f3lera es de tipo:",
+            "respuestas": [
+                "a) Respiratorio.",
+                "b) Ent\u00e9rico.",
+                "c) Protector.",
+                "d) Estricto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 momento en la pr\u00e1ctica diaria debe realizarse el lavado de manos por primera vez en la jornada?",
+            "respuestas": [
+                "a) Al llegar al trabajo.",
+                "b) Despu\u00e9s de quitarse los guantes.",
+                "c) Despu\u00e9s de utilizar los servicios.",
+                "d) Al terminar la jornada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El suelo en la cadena epidemiol\u00f3gica se comporta como:",
+            "respuestas": [
+                "a) Reservorio exclusivamente.",
+                "b) Mecanismo de transmisi\u00f3n exclusivamente.",
+                "c) Reservorio o mecanismo de transmisi\u00f3n.",
+                "d) Hu\u00e9sped refractario o v\u00eda de contagio."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfPor qu\u00e9 es necesario el uso de guantes est\u00e9riles en cirug\u00eda?",
+            "respuestas": [
+                "a) Para complementar el lavado de mano, aunque este es ya seguro.",
+                "b) Porque el lavado de manos quir\u00fargico no garantiza la eliminaci\u00f3n de los microorganismos.",
+                "c) No se emplean guantes est\u00e9riles en cirug\u00eda.",
+                "d) En cirug\u00eda se emplean guantes desechables no est\u00e9riles que complementar el lavado de mano."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de aislamiento se efect\u00faa frente a la difteria far\u00edngea? Aislamiento\u2026",
+            "respuestas": [
+                "a) Respiratorio.",
+                "b) Ent\u00e9rico.",
+                "c) Protector.",
+                "d) Estricto."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 enfermedad de las que se exponen posee un mecanismo de transmisi\u00f3n heter\u00f3logo con tres eslabones?",
+            "respuestas": [
+                "a) C\u00f3lera.",
+                "b) Hepatitis B.",
+                "c) Brucelosis.",
+                "d) Peste."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Dentro de las medidas de prevenci\u00f3n de las infecciones nosocomiales, se considerar\u00eda de Grado III o eficacia dudosa o desconocida:",
+            "respuestas": [
+                "a) Quimioprofilaxis en cirug\u00eda contaminada.",
+                "b) Control rutinario bacteriol\u00f3gico del ambiente.",
+                "c) Procedimientos de aislamiento.",
+                "d) Vacunaci\u00f3n del personal sanitario (hepatitis B, Gripe, etc.)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso en la colocaci\u00f3n correcta de la mascarilla?",
+            "respuestas": [
+                "a) Debe adaptarse perfectamente a la fisonom\u00eda de la cara y nariz, de manera que no queden huecos para que se escape el aire exhalado.",
+                "b) Si el personal sanitario posee barba, la mascarilla debe cubrirla completamente una vez colocada.",
+                "c) La mascarilla debe cubrir completamente la boca, pero no la nariz, para as\u00ed poder respirar adecuadamente.",
+                "d) La mascarilla hay que colocarla antes de realizar el lavado quir\u00fargico de las manos y atarla adecuadamente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 recomendaci\u00f3n corrientemente se debe llevar a cabo si las manos no est\u00e1n visiblemente sucias?",
+            "respuestas": [
+                "a) Deben lavarse las manos con agua y jab\u00f3n antimicrobiano.",
+                "b) Usar soluciones alcoh\u00f3licas para la frotaci\u00f3n de manos para la descontaminaci\u00f3n rutinaria.",
+                "c) Deben lavarse las manos con agua y jab\u00f3n antimicrobiano o no antimicrobiano.",
+                "d) No es necesario hacer nada."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 agentes son los mayores responsables de muerte de infecciones hospitalarias?",
+            "respuestas": [
+                "a) Bacterias grampositivas.",
+                "b) Hongos (c\u00e1ndida albicans).",
+                "c) Virus ARN.",
+                "d) Bacterias gramnegativas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 v\u00eda de transmisi\u00f3n de estas es la m\u00e1s frecuente?",
+            "respuestas": [
+                "a) Transplacentaria.",
+                "b) Por bebida de fuente contaminada o comida contaminada.",
+                "c) Por v\u00eda a\u00e9rea.",
+                "d) Por v\u00eda ven\u00e9rea."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA partir de qu\u00e9 a\u00f1o los estudios EPINE de prevalencia comienzan a ser referidos a las infecciones relacionadas con la asistencia sanitaria (IRAS)?",
+            "respuestas": [
+                "a) 2017.",
+                "b) 2018.",
+                "c) 2019.",
+                "d) 1020."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 material de estos deben ser las ropas y vestuario de quir\u00f3fano? De\u2026",
+            "respuestas": [
+                "a) Lana, con tejido o malla d\u00e9bil.",
+                "b) Algod\u00f3n, con tejido o malla fuerte.",
+                "c) Papel permeable.",
+                "d) Matriz de nylon."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo ocurren las infecciones aut\u00f3genas?",
+            "respuestas": [
+                "a) Ocurre por microorganismo que est\u00e1n generalmente en los animales.",
+                "b) Ocurre por microorganismo que est\u00e1n de forma habitual en el hombre.",
+                "c) Ocurre por microorganismo que est\u00e1n de forma habitual en el suelo.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n debe elaborar una lista limitada de antibi\u00f3ticos y establecer normas respecto a las indicaciones terap\u00e9uticas y preventivas? La debe elaborar\u2026",
+            "respuestas": [
+                "a) El Comit\u00e9 Cient\u00edfico del Hospital.",
+                "b) El Servicio de Salud P\u00fablica y Medicina Preventiva.",
+                "c) El Comit\u00e9 de Infecciones.",
+                "d) El Servicio de Microbiolog\u00eda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La persona con capacidad padecer una enfermedad infecciosa se denomina t\u00e9cnicamente:",
+            "respuestas": [
+                "a) Portador enfermo.",
+                "b) Portador sano o asintom\u00e1tico.",
+                "c) Hu\u00e9sped susceptible.",
+                "d) Hu\u00e9sped refractario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La triada epidemiol\u00f3gica relaciona:",
+            "respuestas": [
+                "a) Al agente causal, hu\u00e9sped susceptible y ambiente.",
+                "b) Al agente causal, hu\u00e9sped susceptible y reservorio.",
+                "c) Al agente causal, hu\u00e9sped susceptible y mecanismo de transmisi\u00f3n.",
+                "d) Al agente causal, hu\u00e9sped susceptible y factores epidemiol\u00f3gicos secundarios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El TCAE debe lavarse las manos antes del contacto con el paciente para:",
+            "respuestas": [
+                "a) Para proteger al paciente de los g\u00e9rmenes nocivos que podr\u00edan entrar en su cuerpo, incluidos los g\u00e9rmenes del propio paciente.",
+                "b) Para protegerse y proteger el entorno de atenci\u00f3n de salud de los g\u00e9rmenes da\u00f1inos del paciente.",
+                "c) Para proteger a los familiares del paciente de los g\u00e9rmenes nocivos que tiene en las manos el auxiliar y el paciente.",
+                "d) Para proteger al paciente de los g\u00e9rmenes nocivos que tiene en las manos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el antis\u00e9ptico m\u00e1s empleado para el lavado quir\u00fargico de manos?",
+            "respuestas": [
+                "a) Povidona yodada al 75 %.",
+                "b) Clorhexidina al 4 %.",
+                "c) Suero fisiol\u00f3gico.",
+                "d) Alcohol de 70\u00ba."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 hace referencia la definici\u00f3n: \u201cTodo ser animado o inanimado, en los que el agente etiol\u00f3gico se reproduce y se perpet\u00faa en un ambiente natural del que depende para su supervivencia\u201d?",
+            "respuestas": [
+                "a) Reservorio.",
+                "b) Fuente de infecci\u00f3n.",
+                "c) Fuente de contagio.",
+                "d) Fuente adicional."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 agente transmite la sarna?",
+            "respuestas": [
+                "a) VIH (SIDA).",
+                "b) Sarcopte scabiei.",
+                "c) Clostridium tetani.",
+                "d) Covid 19."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas patolog\u00edas cusan m\u00e1s muertes a nivel de infecciones hospitalarias?",
+            "respuestas": [
+                "a) Infecciones quir\u00fargicas.",
+                "b) Infecciones urinarias.",
+                "c) Neumon\u00edas.",
+                "d) Infecciones cut\u00e1neo-mucosas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El lavado de mano especial, se denomina tambi\u00e9n:",
+            "respuestas": [
+                "a) Antis\u00e9ptico.",
+                "b) Rutinario.",
+                "c) Quir\u00fargico.",
+                "d) Habitual."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las heridas quir\u00fargicas seg\u00fan contaminaci\u00f3n existente si son abiertas y recientes (menos de 4 horas), efectuadas en operaciones con alteraciones de la t\u00e9cnica est\u00e9ril? Cirug\u00eda\u2026",
+            "respuestas": [
+                "a) Limpia.",
+                "b) Limpia- contaminada.",
+                "c) Contaminada.",
+                "d) Sucia."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 germen causa la tuberculosis?",
+            "respuestas": [
+                "a) El bacilo de Koch.",
+                "b) El Mycobacterium tuberculosis.",
+                "c) El bacilo de Hansen.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las estructuras bronquiales extrapulmonares?",
+            "respuestas": [
+                "a) Bronquios principales.",
+                "b) Bronquios terciarios.",
+                "c) Bronquiolos.",
+                "d) Bronquios secundarios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso de la circulaci\u00f3n menor?",
+            "respuestas": [
+                "a) En ella hay dos venas pulmonares que van a aur\u00edcula derecha.",
+                "b) La sangre arterial circula por las venas pulmonares.",
+                "c) La sangre que transportan las arterias pulmonares est\u00e1 cargada de di\u00f3xido de carbono y empobrecida en ox\u00edgeno.",
+                "d) La hematosis es el fen\u00f3meno de intercambio de gases a nivel alveolocapilar."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es una desventaja de la pulsioximetr\u00eda en relaci\u00f3n con la gasometr\u00eda?",
+            "respuestas": [
+                "a) Es cruenta.",
+                "b) No informa de la frecuencia card\u00edaca.",
+                "c) Es de dif\u00edcil manejo.",
+                "d) No detecta hiperoxemia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 intubaci\u00f3n endotraqueal es la m\u00e1s empleada en la pr\u00e1ctica?",
+            "respuestas": [
+                "a) Intubaci\u00f3n orotraqueal.",
+                "b) Intubaci\u00f3n nasotraqueal.",
+                "c) Intubaci\u00f3n con transiluminaci\u00f3n.",
+                "d) Intubaci\u00f3n laringotraqueal."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En relaci\u00f3n con el uso de CPAP, es correcto afirmar que:",
+            "respuestas": [
+                "a) Es un sistema de presi\u00f3n positiva continua.",
+                "b) Es un sistema de presi\u00f3n negativa continua.",
+                "c) No interviene en la oxigenaci\u00f3n, pero s\u00ed mejora la mejora la ventilaci\u00f3n.",
+                "d) Disminuye la capacidad residual funcional."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La frecuencia respiratoria media en un adulto joven y sano es de:",
+            "respuestas": [
+                "a) 12-15 respiraciones por minuto.",
+                "b) 15-18 respiraciones por minuto.",
+                "c) 18-21 respiraciones por minuto.",
+                "d) 22-25 respiraciones por minuto."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde est\u00e1 la epiglotis?",
+            "respuestas": [
+                "a) En la faringe.",
+                "b) En la laringe.",
+                "c) En la tr\u00e1quea.",
+                "d) En el es\u00f3fago."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La sonda o cat\u00e9ter nasal se introduce por la fosa nasal hasta:",
+            "respuestas": [
+                "a) La nasofaringe.",
+                "b) La orofaringe.",
+                "c) La laringe.",
+                "d) La tr\u00e1quea."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el f\u00e1rmaco m\u00e1s empleado en la aerosolterapia?",
+            "respuestas": [
+                "a) Salbutamol.",
+                "b) Budesonida.",
+                "c) Bromuro de ipratropio.",
+                "d) Teofilina."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es una ventaja de los sistemas de ox\u00edgeno inteligentes con tecnolog\u00eda Sensi-Pulse?",
+            "respuestas": [
+                "a) Mayor duraci\u00f3n del suministro de ox\u00edgeno",
+                "b) Ajuste autom\u00e1tico del flujo de ox\u00edgeno basado en la respiraci\u00f3n del paciente",
+                "c) Menor necesidad de recargas frecuentes",
+                "d) Suministro continuo de ox\u00edgeno sin interrupciones"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 datos nos indica la cantidad de bicarbonato disuelto en sangre en una gasometr\u00eda?",
+            "respuestas": [
+                "a) PaO2.",
+                "b) HCO3.",
+                "c) PaCO2.",
+                "d) pH."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las estructuras tubulares bronquiales que no poseen anillos cartilaginosos?",
+            "respuestas": [
+                "a) Bronquios principales.",
+                "b) Bronquios primarios.",
+                "c) Bronquiolos.",
+                "d) Bronquios secundarios."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 disnea es t\u00edpica del asma bronquial?",
+            "respuestas": [
+                "a) Disnea parox\u00edstica.",
+                "b) Disnea espiratoria.",
+                "c) Disnea diurna.",
+                "d) Disnea de dec\u00fabito."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las cavidades neum\u00e1ticas de los huesos que rodean la cavidad nasal?",
+            "respuestas": [
+                "a) Frontis.",
+                "b) Senos.",
+                "c) Neumos.",
+                "d) Coanas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n se debe colocar al paciente para realizarle una aspiraci\u00f3n de secreciones?",
+            "respuestas": [
+                "a) Roser.",
+                "b) Morest\u00edn.",
+                "c) Trendelenburg.",
+                "d) Fowler."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de epitelio posee la capa mucosa que tapiza las fosas nasales?",
+            "respuestas": [
+                "a) C\u00fabico.",
+                "b) Plano.",
+                "c) Cil\u00edndrico ciliado.",
+                "d) Cil\u00edndrico sin cilios."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la causa m\u00e1s frecuente de un neumot\u00f3rax espontaneo secundario?",
+            "respuestas": [
+                "a) EPOC.",
+                "b) Traumatismo.",
+                "c) Cirug\u00eda tor\u00e1cica.",
+                "d) Catamenial."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el principal m\u00fasculo respiratorio?",
+            "respuestas": [
+                "a) Los pectorales mayores.",
+                "b) Los pectorales menores.",
+                "c) El diafragma.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 disnea de estas es de mayor gravedad?",
+            "respuestas": [
+                "a) Disnea en reposo.",
+                "b) Disnea a peque\u00f1os esfuerzos.",
+                "c) Disnea a medianos esfuerzos.",
+                "d) Disnea a grandes esfuerzos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto mide aproximadamente la faringe en cm?",
+            "respuestas": [
+                "a) 4.",
+                "b) 8.",
+                "c) 12.",
+                "d) 2."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se le llama mediastino?",
+            "respuestas": [
+                "a) Se le llama mediastino al espacio del interior de todo el t\u00f3rax.",
+                "b) Se le llama mediastino al espacio existente entre las caras internas de ambos pulmones.",
+                "c) Se le llama mediastino al espacio existente en las caras externas de ambos pulmones.",
+                "d) Se le llama mediastino al espacio existente entre las caras inferiores o bases de ambos pulmones y el diafragma."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El t\u00e9rmino atelectasia hace referencia a:",
+            "respuestas": [
+                "a) Dilataci\u00f3n bronquial.",
+                "b) Enfermedad pulmonar obstructiva.",
+                "c) Infiltraci\u00f3n intersticial.",
+                "d) Colapso de una regi\u00f3n pulmonar o el colapso masivo de ambos pulmones."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se define bronquitis cr\u00f3nica cuando hipersecreci\u00f3n de moco y la tos productiva cr\u00f3nica recurrente durante un m\u00ednimo de:",
+            "respuestas": [
+                "a) Tres meses al a\u00f1o en dos a\u00f1os consecutivos.",
+                "b) Tres meses al a\u00f1o en tres a\u00f1os consecutivos.",
+                "c) Dos meses al a\u00f1o en tres a\u00f1os consecutivos.",
+                "d) Dos meses al a\u00f1o en dos a\u00f1os consecutivos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEntre qu\u00e9 anillos traqueales se realiza orificio quir\u00fargico en una traqueotom\u00eda?",
+            "respuestas": [
+                "a) Entre los anillos traqueales primero y segundo.",
+                "b) Entre los anillos traqueales segundo y tercero.",
+                "c) Entre los anillos traqueales cuarto y quinto.",
+                "d) Entre los anillos traqueales sexto y s\u00e9ptimo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el l\u00edquido pleural lechoso de origen linf\u00e1tico, generalmente producido por la rotura del conducto tor\u00e1cico?",
+            "respuestas": [
+                "a) Hidrot\u00f3rax.",
+                "b) Quilot\u00f3rax.",
+                "c) Hemot\u00f3rax.",
+                "d) Pseudoquilot\u00f3rax."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es t\u00edpico de las neumon\u00edas?",
+            "respuestas": [
+                "a) Condensaciones originadas por la ocupaci\u00f3n de los espacios alveolares con exudado.",
+                "b) Atelectasias ocasionadas por la acci\u00f3n de microorganismos, generalmente de cocos Gram negativos.",
+                "c) Acortamiento de la longitud bronquial, asociada a un aumento del calibre de los mismos.",
+                "d) Generalmente sin fiebre y con signos de insuficiencia card\u00edaca derecha."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de virus es el de la gripe?",
+            "respuestas": [
+                "a) Virus ARN bicatenario.",
+                "b) Virus ARN monocatenario.",
+                "c) Virus ADN monocatenario.",
+                "d) Virus ADN bicatenario."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La pleura visceral se encuentra en contacto con:",
+            "respuestas": [
+                "a) El tejido pulmonar.",
+                "b) La pared tor\u00e1cica.",
+                "c) El m\u00fasculo diafragma.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se denomina por fallo del sistema respiratorio en una o en ambas de las funciones de intercambio gaseoso: la oxigenaci\u00f3n de la sangre arterial y la eliminaci\u00f3n del anh\u00eddrido carb\u00f3nico?",
+            "respuestas": [
+                "a) Insuficiencia respiratoria.",
+                "b) EPOC.",
+                "c) Enfisema.",
+                "d) Atelectasia."
+            ],
+            "verdadera": 1
+        }
+    ]
+}

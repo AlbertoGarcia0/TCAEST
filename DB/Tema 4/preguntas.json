@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "La acci\u00f3n preventiva en la empresa:",
+            "respuestas": [
+                "a) Se planificar\u00e1 por el Comit\u00e9 de Seguridad y Salud a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "b) Se planificar\u00e1 por los Delegados de Prevenci\u00f3n a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "c) Se planificar\u00e1 por el empresario a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "d) Se planificar\u00e1 por los Delegados de Personal a partir de una evaluaci\u00f3n inicial de riesgos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 cap\u00edtulo de la Ley 31/1995, de Prevenci\u00f3n de Riesgos Laborales se refiere a los derechos y obligaciones?",
+            "respuestas": [
+                "a) Cap\u00edtulo 2.",
+                "b) Cap\u00edtulo 3.",
+                "c) Cap\u00edtulo 4.",
+                "d) Cap\u00edtulo 5."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfPueden los trabajadores efectuar propuestas al empresario y a los \u00f3rganos de participaci\u00f3n para mejorar los niveles de protecci\u00f3n de la seguridad y salud en la empresa?",
+            "respuestas": [
+                "a) No.",
+                "b) S\u00ed.",
+                "c) Seg\u00fan el tama\u00f1o de la empresa.",
+                "d) Seg\u00fan el n\u00famero de trabajadores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En relaci\u00f3n con las incompatibilidades del personal estatutario, no es cierto que:",
+            "respuestas": [
+                "a) Ser\u00e1 compatible el disfrute de becas y ayudas de ampliaci\u00f3n de estudios concedidas en r\u00e9gimen de concurrencia competitiva al amparo de programas oficiales de formaci\u00f3n y perfeccionamiento del personal, siempre que para participar en tales acciones se requiera la previa propuesta favorable del Servicio de Salud en el que se est\u00e9 destinado y que las bases de la convocatoria no establezcan lo contrario.",
+                "b) La percepci\u00f3n de pensi\u00f3n de jubilaci\u00f3n por un r\u00e9gimen p\u00fablico de Seguridad Social ser\u00e1 incompatible con la situaci\u00f3n del personal em\u00e9rito.",
+                "c) Las retribuciones del personal em\u00e9rito, sumadas a su pensi\u00f3n de jubilaci\u00f3n, no podr\u00e1n superar las retribuciones que el interesado percib\u00eda antes de su jubilaci\u00f3n, consideradas, todas ellas, en c\u00f3mputo anual.",
+                "d) La percepci\u00f3n de pensi\u00f3n de jubilaci\u00f3n parcial ser\u00e1 compatible con las retribuciones derivadas de una actividad a tiempo parcial."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El Estatuto Marco del personal estatutario considera a este personal como titular de una relaci\u00f3n:",
+            "respuestas": [
+                "a) Funcionarial com\u00fan.",
+                "b) Laboral com\u00fan.",
+                "c) Estatutaria de la Seguridad Social.",
+                "d) Funcionarial especial."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En el r\u00e9gimen disciplinario del Estatuto Marco se reconoce a los interesados el derecho a:",
+            "respuestas": [
+                "a) Proponer el nombramiento del instructor.",
+                "b) Solicitar la excedencia voluntaria durante la tramitaci\u00f3n del expediente.",
+                "c) Formular Pliegos de cargos.",
+                "d) Formular alegaciones en cualquier fase del procedimiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDebe el trabajador prestar su consentimiento para que le realicen vigilancia de la salud?",
+            "respuestas": [
+                "a) No.",
+                "b) S\u00ed.",
+                "c) Depende del n\u00famero de trabajadores de la empresa.",
+                "d) Esta prestaci\u00f3n es solo para personal fijo en la empresa."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los miembros de los \u00f3rganos de selecci\u00f3n deber\u00e1n:",
+            "respuestas": [
+                "a) Ostentar la condici\u00f3n de personal estatutario fijo.",
+                "b) Ostentar la condici\u00f3n de personal estatutario o laboral.",
+                "c) Ostentar la condici\u00f3n de funcionario de carrera o estatutario fijo de las Administraciones P\u00fablicas o laboral de los centros vinculados al Sistema Nacional de Salud.",
+                "d) Ostentar la condici\u00f3n de personal funcionario, estatutario o laboral del Sistema Nacional de Salud."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El derecho b\u00e1sico reconocido a los trabajadores por la Ley 31/1995, de 8 de noviembre, es:",
+            "respuestas": [
+                "a) La vigilancia de su estado de salud.",
+                "b) Una protecci\u00f3n eficaz en materia de seguridad y salud en el trabajo.",
+                "c) La formaci\u00f3n en materia preventiva.",
+                "d) La informaci\u00f3n, consulta y participaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El incumplimiento del plazo m\u00e1ximo de permanencia dar\u00e1 lugar a una compensaci\u00f3n econ\u00f3mica para el personal estatutario temporal afectado, que ser\u00e1 equivalente a:",
+            "respuestas": [
+                "a) Veinte d\u00edas de sus retribuciones fijas por a\u00f1o de servicio.",
+                "b) Veinte d\u00edas de su sueldo, m\u00e1s trienios y complemento de destino por a\u00f1o de servicio.",
+                "c) Veinte d\u00edas de todas sus retribuciones por a\u00f1o de servicio.",
+                "d) Veinte d\u00edas de su sueldo por a\u00f1o de servicio."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco del personal estatutario de los servicios de salud, NO es causa de extinci\u00f3n de la condici\u00f3n de personal estatutario fijo:",
+            "respuestas": [
+                "a) La renuncia.",
+                "b) La jubilaci\u00f3n.",
+                "c) La incapacidad temporal.",
+                "d) La p\u00e9rdida de nacionalidad tomada en consideraci\u00f3n para el nombramiento."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Quienes no acrediten, una vez superado el proceso selectivo, que re\u00fanen los requisitos y condiciones exigidos en la convocatoria:",
+            "respuestas": [
+                "a) No podr\u00e1n ser nombrados hasta que subsanen el defecto.",
+                "b) No podr\u00e1n ser nombrados, y quedar\u00e1n sin efecto sus actuaciones.",
+                "c) Podr\u00e1n ser nombrados de forma condicional.",
+                "d) Una vez superado el proceso selectivo, se entiende que re\u00fane los requisitos exigidos, salvo prueba en contrario."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "No es un principio b\u00e1sico de la provisi\u00f3n de plazas del personal estatutario:",
+            "respuestas": [
+                "a) Igualdad, m\u00e9rito, capacidad y publicidad en la selecci\u00f3n, promoci\u00f3n y movilidad del personal de los servicios de salud.",
+                "b) Movilidad del personal en el conjunto de las Administraciones P\u00fablicas.",
+                "c) Coordinaci\u00f3n, cooperaci\u00f3n y mutua informaci\u00f3n entre las Administraciones sanitarias p\u00fablicas.",
+                "d) Integraci\u00f3n en el r\u00e9gimen organizativo y funcional del servicio de salud y de sus instituciones y centros."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Cuando de un procedimiento de movilidad se derive cambio del servicio de salud de destino, el Estatuto Marco establece un plazo posesorio de:",
+            "respuestas": [
+                "a) Un mes.",
+                "b) Treinta d\u00edas.",
+                "c) Quince d\u00edas.",
+                "d) Diez d\u00edas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan establece el art. 4 de la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales, se define como da\u00f1os derivados del trabajo:",
+            "respuestas": [
+                "a) La posibilidad de que un trabajador sufra un determinado da\u00f1o derivado del trabajo.",
+                "b) El que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un da\u00f1o grave para la salud de los trabajadores.",
+                "c) Las enfermedades, patolog\u00edas o lesiones sufridas con motivo u ocasi\u00f3n del trabajo.",
+                "d) Cualquier m\u00e1quina, aparato, instrumento o instalaci\u00f3n utilizada en el trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco, siempre que la duraci\u00f3n de la jornada exceda de seis horas continuadas, deber\u00e1 establecerse un periodo de descanso durante la misma de al menos:",
+            "respuestas": [
+                "a) 10 minutos.",
+                "b) 15 minutos.",
+                "c) 20 minutos.",
+                "d) 30 minutos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El \u00f3rgano paritario y colegiado de participaci\u00f3n destinado a la consulta regular y peri\u00f3dica de las actuaciones de la empresa en materia de prevenci\u00f3n de riesgos, es:",
+            "respuestas": [
+                "a) El Comit\u00e9 de Empresa.",
+                "b) El Consejo de Vigilancia de la Prevenci\u00f3n.",
+                "c) La Comisi\u00f3n de Evaluaci\u00f3n de Riesgos Laborales.",
+                "d) El Comit\u00e9 de Seguridad y Salud."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos delegados de prevenci\u00f3n se deber\u00e1n elegir en empresas entre 3001 y 4000 trabajadores?",
+            "respuestas": [
+                "a) 5.",
+                "b) 6.",
+                "c) 7.",
+                "d) 8."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Cuando los trabajadores est\u00e9n expuestos a un riesgo grave e inminente con ocasi\u00f3n de su trabajo, y el empresario no adopte o no permita la adopci\u00f3n de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores, la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales prev\u00e9:",
+            "respuestas": [
+                "a) Los trabajadores afectados podr\u00e1n paralizar la actividad.",
+                "b) El \u00f3rgano de representaci\u00f3n del personal instar\u00e1 formalmente al empresario a la adopci\u00f3n de las medidas necesarias.",
+                "c) Los Delegados de Prevenci\u00f3n lo comunicar\u00e1n a la autoridad laboral, que adoptar\u00e1 las medidas necesarias.",
+                "d) El \u00f3rgano de representaci\u00f3n de personal podr\u00e1 acordar la paralizaci\u00f3n de la actividad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Es una retribuci\u00f3n b\u00e1sica del personal estatutario:",
+            "respuestas": [
+                "a) El complemento de destino.",
+                "b) El complemento de carrera.",
+                "c) Las pagas extraordinarias.",
+                "d) El complemento de productividad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Entre las obligaciones de los trabajadores recogidas por la Ley de Prevenci\u00f3n de Riesgos Laborales, no figura:",
+            "respuestas": [
+                "a) Informar directamente al empresario de cualquier situaci\u00f3n que entra\u00f1e riesgo para la seguridad o salud de los trabajadores.",
+                "b) Contribuir al cumplimiento de las obligaciones establecidas por la autoridad competente con el fin de proteger la seguridad y la salud de los trabajadores en el trabajo.",
+                "c) Cooperar con el empresario para que este pueda garantizar unas condiciones de trabajo que sean seguras y no entra\u00f1en riesgos para la seguridad y la salud de los trabajadores.",
+                "d) Utilizar correctamente los medios y equipos de protecci\u00f3n facilitados por el empresario, de acuerdo con las instrucciones recibidas de este."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El t\u00edtulo del cap\u00edtulo II de la Ley 31/1995 Prevenci\u00f3n de Riesgos Laborales, corresponde a:",
+            "respuestas": [
+                "a) Derechos y obligaciones.",
+                "b) Servicios de Prevenci\u00f3n.",
+                "c) Pol\u00edtica en materia de prevenci\u00f3n de riesgos para proteger la seguridad y la salud en el trabajo.",
+                "d) Responsabilidad y sanciones."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las Comunidades Aut\u00f3nomas, en el \u00e1mbito de sus competencias, determinar\u00e1n la limitaci\u00f3n m\u00e1xima de la jornada a tiempo parcial respecto a la jornada completa, con el l\u00edmite m\u00e1ximo del:",
+            "respuestas": [
+                "a) El 80 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n.",
+                "b) El 75 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n.",
+                "c) El 70 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n.",
+                "d) El 50 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Conforme al art\u00edculo 9.1 del Estatuto Marco (en redacci\u00f3n dada por el Real Decreto-ley 12/2022, de 5 de julio, por el que se modifica la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud) los nombramientos del Personal Estatutario Temporal de los Servicios de Salud ser\u00e1n:",
+            "respuestas": [
+                "a) \u00danicamente de Personal Estatutario Sanitario.",
+                "b) Personal Estatutario Contratado.",
+                "c) De interinidad.",
+                "d) Como Personal Laboral."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n debe garantizar a los trabajadores la vigilancia peri\u00f3dica de su estado de salud en funci\u00f3n de los riesgos inherentes al trabajo?",
+            "respuestas": [
+                "a) La Inspecci\u00f3n de Trabajo.",
+                "b) El propio trabajador.",
+                "c) El empresario.",
+                "d) Las secciones sindicales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El posible cambio de puesto de trabajo con riesgo para una trabajadora embarazada:",
+            "respuestas": [
+                "a) Deber\u00e1 realizarse en caso de imposibilidad de adaptaci\u00f3n del propio puesto.",
+                "b) Se har\u00e1 previo informe en tal sentido del Servicio de Prevenci\u00f3n.",
+                "c) Se determinar\u00e1 por el empresario, y dar\u00e1 informaci\u00f3n a los representantes de los trabajadores.",
+                "d) Se extender\u00e1 al per\u00edodo de lactancia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El art. 29 de la LPRL establece las obligaciones de los trabajadores en materia de prevenci\u00f3n de riesgos. De las siguientes no se considera una obligaci\u00f3n del trabajador:",
+            "respuestas": [
+                "a) Utilizar correctamente los medios y equipos de protecci\u00f3n facilitados por el empresario, de acuerdo con las instrucciones recibidas de este.",
+                "b) Usar adecuadamente, de acuerdo con su naturaleza y los riesgos previsibles, las m\u00e1quinas, aparatos, herramientas, sustancias peligrosas, equipos de transporte y, en general, cualesquiera otros medios con los que desarrollen su actividad.",
+                "c) Informar de inmediato a su superior jer\u00e1rquico directo, y a los trabajadores designados para realizar las actualizaciones que consideren oportunas en el equipo de protecci\u00f3n individual.",
+                "d) No poner fuera de funcionamiento y utilizar correctamente los dispositivos de seguridad existentes o que se instalen en los medios relacionados con su actividad o en los lugares de trabajo en los que esta tenga lugar."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los representantes de los trabajadores con competencia en materia de prevenci\u00f3n de riesgos laborales son:",
+            "respuestas": [
+                "a) Los miembros de la Junta de personal, Junta Facultativo y Junta de Enfermer\u00eda.",
+                "b) Los t\u00e9cnicos de prevenci\u00f3n de riesgos laborales.",
+                "c) El Servicio de Medicina Preventiva.",
+                "d) Los delegados de prevenci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para poder obtener la excedencia voluntaria por inter\u00e9s particular es necesario haber prestado servicios efectivos en cualquiera de las Administraciones P\u00fablicas durante:",
+            "respuestas": [
+                "a) Los cinco a\u00f1os inmediatamente anteriores.",
+                "b) Los cuatro a\u00f1os inmediatamente anteriores.",
+                "c) El a\u00f1o inmediatamente anterior.",
+                "d) No se exige periodo m\u00ednimo de prestaci\u00f3n efectiva de servicios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El incumplimiento por los trabajadores de las obligaciones en materia de prevenci\u00f3n de riesgos:",
+            "respuestas": [
+                "a) Dar\u00e1 lugar a su despido inmediato de la empresa o a la p\u00e9rdida de la condici\u00f3n de funcionario p\u00fablico.",
+                "b) No lleva aparejada ninguna consecuencia si no se producen resultados perjudiciales.",
+                "c) Tendr\u00e1 la consideraci\u00f3n de incumplimiento laboral a los efectos previstos en el art\u00edculo 58.1 del Estatuto de los Trabajadores o de falta, en su caso, seg\u00fan la normativa sobre r\u00e9gimen disciplinario de los funcionarios p\u00fablicos o del personal estatutario al servicio de las Administraciones P\u00fablicas.",
+                "d) Llevar\u00e1 consigo la obligaci\u00f3n de indemnizar al empresario en la cuant\u00eda que este pacte con los representantes legales de los trabajadores."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

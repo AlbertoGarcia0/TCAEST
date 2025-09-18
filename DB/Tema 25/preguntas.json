@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Las aftas bucales en cuidados paliativos se tratan con soluciones:",
+            "respuestas": [
+                "a) Desbridantes.",
+                "b) Antis\u00e9pticas.",
+                "c) F\u00fangicas.",
+                "d) V\u00edricas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 virus es el que m\u00e1s frecuentemente aparece en la boca de los enfermos que est\u00e1n recibiendo quimioterapia?",
+            "respuestas": [
+                "a) C\u00e1ndida.",
+                "b) Virus de Epstein-Barr.",
+                "c) Citomegalovirus.",
+                "d) Herpes simple."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de duelo patol\u00f3gico es aquel donde los sentimientos se inhiben inicialmente apareciendo con posterioridad?",
+            "respuestas": [
+                "a) Duelo cr\u00f3nico.",
+                "b) Duelo inherente.",
+                "c) Duelo exagerado.",
+                "d) Duelo retrasado."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspectos incluye la atenci\u00f3n integral en Cuidados Paliativos?",
+            "respuestas": [
+                "a) Los aspectos exclusivamente f\u00edsicos.",
+                "b) Los aspectos f\u00edsicos, emocionales y espirituales.",
+                "c) Los aspectos f\u00edsicos, sociales y espirituales.",
+                "d) Los aspectos f\u00edsicos, emocionales, sociales y espirituales."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Todo lo que se expone de dar \u00e1nimos al paciente terminal a realizar alguna actividad f\u00edsica es cierto, excepto que:",
+            "respuestas": [
+                "a) La actividad f\u00edsica le va a ayudar a despejar los pensamientos negativos (miedos, angustia), y va a disminuirle el estr\u00e9s de la situaci\u00f3n que padece.",
+                "b) Debido al cansancio f\u00edsico que puede generarle hacer alg\u00fan tipo de ejercicio o actividad, le sienta bien ya que hace que duerma mejor (disminuy\u00e9ndole el insomnio).",
+                "c) La actividad f\u00edsica hace que el tiempo pase de un modo satisfactorio y ameno.",
+                "d) No se debe animar a realizar actividad f\u00edsica; es absurdo animarlo si se va a morir en breve."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La sobreimplicaci\u00f3n sin defensas y con un aumento de las demandas por parte del paciente y la familia, puede llegar a producir el denominado s\u00edndrome de:",
+            "respuestas": [
+                "a) Perris.",
+                "b) Burnout.",
+                "c) Estr\u00e9s.",
+                "d) Mobbing."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las Escalas de Valoraci\u00f3n Verbal (EVV) del dolor son:",
+            "respuestas": [
+                "a) Las Escala Intensiva del dolor (EID).",
+                "b) Las Escalas Descriptivas Simples (EDS).",
+                "c) Las Escalas Num\u00e9ricas de Valoraci\u00f3n (EVN).",
+                "d) La Escala Visual Anal\u00f3gica (EVA)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 opioide por v\u00eda oral es de primera elecci\u00f3n para el dolor oncol\u00f3gico?",
+            "respuestas": [
+                "a) Morfina.",
+                "b) Fentanilo.",
+                "c) Paracetamol.",
+                "d) Ibuprofeno."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 emociones se sufrir\u00e1n (seg\u00fan Spoken) cuando estas se caracterizan por la esperanza y expectativas de curaci\u00f3n y a la vez por un miedo intenso?",
+            "respuestas": [
+                "a) Despreocupaci\u00f3n y ansiedad.",
+                "b) Inseguridad y temor.",
+                "c) Negaci\u00f3n e ignorancia.",
+                "d) Comunicaci\u00f3n de la verdad y negaci\u00f3n impl\u00edcita."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la media de supervivencia tras iniciar la sedaci\u00f3n terminal?",
+            "respuestas": [
+                "a) La media de supervivencia es de medio a 1 d\u00eda.",
+                "b) La media de supervivencia es de 2 a 3 d\u00edas.",
+                "c) La media de supervivencia es de 3 a 4 d\u00edas.",
+                "d) La media de supervivencia es de 5 a 6 d\u00edas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Ante la posibilidad de sufrir una enfermedad incurable e irreversible, como consecuencia de una intervenci\u00f3n facultativa, la aplicaci\u00f3n de tratamientos de reanimaci\u00f3n o de soporte vital, no se har\u00e1 si el paciente as\u00ed lo indica, para morir dignamente. \u00bfDe qu\u00e9 manera debe hacerlo el enfermo?",
+            "respuestas": [
+                "a) Mediante testamento vital.",
+                "b) Mediante voluntad vital anticipada.",
+                "c) Mediante otra persona asignada por \u00e9l, en el caso de que el enfermo sea incapaz.",
+                "d) En todos los casos anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspecto de estos es clave que se d\u00e9 en cuidados paliativos, siempre que sea posible?",
+            "respuestas": [
+                "a) La atenci\u00f3n hospitalaria.",
+                "b) La atenci\u00f3n en centro de salud habitual.",
+                "c) La atenci\u00f3n en centro de salud especializado.",
+                "d) La atenci\u00f3n domiciliaria."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9rmino procedente del lat\u00edn, muy usado sanitariamente significa muerte?",
+            "respuestas": [
+                "a) Mortaja.",
+                "b) Sudario.",
+                "c) \u00c9xitus.",
+                "d) Disfasia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 causa de la ansiedad se relaciona con las fases de duelo de la doctora K\u00fcbler-Ross?",
+            "respuestas": [
+                "a) Los problemas relacionados con efectos directos de la enfermedad o complicaciones m\u00e9dicas.",
+                "b) Las reacciones adaptativas como consecuencia de la aparici\u00f3n de cambios inevitables.",
+                "c) Los problemas derivados de la existencia previa de problemas psicol\u00f3gicos.",
+                "d) Aquellas derivadas de los efectos secundarios del tratamiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la desaparici\u00f3n total/absoluta de cualquier actividad biol\u00f3gica del organismo?",
+            "respuestas": [
+                "a) Muerte aparente.",
+                "b) Muerte intermedia.",
+                "c) Muerte relativa.",
+                "d) Muerte absoluta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El per\u00edodo inicial del duelo se caracteriza por:",
+            "respuestas": [
+                "a) La adaptaci\u00f3n.",
+                "b) Un tiempo de dolor intenso.",
+                "c) Un periodo de soledad y aislamiento social.",
+                "d) El embotamiento y el shock."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes no es un indicio de muerte cierta? Se\u00f1ale la respuesta correcta:",
+            "respuestas": [
+                "a) Aparici\u00f3n de palidez.",
+                "b) Arreflexia.",
+                "c) Ausencia de pulso.",
+                "d) Midriasis."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Respecto a los cuidados paliativos no es cierto que:",
+            "respuestas": [
+                "a) Mejoran la calidad de vida de los pacientes y de sus familias.",
+                "b) Alivian el dolor y otros s\u00edntomas.",
+                "c) Aceleran la muerte.",
+                "d) Afirman la vida, y consideran la muerte como un proceso normal."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan los principios planteados por Beauchamp y Childress sobre la bio\u00e9tica de los cuidados paliativos, \u00bfcu\u00e1l es aquel que dice: \u201ctodas las personas tienen igual dignidad y merecen igual consideraci\u00f3n y respeto\u201d?",
+            "respuestas": [
+                "a) Principio de autonom\u00eda.",
+                "b) Principio de beneficencia.",
+                "c) Principio de integridad.",
+                "d) Principio de justicia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Todo lo que se expone del dolor es cierto, excepto:",
+            "respuestas": [
+                "a) Quien debe cuantificar el dolor es el paciente.",
+                "b) En ocasiones se acompa\u00f1a de signos externos como la expresi\u00f3n facial, que lo manifiesta.",
+                "c) Como experiencia emocional el dolor es algo objetivo.",
+                "d) El dolor no est\u00e1 siempre relacionado con la alteraci\u00f3n o grado de lesi\u00f3n del paciente, sobre todo si es dolor cr\u00f3nico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se produce el algor mortis en condiciones normales en un cad\u00e1ver?",
+            "respuestas": [
+                "a) La p\u00e9rdida de medio grado de temperatura por hora.",
+                "b) La presencia de livideces cada hora, en diferentes lugares y su desaparici\u00f3n al aparecer otras.",
+                "c) La p\u00e9rdida de un grado de temperatura por hora.",
+                "d) La contracci\u00f3n ordenada y progresiva de los miembros en sentido proximodistal."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9nes ser\u00e1n los responsables de dar los cuidados f\u00edsicos de confort a un paciente terminal que se encuentra ingresado a nivel hospitalario?",
+            "respuestas": [
+                "a) T\u00e9cnicos socio-sanitarios contratados por la familia.",
+                "b) TCAE del hospital.",
+                "c) Familiares a su cargo.",
+                "d) M\u00e9dicos Especialistas en cuidados paliativos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 factor de esto disminuye el dolor?",
+            "respuestas": [
+                "a) Miedo.",
+                "b) Depresi\u00f3n.",
+                "c) Vejez.",
+                "d) Sue\u00f1o."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 principio b\u00e1sico, seg\u00fan Beauchamp y Childress, se sintetiza con la expresi\u00f3n latina primum non nocere?",
+            "respuestas": [
+                "a) Justicia.",
+                "b) No maleficencia.",
+                "c) Autonom\u00eda.",
+                "d) Beneficencia."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 dato de los que se expresan pertenece al concepto de eutanasia y no al de sedaci\u00f3n paliativa?",
+            "respuestas": [
+                "a) El resultado de aplicarlo es el alivio del sufrimiento y disminuci\u00f3n del nivel de conciencia.",
+                "b) En el proceso la aplicaci\u00f3n de la dosis est\u00e1 proporcionada a la intensidad de los s\u00edntomas refractarios y su alivio.",
+                "c) Se pretende con ello el aliviar sufrimiento provocando la muerte.",
+                "d) Todo pertenece a sedaci\u00f3n paliativa."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de comunicaci\u00f3n utiliza generalmente el paciente terminal corrientemente de forma m\u00e1s expl\u00edcita para expresar emociones, actitudes y otras circunstancias de su personalidad?",
+            "respuestas": [
+                "a) No verbal.",
+                "b) Verbal.",
+                "c) Escrita.",
+                "d) Antipostural."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 analg\u00e9sico, seg\u00fan la escala OMS de 1986, no antiinflamatorio, pertenece al primer escal\u00f3n?",
+            "respuestas": [
+                "a) Paracetamol.",
+                "b) Petidina.",
+                "c) Trapentadol.",
+                "d) Tramadol."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En un enfermo terminal sometido a cuidados paliativos desde el momento inicial del diagn\u00f3stico y su comunicaci\u00f3n, es prioritario a nivel conceptual:",
+            "respuestas": [
+                "a) El abordaje integral que propone el modelo de los cuidados paliativos.",
+                "b) Salvar la vida del paciente.",
+                "c) Ayudar exclusivamente a los familiares.",
+                "d) El control de hijos menores del paciente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 escala del dolor es aquella que consiste en valorar el dolor mediante n\u00fameros que ir\u00e1n de menor a mayor intensidad seg\u00fan la magnitud?",
+            "respuestas": [
+                "a) Escala Intensiva del dolor (EID).",
+                "b) Escalas Descriptivas Simples (EDS).",
+                "c) Escalas Num\u00e9ricas de Valoraci\u00f3n (EVN).",
+                "d) Escala Visual Anal\u00f3gica (EVA)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 respuestas es incorrecta?",
+            "respuestas": [
+                "a) Las familias necesitan atenci\u00f3n al mismo tiempo que el paciente terminal.",
+                "b) Los familiares deben ser part\u00edcipes del plan de cuidados del paciente.",
+                "c) No es conveniente instruir a los familiares en los cuidados necesarios para el paciente.",
+                "d) El m\u00e9dico debe facilitar a la familia la mayor cantidad de informaci\u00f3n posible sobre el estado del paciente."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

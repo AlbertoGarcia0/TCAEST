@@ -1,0 +1,294 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Respecto al bloque quir\u00fargico, todo lo que se dice es cierto, excepto que:",
+            "respuestas": [
+                "a) Est\u00e1 situado en una zona del hospital tranquila.",
+                "b) El personal asignado al servicio, puede ser sanitario y no sanitario, pero cualificado para realizar eficientemente sus funciones.",
+                "c) Debe estar mal comunicado con el resto de las unidades del hospital.",
+                "d) Debe poseer poco tr\u00e1nsito de personas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 contiene generalmente el frasco que se emplea en la recogida de muestras de la biopsia hep\u00e1tica?",
+            "respuestas": [
+                "a) Nitrato de plata diluido al 10 %.",
+                "b) Alcohol de 96\u00ba.",
+                "c) Formalina.",
+                "d) Azul de metileno."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "A un enfermo canceroso terminal, se le pr\u00e1ctica una cirug\u00eda de denervaci\u00f3n, para disminuir los dolores que le produce la enfermedad; esta cirug\u00eda ser\u00eda:",
+            "respuestas": [
+                "a) Curativa.",
+                "b) Paliativa.",
+                "c) Exploradora.",
+                "d) Diagn\u00f3stica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Todo lo que se expone de la retirada de puntos es cierto, excepto:",
+            "respuestas": [
+                "a) Se har\u00e1 en dos d\u00edas de forma alterna primero los pares o impares y luego los contrarios.",
+                "b) La tracci\u00f3n para retirar la sutura debe hacerse en direcci\u00f3n contraria a la cicatriz.",
+                "c) Se retirar\u00e1n en fecha seg\u00fan protocolo.",
+                "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aparato o sistema estaremos explorando con un ECG?",
+            "respuestas": [
+                "a) Aparato locomotor.",
+                "b) Aparato genitourinario.",
+                "c) Aparato cardiovascular.",
+                "d) Sistema nervioso."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina tambi\u00e9n la sala de recuperaci\u00f3n postquir\u00fargica?",
+            "respuestas": [
+                "a) Sala de dormir.",
+                "b) Sala de despertar.",
+                "c) Sala de reanimaci\u00f3n.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 grupo de cirug\u00eda incluir\u00edas aquella que pretende corregir deformidades, como por ejemplo una escoliosis verdadera?",
+            "respuestas": [
+                "a) Diagn\u00f3stica.",
+                "b) Curativa.",
+                "c) Constructiva.",
+                "d) Est\u00e9tica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El drenaje de Penrose es del tipo:",
+            "respuestas": [
+                "a) Drenajes por capilaridad o pasivos.",
+                "b) Drenajes por aspiraci\u00f3n.",
+                "c) Drenajes por colectores o activos.",
+                "d) Drenajes de Mickulicz."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 prueba endocrina de la gl\u00e1ndula tiroides se emplea is\u00f3topos radiactivos, al ser una prueba de medicina nuclear?",
+            "respuestas": [
+                "a) Gammagraf\u00eda tiroidea.",
+                "b) Ecograf\u00eda tiroidea.",
+                "c) Radiolog\u00eda tiroidea.",
+                "d) TAC o TC tiroideo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Todo lo que se expone de la puesta a punto de la consulta como labor del TCAE es cierto, excepto:",
+            "respuestas": [
+                "a) Pedir el material que necesite.",
+                "b) Debe revisar la lencer\u00eda y el carro de curas, por si necesita alg\u00fan material de reposici\u00f3n.",
+                "c) Nunca debe enviar a lavander\u00eda la ropa sucia de la camilla, ya que siempre lo hace el celador.",
+                "d) Debe revisar el instrumental de exploraciones y lo que considere necesario que haga falta para la consulta siguiente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 \u00fatil o equipo se emplea para una exploraci\u00f3n convencional m\u00e9dico- quir\u00fargica?",
+            "respuestas": [
+                "a) Oftalmoscopio.",
+                "b) Ultrasonograf\u00eda 3D/4D.",
+                "c) Equipo RM.",
+                "d) Equipo TC."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El antequir\u00f3fano pertenece a la zona quir\u00fargica:",
+            "respuestas": [
+                "a) Sin limitaci\u00f3n de acceso.",
+                "b) Semilimitada.",
+                "c) Limitada.",
+                "d) Prohibida."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 exploraci\u00f3n instrumental de estas es espec\u00edfica de un \u00f3rgano, aparato o/y sistema?",
+            "respuestas": [
+                "a) Ecograf\u00eda.",
+                "b) TAC.",
+                "c) Espirometr\u00eda.",
+                "d) Radiograf\u00eda simple."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el procedimiento realizado para drenar el l\u00edquido pleural que se encuentra entre el recubrimiento externo de los pulmones (pleura) y la pared tor\u00e1cica?",
+            "respuestas": [
+                "a) Paracentesis.",
+                "b) Toracocentesis.",
+                "c) Laparotom\u00eda.",
+                "d) Laparocentesis."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 ap\u00f3sitos impenetrables para bacterias se presentan como pel\u00edculas films transparentes en general semipermeables y permiten el intercambio gaseoso?",
+            "respuestas": [
+                "a) Ap\u00f3sitos hidrocoloidales.",
+                "b) Ap\u00f3sitos de pel\u00edcula semipermeable.",
+                "c) Ap\u00f3sitos de hidrogel.",
+                "d) Ap\u00f3sitos con alginato."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 material no se requiere para una gasometr\u00eda?",
+            "respuestas": [
+                "a) Jeringa y aguja de gases arteriales.",
+                "b) Antis\u00e9ptico.",
+                "c) Algod\u00f3n o gasas, y guantes.",
+                "d) Anest\u00e9sico local."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tubo de drenaje es el m\u00e1s frecuentemente empleado?",
+            "respuestas": [
+                "a) Drenaje de Kher.",
+                "b) Drenaje de Tejadillo.",
+                "c) Drenaje de Penrose.",
+                "d) Drenaje de Mickulicz."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina al per\u00edodo de tiempo que transcurre desde que un paciente va a ser intervenido hasta que es dado de alta en el hospital?",
+            "respuestas": [
+                "a) Per\u00edodo preoperatorio.",
+                "b) Per\u00edodo transoperatorio.",
+                "c) Per\u00edodo perioperatorio.",
+                "d) Per\u00edodo posoperatorio."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 material de estos no se requiere para la exploraci\u00f3n convencional m\u00e9dico- quir\u00fargica?",
+            "respuestas": [
+                "a) Cucharilla de legrado uterino.",
+                "b) Diapas\u00f3n.",
+                "c) Compresas.",
+                "d) Torunda de algod\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La familia del paciente que va a ser intervenido quir\u00fargicamente debe recibir informaci\u00f3n acerca de:",
+            "respuestas": [
+                "a) D\u00f3nde permanecer hasta que el enfermo regrese a la habitaci\u00f3n.",
+                "b) Qu\u00e9 tiempo suele tardar ese tipo de intervenci\u00f3n y saber c\u00f3mo se encuentra el paciente tras la intervenci\u00f3n.",
+                "c) Qui\u00e9n y c\u00f3mo va a recibir informaci\u00f3n acerca de la intervenci\u00f3n.",
+                "d) Debe conocer todo lo anterior."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Generalmente, \u00bfqu\u00e9 profesional asistir\u00e1 la intervenci\u00f3n en la intermedia del \u00e1rea est\u00e9ril del bloque quir\u00fargico trasladando el instrumental quir\u00fargico y suministrando el material necesario para la intervenci\u00f3n?",
+            "respuestas": [
+                "a) Diplomado en enfermer\u00eda.",
+                "b) T\u00e9cnico en cuidados auxiliares de enfermer\u00eda.",
+                "c) M\u00e9dico anestesista.",
+                "d) M\u00e9dico ayudante del cirujano."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La endoscopia convencional realizada por v\u00eda anal que permite la visualizaci\u00f3n del colon y resto de intestino grueso se denomina:",
+            "respuestas": [
+                "a) Colposcopia.",
+                "b) Gastroscopia.",
+                "c) Laparoscopia.",
+                "d) Colonoscopia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sustancias de estas se emplea en anestesia general endovenosa?",
+            "respuestas": [
+                "a) Isofluoranos con ox\u00edgeno.",
+                "b) \u00d3xido nitroso.",
+                "c) Barbit\u00faricos.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la preparaci\u00f3n psicol\u00f3gica previa a una intervenci\u00f3n quir\u00fargica?",
+            "respuestas": [
+                "a) Psicolog\u00eda operatoria.",
+                "b) Psicoprofilaxis preventiva.",
+                "c) Psicoprofilaxis posoperatoria.",
+                "d) Psicoprofilaxis preoperatoria."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 elementos de estos no consta el carro de parada en quir\u00f3fanos?",
+            "respuestas": [
+                "a) De resucitador, respirador manual o bal\u00f3n de ox\u00edgeno (amb\u00fa), con mascarilla oronasal.",
+                "b) De bistur\u00ed el\u00e9ctrico.",
+                "c) De tabla de parada cardiorrespiratoria.",
+                "d) De desfibrilador con palas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la exploraci\u00f3n radiol\u00f3gica con contraste de vejiga urinaria?",
+            "respuestas": [
+                "a) Pielograf\u00eda.",
+                "b) Cistograf\u00eda retr\u00f3grada.",
+                "c) Urograf\u00eda.",
+                "d) Uretrograf\u00eda."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 personal pertenece al grupo de miembros del equipo no est\u00e9riles en quir\u00f3fanos?",
+            "respuestas": [
+                "a) Cirujano intervencionista.",
+                "b) Enfermera instrumentista.",
+                "c) Ayudante del cirujano.",
+                "d) Celador."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El drenaje vesical se realiza mediante:",
+            "respuestas": [
+                "a) Sonda de Foley.",
+                "b) Sonda nasog\u00e1strica.",
+                "c) Sonda de Pasman.",
+                "d) Sonda de Mickulicz."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la pantalla existente en la sala de quir\u00f3fanos con sistema de iluminaci\u00f3n, que se emplea para visualizar radiograf\u00edas?",
+            "respuestas": [
+                "a) Escabel.",
+                "b) Negatoscopio.",
+                "c) Armario radiogr\u00e1fico.",
+                "d) Gammac\u00e1mara."
+            ],
+            "verdadera": 2
+        }
+    ]
+}

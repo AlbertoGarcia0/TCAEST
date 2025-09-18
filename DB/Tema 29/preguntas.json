@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 modalidad de esquizofrenia se caracteriza por presentar per\u00edodos alternantes de apat\u00eda extrema y excitaci\u00f3n intensa?",
+            "respuestas": [
+                "a) Esquizofrenia paranoide.",
+                "b) Esquizofrenia catat\u00f3nica.",
+                "c) Esquizofrenia hebefr\u00e9nica.",
+                "d) Esquizofrenia residual."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo deben estar las piernas del paciente para aplicar la sujeci\u00f3n terap\u00e9utica a los tobillos mediante las tiras de segufix o al travesero de la cama?",
+            "respuestas": [
+                "a) Deber\u00edan sujetarse con las piernas extendidas y ligeramente abiertas.",
+                "b) Deber\u00edan sujetarse con las piernas flexionadas y ligeramente abiertas.",
+                "c) Deber\u00edan sujetarse con las piernas extendidas y cerradas completamente.",
+                "d) Deber\u00edan sujetarse con las piernas flexionadas y cerradas completamente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La definici\u00f3n de la OMS de salud mental dice que es el resultado de la presencia de aspectos, necesarios para alcanzar un estado de completo bienestar de tipo:",
+            "respuestas": [
+                "a) Psicol\u00f3gico, afectivo y ambiental sobre la salud.",
+                "b) Psicol\u00f3gico, afectivo y social sobre la salud.",
+                "c) Afectivo, social y ambiental sobre la salud.",
+                "d) F\u00edsico, psicol\u00f3gico y social sobre la salud."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo y cu\u00e1ndo el m\u00e9dico comienza el tratamiento con un paciente violento?",
+            "respuestas": [
+                "a) Durante la intervenci\u00f3n para su reducci\u00f3n.",
+                "b) Antes de que se inicie la crisis de agitaci\u00f3n mediante una intervenci\u00f3n verbal.",
+                "c) Una vez que el paciente est\u00e9 bien sujeto en la cama mediante una intervenci\u00f3n verbal.",
+                "d) Una vez que el paciente est\u00e9 bien sujeto en la cama mediante una intervenci\u00f3n farmacol\u00f3gica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 s\u00edntomas de la esquizofrenia son primarios?",
+            "respuestas": [
+                "a) Catatonias.",
+                "b) Trastornos afectivos.",
+                "c) Alucinaciones auditivas.",
+                "d) Trastornos del lenguaje."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Es frecuente que los pacientes sujetos:",
+            "respuestas": [
+                "a) Se calmen despu\u00e9s de un tiempo.",
+                "b) Nunca se calmen y deban seguir en esa situaci\u00f3n.",
+                "c) No representen una amenaza para su integridad f\u00edsica, si no lo estuvieran.",
+                "d) Se enajenen definitivamente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 trastorno presentan las personas con el cuadro cl\u00ednico t\u00edpico de flashbacks?",
+            "respuestas": [
+                "a) Trastorno obsesivo-compulsivo.",
+                "b) Trastorno de estr\u00e9s traum\u00e1tico.",
+                "c) Trastorno f\u00f3bico.",
+                "d) Trastorno de ansiedad generalizada."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modelo de la teor\u00eda biologista sobre el origen de la salud mental es el que dice que la enfermedad se produce por dos causas, una de ella es un defecto biol\u00f3gico subyacente y la otra, una reacci\u00f3n compensatoria o adaptativa a este defecto?",
+            "respuestas": [
+                "a) Modelo f\u00edsico-qu\u00edmico.",
+                "b) Modelo neuroanat\u00f3mico.",
+                "c) Modelo de tensi\u00f3n.",
+                "d) Modelo biof\u00edsico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 trastorno del \u00e1nimo o afectivo (seg\u00fan DSM) pertenece al grupo de los trastornos depresivos?",
+            "respuestas": [
+                "a) Trastorno dist\u00edmico.",
+                "b) Episodio man\u00edaco.",
+                "c) Episodio mixto.",
+                "d) Trastorno bipolar."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Respecto a los medios de sujeci\u00f3n e inmovilizaci\u00f3n mec\u00e1nica sobre los pacientes es incorrecto que:",
+            "respuestas": [
+                "a) Deben aplicarse con suma discreci\u00f3n.",
+                "b) Deben reunir las m\u00e1ximas garant\u00edas de seguridad.",
+                "c) No tienen que estar recomendadas siempre por un facultativo m\u00e9dico.",
+                "d) Deben ser siempre el \u00faltimo recurso ante determinadas conductas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 s\u00edntoma del sue\u00f1o es muy caracter\u00edstico en pacientes deprimidos?",
+            "respuestas": [
+                "a) Insomnio total.",
+                "b) Insomnio de la segunda hora.",
+                "c) Sue\u00f1o parad\u00f3jico.",
+                "d) Sue\u00f1o profundo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se entiende como aquel patr\u00f3n de conducta realizado por un grupo de individuos, determinado por una forma de sentir y de pensar concretos?",
+            "respuestas": [
+                "a) Religi\u00f3n.",
+                "b) Socializaci\u00f3n.",
+                "c) Cultura.",
+                "d) Festejos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 elemento corporal se debe inmovilizar por cada miembro del personal que act\u00faa en la intervenci\u00f3n para reducir a un paciente agresivo?",
+            "respuestas": [
+                "a) Miembros en zonas proximales, tronco y cabeza.",
+                "b) Exclusivamente los miembros en sus zonas proximales.",
+                "c) Exclusivamente los miembros en sus zonas distales.",
+                "d) T\u00f3rax y abdomen, por delante y por detr\u00e1s."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfIndique cu\u00e1l de las siguientes ser\u00eda una actuaci\u00f3n correcta ante un paciente agresivo o agitado?",
+            "respuestas": [
+                "a) No es necesario avisar al m\u00e9dico y enfermera responsable del paciente de la situaci\u00f3n.",
+                "b) Como primer recurso se proceder\u00e1 a la sujeci\u00f3n mec\u00e1nica para evitar da\u00f1os personales.",
+                "c) En la sujeci\u00f3n participara todo el equipo presente, incluido el m\u00e9dico psiquiatra.",
+                "d) Si hay m\u00e1s pacientes, les pediremos ayuda en la sujeci\u00f3n mec\u00e1nica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una indicaci\u00f3n o estrategia que debe seguir el profesional sanitario ante un paciente con alteraci\u00f3n de la conducta en situaci\u00f3n de agresividad?",
+            "respuestas": [
+                "a) Dirigir la atenci\u00f3n del enfermo hacia otras cosas.",
+                "b) Realizar una observaci\u00f3n sistematizada de la conducta, atendiendo a posibles desencadenantes",
+                "c) No rega\u00f1arles, ni gritarles.",
+                "d) Explicar la actividad que se va a realizar, no dej\u00e1ndole tiempo para que lo piense."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las intervenciones con personas dependientes centradas en la ayuda mutua, el desarrollo de la solidaridad y las habilidades sociales se realizan como t\u00e9cnicas de:",
+            "respuestas": [
+                "a) Intervenci\u00f3n familiar.",
+                "b) Mediaci\u00f3n.",
+                "c) Resoluci\u00f3n de conflictos.",
+                "d) Intervenci\u00f3n grupal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Dentro de los cuidados de enfermer\u00eda (TCAE) de los trastornos de la ansiedad, indica cu\u00e1l de ellos no es correcto:",
+            "respuestas": [
+                "a) Identificar las situaciones que aumenten la tensi\u00f3n y ayudarle a tomar conciencia de su ansiedad.",
+                "b) Proporcionarle seguridad, permaneciendo junto a la persona y no exigirle que tome decisiones.",
+                "c) Nunca valorar el nivel de ansiedad del individuo, ya que es labor exclusiva del psicoterapeuta.",
+                "d) Ense\u00f1arle m\u00e9todos para reducir la ansiedad, tales como la relajaci\u00f3n y t\u00e9cnicas de reducci\u00f3n del estr\u00e9s."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El miedo irracional a los espacios abiertos se denomina:",
+            "respuestas": [
+                "a) Claustrofobia.",
+                "b) Dismorfobia.",
+                "c) Agorafobia.",
+                "d) Eritrofobia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 clasificaci\u00f3n de trastornos mentales recomienda la OMS que se use?",
+            "respuestas": [
+                "a) DSM- V.",
+                "b) CIE- 10.",
+                "c) DMS- III.",
+                "d) ASLO- V."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 concepto implica que el hecho de la existencia de una relaci\u00f3n de afecto, emoci\u00f3n o sentimiento de la persona vaya a tener repercusiones som\u00e1ticas positivas o negativas, tales como cefaleas, n\u00e1useas, diarreas, etc.?",
+            "respuestas": [
+                "a) El concepto de dinamismo.",
+                "b) El concepto de interacci\u00f3n.",
+                "c) El concepto de normalidad.",
+                "d) El concepto de aversi\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para sujetar a un paciente agitado se requerir\u00e1 como m\u00ednimo:",
+            "respuestas": [
+                "a) 4 personas.",
+                "b) 6 personas.",
+                "c) 8 personas.",
+                "d) 10 personas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 patolog\u00edas de estas incluir\u00edas en las psicosis?",
+            "respuestas": [
+                "a) Esquizofrenia.",
+                "b) Depresi\u00f3n tipo neurosis.",
+                "c) Sociopat\u00eda (trastorno antisocial de la personalidad).",
+                "d) Ninguna es psicosis."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se llama la estrategia que consiste en asociar una consecuencia desagradable a una conducta que realiza la persona y que desea dejar de realizar?",
+            "respuestas": [
+                "a) Desensibilizaci\u00f3n sistem\u00e1tica.",
+                "b) Condicionamiento operante.",
+                "c) Aprendizaje vicario.",
+                "d) Condicionamiento aversivo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la edici\u00f3n vigente de la clasificaci\u00f3n de los trastornos mentales de la Asociaci\u00f3n Estadounidense de Psiquiatr\u00eda de 2013?",
+            "respuestas": [
+                "a) DSM-3.",
+                "b) DSM-5.",
+                "c) DMS-2.",
+                "d) DMS-7."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la edad de presentaci\u00f3n m\u00e1s frecuente de la esquizofrenia?",
+            "respuestas": [
+                "a) Adolescencia y adulto joven.",
+                "b) Primera infancia.",
+                "c) Segunda infancia y adolescencia.",
+                "d) Adulto maduro (m\u00e1s de 45 a\u00f1os) y senectud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l ha sido desde siempre y hoy sobre todo, el tipo de tratamiento m\u00e1s empleado en el campo de la salud mental?",
+            "respuestas": [
+                "a) Tratamiento som\u00e1tico.",
+                "b) Tratamiento social.",
+                "c) Tratamiento ambiental.",
+                "d) Tratamiento de reducci\u00f3n verbal."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La ansiedad es un trastorno de tipo:",
+            "respuestas": [
+                "a) Psic\u00f3tico.",
+                "b) Neur\u00f3tico.",
+                "c) Sociop\u00e1tico.",
+                "d) Psicop\u00e1tico, asociado a toxicoman\u00edas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las conductas tendentes a disminuir la angustia ligada a la obsesi\u00f3n?",
+            "respuestas": [
+                "a) Fobia.",
+                "b) Obsesi\u00f3n.",
+                "c) Ritos compulsivos.",
+                "d) Angustia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medicaci\u00f3n requieren los pacientes violentos aun estando sujetos?",
+            "respuestas": [
+                "a) Medicaci\u00f3n antidepresiva por v\u00eda intramuscular.",
+                "b) Medicaci\u00f3n antipsic\u00f3tica por v\u00eda intramuscular.",
+                "c) Medicaci\u00f3n antidepresiva por v\u00eda intravenosa.",
+                "d) Medicaci\u00f3n antishock por v\u00eda parenteral."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La recompensa como medio de est\u00edmulo de conductas normales, o/y el castigo como medio de inhibir conductas anormales, entra dentro de las teor\u00edas sobre el origen de la salud mental de tipo:",
+            "respuestas": [
+                "a) Psicodin\u00e1mico.",
+                "b) Biologista.",
+                "c) Humanista.",
+                "d) Conductista."
+            ],
+            "verdadera": 4
+        }
+    ]
+}

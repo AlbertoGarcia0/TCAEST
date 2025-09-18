@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfEn qu\u00e9 semanas de gestaci\u00f3n se realizar\u00e1 la ecograf\u00eda donde se hace un estudio detallado valorando el crecimiento fetal, y descartando un retraso en el crecimiento?",
+            "respuestas": [
+                "a) En las semanas 8-10.",
+                "b) En las semanas 12-16.",
+                "c) En las semanas 16-22.",
+                "d) En las semanas 32-34."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la etapa del parto de mayor duraci\u00f3n?",
+            "respuestas": [
+                "a) Fase de Inicio.",
+                "b) Fase de Dilataci\u00f3n.",
+                "c) Fase de Expulsi\u00f3n.",
+                "d) Fase de Alumbramiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntas veces se recomienda ba\u00f1arse a la gestante?",
+            "respuestas": [
+                "a) 1 vez al d\u00eda.",
+                "b) 1 vez cada dos d\u00edas.",
+                "c) 1 vez cada tres d\u00edas.",
+                "d) 1 vez a la semana."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 hormona durante la lactancia impide la ovulaci\u00f3n?",
+            "respuestas": [
+                "a) LH.",
+                "b) Prolactina.",
+                "c) Progesterona.",
+                "d) Estr\u00f3genos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto debe durar aproximadamente el amamantar al bebe en cada pecho?",
+            "respuestas": [
+                "a) M\u00e1s de 30 minutos.",
+                "b) Entre 20 a 30 minutos.",
+                "c) Entre 15 a 20 minutos.",
+                "d) Entre 10 a 15 minutos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la maniobra mediante corte quir\u00fargico que evita el desgarro vaginal en la expulsi\u00f3n del reci\u00e9n nacido?",
+            "respuestas": [
+                "a) Retroolcusi\u00f3n.",
+                "b) Cistocele.",
+                "c) Episiotom\u00eda.",
+                "d) Vaginismo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfDesde cu\u00e1ndo es positiva la determinaci\u00f3n de la beta-HCG en sangre en el embarazo?",
+            "respuestas": [
+                "a) Suele ser positiva desde la formaci\u00f3n del zigoto.",
+                "b) Suele ser positiva desde la formaci\u00f3n de la m\u00f3rula.",
+                "c) Suele ser positiva desde la implantaci\u00f3n del huevo o zigoto.",
+                "d) Suele ser negativa dos semana despu\u00e9s de la implantaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto baja de peso aproximadamente el miometrio por involuci\u00f3n una semana despu\u00e9s del parto?",
+            "respuestas": [
+                "a) Una cuarta parte.",
+                "b) La mitad.",
+                "c) Tres cuartas partes.",
+                "d) El 90 %."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 hormona es la que se detecta en el test de embarazo en orina cuando es positivo?",
+            "respuestas": [
+                "a) Hormona gonadotropina cori\u00f3nica humana (HCG).",
+                "b) Hormona gonadotropina hipofisaria humana (HHG).",
+                "c) Prolactina (P).",
+                "d) Hormona fol\u00edculo estimulante (FSH)."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las p\u00e9rdidas que fluyen por los genitales externos durante el puerperio?",
+            "respuestas": [
+                "a) Menorragias.",
+                "b) Dismenorreas.",
+                "c) Loquios.",
+                "d) Entuertos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n es incorrecta sobre la cl\u00ednica de embarazo?",
+            "respuestas": [
+                "a) Los signos y s\u00edntomas son muy variables.",
+                "b) Es muy t\u00edpico en el embarazo el cansancio y la tensi\u00f3n mamaria.",
+                "c) La cl\u00ednica de embarazo es muy espec\u00edfica.",
+                "d) Las n\u00e1useas y los v\u00f3mitos matutinos son habituales que se presenten en la gestaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las contracciones uterinas dolorosas propias del puerperio se denominan:",
+            "respuestas": [
+                "a) Contracciones de bruja.",
+                "b) Dismenorreas.",
+                "c) Loquios.",
+                "d) Entuertos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El aborto se produce si finaliza la gestaci\u00f3n antes de la semana:",
+            "respuestas": [
+                "a) 42.",
+                "b) 35.",
+                "c) 22.",
+                "d) 25."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La prueba denominada test de O\u00b4Sullivan, t\u00edpico en gestaci\u00f3n, cuando da positivo se realiza a la embarazada el test llamado:",
+            "respuestas": [
+                "a) Tolerancia al gluten.",
+                "b) Coombs.",
+                "c) Toxoplasmosis.",
+                "d) Tolerancia oral a la glucosa."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 patolog\u00eda se previene con el consumo de yodo durante el embarazo?",
+            "respuestas": [
+                "a) Hipertiroidismo.",
+                "b) Enfermedad de Graves-Basedow.",
+                "c) Bocio.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 circunstancia no es muy probable que se d\u00e9 por el embarazo?",
+            "respuestas": [
+                "a) Pirosis.",
+                "b) Diarreas.",
+                "c) Hemorroides.",
+                "d) Estre\u00f1imiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 hormona se le achacan las n\u00e1useas y v\u00f3mitos en el embarazo?",
+            "respuestas": [
+                "a) Estr\u00f3genos.",
+                "b) Progest\u00e1genos.",
+                "c) Gonadotropina cori\u00f3nica.",
+                "d) A una mezcla de las anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto se debe consumir aproximadamente de hierro en todo el embarazo (en mg)?",
+            "respuestas": [
+                "a) 300.",
+                "b) 500.",
+                "c) 800.",
+                "d) 2500."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el consumo diario de prote\u00ednas recomendado en gestante?",
+            "respuestas": [
+                "a) 0,5 g por kg de peso.",
+                "b) 1 g por kg de peso.",
+                "c) 1,5 g por kg de peso.",
+                "d) 2,5 g por kg de peso."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntas fases bien diferenciadas existen en el parto?",
+            "respuestas": [
+                "a) 5.",
+                "b) 4.",
+                "c) 3.",
+                "d) 2."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sensibilidad posee el test de embarazo en orina de HCG, d\u00edas despu\u00e9s del retraso menstrual?",
+            "respuestas": [
+                "a) Cercano al 25 %.",
+                "b) Cercano al 65 %.",
+                "c) Cercano al 85 %.",
+                "d) Cercano al 100 %."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfHasta qu\u00e9 valor m\u00ednimo del hematocrito se considera normal en gestaci\u00f3n?",
+            "respuestas": [
+                "a) Hasta 28 %.",
+                "b) Hasta 30 %.",
+                "c) Hasta 33 %.",
+                "d) Hasta 45 %."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Mientras no se demuestre lo contrario, toda amenorrea secundaria, incluso premenop\u00e1usica ha de valorarse como:",
+            "respuestas": [
+                "a) Enfermedad grave del embarazo.",
+                "b) Enfermedad grave ajena a la gestaci\u00f3n.",
+                "c) Posible embarazo.",
+                "d) Enfermedad endocrina."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfHasta qu\u00e9 valor m\u00ednimo de hemoglobina en un hemograma (en g/dl) se considera normal en gestaci\u00f3n?",
+            "respuestas": [
+                "a) Hasta 8.",
+                "b) Hasta 9.",
+                "c) Hasta 10.",
+                "d) Hasta 11."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la orina mejor para hacer test de embarazo?",
+            "respuestas": [
+                "a) La primera orina despu\u00e9s de almorzar.",
+                "b) La primera orina despu\u00e9s de desayunar.",
+                "c) La primera orina de la noche.",
+                "d) La primera orina de la ma\u00f1ana."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 circunstancias de estas no es correcta en relaci\u00f3n con las influencias sobre cambios psicol\u00f3gicos que le ocasiona a la mujer por el hecho del puerperio?",
+            "respuestas": [
+                "a) Los cambios hormonales alteran el humor.",
+                "b) Si el ni\u00f1o era o no deseado alteran psicol\u00f3gicamente a la pu\u00e9rpera.",
+                "c) No influyen aquellas derivadas de la responsabilidad que supone tener un hijo.",
+                "d) Aquellas que se producen por los cambios que produce en la familia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el m\u00e9todo de diagn\u00f3stico de embarazo m\u00e1s frecuente utilizado?",
+            "respuestas": [
+                "a) Test de embarazo en saliva.",
+                "b) Test de embarazo en orina.",
+                "c) Test de embarazo cori\u00f3nico o amni\u00f3tico.",
+                "d) Test de embarazo en sudor."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 fase del parto las contracciones uterinas adquieren su m\u00e1xima frecuencia, duraci\u00f3n e intensidad?",
+            "respuestas": [
+                "a) Fase de Inicio.",
+                "b) Fase de Dilataci\u00f3n.",
+                "c) Fase de Expulsi\u00f3n.",
+                "d) Fase de Alumbramiento."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se oir\u00e1n los latidos fetales mediante ecograf\u00eda a partir de la semana de embarazo n\u00famero:",
+            "respuestas": [
+                "a) 4 semana.",
+                "b) 6 semana.",
+                "c) 8 semana.",
+                "d) 10 semana."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La presencia de sangrado en dientes en embarazada sana, indica la posible carencia de vitamina:",
+            "respuestas": [
+                "a) A.",
+                "b) D.",
+                "c) Tiamina.",
+                "d) C."
+            ],
+            "verdadera": 4
+        }
+    ]
+}

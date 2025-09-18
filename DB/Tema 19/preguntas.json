@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 no debe tomarse o comer durante d\u00edas previos a un estudio de sangre oculta en heces para realizar adecuadamente el procedimiento de toma de muestra de la misma?",
+            "respuestas": [
+                "a) Aspirina.",
+                "b) Alimentos picantes.",
+                "c) Tomates y r\u00e1banos.",
+                "d) No debe tomarse nada de lo anterior."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn cu\u00e1nto se estima que puede contaminar de agua un litro de aceite? Se estima que un litro de aceite puede contaminar",
+            "respuestas": [
+                "a) 50 litros.",
+                "b) 100 litros.",
+                "c) 1000 litros.",
+                "d) 5000 litros."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Generalmente, cuando pretendemos identificar la presencia de g\u00e9rmenes en muestras biol\u00f3gicas estamos realizando un estudio:",
+            "respuestas": [
+                "a) Hematol\u00f3gico.",
+                "b) Inmunol\u00f3gico.",
+                "c) Microbiol\u00f3gico.",
+                "d) Bioqu\u00edmico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de dispositivo de oxigenoterapia utiliza ox\u00edgeno en forma l\u00edquida que se convierte en gas a medida que se administra?",
+            "respuestas": [
+                "a) Sistemas de ox\u00edgeno inteligente.",
+                "b) Concentradores de ox\u00edgeno port\u00e1tiles.",
+                "c) Sistemas de ox\u00edgeno l\u00edquido.",
+                "d) Dispositivos de conservaci\u00f3n de ox\u00edgeno."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de muestra no se toma en garganta?",
+            "respuestas": [
+                "a) Exudado de am\u00edgdalas.",
+                "b) Trasudado de garganta.",
+                "c) Exudado de garganta.",
+                "d) Exudado o aspirado de nasofaringe."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 virus gripales poseen mayor variabilidad antig\u00e9nica?",
+            "respuestas": [
+                "a) Virus influenza A.",
+                "b) Virus influenza B.",
+                "c) Virus influenza C.",
+                "d) Thogotovirus."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Para realizar un sondaje nasog\u00e1strico, se debe colocar al paciente en posici\u00f3n de:",
+            "respuestas": [
+                "a) Roser.",
+                "b) Dec\u00fabito supino.",
+                "c) Sims",
+                "d) Fowler."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una indicaci\u00f3n del enema medicamentoso?",
+            "respuestas": [
+                "a) Laxante.",
+                "b) Estimulante.",
+                "c) Antihelm\u00edtico.",
+                "d) Limpieza."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 patolog\u00eda es muy probable de padecer ante un LCR de aspecto en \u201ctela de ara\u00f1a\u201d?",
+            "respuestas": [
+                "a) Esclerosis m\u00faltiple.",
+                "b) Encefalitis espongiforme (\u201cvacas locas\u201d).",
+                "c) S\u00edfilis.",
+                "d) Meningitis tuberculosa."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "De la fonaci\u00f3n es responsable directamente:",
+            "respuestas": [
+                "a) La faringe.",
+                "b) La laringe.",
+                "c) Las arcadas dentarias.",
+                "d) La tr\u00e1quea."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Tras los procedimientos necesarios en la recogida y transporte de la muestra biol\u00f3gica es necesario:",
+            "respuestas": [
+                "a) Aplicar las medidas necesarias para que no existan riesgos posteriores a la obtenci\u00f3n de las muestras, de forma que el usuario tenga el m\u00e1ximo de comodidad y el m\u00ednimo de inconvenientes.",
+                "b) Observar con toda atenci\u00f3n la posible aparici\u00f3n de reacciones adversas en el usuario, especialmente si la obtenci\u00f3n ha sido traum\u00e1tica, compleja, delicada o dif\u00edcil.",
+                "c) Anotar toda la informaci\u00f3n que se requiera en los registros de Enfermer\u00eda y en aquellos otros que fuese necesario en cada caso.",
+                "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan las estructuras bronquiales extrapulmonares?",
+            "respuestas": [
+                "a) Bronquios principales.",
+                "b) Bronquios terciarios.",
+                "c) Bronquiolos.",
+                "d) Bronquios secundarios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso de la circulaci\u00f3n menor?",
+            "respuestas": [
+                "a) En ella hay dos venas pulmonares que van a aur\u00edcula derecha.",
+                "b) La sangre arterial circula por las venas pulmonares.",
+                "c) La sangre que transportan las arterias pulmonares est\u00e1 cargada de di\u00f3xido de carbono y empobrecida en ox\u00edgeno.",
+                "d) La hematosis es el fen\u00f3meno de intercambio de gases a nivel alveolocapilar."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancias se debe conservar la muestra de orina para urocultivo si no puede ser procesada inmediatamente?",
+            "respuestas": [
+                "a) Se debe de mantener a una temperatura de (- 5 \u00baC), no m\u00e1s de 24 horas.",
+                "b) Se debe de mantener a una temperatura de 0 \u00baC, no m\u00e1s de 24 horas.",
+                "c) Se debe de mantener a una temperatura de 4 \u00baC, no m\u00e1s de 24 horas.",
+                "d) Se debe de mantener a una temperatura de 10 \u00baC, no m\u00e1s de 48 horas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto mide aproximadamente la faringe en cm?",
+            "respuestas": [
+                "a) 4.",
+                "b) 8.",
+                "c) 12.",
+                "d) 2."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 color presenta el tap\u00f3n del frasco que se emplea en la toma de la muestra de sangre venosa para estudios de coagulaci\u00f3n?",
+            "respuestas": [
+                "a) Violeta.",
+                "b) Negro.",
+                "c) Azul.",
+                "d) Rojo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfGeneralmente de qu\u00e9 color es la bolsa de segregaci\u00f3n de residuos de car\u00e1cter dom\u00e9stico, tipo papel y cart\u00f3n, que en la pr\u00e1ctica se utilizan habitualmente como material de embalaje, o en otros fines (material de oficina, escolar\u2026)? La bolsa debe ser de color\u2026",
+            "respuestas": [
+                "a) Amarillo.",
+                "b) Verde oscuro.",
+                "c) Azul.",
+                "d) Gris."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todo lo que se dice de la respiraci\u00f3n es cierto, excepto que:",
+            "respuestas": [
+                "a) En la respiraci\u00f3n se aspira aire.",
+                "b) El aparato respiratorio est\u00e1 constituido por las llamadas v\u00edas respiratorias y por los pulmones. El conjunto de todas estas estructuras constituye la anatom\u00eda del aparato respiratorio.",
+                "c) En la respiraci\u00f3n se expelen gases al aire.",
+                "d) Las v\u00edas respiratorias est\u00e1n a su vez formadas por las fosas nasales, faringe, laringe, tr\u00e1quea, bronquios principales y pulmones."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 sistema se conectar\u00e1 el paciente al que se le ha realizado una punci\u00f3n pleural para realizar el drenaje?",
+            "respuestas": [
+                "a) Al sistema Columbia agar.",
+                "b) Al sistema Stuart-Amies.",
+                "c) Al sistema Pleur-Evac.",
+                "d) Ninguna de las anteriores respuestas es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En la colostom\u00eda sigmoidea, las heces aparecen con consistencia:",
+            "respuestas": [
+                "a) L\u00edquida.",
+                "b) Semil\u00edquida.",
+                "c) Semis\u00f3lida.",
+                "d) S\u00f3lida."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La cantidad m\u00ednima (en ml) necesaria para que la muestra de un exudado de absceso sea adecuada se encuentra entre:",
+            "respuestas": [
+                "a) 1 a 4.",
+                "b) 5 a 10.",
+                "c) 15 a 30.",
+                "d) > 30."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 nombre reciben los residuos de car\u00e1cter dom\u00e9stico que son org\u00e1nicos biodegradables de origen vegetal y/o animal, susceptibles de degradarse biol\u00f3gicamente?",
+            "respuestas": [
+                "a) Bioorg\u00e1nicos.",
+                "b) Biodegradables naturalmente.",
+                "c) Biorresiduos.",
+                "d) Ninguno de los nombres anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El test de Allen nos sirve para asegurar:",
+            "respuestas": [
+                "a) Que la arteria cubital irriga normalmente, si extraemos sangre de la arteria radial.",
+                "b) La circulaci\u00f3n adecuada de la regi\u00f3n de la mano, comprometida en la extracci\u00f3n.",
+                "c) Que la arteria humeral irriga normalmente, si extraemos sangre de la arteria radial.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 tipo de muestras biol\u00f3gicas se realizan la mayor\u00eda de las pruebas de laboratorio?",
+            "respuestas": [
+                "a) L\u00edquidos corporales.",
+                "b) Exudados.",
+                "c) Tejidos.",
+                "d) Heces."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 zona far\u00edngea se localizan las am\u00edgdalas palatinas?",
+            "respuestas": [
+                "a) Orofaringe.",
+                "b) Rinofaringe.",
+                "c) Nasofaringe.",
+                "d) Laringofaringe."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la causa m\u00e1s frecuente de un neumot\u00f3rax espontaneo secundario?",
+            "respuestas": [
+                "a) EPOC.",
+                "b) Traumatismo.",
+                "c) Cirug\u00eda tor\u00e1cica.",
+                "d) Catamenial."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es una desventaja de la pulsioximetr\u00eda en relaci\u00f3n con la gasometr\u00eda?",
+            "respuestas": [
+                "a) Es cruenta.",
+                "b) No informa de la frecuencia card\u00edaca.",
+                "c) Es de dif\u00edcil manejo.",
+                "d) No detecta hiperoxemia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes dispositivos de oxigenoterapia permite una mayor movilidad y libertad para los pacientes debido a su tama\u00f1o compacto y bater\u00edas recargables?",
+            "respuestas": [
+                "a) Sistemas de ox\u00edgeno l\u00edquido.",
+                "b) Concentradores de ox\u00edgeno port\u00e1tiles.",
+                "c) Mascarillas de alto flujo.",
+                "d) Sistemas de ox\u00edgeno transnasal."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La proliferaci\u00f3n bacteriana es muy intensa en una muestra:",
+            "respuestas": [
+                "a) A temperatura ambiente.",
+                "b) A 38 o 39 \u00baC.",
+                "c) A temperaturas muy bajas.",
+                "d) A 60 o m\u00e1s grados cent\u00edgrados."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 son bacterias anaer\u00f3bicas?",
+            "respuestas": [
+                "a) Aquellas que crecen en presencia de ox\u00edgeno.",
+                "b) Aquellas que crecen en ausencia de ox\u00edgeno.",
+                "c) Aquellas que crecen en ausencia de CO2.",
+                "d) Son ciertas las respuestas a) y c)."
+            ],
+            "verdadera": 2
+        }
+    ]
+}

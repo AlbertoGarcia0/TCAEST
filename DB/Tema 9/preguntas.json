@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 principio bio\u00e9tico se refiere a la obligaci\u00f3n de hacer el bien y evitar el da\u00f1o? Se\u00f1ale la respuesta correcta:",
+            "respuestas": [
+                "a) Beneficencia.",
+                "b) No maleficencia.",
+                "c) Justicia.",
+                "d) Autonom\u00eda."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modalidad de \u00e9tica es aquella que supone la comprensi\u00f3n de lo que define a una profesi\u00f3n y sus funciones, establece si esta profesi\u00f3n constituye o no nuestro absoluto profesional y adecua nuestro comportamiento seg\u00fan ese absoluto profesional elegido?",
+            "respuestas": [
+                "a) \u00c9tica laboral.",
+                "b) \u00c9tica profesional.",
+                "c) \u00c9tica personal.",
+                "d) \u00c9tica global."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 requisito necesario no es correcto para que se practique la interrupci\u00f3n voluntaria del embarazo?",
+            "respuestas": [
+                "a) Que se practique por una matrona bajo la direcci\u00f3n de un m\u00e9dico de familia.",
+                "b) Que se practique por un m\u00e9dico especialista o bajo su direcci\u00f3n.",
+                "c) Que se realice con el consentimiento expreso y por escrito de la mujer embarazada o, en su caso, del representante legal.",
+                "d) Que se lleve a cabo en centro sanitario p\u00fablico o privado acreditado."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "De estos, \u00bfqu\u00e9 c\u00f3digo o principio rigen la experimentaci\u00f3n con seres humanos?",
+            "respuestas": [
+                "a) C\u00f3digo da Vinci.",
+                "b) C\u00f3digo de Estocolmo.",
+                "c) Declaraci\u00f3n Humana de Berna.",
+                "d) C\u00f3digo de Nuremberg."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspecto o cuesti\u00f3n posee valor extr\u00ednseco?",
+            "respuestas": [
+                "a) Aire.",
+                "b) Agua.",
+                "c) Salud.",
+                "d) Alimentos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l ser\u00eda, entre los pasos a seguir para la toma de decisiones \u00e9ticas, el \u00faltimo a efectuar en la pr\u00e1ctica cl\u00ednica?",
+            "respuestas": [
+                "a) Principios.",
+                "b) Resoluci\u00f3n del problema.",
+                "c) Descripci\u00f3n de problemas.",
+                "d) Decisiones a tomar."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina aquella relaci\u00f3n terap\u00e9utica que mantienen dos o m\u00e1s personas y de la que se sigue un producto o fin, donde se supone que el profesional de enfermer\u00eda debe situarse en el papel del enfermo, para, desde esa situaci\u00f3n, poder establecer una distancia y aportar salud en la medida de lo posible?",
+            "respuestas": [
+                "a) Relaci\u00f3n primaria y simp\u00e1tica.",
+                "b) Relaci\u00f3n secundaria y simp\u00e1tica.",
+                "c) Relaci\u00f3n primaria y emp\u00e1tica.",
+                "d) Relaci\u00f3n secundaria y emp\u00e1tica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo y d\u00f3nde apareci\u00f3 el primer c\u00f3digo deontol\u00f3gico enfermero de car\u00e1cter internacional?",
+            "respuestas": [
+                "a) Siglo V a. C. elaborado por Hip\u00f3crates, en la antigua Grecia.",
+                "b) 1893, en el Hospital Harper (Detroit).",
+                "c) 1953, en el Congreso de Enfermer\u00eda de Sao Paulo (Brasil).",
+                "d) 1973, en el Congreso de Enfermer\u00eda de Oporto (Portugal)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la principal caracter\u00edstica de un delito culposo en el \u00e1mbito sanitario?",
+            "respuestas": [
+                "a) Se comete con intenci\u00f3n directa de causar da\u00f1o.",
+                "b) Supone la omisi\u00f3n de la obligaci\u00f3n de sigilo.",
+                "c) Se realiza sin intencionalidad, por falta de atenci\u00f3n o previsi\u00f3n.",
+                "d) Es sancionado \u00fanicamente con multa administrativa."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Est\u00e1 obligado a guardar secreto profesional:",
+            "respuestas": [
+                "a) El m\u00e9dico especialista.",
+                "b) El m\u00e9dico y el t\u00e9cnico especialista.",
+                "c) Todos los que intervengan en la acci\u00f3n sanitaria del paciente.",
+                "d) El m\u00e9dico, el t\u00e9cnico especialista, el enfermero y el TCAE."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 circunstancia para el TCAE no es objeto de secreto profesional?",
+            "respuestas": [
+                "a) Confidencias del paciente, aunque sean ajenas a lo profesional.",
+                "b) Los datos sobre salud y enfermedad del paciente.",
+                "c) Cuando reconozca a un cad\u00e1ver que se sospeche que ha podido morir como consecuencia de alg\u00fan acto delictivo, en tal caso, se da parte a la justicia.",
+                "d) Todos los datos que se conocen por causa del trabajo realizado con o sin autorizaci\u00f3n y consentimiento del paciente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la pena adicional en casos de imprudencia profesional grave con resultado de lesi\u00f3n?",
+            "respuestas": [
+                "a) Arresto domiciliario.",
+                "b) Inhabilitaci\u00f3n especial para ejercer la profesi\u00f3n.",
+                "c) Prisi\u00f3n permanente revisable.",
+                "d) Indemnizaci\u00f3n doble autom\u00e1tica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 documento es necesario para facilitar la prestaci\u00f3n de ayuda para morir en ausencia de capacidad de consentimiento?",
+            "respuestas": [
+                "a) Testamento no vital.",
+                "b) Documento de voluntades anticipadas.",
+                "c) Contrato de seguro.",
+                "d) Declaraci\u00f3n jurada."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la omisi\u00f3n planificada de los cuidados que facilita la muerte del paciente, que seguramente si estos se dieran prolongar\u00edan la vida del enfermo?",
+            "respuestas": [
+                "a) Distanasia.",
+                "b) Eutanasia activa.",
+                "c) Ortotanasia.",
+                "d) Eutanasia pasiva."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es el estado general de bienestar f\u00edsico, mental y social, que requiere un entorno libre de coerci\u00f3n, discriminaci\u00f3n y violencia y no la mera ausencia de enfermedad o dolencia, en todos los aspectos relacionados con la sexualidad de las personas. Es tambi\u00e9n un enfoque integral para analizar y responder a las necesidades de la poblaci\u00f3n, as\u00ed como para garantizar el derecho a la salud y los derechos sexuales?",
+            "respuestas": [
+                "a) Salud.",
+                "b) Salud sexual.",
+                "c) Salud de gestante.",
+                "d) Salud reproductiva."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 forma de relaci\u00f3n terap\u00e9utica del personal de enfermer\u00eda es aquella en la que se desenvuelve situ\u00e1ndose este en el papel del enfermo, para, desde esa situaci\u00f3n, poder establecer una distancia y aportar salud en la medida de lo posible?",
+            "respuestas": [
+                "a) Relaci\u00f3n abierta.",
+                "b) Relaci\u00f3n simp\u00e1tica.",
+                "c) Relaci\u00f3n cerrada.",
+                "d) Relaci\u00f3n emp\u00e1tica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos no es un componente b\u00e1sico de los 8 que cita Mayeroff a desarrollar para disponer de la capacidad de cuidar?",
+            "respuestas": [
+                "a) Confianza",
+                "b) Prudencia.",
+                "c) Paciencia.",
+                "d) Honestidad y humildad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancias de estas el sanitario puede romper el secreto profesional?",
+            "respuestas": [
+                "a) Cuando haya peligro para la Salud P\u00fablica o est\u00e9 en juego la vida de terceras personas.",
+                "b) Cuando declara como imputado en una causa penal.",
+                "c) En aquellos en los que atienden a personas que no hayan podido ser v\u00edctimas de un delito, pero s\u00ed de un hecho irresponsable, sin grandes consecuencias, pero debe conocerse.",
+                "d) En todas las circunstancias anteriores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es una caracter\u00edstica necesaria para recibir la prestaci\u00f3n de ayuda para morir seg\u00fan la Ley Org\u00e1nica 3/2021?",
+            "respuestas": [
+                "a) Ser ciudadano de la UE.",
+                "b) Tener residencia legal en Espa\u00f1a.",
+                "c) Ser menor de edad.",
+                "d) No estar consciente en el momento de la solicitud."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9nes conforman el Comit\u00e9 Cl\u00ednico necesario en los casos de interrupci\u00f3n voluntaria del embarazo?",
+            "respuestas": [
+                "a) Un m\u00e9dico especialista en ginecolog\u00eda y obstetricia o expertos en diagn\u00f3stico prenatal, y un pediatra.",
+                "b) Dos m\u00e9dicos especialistas en ginecolog\u00eda y obstetricia o expertos en diagn\u00f3stico prenatal, y un pediatra.",
+                "c) Un m\u00e9dico especialista en ginecolog\u00eda y obstetricia o expertos en diagn\u00f3stico prenatal, una matrona y un pediatra.",
+                "d) Una matrona y un pediatra."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n es correcta?",
+            "respuestas": [
+                "a) La \u00e9tica no es una materia subjetiva.",
+                "b) Para la soluci\u00f3n de los problemas \u00e9ticos se necesita la aplicaci\u00f3n de un proceso il\u00f3gico pero moral.",
+                "c) La soluci\u00f3n de los problemas \u00e9ticos o morales que se plantean en la pr\u00e1ctica cl\u00ednica no requiere una intervenci\u00f3n por parte del personal sanitario con el fin de solucionarlos.",
+                "d) No es necesaria la aplicaci\u00f3n de un m\u00e9todo cient\u00edfico en la pr\u00e1ctica de enfermer\u00eda, ya que con la \u00e9tica se solucionan los problemas que surjan."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina la parte del conocimiento humano que trata y se interesa de los principios y los conceptos base que est\u00e1n o deber\u00edan estar en el pensamiento y actividad humanos?",
+            "respuestas": [
+                "a) Filosof\u00eda.",
+                "b) Humanidades.",
+                "c) Psicolog\u00eda.",
+                "d) \u00c9tica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el acto cl\u00ednico que consiste en el examen realizado sobre el cad\u00e1ver de una persona fallecida a causa de enfermedad, que tiene como objetivo final la confirmaci\u00f3n de las causas de la muerte?",
+            "respuestas": [
+                "a) Ortotanasia.",
+                "b) Autopsia cl\u00ednica.",
+                "c) Autopsia m\u00e9dico-forense.",
+                "d) Distanasia."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan los valores del sujeto, que se refieren primordialmente a aquellos que contribuyen al mantenimiento de la vida?",
+            "respuestas": [
+                "a) Valores b\u00e1sicos.",
+                "b) Valores extr\u00ednsecos.",
+                "c) Valores intr\u00ednsecos.",
+                "d) Valores vitales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Una desacreditaci\u00f3n de una persona por medio de manifestaciones o declaraciones p\u00fablicas para hacerle perder su reputaci\u00f3n es:",
+            "respuestas": [
+                "a) Difamaci\u00f3n.",
+                "b) Calumnia.",
+                "c) Negligencia.",
+                "d) Agresi\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 situaci\u00f3n permite revelar el secreto profesional sin incurrir en delito?",
+            "respuestas": [
+                "a) Siempre que el paciente lo consienta verbalmente.",
+                "b) Cuando se quiera prevenir un delito sin confirmaci\u00f3n.",
+                "c) Si existe peligro para la salud p\u00fablica o de terceros.",
+                "d) En caso de curiosidad por parte de un colega."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 \u00e9tica supone la comprensi\u00f3n de lo que define a una profesi\u00f3n y sus funciones, establecer si esta profesi\u00f3n constituye o no nuestro absoluto profesional?",
+            "respuestas": [
+                "a) \u00c9tica personal.",
+                "b) \u00c9tica social.",
+                "c) \u00c9tica profesional.",
+                "d) Del profesional de enfermer\u00eda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de relaci\u00f3n asistencia en enfermer\u00eda es aquella que mantienen dos o m\u00e1s personas y de la que se sigue un producto o fin?",
+            "respuestas": [
+                "a) Relaci\u00f3n primaria.",
+                "b) Relaci\u00f3n laboral.",
+                "c) Relaci\u00f3n secundaria.",
+                "d) Relaci\u00f3n profesional."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 normativa es la que regula el aborto en nuestro pa\u00eds?",
+            "respuestas": [
+                "a) Ley Org\u00e1nica 2/2010.",
+                "b) Ley 41/2002.",
+                "c) Ley Org\u00e1nica 15/1999.",
+                "d) Ley Org\u00e1nica 10/1995."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Toda investigaci\u00f3n o experimentaci\u00f3n realizada en seres humanos debe hacerse de acuerdo con los principios \u00e9ticos b\u00e1sicos de:",
+            "respuestas": [
+                "a) Respeto a las personas y a los animales.",
+                "b) Respeto a las personas y b\u00fasqueda del bien.",
+                "c) Respeto a las personas, b\u00fasqueda de la justicia y respeto a los animales.",
+                "d) Respeto a las personas, b\u00fasqueda del bien y de la justicia."
+            ],
+            "verdadera": 4
+        }
+    ]
+}

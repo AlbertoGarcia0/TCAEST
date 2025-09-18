@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "El Centro de Salud del municipio cabecera de la Zona B\u00e1sica de Salud no debe distar del resto de los municipios de la Zona:",
+            "respuestas": [
+                "a) Menos de 30 minutos.",
+                "b) M\u00e1s de 30 minutos.",
+                "c) M\u00e1s de 30 minutos con los medios habituales de locomoci\u00f3n.",
+                "d) M\u00e1s de 30 minutos seg\u00fan la velocidad de traslado de una ambulancia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La participaci\u00f3n en los Programas de Salud Mental, Laboral y Ambiental es:",
+            "respuestas": [
+                "a) Una de las actividades que se desarrollan en el Distrito de Atenci\u00f3n Primaria.",
+                "b) Una de las funciones del Equipo B\u00e1sico de Salud Mental.",
+                "c) Una de las directrices de actuaci\u00f3n del Equipo de Atenci\u00f3n Primaria.",
+                "d) Una de las funciones del Equipo de Atenci\u00f3n Primaria."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ale la respuesta incorrecta respecto al concepto de Atenci\u00f3n Primaria:",
+            "respuestas": [
+                "a) Constituye el primer nivel de acceso ordinario de la poblaci\u00f3n al Sistema Sanitario P\u00fablico, y se caracteriza por prestar atenci\u00f3n integral a la salud.",
+                "b) En los servicios de Atenci\u00f3n Primaria el usuario halla respuesta a sus problemas m\u00e1s habituales de salud y enfermedad, y solo cuando el diagn\u00f3stico y tratamiento lo requieran y ya no pueda ser atendido con los medios de ese primer nivel, ser\u00e1 derivado a la Atenci\u00f3n Especializada.",
+                "c) La Atenci\u00f3n Primaria se desarrolla al principio de la d\u00e9cada de los sesenta, como una reacci\u00f3n en contra del sistema sanitario b\u00e1sicamente hospitalario y curativo, especializado, costoso, tecnificado, y alejado del individuo.",
+                "d) En los servicios de Atenci\u00f3n Primaria el usuario halla respuesta a sus problemas m\u00e1s habituales de salud y enfermedad, y solo cuando el diagn\u00f3stico y tratamiento lo requieran y ya no pueda ser atendido con los medios de ese primer nivel, ser\u00e1 derivado a la Atenci\u00f3n Especializada."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de respuesta de afrontamiento trata de buscar el significado de la enfermedad y reinterpretar nuestra vida en funci\u00f3n de ello, se da en personas que afrontan la situaci\u00f3n con mayor optimismo y parece aumentar la supervivencia en pacientes con c\u00e1ncer de mama?",
+            "respuestas": [
+                "a) Resignaci\u00f3n o aceptaci\u00f3n de la enfermedad.",
+                "b) Reinterpretaci\u00f3n positiva.",
+                "c) Evitaci\u00f3n.",
+                "d) Conductas confrontativas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Como norma general, una Zona B\u00e1sica de Salud abarcar\u00e1 una poblaci\u00f3n comprendida:",
+            "respuestas": [
+                "a) Entre los 5.000 y los 25.000 habitantes.",
+                "b) Entre los 40.000 y los 100.000 habitantes.",
+                "c) Entre los 5.000 y los 40.000 habitantes.",
+                "d) Entre los 25.000 y los 100.000 habitantes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Cuando una Zona B\u00e1sica de Salud est\u00e1 constituida por varios municipios:",
+            "respuestas": [
+                "a) Se fijar\u00e1 un municipio cabecera en el que se ubicar\u00e1 el Centro de Salud.",
+                "b) Se ubicar\u00e1 un Centro de Salud en cada municipio.",
+                "c) Se constituir\u00e1 un Equipo de Atenci\u00f3n Primaria en cada municipio.",
+                "d) Se fijar\u00e1 un municipio cabecera en el que se ubicar\u00e1 el \u00fanico Centro de Atenci\u00f3 Primaria que le corresponde a la Zona B\u00e1sica de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Forma parte del Equipo de Atenci\u00f3n Primaria:",
+            "respuestas": [
+                "a) El Director de Gesti\u00f3n y Servicios Generales.",
+                "b) El Gerente del \u00c1rea de Salud.",
+                "c) Los Facultativos Especialistas del \u00e1rea hospitalaria.",
+                "d) Los Veterinarios de la Zona B\u00e1sica de Salud."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Uno de los objetivos de la Atenci\u00f3n Especializada es:",
+            "respuestas": [
+                "a) Prestar asistencia ambulatoria especializada.",
+                "b) Posibilitar la hospitalizaci\u00f3n de los pacientes que lo precisen.",
+                "c) Poner sus Centros e Instituciones a disposici\u00f3n de la investigaci\u00f3n y docencia en materia de salud.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Cuando en un sistema de atenci\u00f3n a la salud hablamos de Atenci\u00f3n Secundaria hacemos referencia:",
+            "respuestas": [
+                "a) Al nivel m\u00e1s b\u00e1sico y elemental del sistema.",
+                "b) A un nivel no b\u00e1sico sino especializado.",
+                "c) A un nivel superespecializado del sistema.",
+                "d) Ninguna respuesta es correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los municipios que no son cabecera de la Zona B\u00e1sica de Salud:",
+            "respuestas": [
+                "a) Disponen de su propio Centro de Salud.",
+                "b) Disponen de su propio Centro de Atenci\u00f3n Primaria.",
+                "c) Garantizan la asistencia de su poblaci\u00f3n con el Centro de Salud del municipio cabecera.",
+                "d) Garantizan la asistencia de su poblaci\u00f3n en el correspondiente Ambulatorio de Zona."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Se considera que existe retraso mental en cocientes intelectuales inferiores o iguales a:",
+            "respuestas": [
+                "a) 70.",
+                "b) 80.",
+                "c) 90.",
+                "d) 100."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la estructura f\u00edsica fundamental de la Atenci\u00f3n Especializada?",
+            "respuestas": [
+                "a) El Centro de Salud.",
+                "b) El Ambulatorio.",
+                "c) El Consultorio.",
+                "d) El Hospital."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 modelo de Enfermer\u00eda pertenece la autora Hildergarde Peplau?",
+            "respuestas": [
+                "a) Modelo de sistemas.",
+                "b) Modelo interaccionista.",
+                "c) Modelo de autocuidados.",
+                "d) Modelo de adaptaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La meta de Virginia Henderson es:",
+            "respuestas": [
+                "a) La adaptaci\u00f3n del paciente.",
+                "b) El m\u00e1ximo grado de crecimiento personal del paciente.",
+                "c) Identificar las necesidades del paciente.",
+                "d) La independencia del paciente."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 se diferencia la Atenci\u00f3n Especializada de la Atenci\u00f3n Primaria?",
+            "respuestas": [
+                "a) En que la Atenci\u00f3n Especializada se presta en r\u00e9gimen ambulatorio y la Atenci\u00f3n Primaria no.",
+                "b) En que la Atenci\u00f3n Especializada se presta en r\u00e9gimen de urgencias y la Atenci\u00f3n Primaria no.",
+                "c) En que solo la Atenci\u00f3n Especializada ofrece la asistencia en r\u00e9gimen de internamiento.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se considera matriarca de la enfermer\u00eda a:",
+            "respuestas": [
+                "a) Virginia Henderson.",
+                "b) Nancy Roper.",
+                "c) Dorotea Orem.",
+                "d) Florence Nightingale."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ale cu\u00e1l de las siguientes no es una de las caracter\u00edsticas de la Atenci\u00f3n Primaria de Salud:",
+            "respuestas": [
+                "a) Se establecen nuevos servicios como la cita previa programada, Historia Cl\u00ednica familiar e individual, Consultas de Enfermer\u00eda, Consultas del \u00abni\u00f1o sano\u00bb, Servicios de Informaci\u00f3n al Usuario, etc.",
+                "b) Surge una nueva concepci\u00f3n de la asistencia sanitaria, individual y colectiva, en la que no s\u00f3lo se curan individuos enfermos sino que se promociona la salud y se educan individuos sanos.",
+                "c) Desaparecen antiguas \u00e1reas asistenciales tales como Salud laboral, Salud Mental, Asistencia social, Enfermos cr\u00f3nicos, etc.",
+                "d) Se crea una nueva sectorizaci\u00f3n del territorio, las Zonas B\u00e1sicas de Salud."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 tipo de pacientes aparecen problemas de insomnio, despert\u00e1ndose en mitad de la noche?",
+            "respuestas": [
+                "a) En estados neur\u00f3ticos.",
+                "b) En pacientes deprimidos.",
+                "c) En pacientes man\u00edacos.",
+                "d) En todos los anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El mecanismo de defensa empleado por algunos pacientes hospitalizados, por el cual no creen que el diagn\u00f3stico que se les corrobora sea cierto se denomina:",
+            "respuestas": [
+                "a) Regresi\u00f3n.",
+                "b) Racionalizaci\u00f3n.",
+                "c) Negaci\u00f3n.",
+                "d) Compensaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Para poder conseguir la meta de excelencia, las organizaciones sanitarias deben cumplir una serie de criterios generales, entre los cuales cabe considerar los siguientes excepto uno; se\u00f1ala cu\u00e1l:",
+            "respuestas": [
+                "a) Establecimiento de jerarqu\u00eda, misi\u00f3n y visi\u00f3n.",
+                "b) Modo de integraci\u00f3n comunitaria.",
+                "c) Definici\u00f3n de procesos para permitir la formaci\u00f3n y participaci\u00f3n del personal en las decisiones que les afectan.",
+                "d) Definir la direcci\u00f3n estrat\u00e9gica y las metas una vez conseguida la excelencia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La forma en la que el paciente habla es orientativa de su estado mental, as\u00ed aquellos pacientes que presentan una forma caracter\u00edstica de lenguaje con una gran verborrea y fuga de ideas, son:",
+            "respuestas": [
+                "a) Man\u00edacos.",
+                "b) Depresivos.",
+                "c) Esquizofr\u00e9nicos.",
+                "d) Hist\u00e9ricos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El dolor grato y placentero ocurre en tres tipos de personas:",
+            "respuestas": [
+                "a) Los masoquistas, los ansiosos de evasi\u00f3n y los ansiosos de estimaci\u00f3n.",
+                "b) Los agresivos, los introvertidos y los masoquistas.",
+                "c) Los deprimidos, los introvertidos y los autoagresivos.",
+                "d) Los ansiosos de evasi\u00f3n, los autoagresivos y los anor\u00e9xicos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se\u00f1ale la definici\u00f3n correcta de Centro de Salud:",
+            "respuestas": [
+                "a) La estructura f\u00edsica y funcional que permite el adecuado desarrollo de una atenci\u00f3n primaria de salud coordinada globalmente, integral, permanente y continuada, y con base en el trabajo de equipo de los profesionales sanitarios y no sanitarios que act\u00faan en el mismo.",
+                "b) El establecimiento encargado tanto del internamiento cl\u00ednico como de la asistencia especializada y complementaria que requiera su zona de influencia.",
+                "c) Instituci\u00f3n sanitaria totalmente jerarquizada y provista de servicios capaces de realizar una asistencia ambulatoria completa a la poblaci\u00f3n protegida por el Sistema Nacional de Salud, que le ha sido derivada en funci\u00f3n de las exigencias emanadas de razones asistenciales objetivas.",
+                "d) Instituci\u00f3n sanitaria en la que s\u00f3lo se ofrece asistencia especializada en r\u00e9gimen ambulatorio."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes mecanismos de defensa (mecanismos mentales) es frecuente observar en el paciente hospitalizado?",
+            "respuestas": [
+                "a) Negaci\u00f3n.",
+                "b) Desintegraci\u00f3n.",
+                "c) Compensaci\u00f3n.",
+                "d) Las opciones a) y c) son ciertas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En el sistema de enfermer\u00eda parcialmente compensador, es cierto que:",
+            "respuestas": [
+                "a) Enfermera y paciente realizan medidas de asistencia y otras manipulativas o de deambulaci\u00f3n.",
+                "b) Las actividades manipulativas y de deambulaci\u00f3n las realiza en su totalidad la enfermera.",
+                "c) La enfermer\u00eda orienta a la persona para llevar a cabo las acciones de autocuidado necesarias.",
+                "d) Est\u00e1 dirigido a pacientes que son capaces o deben aprender a realizar acciones propias de su autocuidado."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes no es un compromiso del Contrato Programa respecto a la Coordinaci\u00f3n entre niveles?",
+            "respuestas": [
+                "a) Coordinaci\u00f3n en Administraci\u00f3n.",
+                "b) Coordinaci\u00f3n en Docencia e Investigaci\u00f3n.",
+                "c) Coordinaci\u00f3n en Financiaci\u00f3n Externa.",
+                "d) Coordinaci\u00f3n Asistencial."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Uno de los objetivos de la Atenci\u00f3n Primaria de Salud es:",
+            "respuestas": [
+                "a) La promoci\u00f3n de la salud, prevenci\u00f3n de la enfermedad y asistencia curativa.",
+                "b) La educaci\u00f3n sanitaria de la poblaci\u00f3n.",
+                "c) La planificaci\u00f3n, organizaci\u00f3n y direcci\u00f3n y evaluaci\u00f3n de los servicios sanitarios.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el mecanismo de adaptaci\u00f3n por el que el sujeto propone motivos socialmente aceptables de su conducta?",
+            "respuestas": [
+                "a) Proyecci\u00f3n.",
+                "b) Desplazamiento.",
+                "c) Racionalizaci\u00f3n.",
+                "d) Compensaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 respuesta de adaptaci\u00f3n el paciente intenta escapar del hospital, pero como su movilidad est\u00e1 controlada, la retirada es sobre todo psicol\u00f3gica?",
+            "respuestas": [
+                "a) En la agresi\u00f3n.",
+                "b) En la aquiescencia.",
+                "c) En la regresi\u00f3n.",
+                "d) En la desintegraci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En el marco de los cuidados psicosociales, \u00bfqu\u00e9 profesional es el encargado de hacer fructificar el capital-tiempo de que dispone el paciente?",
+            "respuestas": [
+                "a) El psic\u00f3logo.",
+                "b) La asistente social.",
+                "c) La enfermera.",
+                "d) El m\u00e9dico."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

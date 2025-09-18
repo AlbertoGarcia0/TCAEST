@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfC\u00f3mo se valora la Escala Social de Gij\u00f3n?",
+            "respuestas": [
+                "a) Cualitativamente.",
+                "b) Por la suma total de sus \u00edtems: a mayor puntuaci\u00f3n mayor riesgo o problema social.",
+                "c) Por la suma total de sus \u00edtems: a menor puntuaci\u00f3n mayor riesgo o problema social.",
+                "d) Por la suma total de sus \u00edtems: si consigue el promedio de media, menor riesgo social, si es alto o bajo, aumenta el riesgo social."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos es un instrumento utilizado para valorar socialmente al anciano?",
+            "respuestas": [
+                "a) Escala de Tinetti.",
+                "b) Escala OARS.",
+                "c) \u00cdndice de Lawton.",
+                "d) \u00cdndice de Katz."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se mide la valoraci\u00f3n social en ancianos, en concreto, mediante el estudio de los recursos e interacciones sociales?",
+            "respuestas": [
+                "a) Escala de Recursos Sociales de Nueva York.",
+                "b) Escala de Moral del Centro Geri\u00e1trico de Filadelfia.",
+                "c) Escala de Recursos Sociales del \u00abOlder American Resources and Services\u00bb (OARS).",
+                "d) Escala de Recursos Sociales de la Cruz Roja."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 test cognitivo se ha adaptado y validado para la poblaci\u00f3n anciana espa\u00f1ola, basado en el test Mini Mental State Examination de Folstein?",
+            "respuestas": [
+                "a) Mini Examen Cognoscitivo de Lobo (MEC).",
+                "b) Mini Mental State Examination de Folstein modificado (MMSEM).",
+                "c) Escala de Cruz Roja Mental (CRM).",
+                "d) \u00cdndice de Katz."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 signo o s\u00edntoma del anciano es aquel que se muestra con el cuidador en forma de agresiones verbales?",
+            "respuestas": [
+                "a) De miedo.",
+                "b) De aislamiento.",
+                "c) De hostilidad.",
+                "d) De deterioro cognitivo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Como objetivo de la valoraci\u00f3n geri\u00e1trica integral est\u00e1, adem\u00e1s de conocer los recursos del paciente, otros recursos de su entorno:",
+            "respuestas": [
+                "a) Social.",
+                "b) Afectivo.",
+                "c) Social y familiar.",
+                "d) Social, ambiental y familiar."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 ocasiona fundamentalmente la p\u00e9rdida de calcio en el anciano?",
+            "respuestas": [
+                "a) P\u00e9rdida de masa \u00f3sea u osteoporosis.",
+                "b) Fracturas.",
+                "c) Luxaciones.",
+                "d) Esguinces."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Para prevenir los problemas respiratorios es necesario ense\u00f1ar al anciano las t\u00e9cnicas de:",
+            "respuestas": [
+                "a) Respiraci\u00f3n nasal, tor\u00e1cica y expectoraci\u00f3n.",
+                "b) Respiraci\u00f3n nasal, abdominal y expectoraci\u00f3n.",
+                "c) Respiraci\u00f3n profunda y expectoraci\u00f3n.",
+                "d) Respiraci\u00f3n en reposo y respiraci\u00f3n en activo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 se traduce la infelicidad y la impotencia del anciano en cuanto a las relaciones con el familiar que lo cuida?",
+            "respuestas": [
+                "a) En el aislamiento.",
+                "b) En una diminuci\u00f3n de la autoestima.",
+                "c) En un aumento de la autoestima.",
+                "d) En miedo e incertidumbre."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 herramientas nos sirven como escalas de valoraci\u00f3n social del mayor, dentro de la valoraci\u00f3n geri\u00e1trica integral?",
+            "respuestas": [
+                "a) Escala Social de Gij\u00f3n.",
+                "b) Escala de OARS.",
+                "c) Escala de Zung.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para valorar la movilidad del anciano se emplea:",
+            "respuestas": [
+                "a) La Escala de Tinetti.",
+                "b) La Escala de Lawton.",
+                "c) El \u00cdndice de Katz.",
+                "d) La Escala de Barthel."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modificaciones o aspectos psicol\u00f3gicos son incorrectos en el anciano?",
+            "respuestas": [
+                "a) El descenso de las funciones intelectuales en los ancianos guarda una relaci\u00f3n directa con la edad cronol\u00f3gica, y es independiente del nivel cultural que posea.",
+                "b) Disminuci\u00f3n de la autoestima.",
+                "c) Aparece desinter\u00e9s por las cosas.",
+                "d) Ninguna de las anteriores es incorrecta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Al conjunto de niveles de atenci\u00f3n que, desde una \u00f3ptica sanitaria y social, debe garantizar la calidad de vida de los ancianos habitantes de un \u00e1rea sectorizada, proporcionando respuestas adecuadas a las diferentes situaciones de enfermedad o de dificultad social que aquellos presenten, se denomina:",
+            "respuestas": [
+                "a) Trabajo social geri\u00e1trico.",
+                "b) Asistencia geri\u00e1trica.",
+                "c) Cuidados gerontes.",
+                "d) Institucionalizaci\u00f3n del anciano."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 dispositivo de car\u00e1cter social o de apoyo a la convivencia consideras una instituci\u00f3n cerrada?",
+            "respuestas": [
+                "a) Asilos.",
+                "b) Clubes de ancianos (hogar del pensionista).",
+                "c) Ayuda a domicilio.",
+                "d) Centros de d\u00eda."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 abarca el aspecto multidimensional de la valoraci\u00f3n geri\u00e1trica integral?",
+            "respuestas": [
+                "a) Abarca todo aquello a nivel f\u00edsico y ps\u00edquico.",
+                "b) Abarca todo aquello a nivel f\u00edsico, ps\u00edquico y socioambiental.",
+                "c) Abarca todo aquello a nivel f\u00edsico, funcional, ps\u00edquico y socioambiental.",
+                "d) Abarca todo aquello a nivel funcional, ps\u00edquico y socioambiental."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La m\u00e1xima independencia, si esta se mide por el \u00cdndice de Barthel, tiene una puntuaci\u00f3n de:",
+            "respuestas": [
+                "a) 25.",
+                "b) 50.",
+                "c) 75.",
+                "d) 100."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La senectud se caracteriza por:",
+            "respuestas": [
+                "a) Un marasmo senil.",
+                "b) La no persistencia de la vejez propiamente dicha.",
+                "c) La falta de alteraciones parenquimatosas y glandulares.",
+                "d) Nada de lo anterior."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ale la respuesta correcta respecto a las modificaciones ligadas al envejecimiento:",
+            "respuestas": [
+                "a) Aumenta la capacidad respiratoria.",
+                "b) Se mantiene la altura respecto a la talla m\u00e1xima en la edad adulta.",
+                "c) Puede aparecer alteraciones en la termorregulaci\u00f3n.",
+                "d) Aumenta la agudeza visual."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 factor de los que hay que tener en cuenta por el incremento de gerontes en la poblaci\u00f3n es el que se traduce por un aumento de la frecuencia absoluta de enfermedades en el anciano?",
+            "respuestas": [
+                "a) Factor social.",
+                "b) Factor econ\u00f3mico.",
+                "c) Factor terap\u00e9utico.",
+                "d) Factor epidemiol\u00f3gico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la puntuaci\u00f3n que nos marca el punto de corte ante una depresi\u00f3n moderada en el test de Hamilton (Rating Scale para Depresi\u00f3n de Hamilton)?",
+            "respuestas": [
+                "a) Puntuaci\u00f3n de 18.",
+                "b) Puntuaci\u00f3n de 12.",
+                "c) Puntuaci\u00f3n de 8.",
+                "d) Puntuaci\u00f3n de 4."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 valoraci\u00f3n indica superar el \u00cdndice de Lawton para indicarnos que el anciano es independiente?",
+            "respuestas": [
+                "a) 0.",
+                "b) 6.",
+                "c) 8.",
+                "d) 15."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La decrepitud senil se denomina:",
+            "respuestas": [
+                "a) Vejez senil o ancianidad.",
+                "b) Caquexia senil o ancianidad precoz.",
+                "c) Marasmo senil o ancianidad precoz.",
+                "d) Caquexia senil o marasmo senil."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 valoraci\u00f3n, dentro de la valoraci\u00f3n geri\u00e1trica integral, nos da informaci\u00f3n sobre las capacidades f\u00edsicas de las personas mayores para realizar con autonom\u00eda e independencia las actividades habituales del d\u00eda a d\u00eda que le permite mantener su bienestar y calidad de vida en el medio que les rodea?",
+            "respuestas": [
+                "a) Valoraci\u00f3n cl\u00ednica.",
+                "b) Valoraci\u00f3n funcional.",
+                "c) Valoraci\u00f3n mental.",
+                "d) Valoraci\u00f3n socioambiental."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes escalas no valora las Actividades Instrumentales de la Vida Diaria (AIVD)? Se\u00f1ale la respuesta correcta:",
+            "respuestas": [
+                "a) Escala de Lawton.",
+                "b) Escala o \u00cdndice de Katz.",
+                "c) Escala de Oars.",
+                "d) Escala de Pace 11."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos \u00edtems posee el \u00edndice de Katz, usado en gerontolog\u00eda?",
+            "respuestas": [
+                "a) 6.",
+                "b) 8.",
+                "c) 10.",
+                "d) 15."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 test de estos eval\u00faan la esfera perceptiva del anciano, dentro de la valoraci\u00f3n geri\u00e1trica integral?",
+            "respuestas": [
+                "a) Escala de Cruz Roja Mental (CRM).",
+                "b) Test de Blessed.",
+                "c) Mini Examen Cognoscitivo de Lobo (MEC).",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominar\u00e1, atendiendo al \u00edndice de Sundbarg, la poblaci\u00f3n que posee un valor del 15 %?",
+            "respuestas": [
+                "a) Poblaci\u00f3n levemente progresiva.",
+                "b) Poblaci\u00f3n muy progresiva.",
+                "c) Poblaci\u00f3n estacionaria.",
+                "d) Poblaci\u00f3n regresiva."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 circunstancias de las que se nombran son m\u00e1s acordes con el anciano fr\u00e1gil?",
+            "respuestas": [
+                "a) Posee una edad generalmente superior a los 65 a\u00f1os, con alteraciones funcionales, al l\u00edmite entre lo \u201cnormal\u201d y \u201cpatol\u00f3gico\u201d, en equilibrio inestable y con adaptaci\u00f3n de los trabajos funcionales a sus posibilidades reales de rendimiento.",
+                "b) Es una persona de edad (mayor), que sufre alguna enfermedad (aguda o cr\u00f3nica) pero no cumple ning\u00fan otro requisito de los citados anteriormente.",
+                "c) Posee una edad generalmente superior a los 80 a\u00f1os, que sufre una o varias enfermedades que le producen alg\u00fan riesgo de incapacidad, o una cierta incapacidad leve, que sigue tratamiento farmacol\u00f3gico (uno o varios medicamentos), que vive en la comunidad, generalmente solo o en compa\u00f1\u00eda de otra persona mayor, que ha sufrido un cambio reciente de domicilio, o que ha estado hospitalizado en los \u00faltimos doce meses, que precisa atenci\u00f3n profesional domiciliaria y cuyos recursos socioecon\u00f3micos son limitados.",
+                "d) Sufre problemas mentales y/o sociales en relaci\u00f3n con su estado de salud y que requiere institucionalizaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos \u00edtems posee la Escala Social de Gij\u00f3n?",
+            "respuestas": [
+                "a) 3.",
+                "b) 4.",
+                "c) 5.",
+                "d) 6."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las denominadas \u00abplacas seniles\u00bb se observan en cerebros:",
+            "respuestas": [
+                "a) Ancianos con diabetes.",
+                "b) Aquejados de psoriasis.",
+                "c) Senescentes y en aquejados de demencia senil.",
+                "d) J\u00f3venes aquejados de demencia senil."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

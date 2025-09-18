@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 aspecto del derecho de los pacientes a recibir informaci\u00f3n sobre su salud y del empoderamiento que reclamen una informaci\u00f3n de mayor calidad es falso?",
+            "respuestas": [
+                "a) No s\u00f3lo es importante qu\u00e9 comunicar, sino c\u00f3mo, d\u00f3nde y a qui\u00e9n comunicar.",
+                "b) Los pacientes con informaci\u00f3n toman decisiones con mayor criterio.",
+                "c) Los pacientes con informaci\u00f3n colaboran en mayor medida en su proceso de recuperaci\u00f3n.",
+                "d) Los pacientes con informaci\u00f3n no hacen un mejor uso del sistema, ya que no reducen las visitas a urgencias ni a consultas de atenci\u00f3n primaria, ni a consultas externas hospitalarias."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n nombrar\u00e1 a los miembros del Consejo de Direcci\u00f3n?",
+            "respuestas": [
+                "a) El Presidente de la Comunidad Aut\u00f3noma.",
+                "b) El Gerente del SESCAM.",
+                "c) El Consejero de Sanidad.",
+                "d) La persona titular del \u00f3rgano que cree la red."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El elemento orientado a la estratificaci\u00f3n de los pacientes de acuerdo con su complejidad y necesidades de atenci\u00f3n es:",
+            "respuestas": [
+                "a) La pir\u00e1mide de Kaiser.",
+                "b) La pir\u00e1mide de Gaiser.",
+                "c) La pir\u00e1mide de Maslow.",
+                "d) La pir\u00e1mide de Kelsen."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan el Plan Dignifica, una asistencia sanitaria humanizada no es aquella que:",
+            "respuestas": [
+                "a) Pretender elevar la calidad de vida.",
+                "b) Responde a las necesidades de las personas.",
+                "c) Respeta su autonom\u00eda.",
+                "d) Busca prolongar la vida a cualquier precio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n aprob\u00f3 el Plan Dignifica en Castilla- La Mancha?",
+            "respuestas": [
+                "a) Consejo de Gobierno de Castilla-La Mancha.",
+                "b) Gerente del SESCAM.",
+                "c) Consejer\u00eda de Salud.",
+                "d) Cortes de Castilla La Mancha."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medida busca mejorar el uso seguro de medicamentos en pacientes polimedicados?",
+            "respuestas": [
+                "a) Suministro libre de f\u00e1rmacos sin receta.",
+                "b) Suspensi\u00f3n masiva de tratamientos.",
+                "c) Revisiones peri\u00f3dicas de la medicaci\u00f3n.",
+                "d) Duplicaci\u00f3n de dosis seg\u00fan s\u00edntomas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9nes participan en el funcionamiento de las Redes de Expertos y Profesionales de Castilla La Mancha?",
+            "respuestas": [
+                "a) Profesionales sanitarios de los hospitales.",
+                "b) Profesionales sanitarios de los centros de salud y pacientes.",
+                "c) Profesionales sanitarios de los hospitales, profesionales sanitarios de los centros de salud y pacientes.",
+                "d) Profesionales sanitarios de los hospitales, profesionales sanitarios de los centros de salud, pacientes y usuarios a trav\u00e9s de las organizaciones de pacientes."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 patr\u00f3n o variable estaban basados como medida de \u00e9xito los antiguos estudios sobre el coste-efectividad de la atenci\u00f3n sanitaria?",
+            "respuestas": [
+                "a) Morbilidad: prevalencia e incidencia.",
+                "b) Esperanza de vida.",
+                "c) Mortalidad.",
+                "d) EVAC (Esperanza de Vida Ajustada por Calidad)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 componente NO puede faltar en la comunicaci\u00f3n dentro de la atenci\u00f3n integral?",
+            "respuestas": [
+                "a) Velocidad en la consulta.",
+                "b) Formalismo t\u00e9cnico.",
+                "c) Autoridad m\u00e9dica incuestionable.",
+                "d) Empat\u00eda y claridad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Qui\u00e9n elabora la memoria anual del Plan Operativo de la gerencia:",
+            "respuestas": [
+                "a) La personal titular de la Direcci\u00f3n General competente en materia de humanizaci\u00f3n de la asistencia sanitaria.",
+                "b) La persona titular de la gerencia correspondiente.",
+                "c) El Responsable Regional de Humanizaci\u00f3n.",
+                "d) El Responsable de Humanizaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 enfoque se aplica para minimizar el impacto social de las enfermedades cr\u00f3nicas?",
+            "respuestas": [
+                "a) Perspectiva individualista.",
+                "b) Aislamiento terap\u00e9utico.",
+                "c) Enfoque comunitario e intersectorial.",
+                "d) Reducci\u00f3n de visitas sociales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspecto de la superespecializaci\u00f3n de la profesi\u00f3n sanitaria consideras deshumanizante?",
+            "respuestas": [
+                "a) Cuando con ella se logra una mejor asistencia en general de la persona.",
+                "b) Cuando se consigue unos resultados quir\u00fargicos mayores por el incremento de los conocimientos en determinadas \u00e1reas, siempre con un m\u00e1ximo respeto, humanidad y dignidad del individuo operado.",
+                "c) Cuando conlleva una visi\u00f3n parcial y fragmentada de la persona paciente.",
+                "d) Nada de lo anterior es un factor deshumanizante."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 puede ocasionar en el sistema sanitario una mayor capacidad de complicaciones, de errores y de posibles da\u00f1os?",
+            "respuestas": [
+                "a) La complejidad de la moderna pr\u00e1ctica cl\u00ednico-asistencial.",
+                "b) El gran desarrollo cient\u00edfico y tecnol\u00f3gico ocurrido a lo largo del pasado siglo",
+                "c) La mayor capacidad de resoluci\u00f3n de problemas con los medios actuales.",
+                "d) Todo lo anterior ha influido a pesar de la mayor capacidad de resoluci\u00f3n de problemas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA propuesta de qui\u00e9n el Consejo de Direcci\u00f3n nombrar\u00e1 los miembros del Comit\u00e9 Consultivo?",
+            "respuestas": [
+                "a) Del Consejero de Sanidad de la Comunidad Aut\u00f3noma.",
+                "b) El Gerente del SESCAM.",
+                "c) La persona titular de la Coordinaci\u00f3n de la Red.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntas Redes de Expertos y Profesionales funcionan en de Castilla La Mancha desde 2015?",
+            "respuestas": [
+                "a) 1.",
+                "b) 5.",
+                "c) 7.",
+                "d) 15."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 estrategia apoya el Plan para empoderar al paciente y su cuidador?",
+            "respuestas": [
+                "a) Evitar el contacto directo.",
+                "b) Formar solo a personal m\u00e9dico.",
+                "c) Ofrecer visitas sin informaci\u00f3n.",
+                "d) Programas de formaci\u00f3n y apoyo emocional."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El objetivo general del Plan de abordaje integral de la cronicidad y prevenci\u00f3n de la fragilidad de Castilla\u00ad La Mancha, que pretende impulsar la labor de la enfermer\u00eda en la atenci\u00f3n de pacientes en riesgo, potenciando su papel en autocuidados y como profesionales gestores de casos, se corresponde con:",
+            "respuestas": [
+                "a) Objetivo general 1: Detectar y valorar a las personas mayores fr\u00e1giles para intervenir precozmente en la prevenci\u00f3n del deterioro funcional.",
+                "b) Objetivo general 4: Garantizar la visi\u00f3n global y el abordaje integral y longitudinal del paciente con enfermedad cr\u00f3nica en cada una de las fases de la historia natural de su enfermedad.",
+                "c) Objetivo general 6: Desarrollar circuitos para la atenci\u00f3n temprana y de calidad y garantizar la continuidad asistencial en pacientes en riesgo.",
+                "d) Objetivo general 9: Garantizar la formaci\u00f3n, investigaci\u00f3n e innovaci\u00f3n en el \u00e1mbito de la atenci\u00f3n sanitaria a pacientes en riesgo de eventos adversos de salud."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes tecnolog\u00edas es promovida en el Plan?",
+            "respuestas": [
+                "a) Fax cl\u00ednico.",
+                "b) Electrocardiograma port\u00e1til anal\u00f3gico.",
+                "c) Videoconsultas y telemonitorizaci\u00f3n.",
+                "d) Impresi\u00f3n de recetas en papel duplicado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La orden de la Consejer\u00eda de Sanidad que regula la estructura, organizaci\u00f3n y funcionamiento de las redes de Expertos y Profesionales del Sistema sanitario de Castilla-La Mancha es:",
+            "respuestas": [
+                "a) Orden de la Consejer\u00eda de Sanidad de 4 de diciembre de 2015.",
+                "b) Orden de la Consejer\u00eda de Sanidad de 14 de julio de 2015.",
+                "c) Orden del Servicio de Salud de Castilla la Mancha de 14 de julio de 2015.",
+                "d) Orden del Ministerio de Sanidad de 4 de diciembre de 2015."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 Redes de Expertos y Profesionales de Castilla La Mancha han sido las \u00faltimas en ponerse en marcha?",
+            "respuestas": [
+                "a) Red de Imagen M\u00e9dica y Red Urgencias y Emergencias.",
+                "b) Red de Vacunaciones y Red de Seguridad del Paciente.",
+                "c) Red de Educaci\u00f3n para la Salud y Escuelas de Cuidados y Red de Cuidados paliativos.",
+                "d) Red de Salud Mental y la Red de Onco-hematolog\u00eda Pedi\u00e1trica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n es incorrecta respecto a la pertenencia o colaboraci\u00f3n con las Redes de Expertos?",
+            "respuestas": [
+                "a) No es valorable en el \u00e1mbito salarial (productividad).",
+                "b) Podr\u00e1 constituir m\u00e9ritos valorables en los \u00e1mbitos de la carrera profesional.",
+                "c) De car\u00e1cter voluntario",
+                "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes no es un objetivo general del Plan de abordaje integral de la cronicidad y prevenci\u00f3n de la fragilidad de Castilla-La Mancha?",
+            "respuestas": [
+                "a) Detectar y valorar a las personas mayores fr\u00e1giles para intervenir precozmente en la prevenci\u00f3n del deterioro funcional.",
+                "b) Estratificar la poblaci\u00f3n mediante herramientas de agrupaci\u00f3n seg\u00fan morbilidad y funci\u00f3n.",
+                "c) Desarrollar circuitos para la atenci\u00f3n temprana y de calidad y garantizar la continuidad asistencial en pacientes en riesgo.",
+                "d) Definir un modelo de atenci\u00f3n en el periodo inicial de la vida, para mejorar la calidad de vida de las personas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una Red de Expertos y Profesionales del Sistema Sanitario de Castilla-La Mancha?",
+            "respuestas": [
+                "a) Red de Experto de vacunaciones obligatorias.",
+                "b) Red de Expertos y Profesionales de Imagen M\u00e9dica Radiol\u00f3gica.",
+                "c) Red de Expertos y Profesionales de Cuidados Paliativos.",
+                "d) Red de Expertos y Profesionales de Salud Mental."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspecto destaca en el enfoque hol\u00edstico de atenci\u00f3n sanitaria?",
+            "respuestas": [
+                "a) Priorizar la rapidez en la atenci\u00f3n.",
+                "b) Centrarse en el diagn\u00f3stico exclusivamente cl\u00ednico.",
+                "c) Considerar al paciente como un ser integral con historia, valores y emociones.",
+                "d) Eliminar la atenci\u00f3n especializada."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de dolor no genera normalmente sufrimiento?",
+            "respuestas": [
+                "a) El dolor pasajero.",
+                "b) El dolor que forma parte del proceso de curaci\u00f3n.",
+                "c) El dolor siempre produce sufrimiento.",
+                "d) El dolor que forma parte del proceso de curaci\u00f3n y el dolor pasajero."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 significa atenci\u00f3n integral en el sistema sanitario?",
+            "respuestas": [
+                "a) Atender solo urgencias hospitalarias.",
+                "b) Proporcionar servicios b\u00e1sicos exclusivamente.",
+                "c) Brindar \u00fanicamente tratamiento m\u00e9dico.",
+                "d) Responder a necesidades m\u00e9dicas, sociales, funcionales y afectivas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan el art\u00edculo 10 del Decreto 72/2021, a qu\u00e9 \u00f3rgano corresponder\u00e1 la elaboraci\u00f3n del Plan de Humanizaci\u00f3n de la Asistencia Sanitaria, as\u00ed como de las modificaciones y adaptaciones necesarias:",
+            "respuestas": [
+                "a) Al Consejo Regional de Humanizaci\u00f3n.",
+                "b) A la Comisi\u00f3n Regional T\u00e9cnica de Humanizaci\u00f3n.",
+                "c) A las Comisiones de Humanizaci\u00f3n de las gerencias.",
+                "d) Al Responsable Regional de Humanizaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes es una l\u00ednea estrat\u00e9gica del Plan Dignifica?",
+            "respuestas": [
+                "a) Informaci\u00f3n y comunicaci\u00f3n.",
+                "b) Sostenibilidad del sistema sanitario.",
+                "c) S\u00faper-especializaci\u00f3n de los profesionales del sistema.",
+                "d) Cambio del modelo organizativo del sistema sanitario."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 condici\u00f3n cl\u00ednica busca detectarse precozmente en mayores de 70 a\u00f1os?",
+            "respuestas": [
+                "a) Hipoglucemia leve.",
+                "b) Fragilidad.",
+                "c) Tumores benignos.",
+                "d) Miop\u00eda."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es uno de los objetivos del Plan respecto a las enfermedades cr\u00f3nicas?",
+            "respuestas": [
+                "a) Evitar el diagn\u00f3stico precoz.",
+                "b) Promover la hospitalizaci\u00f3n temprana.",
+                "c) Mejorar la calidad de vida del paciente y su entorno.",
+                "d) Reducir el n\u00famero de m\u00e9dicos especialistas."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

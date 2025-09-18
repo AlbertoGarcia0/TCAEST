@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQui\u00e9n aprueba el Plan Estrat\u00e9gico para la Igualdad de Oportunidades de Castilla-La Mancha?",
+            "respuestas": [
+                "a) El Consejo de Gobierno.",
+                "b) El Instituto de la Mujer de Castilla-La Mancha.",
+                "c) Las Cortes de Castilla-La Mancha.",
+                "d) La Comisi\u00f3n de Igualdad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Nuestra Constituci\u00f3n trata de los derechos y deberes fundamentales de los espa\u00f1oles en su T\u00edtulo I, denominado:",
+            "respuestas": [
+                "a) De los derechos y deberes fundamentales.",
+                "b) De los deberes de los espa\u00f1oles.",
+                "c) De los derechos de los espa\u00f1oles.",
+                "d) De los derechos y deberes principales de los espa\u00f1oles."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1les de los siguientes espa\u00f1oles de origen pueden ser privados de su nacionalidad?",
+            "respuestas": [
+                "a) Exclusivamente los miembros de grupos terroristas.",
+                "b) Los miembros de grupos terroristas y los que atenten contra el Rey u otro miembro de la Casa Real.",
+                "c) Los que atenten contra un miembro de la Familia Real o del Gobierno de la Naci\u00f3n.",
+                "d) Ning\u00fan espa\u00f1ol de origen podr\u00e1 ser privado de su nacionalidad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La integraci\u00f3n voluntaria, por parte de las empresas, de las preocupaciones sociales, laborales, medioambientales y de respeto a los derechos humanos con sus grupos de inter\u00e9s, responsabiliz\u00e1ndose as\u00ed de las consecuencias y los impactos que derivan de sus acciones, se denomina:",
+            "respuestas": [
+                "a) Integraci\u00f3n empresarial positiva.",
+                "b) Responsabilidad social de las empresas.",
+                "c) Compromiso de presencia equilibrada en la empresa.",
+                "d) Empresa con distintivo de igualdad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El Defensor del Pueblo se regula en el siguiente T\u00edtulo y Cap\u00edtulo de la Constituci\u00f3n, respectivamente:",
+            "respuestas": [
+                "a) Preliminar y 1.\u00ba",
+                "b) Segundo y 4.\u00ba",
+                "c) Segundo y 3.\u00ba",
+                "d) Primero y 4.\u00ba"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para contribuir al cumplimiento de la legislaci\u00f3n en materia de igualdad entre mujeres y hombres, las Administraciones p\u00fablicas promover\u00e1n la adopci\u00f3n por parte de los medios de comunicaci\u00f3n, incluyendo las actividades de venta y publicidad que en aquellos se desarrollen, de:",
+            "respuestas": [
+                "a) Planes de igualdad.",
+                "b) La realizaci\u00f3n de estudios e investigaciones especializadas en la materia.",
+                "c) Campa\u00f1as institucionales dirigidas a fomentar la igualdad entre mujeres y hombres y a erradicar la violencia de g\u00e9nero.",
+                "d) Acuerdos de autorregulaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Selecciona entre las opciones propuestas la palabra que falta en la siguiente frase: \u201cLa Junta de Comunidades de Castilla-La Mancha establecer\u00e1 medidas espec\u00edficas dirigidas a la eliminaci\u00f3n de los estereotipos masculinos y femeninos y al fomento de la.................. familiar y dom\u00e9stica, con el fin de garantizar el derecho y el deber de las mujeres y de los hombres a compartir las responsabilidades familiares, en particular las tareas dom\u00e9sticas y el cuidado de las personas dependientes\u201d:",
+            "respuestas": [
+                "a) Conciliaci\u00f3n.",
+                "b) Corresponsabilidad.",
+                "c) Representatividad.",
+                "d) Equiparaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La publicidad que comporte una conducta discriminatoria de acuerdo con la Ley org\u00e1nica 3/2007 se considerar\u00e1:",
+            "respuestas": [
+                "a) Publicidad il\u00edcita.",
+                "b) Publicidad inapropiada.",
+                "c) Publicidad delictiva.",
+                "d) Publicidad enga\u00f1osa."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La forma pol\u00edtica del Estado espa\u00f1ol es:",
+            "respuestas": [
+                "a) Democracia parlamentaria.",
+                "b) Gobierno parlamentario.",
+                "c) Monarqu\u00eda parlamentaria.",
+                "d) Rep\u00fablica democr\u00e1tica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las delegaciones legislativas otorgadas por las Cortes de Castilla-La Mancha durante todo el tiempo que el Gobierno est\u00e9 en funciones:",
+            "respuestas": [
+                "a) Permanecer\u00e1n en vigor.",
+                "b) Permanecer\u00e1n en vigor salvo acuerdo en contrario.",
+                "c) Precisaran la ratificaci\u00f3n de aqu\u00e9llas cuando la causa de cese sea la celebraci\u00f3n de elecciones regionales.",
+                "d) Quedar\u00e1n en todo caso en suspenso."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Constituye el fundamento del orden p\u00fablico y de la paz social, seg\u00fan la Constituci\u00f3n, el/la/los:",
+            "respuestas": [
+                "a) Derechos inviolables inherentes a la persona.",
+                "b) Estado social y democr\u00e1tico de Derecho.",
+                "c) Seguridad jur\u00eddica.",
+                "d) Justicia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Las obligaciones establecidas en la Ley para la Igualdad efectiva entre Mujeres y Hombres son de aplicaci\u00f3n a:",
+            "respuestas": [
+                "a) Toda persona que se encuentre o act\u00fae en territorio espa\u00f1ol, cualquiera que fuese su nacionalidad, domicilio o residencia.",
+                "b) Todos los espa\u00f1oles residentes en territorio espa\u00f1ol; pero no a los espa\u00f1oles que tengan residencia en otro pa\u00eds aunque eventualmente se encuentren en territorio espa\u00f1ol.",
+                "c) Toda persona que se encuentre o act\u00fae en territorio espa\u00f1ol, originaria de alg\u00fan pa\u00eds adherido a los Tratados internacionales de eliminaci\u00f3n de toda forma de discriminaci\u00f3n contra la mujer; pero no se puede aplicar a personas originarias de los pa\u00edses no firmantes.",
+                "d) \u00danicamente a todos los espa\u00f1oles se encuentren o no en territorio espa\u00f1ol."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00edtulo de la Ley para la Igualdad efectiva de Mujeres y Hombres se refiere a las pol\u00edticas p\u00fablicas para la igualdad?",
+            "respuestas": [
+                "a) El T\u00edtulo II.",
+                "b) El T\u00edtulo III.",
+                "c) El T\u00edtulo IV.",
+                "d) El T\u00edtulo V."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los principios rectores de la pol\u00edtica social y econ\u00f3mica se regulan en el siguiente Cap\u00edtulo y T\u00edtulo de la Constituci\u00f3n:",
+            "respuestas": [
+                "a) Segundo del Primero.",
+                "b) Tercero del Primero.",
+                "c) Tercero del Preliminar.",
+                "d) Primero del S\u00e9ptimo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Constituci\u00f3n Espa\u00f1ola fue sancionada por:",
+            "respuestas": [
+                "a) El Rey.",
+                "b) El Presidente del Congreso.",
+                "c) Las Cortes Generales.",
+                "d) El Presidente del Gobierno."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La Ley del Gobierno y del Consejo Consultivo de Castilla-La Mancha, trata del Consejo de Gobierno en su:",
+            "respuestas": [
+                "a) T\u00edtulo I.",
+                "b) T\u00edtulo II.",
+                "c) T\u00edtulo III.",
+                "d) T\u00edtulo IV."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La moci\u00f3n de censura deber\u00e1 ser propuesta al menos por el:",
+            "respuestas": [
+                "a) 10% de los Diputados.",
+                "b) 15% de los Diputados.",
+                "c) 20% de los Diputados.",
+                "d) 5% de los Diputados."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 fecha aprobaron las Cortes Generales la Constituci\u00f3n Espa\u00f1ola?",
+            "respuestas": [
+                "a) El 31 de octubre de 1978.",
+                "b) El 6 de diciembre de 1978.",
+                "c) El 27 de diciembre de 1978.",
+                "d) El 29 de diciembre de 1978."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La capacidad y la legitimaci\u00f3n para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa del derecho de igualdad entre mujeres y hombres, corresponden a:",
+            "respuestas": [
+                "a) La persona acosada, \u00fanicamente.",
+                "b) Cualquier ciudadano.",
+                "c) Las personas f\u00edsicas y jur\u00eddicas con inter\u00e9s leg\u00edtimo.",
+                "d) Cualquier persona jur\u00eddica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan la Disposici\u00f3n Final de nuestra Constituci\u00f3n, esta entrar\u00e1 en vigor:",
+            "respuestas": [
+                "a) Al d\u00eda siguiente de su publicaci\u00f3n en el Bolet\u00edn Oficial del Estado.",
+                "b) A los veinte d\u00edas de la publicaci\u00f3n de su texto oficial en el Bolet\u00edn Oficial del Estado.",
+                "c) El mismo d\u00eda de la publicaci\u00f3n de su texto oficial en el Bolet\u00edn Oficial del Estado.",
+                "d) Al a\u00f1o de la publicaci\u00f3n de su texto oficial en el Bolet\u00edn Oficial del Estado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La ponencia encargada de redactar el borrador de la Constituci\u00f3n se constituy\u00f3 en el:",
+            "respuestas": [
+                "a) Senado.",
+                "b) Senado y Congreso de los Diputados.",
+                "c) Congreso de los Diputados.",
+                "d) Gobierno de la Naci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfDe cu\u00e1ntos Cap\u00edtulos consta el T\u00edtulo I de la CE de 1978?",
+            "respuestas": [
+                "a) De tres.",
+                "b) De cinco.",
+                "c) De dos.",
+                "d) De cuatro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Durante el estado de excepci\u00f3n, un detenido conserva el derecho de/a:",
+            "respuestas": [
+                "a) Setenta y dos horas para ser puesto a disposici\u00f3n judicial.",
+                "b) Secreto de comunicaciones.",
+                "c) Asistencia de Letrado.",
+                "d) Ninguno de ellos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una caracter\u00edstica de la Carta Magna?",
+            "respuestas": [
+                "a) Su rigidez.",
+                "b) El establecimiento, como forma pol\u00edtica del Estado, de la monarqu\u00eda hereditaria.",
+                "c) Su codificaci\u00f3n en un solo texto.",
+                "d) Su extensi\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La confianza se entender\u00e1 otorgada cuando vote a favor de la misma la mayor\u00eda:",
+            "respuestas": [
+                "a) Simple de los Diputados.",
+                "b) Absoluta de los Diputados.",
+                "c) De dos tercios de los Diputados.",
+                "d) De tres quintos de los Diputados."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Si el Presidente plantease la cuesti\u00f3n de confianza sobre un proyecto de Ley, \u00e9ste se considerar\u00e1 aprobado siempre que vote a favor de la confianza la mayor\u00eda:",
+            "respuestas": [
+                "a) Simple de los Diputados.",
+                "b) Absoluta de los Diputados.",
+                "c) De dos tercios de los Diputados.",
+                "d) De tres quintos de los Diputados."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se puede suspender, con motivo de investigaciones relativas a bandas armadas, el derecho de:",
+            "respuestas": [
+                "a) Huelga.",
+                "b) Inviolabilidad del domicilio.",
+                "c) Libertad de circulaci\u00f3n.",
+                "d) Las respuestas b) y c) son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las Cortes Generales, \u00bfen qu\u00e9 T\u00edtulo de nuestra Constituci\u00f3n se recogen?",
+            "respuestas": [
+                "a) En el T\u00edtulo II.",
+                "b) En el T\u00edtulo III.",
+                "c) En el T\u00edtulo IV.",
+                "d) En el T\u00edtulo VI."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En las candidaturas a las Cortes Regionales que presenten los partidos pol\u00edticos, federaciones, coaliciones o agrupaciones de electores, se entender\u00e1 por representaci\u00f3n equilibrada:",
+            "respuestas": [
+                "a) La presencia de mujeres y hombres de forma que, en el conjunto de la candidatura, las personas de cada sexo no superen el 60 % ni sean menos del 40.",
+                "b) La presencia en las candidaturas del mismo n\u00famero de hombres que de mujeres.",
+                "c) La alternancia de mujeres y hombres en las candidaturas de forma que las personas de un sexo ocupen todos los puestos pares y las del otro todos los puestos impares.",
+                "d) La alternancia en cada legislatura del sexo del cabeza de lista de cada partido pol\u00edtico federaci\u00f3n, coalici\u00f3n o agrupaci\u00f3n, de forma que si en una legislatura el cabeza de lista es hombre, en la siguiente legislatura habr\u00e1 de presentarse a una mujer como cabeza de lista."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La aprobaci\u00f3n de convocatorias de pruebas selectivas para el acceso al empleo p\u00fablico en la Administraci\u00f3n General del Estado o en los organismos p\u00fablicos vinculados o dependientes de ella, deber\u00e1:",
+            "respuestas": [
+                "a) Asegurar la adjudicaci\u00f3n de plazas ofertadas por el principio de presencia equilibrada de mujeres y hombres.",
+                "b) Reservar al menos un 40 % de las plazas para cada sexo.",
+                "c) Acompa\u00f1arse de un informe de impacto de g\u00e9nero, salvo en casos de urgencia.",
+                "d) Separar las plazas que se hayan de cubrir por hombres de las que se hayan de cubrir por mujeres."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "La posici\u00f3n de laminectom\u00eda se emplea en:",
+            "respuestas": [
+                "a) Exploraci\u00f3n de recto y previa a colonoscopias.",
+                "b) Intervenciones de hernias discales a nivel lumbar o tor\u00e1cico del raquis.",
+                "c) Cirug\u00eda digestiva de intestino grueso.",
+                "d) Intervenciones de ves\u00edcula biliar y previa a laparoscopia."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones es quir\u00fargica?",
+            "respuestas": [
+                "a) Posici\u00f3n de Fowler.",
+                "b) Posici\u00f3n de dec\u00fabito supino.",
+                "c) Posici\u00f3n de Morestin.",
+                "d) Posici\u00f3n de dec\u00fabito prono."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina tambi\u00e9n a la posici\u00f3n de dec\u00fabito dorsal?",
+            "respuestas": [
+                "a) Dec\u00fabito prono.",
+                "b) Dec\u00fabito lateral izquierdo.",
+                "c) Dec\u00fabito supino.",
+                "d) Dec\u00fabito transversal."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los l\u00edmites que se consideran aceptables de humedad en habitaci\u00f3n del enfermo oscilan entre:",
+            "respuestas": [
+                "a) 20-30 %.",
+                "b) 30-40 %.",
+                "c) 40-60 %.",
+                "d) 65-85 %."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El marco triangular de Balkan lo posee la cama:",
+            "respuestas": [
+                "a) Ortop\u00e9dica de Judet.",
+                "b) Bouchat.",
+                "c) De levitaci\u00f3n.",
+                "d) Electrocircular o de Striker."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 pr\u00e1ctica es incorrecta en el transporte en camilla de un paciente por el TCAE o el celador?",
+            "respuestas": [
+                "a) Los pies del paciente van siempre por delante.",
+                "b) Al entrar en el ascensor, primero pasa la cabecera de la camilla.",
+                "c) El TCAE o el celador siempre va delante de la cabecera del paciente, colocando al paciente de cara en sentido contrario de la marcha.",
+                "d) Al salir de un ascensor, primero salen los pies del paciente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se llama la posici\u00f3n que se describe como aquella en la que la paciente se halla acostada boca arriba, con las piernas separadas y colocadas sobre los estribos, con las rodillas y cadera flexionadas 90\u00ba y los muslos en abducci\u00f3n?",
+            "respuestas": [
+                "a) La posici\u00f3n de Fowler.",
+                "b) La posici\u00f3n de Trendelenburg.",
+                "c) La posici\u00f3n ginecol\u00f3gica.",
+                "d) La posici\u00f3n de Morestin."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 regla b\u00e1sica de la din\u00e1mica corporal en el personal que realiza cambios posturales y transporte de personas es falsa?",
+            "respuestas": [
+                "a) Hacer el m\u00e1ximo uso de su centro de gravedad sosteniendo los objetos cerca del cuerpo.",
+                "b) Proteger la espalda, no dobl\u00e1ndola incorrectamente y siempre haciendo uso de los m\u00fasculos de las piernas para moverse y levantarse, as\u00ed como otras medidas.",
+                "c) Nunca contraer los m\u00fasculos abdominales y gl\u00fateos para estabilizar la pelvis antes de movilizar un objeto.",
+                "d) Reducir al m\u00ednimo la fricci\u00f3n o el roce entre el objeto en movimiento y la superficie en que est\u00e1 siendo movida."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La posici\u00f3n de seguridad, en la que se coloca a los enfermos inconscientes para facilitarles la eliminaci\u00f3n de las secreciones y evitarles la broncoaspiraci\u00f3n es:",
+            "respuestas": [
+                "a) La posici\u00f3n de Sims.",
+                "b) La posici\u00f3n de dec\u00fabito supino.",
+                "c) La posici\u00f3n de Fowler.",
+                "d) La posici\u00f3n de Trendelenburg."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una complicaci\u00f3n de los drenajes? Se\u00f1ale la respuesta correcta:",
+            "respuestas": [
+                "a) Infecci\u00f3n.",
+                "b) Vaciamiento de una cavidad.",
+                "c) Inflamaci\u00f3n en la zona.",
+                "d) P\u00e9rdida del drenaje."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn cu\u00e1ntos segmentos m\u00f3viles se divide el somier met\u00e1lico de la cama articulada?",
+            "respuestas": [
+                "a) En 2.",
+                "b) En 3.",
+                "c) En 4.",
+                "d) No tiene divisiones."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 consecuencia sobre la funci\u00f3n respiratoria es cierta por el inmovilismo?",
+            "respuestas": [
+                "a) Aumento en los requerimientos de ox\u00edgeno.",
+                "b) Aumenta la capacidad respiratoria.",
+                "c) Se tiende instintivamente a respirar de forma m\u00e1s r\u00e1pida y superficial.",
+                "d) Hay una estasis de secreciones, que puede acumularse y favorecer el medio para el crecimiento bacteriano."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Si se quiere ayudar a un enfermo a ponerse de pie y est\u00e1 ubicado en sedestaci\u00f3n en una silla de rueda, lo primero que se har\u00e1 ser\u00e1:",
+            "respuestas": [
+                "a) Colocar el sill\u00f3n paralelo al familiar del paciente.",
+                "b) Pedirle que sit\u00fae uno de sus brazos alrededor de nuestra cintura.",
+                "c) Flexionar las rodillas manteniendo la espalda lo m\u00e1s recta posible.",
+                "d) Introducir nuestros brazos por debajo de los suyos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los ejes longitudinal y sagital forman el plano:",
+            "respuestas": [
+                "a) Frontal.",
+                "b) Transversal.",
+                "c) Horizontal.",
+                "d) Sagital."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos kg se aplican en la tracci\u00f3n esquel\u00e9tica para obtener el efecto terap\u00e9utico?",
+            "respuestas": [
+                "a) 3 a 6.",
+                "b) 4,5 a 8.",
+                "c) 7 a 12.",
+                "d) 10 a 20."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 factor de riesgo de las ca\u00eddas es extr\u00ednseco?",
+            "respuestas": [
+                "a) Disminuci\u00f3n de la sensibilidad propioceptiva.",
+                "b) Alteraciones oculares de la edad, que disminuyen la agudeza visual.",
+                "c) Gonartrosis.",
+                "d) Uso de calzado inadecuado."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La posici\u00f3n de Kraske se emplea en:",
+            "respuestas": [
+                "a) Pacientes que presenten problemas digestivos con reflujo gastrointestinal, hernias de hiato y enfermedades respiratorias.",
+                "b) Pacientes que presenten problemas card\u00edacos.",
+                "c) Cirug\u00eda cox\u00edgea.",
+                "d) Posici\u00f3n antishock."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan los pacientes que sufren par\u00e1lisis de las extremidades inferiores y superiores?",
+            "respuestas": [
+                "a) Hemipl\u00e9jicos.",
+                "b) Hemipar\u00e9sicos.",
+                "c) Tetrapl\u00e9jicos.",
+                "d) Parapar\u00e9sicos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Una vez instalada en la habitaci\u00f3n, la cama del enfermo debe:",
+            "respuestas": [
+                "a) Ser accesible desde tres lados.",
+                "b) Estar colocada frente a una fuente de luz.",
+                "c) Encontrarse debajo de la ventana.",
+                "d) Encontrarse pegada a la puerta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La cama articulada de somier r\u00edgido impide al paciente colocarlo en la posici\u00f3n de:",
+            "respuestas": [
+                "a) Dec\u00fabito supino.",
+                "b) Dec\u00fabito prono.",
+                "c) Dec\u00fabito lateral.",
+                "d) Fowler."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El armaz\u00f3n para el volteo Foster se emplea:",
+            "respuestas": [
+                "a) Para facilitar al paciente la respiraci\u00f3n.",
+                "b) Para el cambio postural.",
+                "c) Evitar infecciones mic\u00f3ticas.",
+                "d) Para liberar de estr\u00e9s al paciente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso de la posici\u00f3n de dec\u00fabito supino?",
+            "respuestas": [
+                "a) Es una posici\u00f3n utilizada para la exploraci\u00f3n del t\u00f3rax, abdomen, piernas y pies.",
+                "b) Se emplea para comenzar con la higiene del enfermo y como punto de partida para diferentes movilizaciones.",
+                "c) El plano del cuerpo es paralelo al plano del suelo y al plano horizontal de la cama o camilla.",
+                "d) Sus piernas est\u00e1n extendidas y sus brazos alineados a lo largo del cuerpo, estando el paciente acostado sobre su abdomen y pecho."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de cama est\u00e1 indicada para pacientes que sufren fracturas de las extremidades?",
+            "respuestas": [
+                "a) Cama ortop\u00e9dica de Judet.",
+                "b) Cama hospitalaria.",
+                "c) Cama de levitaci\u00f3n.",
+                "d) Cama Electrocircular o de Striker."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En la vida del paciente ingresado se producen grandes cambios que van a repercutir en el individuo, gener\u00e1ndole una gran ansiedad e incertidumbre. Una de las consecuencias que se produce es un tipo de aislamiento, \u00bfCu\u00e1l?",
+            "respuestas": [
+                "a) Aislamiento secular.",
+                "b) Aislamiento psicosocial.",
+                "c) Aislamiento particular.",
+                "d) Aislamiento contra contacto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una caracter\u00edstica de las camas de hospital?",
+            "respuestas": [
+                "a) Se mueven f\u00e1cilmente, para ello est\u00e1n provistas de un sistema de ruedas y frenado de las mismas.",
+                "b) Los colchones son generalmente blandos.",
+                "c) Est\u00e1n constituidas de forma que el personal que atiende a los enfermos llegue f\u00e1cilmente a ellas.",
+                "d) Est\u00e1n equipadas para que el enfermo ahorre energ\u00eda."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas ayudas es fija?",
+            "respuestas": [
+                "a) Pasamanos.",
+                "b) Andadores.",
+                "c) Bastones multipodales.",
+                "d) Tr\u00edpodes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La cama roto-rest se emplea en:",
+            "respuestas": [
+                "a) Prevenci\u00f3n de infecciones en general.",
+                "b) Prevenci\u00f3n de infecciones en quemados.",
+                "c) Inmovilizaci\u00f3n de pacientes.",
+                "d) Prevenci\u00f3n de \u00falceras por presi\u00f3n (UPP)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1ale la opci\u00f3n correcta respecto a la deambulaci\u00f3n con muletas:",
+            "respuestas": [
+                "a) Para bajar escaleras, primero se desciende la pierna d\u00e9bil y despu\u00e9s las muletas.",
+                "b) Para subir escaleras, primero se suben ambas muletas al escal\u00f3n superior y despu\u00e9s se asciende la pierna fuerte.",
+                "c) Cuando el paciente precisa una muleta solamente la llevar\u00e1 con la mano contralateral a la pierna m\u00e1s d\u00e9bil.",
+                "d) Cuando el paciente precisa muletas, se las debe colocar en la articulaci\u00f3n de la mu\u00f1eca para que tenga m\u00e1s fuerza."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

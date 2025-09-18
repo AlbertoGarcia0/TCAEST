@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas t\u00e9cnicas de esterilizaci\u00f3n es en \u201cfr\u00edo\u201d?",
+            "respuestas": [
+                "a) Mediante autoclave.",
+                "b) Mediante horno Pasteur.",
+                "c) Mediante flameado.",
+                "d) Mediante radiaci\u00f3n gamma."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En la esterilizaci\u00f3n \u201cflash\u201d por autoclave a 1 kg de presi\u00f3n, una atm\u00f3sfera es equivalente a:",
+            "respuestas": [
+                "a) 120 \u00baC.",
+                "b) 124 \u00baC.",
+                "c) 134 \u00baC.",
+                "d) 144 \u00baC."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto tiempo debe estar inmerso el material que se va a esterilizar con glutaraldeh\u00eddo al 2 %?",
+            "respuestas": [
+                "a) 10 minutos.",
+                "b) 1 hora.",
+                "c) 5 horas.",
+                "d) 10 horas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 tipo de control de esterilizaci\u00f3n corresponde la siguiente definici\u00f3n? Control que consiste en ampollas cerradas que contienen esporas no pat\u00f3genas y un medio de cultivo con un indicador de color, que va a provocar el crecimiento bacteriano por germinaci\u00f3n de las esporas y cambios de color sobre el medio, si la esterilizaci\u00f3n no es la adecuada:",
+            "respuestas": [
+                "a) Control biol\u00f3gico.",
+                "b) Control f\u00edsico.",
+                "c) Control qu\u00edmico.",
+                "d) Ninguna de las respuestas es correcta."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCada cu\u00e1nto tiempo se debe realizar un control f\u00edsico en las autoclaves modernas?",
+            "respuestas": [
+                "a) Cada semana.",
+                "b) Cada mes.",
+                "c) Cada trimestre.",
+                "d) Antes de finalizar el ciclo de esterilizaci\u00f3n y antes de extraer el contenido."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde se sit\u00faa normalmente el Servicio de esterilizaci\u00f3n en un Hospital?",
+            "respuestas": [
+                "a) En su planta m\u00e1s alta.",
+                "b) En planta baja o s\u00f3tano.",
+                "c) Siempre en la planta 3.\u00aa",
+                "d) No importa donde se ubique."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde se colocan las ampollas de vidrio o pl\u00e1stico con las esporas dentro, a la hora de hacer los controles biol\u00f3gicos?",
+            "respuestas": [
+                "a) Se colocan dentro del paquete a esterilizar y en zonas del interior del autoclave de dif\u00edcil acceso.",
+                "b) Se colocan dentro del paquete a esterilizar.",
+                "c) Se colocan en el exterior del paquete en forma de cinta autoadhesiva.",
+                "d) Se colocan en el exterior en forma de cinta autoadhesiva, dentro del paquete y en zonas del interior del autoclave de dif\u00edcil acceso."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 m\u00e9todo de control es biol\u00f3gico del Servicio de Esterilizaci\u00f3n?",
+            "respuestas": [
+                "a) Esporas atenuadas.",
+                "b) Sensor t\u00e9rmico (term\u00f3metros).",
+                "c) Sensor de presi\u00f3n (bar\u00f3metros).",
+                "d) Tobos o tiras testigos colorim\u00e9tricos"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El material esterilizado que se vaya a almacenar en las plantas se colocar\u00e1 por orden:",
+            "respuestas": [
+                "a) De llegada.",
+                "b) Alfab\u00e9tico.",
+                "c) De caducidad.",
+                "d) De fecha de esterilizado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la composici\u00f3n de los indicadores testigos o tiras reactivas de un control qu\u00edmico del material esterilizado?",
+            "respuestas": [
+                "a) Compuestos org\u00e1nicos ricos en prolina.",
+                "b) Sales bicarbonatadas.",
+                "c) Compuestos azufrados.",
+                "d) Sales met\u00e1licas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El concepto que permite identificar, a trav\u00e9s de un sistema computacional, el seguimiento y la trayectoria de cualquier art\u00edculo procesado en la central de esterilizaci\u00f3n se llama:",
+            "respuestas": [
+                "a) Incertidumbre.",
+                "b) Varianza.",
+                "c) Trazabilidad.",
+                "d) Gr\u00e1fica de seguimiento."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 valor debe poseer la humedad en el lugar de almac\u00e9n y conservaci\u00f3n de material est\u00e9ril?",
+            "respuestas": [
+                "a) 10-20 %.",
+                "b) 20-35 %.",
+                "c) 40-60 %.",
+                "d) 70-80 %."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes procesos se caracteriza por eliminar todo tipo de microorganismo incluidas las esporas en el material sanitario?",
+            "respuestas": [
+                "a) Fumigaci\u00f3n.",
+                "b) Desinfecci\u00f3n.",
+                "c) Antisepsia.",
+                "d) Esterilizaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l debe ser la temperatura (\u00baC) m\u00e1s id\u00f3nea del \u00f3xido de etileno cuando se emplea en esterilizaci\u00f3n?",
+            "respuestas": [
+                "a) -10 \u00baC.",
+                "b) 5- 10 \u00baC.",
+                "c) 15- 25 \u00baC.",
+                "d) 55- 60 \u00baC."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el tiempo de caducidad del material esterilizado en las condiciones de triple barrera?",
+            "respuestas": [
+                "a) 1 mes.",
+                "b) 2 meses.",
+                "c) 3 meses.",
+                "d) 6 meses."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 depende el per\u00edodo que dura una esterilizaci\u00f3n?",
+            "respuestas": [
+                "a) Depende del tipo de control biol\u00f3gico realizado y del tipo de envoltorio empleado.",
+                "b) Depende del tipo de envoltorio utilizado y del medio de transporte empleado.",
+                "c) Depende del tipo de envoltorio utilizado, de las condiciones de almacenamiento, del tipo de material, y del transporte empleado, entre otros.",
+                "d) Depende del tipo de control f\u00edsico, qu\u00edmico y biol\u00f3gico realizado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 m\u00e9todo se emplea para la destrucci\u00f3n de todos los microorganismos y formas de resistencia de los mismos (esporas)?",
+            "respuestas": [
+                "a) Antisepsia.",
+                "b) Desinfecci\u00f3n",
+                "c) Esterilizaci\u00f3n.",
+                "d) Fumigaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de esporas se emplea de control biol\u00f3gico en los ciclos del \u00f3xido de etileno?",
+            "respuestas": [
+                "a) Bacillus antracis (variedad \u00e1urea).",
+                "b) Bacillus stearothermophilus.",
+                "c) Bacillus subtilis (variedad niger) o Bacillus atropheus.",
+                "d) Bacillus subtilis (variedad arg\u00e9ntica)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas afirmaciones es falsa en cuanto a la utilizaci\u00f3n de las radiaciones ionizantes tipo gamma?",
+            "respuestas": [
+                "a) Tiene como ventaja el bajo coste de su empleo.",
+                "b) No conlleva riesgo sobre los operarios encargados de su manejo.",
+                "c) Tiene bajo coste su empleo.",
+                "d) Sus residuos provocan problemas medioambientales."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos mecanismos de acci\u00f3n no se emplea en esterilizaci\u00f3n?",
+            "respuestas": [
+                "a) Muerte por calor.",
+                "b) Muerte por fr\u00edo.",
+                "c) Muerte por agente qu\u00edmico.",
+                "d) Muerte por radiaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCada cu\u00e1nto tiempo se debe realizar el personal sanitario del Servicio de Esterilizaci\u00f3n un examen m\u00e9dico?",
+            "respuestas": [
+                "a) Se debe realizar un examen m\u00e9dico cada seis meses.",
+                "b) Se debe realizar un examen m\u00e9dico cada a\u00f1o.",
+                "c) Se debe realizar un examen m\u00e9dico cada dos a\u00f1os.",
+                "d) Se debe realizar un examen m\u00e9dico cada cinco a\u00f1os."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos m\u00e9todos de control no corresponde a controles f\u00edsicos?",
+            "respuestas": [
+                "a) Los term\u00f3metros.",
+                "b) Los man\u00f3metros.",
+                "c) Los tubos testigos.",
+                "d) Los medidores de humedad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 presi\u00f3n ir\u00e1 el autoclave (en atm\u00f3sferas) como medio de esterilizaci\u00f3n de material si se utiliza a 120 \u00baC?",
+            "respuestas": [
+                "a) 1 atm\u00f3sfera.",
+                "b) 2 atm\u00f3sferas.",
+                "c) 3 atm\u00f3sferas.",
+                "d) 4 atm\u00f3sferas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn cu\u00e1l de estas t\u00e9cnicas de esterilizaci\u00f3n no son utilizados los m\u00e9todos qu\u00edmicos?",
+            "respuestas": [
+                "a) En \u00f3xido de etileno.",
+                "b) En glutaraldeh\u00eddo.",
+                "c) En formol.",
+                "d) En el flameado."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se emplea para el transporte del material esterilizado si es voluminoso?",
+            "respuestas": [
+                "a) Se utilizan gr\u00faas especiales.",
+                "b) Se utilizan carretillas abiertas.",
+                "c) Se utilizan bolsas de pl\u00e1stico cerradas.",
+                "d) Se utilizan carros herm\u00e9ticos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 temperatura o ciclos de temperatura se esteriliza en autoclave material en contacto con priones?",
+            "respuestas": [
+                "a) Ciclos de vapor de 121 \u00baC.",
+                "b) Ciclos de vapor de 125 \u00baC",
+                "c) Ciclos de vapor de 140 \u00baC.",
+                "d) Ciclos de vapor de 180 \u00baC."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Corrientemente los agentes qu\u00edmicos producen esterilizaci\u00f3n mediante:",
+            "respuestas": [
+                "a) Transferencia y alquilaci\u00f3n.",
+                "b) Reducci\u00f3n y transformaci\u00f3n.",
+                "c) Carboxilaci\u00f3n y reducci\u00f3n.",
+                "d) Oxidaci\u00f3n y alquilaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfMediante qu\u00e9 procedimiento hoy d\u00eda en los autoclaves modernos se comprueban las condiciones f\u00edsicas de los aparatos?",
+            "respuestas": [
+                "a) Mediante impresi\u00f3n de los registros o gr\u00e1fico directo de los registros de presi\u00f3n, tiempo y temperatura.",
+                "b) Mediante sensor t\u00e9rmico.",
+                "c) Mediante sensor de presi\u00f3n.",
+                "d) Mediante sensor de variables."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos riesgos es general en el servicio de esterilizaci\u00f3n?",
+            "respuestas": [
+                "a) Deshidrataci\u00f3n por excesivo calor.",
+                "b) Ca\u00eddas y cortes.",
+                "c) Quemadura en zona de incineraci\u00f3n.",
+                "d) Explosi\u00f3n por uso inadecuado de \u00f3xido de etileno."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 envoltorio del material a esterilizar es el m\u00e1s utilizado es la estufa Poupinel?",
+            "respuestas": [
+                "a) Bolsas de vidrio.",
+                "b) Bolsas de plomo.",
+                "c) Bolsas de aluminio.",
+                "d) Bolsas de pl\u00e1stico termorresistente."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

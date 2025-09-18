@@ -1,8 +1,124 @@
 {
     "categorias": [
         {
-            "nombre_categoria": "Tema 8",
+            "nombre_categoria": "Tema 1",
             "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 2",
+            "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 3",
+            "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 4",
+            "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 5",
+            "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Tema 6",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 7",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 8",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 9",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 10",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 11",
+            "numero_preguntas": 28
+        },
+        {
+            "nombre_categoria": "Tema 12",
+            "numero_preguntas": 29
+        },
+        {
+            "nombre_categoria": "Tema 13",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 14",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 15",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 16",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 17",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 18",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 19",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 20",
+            "numero_preguntas": 29
+        },
+        {
+            "nombre_categoria": "Tema 21",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 22",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 23",
+            "numero_preguntas": 28
+        },
+        {
+            "nombre_categoria": "Tema 24",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 25",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 26",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 27",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 28",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 29",
+            "numero_preguntas": 30
+        },
+        {
+            "nombre_categoria": "Tema 30",
+            "numero_preguntas": 30
         },
         {
             "nombre_categoria": "Todo 2024",

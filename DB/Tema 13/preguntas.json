@@ -1,0 +1,304 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "Si se presenta un pulso con dos latidos seguidos de una pausa se denomina:",
+            "respuestas": [
+                "a) R\u00edtmico.",
+                "b) Arr\u00edtmico.",
+                "c) Bigeminado.",
+                "d) Doble."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En el \u00e1rea de pediatr\u00eda y urgencias en hospitales se est\u00e1 implantando el term\u00f3metro de:",
+            "respuestas": [
+                "a) Columna de mercurio.",
+                "b) Columna de galio.",
+                "c) Cristal de mercurio.",
+                "d) Sensor timp\u00e1nico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDe cu\u00e1ntas personas se requiere para tomar el pulso apical-radial?",
+            "respuestas": [
+                "a) De 1 persona.",
+                "b) De 2 personas.",
+                "c) De 3 personas.",
+                "d) De ninguna, lo hace una m\u00e1quina."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el pulso m\u00e1s utilizado en la pr\u00e1ctica?",
+            "respuestas": [
+                "a) El pulso humeral.",
+                "b) El pulso pedio.",
+                "c) El pulso braquial.",
+                "d) El pulso radial."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 tipo de gr\u00e1ficas existe un apartado tambi\u00e9n para la medicaci\u00f3n?",
+            "respuestas": [
+                "a) En Gr\u00e1ficas mensuales.",
+                "b) En Gr\u00e1ficas semanales.",
+                "c) En Gr\u00e1ficas ordinarias.",
+                "d) En Gr\u00e1ficas especiales."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La fiebre muy alta es aquella temperatura por encima de:",
+            "respuestas": [
+                "a) 37,5.",
+                "b) 38,5.",
+                "c) 39,5.",
+                "d) 40,5."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas es considerada una posici\u00f3n adecuada para tomar el pulso?",
+            "respuestas": [
+                "a) Posici\u00f3n de bipedestaci\u00f3n.",
+                "b) Posici\u00f3n de sentado.",
+                "c) Posici\u00f3n de dec\u00fabito prono.",
+                "d) Son v\u00e1lidas las respuestas a) y b)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En las fiebres Malta es t\u00edpica la fiebre:",
+            "respuestas": [
+                "a) Muy alta.",
+                "b) Intermitente.",
+                "c) Ondulante.",
+                "d) Remitente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La \u00abcarne de gallina\u00bb o piloerecci\u00f3n est\u00e1 causada por:",
+            "respuestas": [
+                "a) Los escalofr\u00edos.",
+                "b) Los temblores acompa\u00f1antes.",
+                "c) La vasoconstricci\u00f3n.",
+                "d) La contracci\u00f3n de los m\u00fasculos pil\u00edferos erectores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La gr\u00e1fica del enfermo es un documento incluido:",
+            "respuestas": [
+                "a) En la vida laboral del enfermo.",
+                "b) En la Historia Natural de la Enfermedad del paciente.",
+                "c) En la Historia Cl\u00ednica del enfermo.",
+                "d) En el CBM."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La presi\u00f3n venosa central (PVC) se expresa en:",
+            "respuestas": [
+                "a) Atm\u00f3sfera (a).",
+                "b) mm de mercurio.",
+                "c) cm de H2O.",
+                "d) cm de cobre."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los valores normales para la vena cava de PVC es de:",
+            "respuestas": [
+                "a) 0 y 4 cm de H2O.",
+                "b) 2 y 6 cm de H2O.",
+                "c) 6 y 12 cm de H2O.",
+                "d) 14 a 20 cm de H2O."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos es sin\u00f3nimo de apirexia?",
+            "respuestas": [
+                "a) Sin temperatura.",
+                "b) Con fiebre alta.",
+                "c) Destemplanza.",
+                "d) Temperatura normal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 factor de estos no afecta de forma sustancial a la temperatura corporal?",
+            "respuestas": [
+                "a) La edad.",
+                "b) La hora del d\u00eda.",
+                "c) El ejercicio.",
+                "d) Tomar un comprimido cada 3 d\u00edas de vitamina C."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El pulso central o apical se toma:",
+            "respuestas": [
+                "a) En la punta del coraz\u00f3n.",
+                "b) En la zona central del muslo.",
+                "c) En el cuello (es sin\u00f3nimo del yugular).",
+                "d) En la zona central del brazo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se dice que existe y comienza la bradipnea, por debajo de:",
+            "respuestas": [
+                "a) 20 respiraciones/minuto.",
+                "b) 18 respiraciones/minuto.",
+                "c) 15 respiraciones/minuto.",
+                "d) 12 respiraciones/minuto."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las p\u00e9rdidas insensibles de agua se realizan por:",
+            "respuestas": [
+                "a) Piel y heces.",
+                "b) Respiraci\u00f3n y heces.",
+                "c) Respiraci\u00f3n y piel.",
+                "d) Respiraci\u00f3n, orina y piel."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Cuando existe un balance h\u00eddrico positivo es que hay:",
+            "respuestas": [
+                "a) Retenci\u00f3n de l\u00edquidos.",
+                "b) M\u00e1s aportes que p\u00e9rdidas.",
+                "c) Sobrehidrataci\u00f3n.",
+                "d) Todo lo anterior es posible."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En ausencia de patolog\u00eda, en el ritmo respiratorio normal la fase inspiratoria es m\u00e1s corta que la espiratoria en una proporci\u00f3n:",
+            "respuestas": [
+                "a) 2:1.",
+                "b) 3:1.",
+                "c) 4:1.",
+                "d) 5:1."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 porcentaje representa el agua en el peso corporal de un lactante?",
+            "respuestas": [
+                "a) 85 %.",
+                "b) 75 %.",
+                "c) 65 %.",
+                "d) 55 %."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas consideras una raz\u00f3n sustancial y etiopatog\u00e9nica para tomar el pulso?",
+            "respuestas": [
+                "a) Para valorar la frecuencia, el ritmo, el volumen y la tensi\u00f3n del pulso, que pueden reflejar un problema general.",
+                "b) Para identificar a un sujeto.",
+                "c) Para valorar el estado de salud del sujeto.",
+                "d) Para conocer la edad del individuo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La TA se mide en:",
+            "respuestas": [
+                "a) mm de Hg.",
+                "b) mm de Ag.",
+                "c) Bares.",
+                "d) Pascales."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo debe tomarse la respiraci\u00f3n?",
+            "respuestas": [
+                "a) Se le advierte al paciente de lo que se le hace, as\u00ed como nunca con la mano cogida se la posicionaremos en t\u00f3rax, sino que observaremos cu\u00e1ntas veces se expande en un minuto, posteriormente se anota en gr\u00e1fico.",
+                "b) Se le advierte al paciente de lo que se le hace, con la mano cogida se la posiciona en t\u00f3rax, y contamos sus expansiones en un minuto, posteriormente se anota en gr\u00e1fico.",
+                "c) No se le advierte al paciente de lo que se le hace, as\u00ed como nunca con la mano cogida se la posicionaremos en t\u00f3rax, sino que observaremos cu\u00e1ntas veces se expande en un minuto, posteriormente se anota en gr\u00e1fico.",
+                "d) No se le advierte al paciente de lo que se le hace, con la mano cogida se la posiciona en t\u00f3rax, y contamos sus expansiones en un minuto, posteriormente se anota en gr\u00e1fico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 circunstancia o fase que se da en la respiraci\u00f3n nos permite tomar esta constante?",
+            "respuestas": [
+                "a) El ritmo respiratorio.",
+                "b) La inspiraci\u00f3n.",
+                "c) La espiraci\u00f3n.",
+                "d) La suspiraci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la capacidad de generar calor a partir de reacciones metab\u00f3licas?",
+            "respuestas": [
+                "a) Termoestabilidad.",
+                "b) Termometabolismo.",
+                "c) Termog\u00e9nesis.",
+                "d) Termonuclear."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 materia no necesitaremos para la toma de la PVC?",
+            "respuestas": [
+                "a) Tensi\u00f3metro.",
+                "b) Llave de tres pasos.",
+                "c) Envase de suero fisiol\u00f3gico.",
+                "d) V\u00eda central canalizada, bien con acceso central o perif\u00e9rico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La serie de respiraciones irregulares en profundidad, interrumpidas por intervalos de apnea se denomina respiraci\u00f3n de:",
+            "respuestas": [
+                "a) Biot.",
+                "b) Bouchut.",
+                "c) Kussmaul.",
+                "d) Cheyne-Stokes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La temperatura se pondr\u00e1 en el gr\u00e1fico en color:",
+            "respuestas": [
+                "a) Azul.",
+                "b) Rojo.",
+                "c) Verde.",
+                "d) Negro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina aquel pulso que se percibe con facilidad y que produce gran amplitud en el vaso que se palpa?",
+            "respuestas": [
+                "a) Fuerte.",
+                "b) Pleno.",
+                "c) Rebotante.",
+                "d) Filiforme."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn la toma de qu\u00e9 constante vital no hay que avisar al enfermo acerca de lo que se le va a hacer?",
+            "respuestas": [
+                "a) Temperatura.",
+                "b) Pulso.",
+                "c) Respiraci\u00f3n.",
+                "d) Tensi\u00f3n arterial."
+            ],
+            "verdadera": 3
+        }
+    ]
+}
