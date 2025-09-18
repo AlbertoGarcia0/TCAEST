@@ -1,6 +1,14 @@
 {
     "categorias": [
         {
+            "nombre_categoria": "Simulacro Todo",
+            "numero_preguntas": 49	    
+        },
+        {
+            "nombre_categoria": "Simulacro Leyes",
+            "numero_preguntas": 50	    
+        },
+        {
             "nombre_categoria": "Tema 1",
             "numero_preguntas": 30	    
         },
@@ -19,6 +27,10 @@
         {
             "nombre_categoria": "Tema 5",
             "numero_preguntas": 30	    
+        },
+        {
+            "nombre_categoria": "Simulacro Especifico",
+            "numero_preguntas": 49	    
         },
         {
             "nombre_categoria": "Tema 6",

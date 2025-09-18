@@ -1,0 +1,504 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "El derecho a la propiedad en nuestra Constituci\u00f3n es un Derecho:",
+            "respuestas": [
+                "a) Inherente a la condici\u00f3n humana.",
+                "b) Absoluto.",
+                "c) Limitado por la funci\u00f3n social del mismo.",
+                "d) Ninguna de las respuestas anteriores es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se establece un m\u00e1ximo de 585 \u20ac en concepto de ayudas para alojamiento y manutenci\u00f3n, por persona y periodo de seis meses. Se excluyen de este l\u00edmite:",
+            "respuestas": [
+                "a) A los pacientes pedi\u00e1tricos.",
+                "b) A los acompa\u00f1antes de los pacientes pedi\u00e1tricos.",
+                "c) A los pacientes con complicaciones sobrevenidas que agraven el estado cl\u00ednico inicial del paciente.",
+                "d) Todas las respuestas anteriores son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Es constitutiva de una infracci\u00f3n administrativa muy grave:",
+            "respuestas": [
+                "a) El acceso a la documentaci\u00f3n cl\u00ednica por simple negligencia sin reunir los requisitos que legitiman para ello, siempre que no haya existido uso indebido de la informaci\u00f3n recogida en la misma, a tenor de lo dispuesto en la presente Ley.",
+                "b) El acceso a la documentaci\u00f3n cl\u00ednica falseando las condiciones que legitiman para ello o haciendo un uso indebido de la misma, a tenor de lo dispuesto en la presente Ley.",
+                "c) La agresi\u00f3n f\u00edsica a profesionales de los centros, servicios y establecimientos sanitarios, a pacientes o a sus acompa\u00f1antes siempre que sea constitutiva de il\u00edcito penal.",
+                "d) Ninguna de las respuestas es correcta."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Adem\u00e1s de la no autoinculpaci\u00f3n, la Constituci\u00f3n prev\u00e9 que no se est\u00e1 obligado a declarar sobre un hecho presuntamente delictivo en caso de:",
+            "respuestas": [
+                "a) Parentesco y afinidad.",
+                "b) Cl\u00e1usula de conciencia.",
+                "c) Secreto profesional.",
+                "d) Las respuestas a) y b) son correctas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Es un principio informador de la Ley de Ordenaci\u00f3n Sanitaria de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Formaci\u00f3n especializada en Salud P\u00fablica y Administraci\u00f3n Sanitaria.",
+                "b) Participaci\u00f3n en l\u00edneas de investigaci\u00f3n relacionadas con las prioridades de salud en Castilla-La Mancha.",
+                "c) Evaluaci\u00f3n de las tecnolog\u00edas sanitarias",
+                "d) Adecuaci\u00f3n de las prestaciones sanitarias a las necesidades de salud de la poblaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Selecciona entre las opciones propuestas la palabra que falta en la siguiente frase: \u201cLa Junta de Comunidades de Castilla-La Mancha establecer\u00e1 medidas espec\u00edficas dirigidas a la eliminaci\u00f3n de los estereotipos masculinos y femeninos y al fomento de la.................. familiar y dom\u00e9stica, con el fin de garantizar el derecho y el deber de las mujeres y de los hombres a compartir las responsabilidades familiares, en particular las tareas dom\u00e9sticas y el cuidado de las personas dependientes\u201d:",
+            "respuestas": [
+                "a) Conciliaci\u00f3n.",
+                "b) Corresponsabilidad.",
+                "c) Representatividad.",
+                "d) Equiparaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Constituci\u00f3n entr\u00f3 en vigor:",
+            "respuestas": [
+                "a) Al d\u00eda siguiente de su publicaci\u00f3n en el Bolet\u00edn Oficial del Estado.",
+                "b) El 27 de diciembre de 1978.",
+                "c) El 29 de diciembre de 1978.",
+                "d) Al ser aprobada en la sesi\u00f3n conjunta por el Congreso de los Diputados y el Senado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Constituye el fundamento del orden p\u00fablico y de la paz social, seg\u00fan la Constituci\u00f3n, el/la/los:",
+            "respuestas": [
+                "a) Derechos inviolables inherentes a la persona.",
+                "b) Estado social y democr\u00e1tico de Derecho.",
+                "c) Seguridad jur\u00eddica.",
+                "d) Justicia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Cuando los trabajadores est\u00e9n expuestos a un riesgo grave e inminente con ocasi\u00f3n de su trabajo, y el empresario no adopte o no permita la adopci\u00f3n de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores, la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales prev\u00e9:",
+            "respuestas": [
+                "a) Los trabajadores afectados podr\u00e1n paralizar la actividad.",
+                "b) El \u00f3rgano de representaci\u00f3n del personal instar\u00e1 formalmente al empresario a la adopci\u00f3n de las medidas necesarias.",
+                "c) Los Delegados de Prevenci\u00f3n lo comunicar\u00e1n a la autoridad laboral, que adoptar\u00e1 las medidas necesarias.",
+                "d) El \u00f3rgano de representaci\u00f3n de personal podr\u00e1 acordar la paralizaci\u00f3n de la actividad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "En relaci\u00f3n con las incompatibilidades del personal estatutario, no es cierto que:",
+            "respuestas": [
+                "a) Ser\u00e1 compatible el disfrute de becas y ayudas de ampliaci\u00f3n de estudios concedidas en r\u00e9gimen de concurrencia competitiva al amparo de programas oficiales de formaci\u00f3n y perfeccionamiento del personal, siempre que para participar en tales acciones se requiera la previa propuesta favorable del Servicio de Salud en el que se est\u00e9 destinado y que las bases de la convocatoria no establezcan lo contrario.",
+                "b) La percepci\u00f3n de pensi\u00f3n de jubilaci\u00f3n por un r\u00e9gimen p\u00fablico de Seguridad Social ser\u00e1 incompatible con la situaci\u00f3n del personal em\u00e9rito.",
+                "c) Las retribuciones del personal em\u00e9rito, sumadas a su pensi\u00f3n de jubilaci\u00f3n, no podr\u00e1n superar las retribuciones que el interesado percib\u00eda antes de su jubilaci\u00f3n, consideradas, todas ellas, en c\u00f3mputo anual.",
+                "d) La percepci\u00f3n de pensi\u00f3n de jubilaci\u00f3n parcial ser\u00e1 compatible con las retribuciones derivadas de una actividad a tiempo parcial."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La infraestructura para la mejora de la calidad en el sistema sanitario estar\u00e1 constituida por los elementos siguientes (se\u00f1ale la respuesta incorrecta):",
+            "respuestas": [
+                "a) Normas de calidad y seguridad.",
+                "b) Registro de buenas pr\u00e1cticas.",
+                "c) Registro de acontecimientos adversos.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las ayudas econ\u00f3micas por alojamiento:",
+            "respuestas": [
+                "a) Se reconocen a pacientes y, en su caso, acompa\u00f1antes que hayan pernoctado fuera de su domicilio.",
+                "b) Se reconocen a los pacientes que deban desplazarse para recibir atenci\u00f3n programada y no urgente a un centro de atenci\u00f3n especializada, situado fuera de su \u00e1rea sanitaria y provincia de residencia.",
+                "c) Se reconocen a aquellos pacientes que, precisando atenci\u00f3n sanitaria en centros ubicados fuera de su \u00e1rea sanitaria y provincia de residencia, se vean obligados a pernoctar fuera de su residencia habitual por necesidades del tratamiento que deben recibir y/o por imposibilidad de llegada al centro o regreso a su domicilio en el d\u00eda.",
+                "d) Se reconocen a aquellos pacientes, y su acompa\u00f1ante, si fuera necesario, que tengan que desplazarse para recibir tratamiento prolongado en centros sanitarios ubicados en su \u00e1rea de salud o provincia de residencia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Qu\u00e9 art\u00edculo de la Carta Magna atribuye al Estado competencia exclusiva en materia de fomento y coordinaci\u00f3n general de la investigaci\u00f3n cient\u00edfica y t\u00e9cnica:",
+            "respuestas": [
+                "a) El art. 149.1.15.",
+                "b) El art. 149.1.16.",
+                "c) El art. 149.1.17.",
+                "d) El art. 149.1.18."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Se\u00f1ala uno de los criterios que establece el Servicio de Salud de Castilla-La Mancha para la adecuada priorizaci\u00f3n de los pacientes que est\u00e1n en lista de espera para patolog\u00eda programada y no urgente:",
+            "respuestas": [
+                "a) Car\u00e1cter invalidante de la enfermedad, que suponga la imposibilidad, al paciente afectado, para trabajar.",
+                "b) Gravedad de las patolog\u00edas motivo de la atenci\u00f3n.",
+                "c) Eficacia de la intervenci\u00f3n.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia del Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Ejercitar las competencias sancionadoras y de intervenci\u00f3n p\u00fablica para la protecci\u00f3n de la salud.",
+                "b) Controlar e inspeccionar las actividades del Sistema Sanitario de Castilla-La Mancha y su adecuaci\u00f3n al Plan de Salud.",
+                "c) Autorizar la celebraci\u00f3n de convenios con otras administraciones p\u00fablicas para la prestaci\u00f3n de servicios sanitarios.",
+                "d) Regular y controlar la publicidad sanitaria."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo pueden sancionarse las infracciones calificadas como muy graves?",
+            "respuestas": [
+                "a) Con multa de hasta 15.000 \u20ac en grado m\u00e1ximo.",
+                "b) Con la inhabilitaci\u00f3n para el ejercicio de la profesi\u00f3n por un per\u00edodo de uno a cinco a\u00f1os.",
+                "c) Con el cierre definitivo del establecimiento en el caso de centros, servicios y establecimientos sanitarios de \u00e1mbito privado.",
+                "d) Todas las respuestas anteriores son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La atenci\u00f3n integral a la salud, que proclama el art\u00edculo 46 de la Ley General de Sanidad, comprende:",
+            "respuestas": [
+                "a) La promoci\u00f3n de la salud, la prevenci\u00f3n de la enfermedad, su curaci\u00f3n y la rehabilitaci\u00f3n.",
+                "b) La promoci\u00f3n de la salud, la prevenci\u00f3n y curaci\u00f3n de la enfermedad y la reinserci\u00f3n.",
+                "c) La educaci\u00f3n sanitaria, la promoci\u00f3n de la salud y la curaci\u00f3n de la enfermedad",
+                "d) La promoci\u00f3n de la salud, la prevenci\u00f3n de la enfermedad, la educaci\u00f3n sanitaria y la reinserci\u00f3n social."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Y s\u00ed lo est\u00e1 el derecho de/a la:",
+            "respuestas": [
+                "a) Libre sindicaci\u00f3n.",
+                "b) Petici\u00f3n.",
+                "c) Cl\u00e1usula de conciencia.",
+                "d) Lo est\u00e1n todos ellos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los proyectos de disposiciones de car\u00e1cter general y los planes de especial relevancia econ\u00f3mica, social, cultural y art\u00edstica que se sometan a la aprobaci\u00f3n del Consejo de Ministros deber\u00e1n incorporar:",
+            "respuestas": [
+                "a) Un Plan Estrat\u00e9gico de Igualdad de Oportunidades.",
+                "b) Una estad\u00edstica o encuesta que posibilite el conocimiento de las diferencias en los valores, roles, situaciones y condiciones, de mujeres y hombres en el \u00e1mbito de acci\u00f3n del proyecto o plan.",
+                "c) Un informe peri\u00f3dico sobre el conjunto de sus actuaciones en relaci\u00f3n con la efectividad del principio de igualdad entre mujeres y hombres.",
+                "d) Un informe sobre su impacto por raz\u00f3n de g\u00e9nero."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Para contribuir al cumplimiento de la legislaci\u00f3n en materia de igualdad entre mujeres y hombres, las Administraciones p\u00fablicas promover\u00e1n la adopci\u00f3n por parte de los medios de comunicaci\u00f3n, incluyendo las actividades de venta y publicidad que en aquellos se desarrollen, de:",
+            "respuestas": [
+                "a) Planes de igualdad.",
+                "b) La realizaci\u00f3n de estudios e investigaciones especializadas en la materia.",
+                "c) Campa\u00f1as institucionales dirigidas a fomentar la igualdad entre mujeres y hombres y a erradicar la violencia de g\u00e9nero.",
+                "d) Acuerdos de autorregulaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se\u00f1alar la afirmaci\u00f3n incorrecta en relaci\u00f3n con el art. 35 de la LPRL:",
+            "respuestas": [
+                "a) Los Delegados de Prevenci\u00f3n son los representantes de los trabajadores con funciones espec\u00edficas en materia de prevenci\u00f3n de riesgos en el trabajo.",
+                "b) Los Delegados de Prevenci\u00f3n ser\u00e1n designados por y entre los representantes del personal.",
+                "c) En una empresa de dos mil quinientos trabajadores existir\u00e1n 6 Delegados de Prevenci\u00f3n.",
+                "d) En las empresas de treinta y un trabajadores el Delegado de Prevenci\u00f3n ser\u00e1 el Delegado de Personal."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La autorizaci\u00f3n previa para celebrar una manifestaci\u00f3n p\u00fablica:",
+            "respuestas": [
+                "a) La da el Subdelegado del Gobierno en la Provincia.",
+                "b) Es ineludible.",
+                "c) Ser\u00eda inconstitucional.",
+                "d) Se da cuando no se prevean alteraciones al orden p\u00fablico, con peligro para personas o bienes."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Cuando el paciente est\u00e9 incapacitado judicialmente para adoptar la decisi\u00f3n, el consentimiento informado lo prestar\u00e1/n:",
+            "respuestas": [
+                "a) Las personas vinculadas a \u00e9l por razones familiares.",
+                "b) El representante legal.",
+                "c) Las personas vinculadas a \u00e9l por razones de hecho.",
+                "d) El familiar biol\u00f3gico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan la Constituci\u00f3n, una norma que imponga una nueva pena m\u00e1s leve para un delito:",
+            "respuestas": [
+                "a) No se aplica retroactivamente.",
+                "b) Puede aplicarse retroactivamente.",
+                "c) Ha de ser reglamentaria.",
+                "d) Atenta contra el principio de legalidad penal si se aplica retroactivamente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una caracter\u00edstica de la Carta Magna?",
+            "respuestas": [
+                "a) Su rigidez.",
+                "b) El establecimiento, como forma pol\u00edtica del Estado, de la monarqu\u00eda hereditaria.",
+                "c) Su codificaci\u00f3n en un solo texto.",
+                "d) Su extensi\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las \u00c1reas de Salud ser\u00e1n dirigidas por un \u00f3rgano propio, donde deber\u00e1n participar las Corporaciones Locales en ellas situadas, con una representaci\u00f3n no inferior al:",
+            "respuestas": [
+                "a) 10%.",
+                "b) 20%.",
+                "c) 30%.",
+                "d) 40%."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Es una retribuci\u00f3n b\u00e1sica del personal estatutario:",
+            "respuestas": [
+                "a) El complemento de destino.",
+                "b) El complemento de carrera.",
+                "c) Las pagas extraordinarias.",
+                "d) El complemento de productividad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En relaci\u00f3n con el consentimiento informado, se\u00f1ale la respuesta incorrecta:",
+            "respuestas": [
+                "a) Toda actuaci\u00f3n en el \u00e1mbito de la salud de un paciente necesita el consentimiento del mismo, manifestado libre y voluntariamente una vez que, recibida la informaci\u00f3n adecuada, haya valorado las opciones propias del caso.",
+                "b) En la historia cl\u00ednica de los pacientes deber\u00e1 constar la informaci\u00f3n facilitada a los mismos durante su proceso asistencial y el car\u00e1cter de su consentimiento.",
+                "c) La prestaci\u00f3n del consentimiento informado es un deber del paciente y su obtenci\u00f3n un derecho del profesional sanitario responsable de la asistencia al mismo.",
+                "d) Siempre que el paciente haya expresado por escrito su consentimiento informado, tendr\u00e1 derecho a obtener una copia de dicho documento."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El Tiempo Medio de Espera (TME) se define como:",
+            "respuestas": [
+                "a) El tiempo promedio expresado en d\u00edas, que llevan esperando todos los pacientes en espera no estructural, desde su fecha de entrada en el registro de Lista de Espera hasta una fecha determinada o fecha de corte.",
+                "b) El tiempo promedio expresado en d\u00edas, que llevan esperando los pacientes que forman la demanda asistencial, desde su fecha de entrada en el registro de Lista de Espera Estructural hasta una fecha determinada o fecha de corte.",
+                "c) El tiempo promedio expresado en d\u00edas, que llevan esperando todos los pacientes en espera estructural, desde su fecha de entrada en el registro de Lista de Espera hasta una fecha determinada o fecha de corte.",
+                "d) El tiempo promedio expresado en horas, que llevan esperando los pacientes que forman la demanda asistencial, desde su fecha de entrada en el registro de Lista de Espera Estructural hasta una fecha determinada o fecha de corte."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 \u00f3rgano crea la Ley General de Sanidad, como coordinador entre las Comunidades Aut\u00f3nomas y la Administraci\u00f3n General del Estado?",
+            "respuestas": [
+                "a) Instituto de Informaci\u00f3n Sanitaria.",
+                "b) Consejo Interterritorial del Sistema Nacional de Salud.",
+                "c) Ministro de Sanidad y Consumo.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Ley 16/2003, establece como prestaciones de salud p\u00fablica:",
+            "respuestas": [
+                "a) La atenci\u00f3n a la salud mental.",
+                "b) La atenci\u00f3n a la salud bucodental.",
+                "c) La protecci\u00f3n y promoci\u00f3n de la sanidad ambiental.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se\u00f1ala una de las funciones del Consejo Interterritorial del Sistema Nacional de Salud en relaci\u00f3n con la coordinaci\u00f3n del Sistema Nacional de Salud:",
+            "respuestas": [
+                "a) Los acuerdos sanitarios internacionales por los que se colabore con otros pa\u00edses y organismos internacionales en las materias a las que se refiere el art\u00edculo 39 de la Ley General de Sanidad.",
+                "b) Las l\u00edneas gen\u00e9ricas del programa formativo de los profesionales del Sistema Nacional de Salud, as\u00ed como los criterios b\u00e1sicos de acreditaci\u00f3n de centros y servicios para la docencia de postgrado y para la evaluaci\u00f3n de la competencia.",
+                "c) La evoluci\u00f3n de los planes auton\u00f3micos de salud y la formulaci\u00f3n de los planes conjuntos y del Plan integral de salud.",
+                "d) La definici\u00f3n de objetivos y estrategias de funcionamiento de los organismos y restantes estructuras de apoyo dependientes del Consejo Interterritorial del Sistema Nacional de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Las ayudas por desplazamiento, manutenci\u00f3n y alojamiento compensan los gastos de desplazamiento, manutenci\u00f3n y alojamiento que tiene que asumir el paciente y, en su caso, su acompa\u00f1ante, cuando se tenga que desplazar para recibir atenci\u00f3n programada y no urgente a un centro de atenci\u00f3n especializada ubicado fuera de su \u00e1rea sanitaria y provincia de residencia. Tendr\u00e1n derecho a la presencia de acompa\u00f1ante:",
+            "respuestas": [
+                "a) Los pacientes menores de 12 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento.",
+                "b) Los pacientes menores de 14 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento.",
+                "c) Los pacientes menores de 16 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento.",
+                "d) Los pacientes menores de 18 a\u00f1os o mayores legalmente incapacitados y aquellos que por causa m\u00e9dica as\u00ed lo indique el facultativo que solicite el desplazamiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Selecciona entre las opciones propuestas la palabra que falta en la siguiente frase: \u201cEn la comunicaci\u00f3n institucional, las Administraciones p\u00fablicas de Castilla-La Mancha velar\u00e1n por la transmisi\u00f3n de una imagen igualitaria, plural y no.................. de mujeres y hombres en la sociedad, y promover\u00e1n el conocimiento y la difusi\u00f3n del principio de igualdad entre mujeres y hombres en el desarrollo de sus pol\u00edticas\u201d:",
+            "respuestas": [
+                "a) Discriminatoria.",
+                "b) Denigrante.",
+                "c) Sexista.",
+                "d) Estereotipada."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Si un poder p\u00fablico, en su actuaci\u00f3n, infringe lo dispuesto en el Pre\u00e1mbulo de la Constituci\u00f3n:",
+            "respuestas": [
+                "a) Incurre en nulidad.",
+                "b) Incurre en inconstitucionalidad.",
+                "c) No pasa nada salvo que, como consecuencia de esa actuaci\u00f3n, se infrinja un art\u00edculo de la propia Constituci\u00f3n.",
+                "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El art\u00edculo 43.1 de la Constituci\u00f3n Espa\u00f1ola dispone:",
+            "respuestas": [
+                "a) \u00abCompete a los poderes p\u00fablicos organizar y tutelar la salud p\u00fablica a trav\u00e9s de medidas preventivas y de las prestaciones y servicios necesarios\u00bb.",
+                "b) \u00abSe reconoce el derecho a la protecci\u00f3n de la salud\u00bb.",
+                "c) \u00abLos poderes p\u00fablicos fomentar\u00e1n la educaci\u00f3n sanitaria, la educaci\u00f3n f\u00edsica y el deporte.\u00bb",
+                "d) Todas las respuestas anteriores son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha se estructura en:",
+            "respuestas": [
+                "a) Una Exposici\u00f3n de Motivos, nueve art\u00edculos, una disposici\u00f3n transitoria, cinco disposiciones finales y una disposici\u00f3n derogatoria.",
+                "b) Una Exposici\u00f3n de Motivos, nueve art\u00edculos, dos disposiciones transitorias, tres disposiciones finales y una disposici\u00f3n derogatoria.",
+                "c) Una Exposici\u00f3n de Motivos, doce art\u00edculos, dos disposiciones transitorias, tres disposiciones finales y una disposici\u00f3n derogatoria.",
+                "d) Una Exposici\u00f3n de Motivos, doce art\u00edculos, tres disposiciones transitorias, tres disposiciones finales y una disposici\u00f3n derogatoria."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La asistencia de todo orden a los hijos habidos extraconyugalmente:",
+            "respuestas": [
+                "a) No est\u00e1 prevista en la Constituci\u00f3n.",
+                "b) Es un deber de los padres.",
+                "c) Se dispensar\u00e1 por Instituciones de Beneficencia.",
+                "d) Se dispensa solo a los que de ellos tengan discapacidad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes departamentos forma parte de la Comisi\u00f3n Gestora de Seguridad del SESCAM?",
+            "respuestas": [
+                "a) Sociedades cient\u00edficas.",
+                "b) Atenci\u00f3n sanitaria.",
+                "c) Inspecci\u00f3n m\u00e9dica.",
+                "d) Colegios profesionales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Para el adecuado ejercicio de sus funciones la Comisi\u00f3n Delegada podr\u00e1 establecer:",
+            "respuestas": [
+                "a) Direcciones y grupos de trabajo.",
+                "b) Subcomisiones y comit\u00e9s.",
+                "c) Subcomisiones y grupos de trabajo.",
+                "d) Comit\u00e9s y Subcomit\u00e9s de trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 incluye la Parte dispositiva de la Ley 3/2014, de 21 de julio, de garant\u00eda de la atenci\u00f3n sanitaria y del ejercicio de la libre elecci\u00f3n en las prestaciones del Servicio de Salud de Castilla-La Mancha?",
+            "respuestas": [
+                "a) El Pre\u00e1mbulo, el articulado, la disposici\u00f3n transitoria \u00fanica, las disposiciones finales y la disposici\u00f3n derogatoria.",
+                "b) El articulado y las disposiciones finales.",
+                "c) La disposici\u00f3n transitoria \u00fanica, las disposiciones finales y la disposici\u00f3n derogatoria.",
+                "d) La disposici\u00f3n transitoria \u00fanica y las disposiciones finales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En el caso de consentimiento informado y la decisi\u00f3n del representante legal pueda presumirse contraria a la salud del menor o incapacitado, el profesional responsable deber\u00e1:",
+            "respuestas": [
+                "a) Informar a los padres y su opini\u00f3n ser\u00e1 tenida en cuenta para la toma de la decisi\u00f3n correspondiente.",
+                "b) Proponer el alta forzosa del paciente.",
+                "c) Poner los hechos en conocimiento de la autoridad competente en virtud de lo dispuesto en la legislaci\u00f3n civil.",
+                "d) Pedir el alta voluntaria del paciente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, es competencia de la Consejer\u00eda competente en materia de sanidad de la Junta de Comunidades de Castilla-La Mancha:",
+            "respuestas": [
+                "a) Nombrar y cesar a la persona que ocupe la Direcci\u00f3n-Gerencia del Servicio de Salud de Castilla-La Mancha.",
+                "b) Establecer las directrices y los criterios generales de la pol\u00edtica sanitaria en Castilla-La Mancha.",
+                "c) Aprobar el reglamento de estructura y funcionamiento del Servicio de Salud de Castilla-La Mancha.",
+                "d) Fomentar y regular la participaci\u00f3n ciudadana en el Sistema Sanitario."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El Instituto de la Mujer de Castilla-La Mancha elaborar\u00e1 un informe sobre la aplicaci\u00f3n de la Ley 12/2010, en el que se propondr\u00e1n las medidas y actuaciones necesarias para conseguir la igualdad real entre mujeres y hombres, cada:",
+            "respuestas": [
+                "a) Mes.",
+                "b) A\u00f1o.",
+                "c) 2 a\u00f1os.",
+                "d) 3 a\u00f1os."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00edtulo de la Ley 14/1986, de 25 de abril, General de Sanidad, regula la estructura del sistema sanitario p\u00fablico?",
+            "respuestas": [
+                "a) El T\u00edtulo II.",
+                "b) El T\u00edtulo III.",
+                "c) El T\u00edtulo V.",
+                "d) El T\u00edtulo VI."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "A qui\u00e9n corresponde el reconocimiento y control del derecho a la protecci\u00f3n de la salud y a la atenci\u00f3n sanitaria con cargo a fondos p\u00fablicos:",
+            "respuestas": [
+                "a) Al Ministerio de Hacienda.",
+                "b) Al Ministerio de Trabajo y Econom\u00eda Social.",
+                "c) Al Ministerio de Sanidad.",
+                "d) Al Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El personal estatutario que acceda a plaza de formaci\u00f3n sanitaria especializada mediante residencia, ser\u00e1 declarado en situaci\u00f3n de:",
+            "respuestas": [
+                "a) Servicios especiales.",
+                "b) Servicios bajo otro r\u00e9gimen jur\u00eddico.",
+                "c) Excedencia voluntaria.",
+                "d) Excedencia por servicios en el sector p\u00fablico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La derogaci\u00f3n de una norma posconstitucional que vaya en contra de la Constituci\u00f3n se efect\u00faa por el/la/las:",
+            "respuestas": [
+                "a) Propia Constituci\u00f3n.",
+                "b) Tribunal Constitucional.",
+                "c) Cortes Generales.",
+                "d) Gobierno de la Naci\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La resoluci\u00f3n de su solicitud del derecho a una segunda opini\u00f3n m\u00e9dica, de acuerdo con el Decreto 91/2018, de 4 de diciembre, del derecho a la segunda opini\u00f3n m\u00e9dica ser\u00e1 motivada, de acuerdo con el art\u00edculo 35 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, y frente a ella se podr\u00e1 interponer:",
+            "respuestas": [
+                "a) Recurso de reposici\u00f3n.",
+                "b) Recurso de alzada.",
+                "c) Recurso de revisi\u00f3n.",
+                "d) Recurso contencioso administrativo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 regula el Cap\u00edtulo XI de la Ley 16/2003?",
+            "respuestas": [
+                "a) La Participaci\u00f3n Social.",
+                "b) El Consejo Interterritorial.",
+                "c) La Alta Inspecci\u00f3n.",
+                "d) La Calidad."
+            ],
+            "verdadera": 3
+        }
+    ]
+}

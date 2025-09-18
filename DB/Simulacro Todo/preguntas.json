@@ -1,0 +1,504 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes es una de las caracter\u00edsticas de nuestra Constituci\u00f3n de 1978?",
+            "respuestas": [
+                "a) Consensuada.",
+                "b) Corta.",
+                "c) Conservadora.",
+                "d) Original"
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 no debe tomarse o comer durante d\u00edas previos a un estudio de sangre oculta en heces para realizar adecuadamente el procedimiento de toma de muestra de la misma?",
+            "respuestas": [
+                "a) Aspirina.",
+                "b) Alimentos picantes.",
+                "c) Tomates y r\u00e1banos.",
+                "d) No debe tomarse nada de lo anterior."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Consideramos que lo ideal ser\u00eda que supieran t\u00e9cnicas de RCP:",
+            "respuestas": [
+                "a) Todo el personal sanitario.",
+                "b) Todo el personal de primera intervenci\u00f3n.",
+                "c) Todos los ciudadanos.",
+                "d) Todo el personal que trabaje en un servicio sanitario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n aprueba el Plan Estrat\u00e9gico para la Igualdad de Oportunidades de Castilla-La Mancha?",
+            "respuestas": [
+                "a) El Consejo de Gobierno.",
+                "b) El Instituto de la Mujer de Castilla-La Mancha.",
+                "c) Las Cortes de Castilla-La Mancha.",
+                "d) La Comisi\u00f3n de Igualdad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En las fracturas de huesos largos los fragmentos pueden presentar un traslado de:",
+            "respuestas": [
+                "a) 3 a 6 cm.",
+                "b) 1,5 a 5 cm.",
+                "c) 2,5 a 4,5 cm.",
+                "d) 2,5 a 5 cm."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancias de estas no se recomienda el internamiento forzoso y urgente del enfermo mental?",
+            "respuestas": [
+                "a) Leve disminuci\u00f3n de la autonom\u00eda personal.",
+                "b) Riesgo de autoagresividad.",
+                "c) Riesgo de heteroagresividad.",
+                "d) Grave enfermedad mental que suponga un riesgo de agravaci\u00f3n en caso de no ser adecuadamente tratada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 porcentaje es evitable actualmente el dolor en nuestro sistema sanitario?",
+            "respuestas": [
+                "a) 100 % de los casos.",
+                "b) 95 % de los casos.",
+                "c) 75 % de los casos.",
+                "d) 50 % de los casos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo se populariz\u00f3 el empleo del fr\u00edo como herramienta curativa?",
+            "respuestas": [
+                "a) En el siglo V antes de Cristo.",
+                "b) En el siglo XVIII.",
+                "c) En el siglo XIX.",
+                "d) En el siglo XX."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Deben tener una estructura interna y un funcionamiento democr\u00e1tico los/las:",
+            "respuestas": [
+                "a) Partidos Pol\u00edticos.",
+                "b) Colegios Profesionales.",
+                "c) Organizaciones Profesionales.",
+                "d) Todos ellos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la piodermitis que afecta al fol\u00edculo piloso y zonas adyacentes?",
+            "respuestas": [
+                "a) Herpes z\u00f3ster.",
+                "b) Pediculosis.",
+                "c) Ros\u00e1cea.",
+                "d) For\u00fanculo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los retractores o valvas entran en la categor\u00eda de instrumental quir\u00fargico de:",
+            "respuestas": [
+                "a) Aprehensi\u00f3n.",
+                "b) Sutura.",
+                "c) Disecci\u00f3n.",
+                "d) Exposici\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los IMAO se emplean en:",
+            "respuestas": [
+                "a) El tratamiento de la depresi\u00f3n. Los m\u00e1s usados son probablemente los tric\u00edclicos (imipramida, amitriptilina, trimipramida, doxepina, nortriptilina\u2026).",
+                "b) Aumentar el consumo de glucosa y estimular el centro respiratorio. El \u00e1cido acetilsalic\u00edlico es adem\u00e1s muy utilizado por sus excelentes cualidades como antiagregante plaquetario.",
+                "c) Depresiones que no responden al tratamiento con los antidepresivos c\u00edclicos y tambi\u00e9n en algunos tipos de neurosis y situaciones de estr\u00e9s.",
+                "d) Ninguna de las respuestas anteriores es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En el acceso a bienes y servicios \u00bfpuede un contratante indagar sobre la situaci\u00f3n de embarazo de una mujer demandante de los mismos?",
+            "respuestas": [
+                "a) No, en ning\u00fan caso.",
+                "b) Solo por razones de protecci\u00f3n de la salud de la mujer.",
+                "c) S\u00ed, en cualquier caso.",
+                "d) S\u00ed, si est\u00e1 en un estado avanzado de gestaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Cuando digo aspirina me estoy refiriendo a:",
+            "respuestas": [
+                "a) La marca registrada (nombre comercial).",
+                "b) Nombre cient\u00edfico.",
+                "c) Nombre qu\u00edmico.",
+                "d) Nombre gen\u00e9rico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo puede actuar la Admisi\u00f3n de urgencias en un hospital?",
+            "respuestas": [
+                "a) Como oficina delegada durante el d\u00eda.",
+                "b) Como unidad central de Admisi\u00f3n en d\u00edas o circunstancias especiales (festivos, noches, etc.).",
+                "c) Como oficina delegada durante el d\u00eda y como unidad central de Admisi\u00f3n en d\u00edas o circunstancias especiales (festivos, noches, etc.).",
+                "d) Como oficina propiamente de Admisi\u00f3n o como oficina de Atenci\u00f3n y Orientaci\u00f3n al usuario/paciente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El Defensor del Pueblo se regula en el siguiente T\u00edtulo y Cap\u00edtulo de la Constituci\u00f3n, respectivamente:",
+            "respuestas": [
+                "a) Preliminar y 1.\u00ba",
+                "b) Segundo y 4.\u00ba",
+                "c) Segundo y 3.\u00ba",
+                "d) Primero y 4.\u00ba"
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Se habla de infestaci\u00f3n cuando la agresi\u00f3n se produce por:",
+            "respuestas": [
+                "a) Bacterias.",
+                "b) Virus.",
+                "c) Par\u00e1sitos.",
+                "d) Hongos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 exploraci\u00f3n instrumental de estas se utiliza el diapas\u00f3n mediante la transmisi\u00f3n del sonido por v\u00eda \u00f3sea?",
+            "respuestas": [
+                "a) Prueba de Ranvier.",
+                "b) Prueba de Weber.",
+                "c) Prueba de Rinnie.",
+                "d) Prueba de Strauss."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo podr\u00e1 ser cubierta una plaza en comisi\u00f3n de servicios?",
+            "respuestas": [
+                "a) Por necesidades del servicio en cualquier momento.",
+                "b) Cuando se encuentre vacante o temporalmente desatendida.",
+                "c) Por necesidades del servicio y cuando se encuentre vacante o temporalmente desatendida.",
+                "d) Cuando la solicita un interesado y exista vacante."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se velar\u00e1 especialmente por el respeto a la dignidad de la persona en los procesos terminales previos al fallecimiento. A tal fin el Gobierno regional aprobar\u00e1 las normas que garanticen:",
+            "respuestas": [
+                "a) Las medidas necesarias y adecuadas que permitan el control del dolor, eviten el sufrimiento innecesario y preserven su calidad de vida.",
+                "b) Los medios necesarios para que aquellos pacientes que padezcan una enfermedad terminal tengan una habitaci\u00f3n individual en la que puedan estar acompa\u00f1ados.",
+                "c) Una atenci\u00f3n personalizada y adecuada a sus circunstancias personales que favorezcan el cumplimiento de los derechos de esta ley.",
+                "d) Ser internadas en contra de su voluntad en los t\u00e9rminos previstos en la legislaci\u00f3n civil y tener derecho a que se reexamine peri\u00f3dicamente la necesidad de su internamiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las heridas se manifiestan cl\u00ednicamente por:",
+            "respuestas": [
+                "a) Hemorragia indolora y separaci\u00f3n de los bordes de la piel por la herida.",
+                "b) Dolor, contusi\u00f3n y membrana mucosa abierta.",
+                "c) Hemorragia, rotura de la piel y enrojecimiento de esta.",
+                "d) Rotura de la piel, dolor y hemorragia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Uno de los objetivos de la Atenci\u00f3n Especializada es:",
+            "respuestas": [
+                "a) Prestar asistencia ambulatoria especializada.",
+                "b) Posibilitar la hospitalizaci\u00f3n de los pacientes que lo precisen.",
+                "c) Poner sus Centros e Instituciones a disposici\u00f3n de la investigaci\u00f3n y docencia en materia de salud.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan la Ley de Prevenci\u00f3n de Riesgos Laborales, se constituir\u00e1 un Comit\u00e9 de Seguridad y Salud en todas las empresas o centros de trabajo que cuenten con:",
+            "respuestas": [
+                "a) 30 o m\u00e1s trabajadores.",
+                "b) 50 o m\u00e1s trabajadores.",
+                "c) 75 o m\u00e1s trabajadores.",
+                "d) 100 o m\u00e1s trabajadores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominas todos aquellos materiales de los que se vale el personal sanitario para realizar exploraciones, curas e intervenciones quir\u00fargicas?",
+            "respuestas": [
+                "a) \u00datil.",
+                "b) Material.",
+                "c) Objeto.",
+                "d) Instrumento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCada cu\u00e1nto tiempo el anciano debe hidratar las u\u00f1as y su cut\u00edcula para mantenerlas blandas y evitar que se rompan?",
+            "respuestas": [
+                "a) Cada d\u00eda.",
+                "b) Cada tres d\u00edas.",
+                "c) Cada semana.",
+                "d) Cada mes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la \u00faltima fase de formaci\u00f3n de la \u00falcera de presi\u00f3n o forma m\u00e1s evolucionada?",
+            "respuestas": [
+                "a) Fase final de exitus.",
+                "b) Fase escoriativa.",
+                "c) Fase eritematosa.",
+                "d) Fase necr\u00f3tica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n no es correcta respecto a la inmersi\u00f3n en el agua (hidroterapia) y su aplicaci\u00f3n en personas discapacitadas?",
+            "respuestas": [
+                "a) Aumenta la confianza en s\u00ed mismo.",
+                "b) Ayuda a mantener la imagen del movimiento.",
+                "c) Es capaz de realizar ejercicios dentro del agua que no es capaz de realizar en el exterior.",
+                "d) No aporta ni un est\u00edmulo positivo ni negativo en su recuperaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 modelo de Enfermer\u00eda pertenece la autora Hildergarde Peplau?",
+            "respuestas": [
+                "a) Modelo de sistemas.",
+                "b) Modelo interaccionista.",
+                "c) Modelo de autocuidados.",
+                "d) Modelo de adaptaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 elementos o materiales necesarios para el aseo del paciente son de lavado?",
+            "respuestas": [
+                "a) Hule.",
+                "b) Manta de ba\u00f1o.",
+                "c) Esponjas y guantes.",
+                "d) Cu\u00f1a."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Respecto a la orden de tratamiento, es falso que:",
+            "respuestas": [
+                "a) Incluye los tratamientos prescritos por los m\u00e9dicos, dosis, frecuencia de administraci\u00f3n y tiempo de duraci\u00f3n.",
+                "b) Se actualiza a diario.",
+                "c) Es el conjunto de reflexiones del m\u00e9dico responsable sobre la evoluci\u00f3n del paciente, pruebas a realizar, alternativas de tratamiento, etc.",
+                "d) Seg\u00fan sea la evoluci\u00f3n del paciente ser\u00e1 necesario cambiar o no los tratamientos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Quienes no acrediten, una vez superado el proceso selectivo, que re\u00fanen los requisitos y condiciones exigidos en la convocatoria:",
+            "respuestas": [
+                "a) No podr\u00e1n ser nombrados hasta que subsanen el defecto.",
+                "b) No podr\u00e1n ser nombrados, y quedar\u00e1n sin efecto sus actuaciones.",
+                "c) Podr\u00e1n ser nombrados de forma condicional.",
+                "d) Una vez superado el proceso selectivo, se entiende que re\u00fane los requisitos exigidos, salvo prueba en contrario."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Podr\u00e1 concurrir a las pruebas selectivas, por el sistema de promoci\u00f3n interna, el personal estatutario fijo que se encuentre en servicio activo y con nombramiento como personal estatutario fijo, en la categor\u00eda de procedencia, durante al menos:",
+            "respuestas": [
+                "a) 2 a\u00f1os.",
+                "b) 3 a\u00f1os.",
+                "c) 4 a\u00f1os.",
+                "d) 5 a\u00f1os."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la pinza hemost\u00e1tica parecida a la de Kelly, pero se diferencia de ella en que presenta un tramo de ranuras m\u00e1s largo, y se utiliza como esta para el clamps de vasos sangu\u00edneos?",
+            "respuestas": [
+                "a) Pinza de Pean.",
+                "b) Pinza de Crile.",
+                "c) Pinza de Allis.",
+                "d) Pinza de Mosquito."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfSobre qu\u00e9 principios se apoya toda la asistencia sanitaria?",
+            "respuestas": [
+                "a) Principios de beneficencia y autonom\u00eda.",
+                "b) Principios de beneficencia y justicia.",
+                "c) Principios de autonom\u00eda, beneficencia y justicia.",
+                "d) Principios de autonom\u00eda, beneficencia, no maleficencia y justicia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Una dieta exenta de gluten poseer\u00e1 alimentos que contienen de cereal:",
+            "respuestas": [
+                "a) Trigo.",
+                "b) Arroz.",
+                "c) Cebada.",
+                "d) Centeno."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medio es m\u00e1s aconsejable para un traslado cuando el paciente posee un estado f\u00edsico deficiente?",
+            "respuestas": [
+                "a) La silla de ruedas.",
+                "b) La camilla.",
+                "c) Un veh\u00edculo a motor.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 no se regula en la Ley de Enjuiciamiento Civil (Ley 1/2000)?",
+            "respuestas": [
+                "a) Las autorizaciones judiciales preceptivas que se requieren para el internamiento.",
+                "b) El internamiento forzoso del enfermo mental.",
+                "c) El internamiento voluntario del enfermo mental.",
+                "d) El internamiento de menores se realizar\u00e1 siempre en un establecimiento de salud mental adecuado a su edad, previo informe de los servicios de asistencia al menor."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El objetivo de constituir un \u00e1mbito de di\u00e1logo e informaci\u00f3n de car\u00e1cter laboral, as\u00ed como de promover el desarrollo arm\u00f3nico de los recursos humanos del Sistema Nacional de Salud, se articula a trav\u00e9s de:",
+            "respuestas": [
+                "a) El Consejo Interterritorial del Sistema Nacional de Salud.",
+                "b) La Comisi\u00f3n de Recursos Humanos del Sistema Nacional de Salud.",
+                "c) La Consejer\u00eda de Salud de la correspondiente Comunidad Aut\u00f3noma.",
+                "d) El Foro Marco para el Di\u00e1logo Social."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde se ubicar\u00e1 al paciente en admisi\u00f3n a nivel organizativo, si este requiere habitaci\u00f3n con cama, y en ese momento no hay disponibilidad de las mismas en una situaci\u00f3n ordinaria (no urgente)?",
+            "respuestas": [
+                "a) En la sala de espera.",
+                "b) En consultas externas.",
+                "c) En observaci\u00f3n.",
+                "d) En lista de espera."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan la Disposici\u00f3n Adicional Primera de la Ley para la Igualdad efectiva entre Mujeres y Hombres, se entender\u00e1 por composici\u00f3n equilibrada la presencia de mujeres y hombres de forma que, en el conjunto al que se refiera, las personas de cada sexo:",
+            "respuestas": [
+                "a) Tengan la misma representaci\u00f3n; es decir la mitad, o la mitad m\u00e1s uno o menos uno si es un n\u00famero impar de miembros.",
+                "b) No superen el 60 % ni sean menos del 40 %.",
+                "c) No superen el 70 % ni sean menos del 30 %.",
+                "d) No sean menos del 10 %."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la forma de tratamiento de los enfermos ciclot\u00edmicos con riesgo inmediato y grave de suicidio?",
+            "respuestas": [
+                "a) Antidepresivos y ansiol\u00edticos.",
+                "b) Terapia electroconvulsiva, seguida por psicoterapia a largo plazo.",
+                "c) Neurol\u00e9pticos, antidepresivos y ansiol\u00edticos.",
+                "d) Psicoterapia individual, de grupo, de familia y comunitaria."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En posici\u00f3n de Fowler, la \u00falcera por presi\u00f3n aparecer\u00e1 menos frecuentemente en:",
+            "respuestas": [
+                "a) Tal\u00f3n.",
+                "b) Dedos de los pies.",
+                "c) Codos.",
+                "d) Sacro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfDe cu\u00e1ntas personas se requiere para tomar el pulso apical-radial?",
+            "respuestas": [
+                "a) De 1 persona.",
+                "b) De 2 personas.",
+                "c) De 3 personas.",
+                "d) De ninguna, lo hace una m\u00e1quina."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la principal funci\u00f3n de las vitaminas?",
+            "respuestas": [
+                "a) Pl\u00e1stica.",
+                "b) Energ\u00e9tica.",
+                "c) Reguladora.",
+                "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Se define bronquitis cr\u00f3nica cuando hipersecreci\u00f3n de moco y la tos productiva cr\u00f3nica recurrente durante un m\u00ednimo de:",
+            "respuestas": [
+                "a) Tres meses al a\u00f1o en dos a\u00f1os consecutivos.",
+                "b) Tres meses al a\u00f1o en tres a\u00f1os consecutivos.",
+                "c) Dos meses al a\u00f1o en tres a\u00f1os consecutivos.",
+                "d) Dos meses al a\u00f1o en dos a\u00f1os consecutivos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 patolog\u00eda est\u00e1 indicada la termoterapia?",
+            "respuestas": [
+                "a) En el caso de padecer fiebre elevada, y provocar la crisis t\u00e9rmica.",
+                "b) En pacientes con marcapasos.",
+                "c) En zonas corporales con riesgo al sangrado.",
+                "d) Dolor agudo recurrente de etiolog\u00eda neopl\u00e1sica (calor superficial)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Respecto a la metadona como f\u00e1rmaco opioide:",
+            "respuestas": [
+                "a) Su vida media es inferior a 15 h.",
+                "b) No supone riesgo alguno de toxicidad por acumulaci\u00f3n.",
+                "c) Nunca se puede administrar por v\u00eda oral.",
+                "d) Es un opioide de tercer escal\u00f3n (OMS-1986) con un efecto analg\u00e9sico de 8 h, con manejo complejo, y por ello se reserva a profesionales expertos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfHasta qu\u00e9 edad el per\u00edmetro tor\u00e1cico es menor que el craneal o cef\u00e1lico?",
+            "respuestas": [
+                "a) Hasta los seis meses de vida.",
+                "b) Hasta los 12 meses de vida.",
+                "c) Hasta los 18 meses de vida.",
+                "d) Hasta los 24 meses de vida."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 debe ser igual la presi\u00f3n durante la inspiraci\u00f3n (IPAP)?",
+            "respuestas": [
+                "a) Debe ser igual a la presi\u00f3n durante la espiraci\u00f3n, consigui\u00e9ndose una presi\u00f3n positiva al final de la espiraci\u00f3n.",
+                "b) Debe ser igual a la presi\u00f3n del aire corriente sumado a la presi\u00f3n del volumen residual.",
+                "c) Debe ser igual a la presi\u00f3n del volumen residual, consigui\u00e9ndose una presi\u00f3n positiva al final de la espiraci\u00f3n.",
+                "d) Debe ser igual a la presi\u00f3n del volumen residual y presi\u00f3n de m\u00e1s al realizar inspiraci\u00f3n forzada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 residuos no se regulan o no es de aplicaci\u00f3n la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una econom\u00eda circular?",
+            "respuestas": [
+                "a) Residuos urbanos.",
+                "b) Residuos asimilables a urbanos.",
+                "c) Residuos radiactivos.",
+                "d) Son de aplicaci\u00f3n a todos los anteriores."
+            ],
+            "verdadera": 3
+        }
+    ]
+}
