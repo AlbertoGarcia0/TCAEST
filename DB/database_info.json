@@ -5,6 +5,18 @@
             "numero_preguntas": 49	    
         },
         {
+            "nombre_categoria": "Simulacro 1",
+            "numero_preguntas": 80	    
+        },
+        {
+            "nombre_categoria": "Simulacro 2",
+            "numero_preguntas": 80	    
+        },
+        {
+            "nombre_categoria": "Simulacro 3",
+            "numero_preguntas": 80	    
+        },
+        {
             "nombre_categoria": "Simulacro Leyes",
             "numero_preguntas": 50	    
         },

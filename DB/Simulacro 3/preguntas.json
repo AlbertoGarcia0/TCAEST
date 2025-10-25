@@ -1,0 +1,804 @@
+{
+    "Preguntas": [
+        {
+            "enunciado": "\u00bfQu\u00e9 acci\u00f3n o acciones del equipo sanitario en un paciente sujeto terap\u00e9uticamente es o son incorrecta/s?",
+            "respuestas": [
+                "a) Preservar la intimidad del paciente.",
+                "b) Acostumbrar progresivamente al paciente a la seguridad que supone un entorno de aislamiento.",
+                "c) Mantener contacto verbal con intervalos regulares mientras se halle despierto.",
+                "d) Implicar al paciente en planes para poder finalizar la sujeci\u00f3n mec\u00e1nica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9rmino es sin\u00f3nimo de inmunogenicidad?",
+            "respuestas": [
+                "a) Inmunoclisis.",
+                "b) Antigenicidad.",
+                "c) Virulencia.",
+                "d) Contagiosidad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los IMAO se emplean en:",
+            "respuestas": [
+                "a) El tratamiento de la depresi\u00f3n. Los m\u00e1s usados son probablemente los tric\u00edclicos (imipramida, amitriptilina, trimipramida, doxepina, nortriptilina\u2026).",
+                "b) Aumentar el consumo de glucosa y estimular el centro respiratorio. El \u00e1cido acetilsalic\u00edlico es adem\u00e1s muy utilizado por sus excelentes cualidades como antiagregante plaquetario.",
+                "c) Depresiones que no responden al tratamiento con los antidepresivos c\u00edclicos y tambi\u00e9n en algunos tipos de neurosis y situaciones de estr\u00e9s.",
+                "d) Ninguna de las respuestas anteriores es correcta."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 disnea de estas es de mayor gravedad?",
+            "respuestas": [
+                "a) Disnea en reposo.",
+                "b) Disnea a peque\u00f1os esfuerzos.",
+                "c) Disnea a medianos esfuerzos.",
+                "d) Disnea a grandes esfuerzos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Los valores normales para la vena cava de PVC es de:",
+            "respuestas": [
+                "a) 0 y 4 cm de H2O.",
+                "b) 2 y 6 cm de H2O.",
+                "c) 6 y 12 cm de H2O.",
+                "d) 14 a 20 cm de H2O."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 registros dentro del sistema de informaci\u00f3n sanitaria consideras interno?",
+            "respuestas": [
+                "a) La informaci\u00f3n proveniente de los servicios sociales personales.",
+                "b) La informaci\u00f3n proveniente de \u00cdndices y registros demogr\u00e1ficos.",
+                "c) La informaci\u00f3n proveniente de Padrones municipales.",
+                "d) La informaci\u00f3n proveniente de Registros de ambulatorios y consultorios."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 componente de Mayeroff es aquel que nos indica que el cuidado se llevar\u00e1 a cabo entre un continuum entre experiencias pasadas y la situaci\u00f3n presente, entre la atenci\u00f3n concreta y pormenorizada y la atenci\u00f3n global?",
+            "respuestas": [
+                "a) Paciencia.",
+                "b) Honestidad.",
+                "c) Alternancia del ritmo.",
+                "d) Conocimiento."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 material de estos no es necesario para realizar los cambios posturales del paciente?",
+            "respuestas": [
+                "a) Almohadas, cojines y ropa limpia.",
+                "b) F\u00e9rulas y a veces protectores de protuberancia.",
+                "c) Jab\u00f3n y antis\u00e9pticos.",
+                "d) Son todos necesarios."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9rmino se aplica cuando en una relaci\u00f3n interpersonal no se consigue lo que se esperaba?",
+            "respuestas": [
+                "a) Enojo.",
+                "b) Frustraci\u00f3n.",
+                "c) Agresividad.",
+                "d) Deserci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La temperatura del neonato tiende a estabilizarse a:",
+            "respuestas": [
+                "a) 35 \u00baC.",
+                "b) 35,5 \u00baC.",
+                "c) 36,5 \u00baC.",
+                "d) 37 \u00baC."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una precauci\u00f3n que deber\u00e1 mantener el TCAE cuando aplique calor a un paciente?",
+            "respuestas": [
+                "a) Observar la piel en la zona a administrar, de manera previa, por si existen alteraciones que puedan modificar o contraindicar el tratamiento.",
+                "b) Los ancianos tienen disminuida la sensibilidad al calor.",
+                "c) Los ni\u00f1os presentan una inmadurez del sistema de termorregulaci\u00f3n.",
+                "d) Es frecuente la cefalea por hipertensi\u00f3n del paciente."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sistema se encarga de gestionar las im\u00e1genes m\u00e9dicas en el SESCAM?",
+            "respuestas": [
+                "a) Mambrino XXI.",
+                "b) Receta Electr\u00f3nica.",
+                "c) Turriano.",
+                "d) Ykonos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es lo primero a efectuar antes de hacer un traslado?",
+            "respuestas": [
+                "a) Presentarme al paciente y explicarle el procedimiento.",
+                "b) Presentarte a la supervisora e indicarle tu misi\u00f3n.",
+                "c) Hacer traslado con seguridad y bienestar para el paciente si no es urgente.",
+                "d) Esperar a que la persona responsable se haga cargo del paciente en destino."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La prestaci\u00f3n de salud p\u00fablica comprende las siguientes actuaciones, seg\u00fan el art. 11.2 de la Ley 16/2003:",
+            "respuestas": [
+                "a) La evaluaci\u00f3n de impacto en salud.",
+                "b) La protecci\u00f3n de la salud, evitando los efectos negativos que diversos elementos del medio pueden tener sobre la salud y el bienestar de las personas.",
+                "c) La prevenci\u00f3n y detecci\u00f3n precoz de las enfermedades raras, as\u00ed como el apoyo a las personas que las presentan y a sus familias.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el instrumental quir\u00fargico que sirve para que el campo operatorio est\u00e9 libre y las maniobras del cirujano puedan hacerse con seguridad?",
+            "respuestas": [
+                "a) Instrumental quir\u00fargico de disecci\u00f3n.",
+                "b) Instrumental quir\u00fargico de exposici\u00f3n.",
+                "c) Instrumental quir\u00fargico de aprehensi\u00f3n.",
+                "d) Instrumental quir\u00fargico de sutura."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo se deben desechar inmediatamente las gotas \u00f3ticas?",
+            "respuestas": [
+                "a) Si est\u00e1n caducadas.",
+                "b) Si presenta sedimentos.",
+                "c) Si la soluci\u00f3n est\u00e1 decolorada.",
+                "d) En todos los casos anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 numeraci\u00f3n ser\u00eda en la Escala de Braden respecto a la exposici\u00f3n a la humedad en pacientes con \u00falceras por presi\u00f3n cuando es raro que la zona est\u00e9 h\u00fameda?",
+            "respuestas": [
+                "a) 1.",
+                "b) 2.",
+                "c) 3.",
+                "d) 4."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\"Hospital Verde\" es una medida de qu\u00e9 l\u00ednea estrat\u00e9gica del Plan Dignifica:",
+            "respuestas": [
+                "a) De la l\u00ednea estrat\u00e9gica 1.",
+                "b) De la l\u00ednea estrat\u00e9gica 5.",
+                "c) De la l\u00ednea estrat\u00e9gica 2.",
+                "d) De la l\u00ednea estrat\u00e9gica 4."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 susceptibilidad crean los enfermos que padecen insuficiencias cardiacas descompensadas o no tratadas, que lo hacen m\u00e1s proclives a padecer \u00falceras por presi\u00f3n?",
+            "respuestas": [
+                "a) Alteraci\u00f3n del estado de consciencia.",
+                "b) Disminuci\u00f3n circulatoria que conlleva a una desnutrici\u00f3n de los tejidos.",
+                "c) Disminuci\u00f3n en el balance de gases.",
+                "d) Mayor peso corporal"
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 momento del s\u00edndrome bipolar ciclot\u00edmico existe mayor riesgo de suicidio?",
+            "respuestas": [
+                "a) Al principio de la fase man\u00edaca.",
+                "b) En el momento de la fase depresiva.",
+                "c) Al recuperarse de la fase depresiva.",
+                "d) Al recuperarse de la fase man\u00edaca."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 presi\u00f3n ir\u00e1 el autoclave (en atm\u00f3sferas) como medio de esterilizaci\u00f3n de material si se utiliza a 120 \u00baC?",
+            "respuestas": [
+                "a) 1 atm\u00f3sfera.",
+                "b) 2 atm\u00f3sferas.",
+                "c) 3 atm\u00f3sferas.",
+                "d) 4 atm\u00f3sferas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es uno de los principales objetivos de la Fase II del programa de la Escuela?",
+            "respuestas": [
+                "a) Derivar pacientes a hospitales especializados.",
+                "b) Eliminar el papel del profesional sanitario.",
+                "c) Coordinar ensayos cl\u00ednicos en pacientes cr\u00f3nicos.",
+                "d) Impartir talleres formativos en las zonas de salud."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos \u00edtems posee la escala OARS (Older Americans Resources and Services)?",
+            "respuestas": [
+                "a) 3.",
+                "b) 4.",
+                "c) 5.",
+                "d) 6."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Las infracciones muy graves en su grado m\u00e1ximo previstas en la Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha ser\u00e1n castigadas con:",
+            "respuestas": [
+                "a) Multa de 300.001 euros hasta 600.000 euros.",
+                "b) Multa de 320.001 euros hasta 600.000 euros.",
+                "c) Multa de 350.001 euros hasta 600.000 euros.",
+                "d) Multa de 370.001 euros hasta 600.000 euros."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 estilo de comunicaci\u00f3n favorece la cooperaci\u00f3n y evita la confrontaci\u00f3n?",
+            "respuestas": [
+                "a) Comunicaci\u00f3n agresiva.",
+                "b) Comunicaci\u00f3n pasiva.",
+                "c) Comunicaci\u00f3n asertiva.",
+                "d) Comunicaci\u00f3n manipulativa."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La Junta de Comunidades de Castilla-La Mancha fomentar\u00e1 el acceso al empleo de las mujeres j\u00f3venes de Castilla- La Mancha, entendiendo por estas las menores de:",
+            "respuestas": [
+                "a) 25 a\u00f1os.",
+                "b) 30 a\u00f1os.",
+                "c) 35 a\u00f1os.",
+                "d) 40 a\u00f1os."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 se traduce la infelicidad y la impotencia del anciano en cuanto a las relaciones con el familiar que lo cuida?",
+            "respuestas": [
+                "a) En el aislamiento.",
+                "b) En una diminuci\u00f3n de la autoestima.",
+                "c) En un aumento de la autoestima.",
+                "d) En miedo e incertidumbre."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se define como la integraci\u00f3n de elementos que da como resultado algo m\u00e1s grande que la simple suma de estos?",
+            "respuestas": [
+                "a) Antagonismo.",
+                "b) Coordinaci\u00f3n.",
+                "c) Indiferencia.",
+                "d) Sinergia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 objetivo no es correcto de la valoraci\u00f3n geri\u00e1trica integral?",
+            "respuestas": [
+                "a) Evitar la mejora en la exactitud diagn\u00f3stica y la identificaci\u00f3n de enfermedades o problemas\nque no se hayan detectado con la valoraci\u00f3n m\u00e9dica tradicional.",
+                "b) Asignar servicios y ayudas t\u00e9cnicas e incorporar al paciente a los programas que m\u00e1s se\najustan a sus necesidades.",
+                "c) Conocer los recursos del paciente y su entorno social, familiar y ambiental.",
+                "d) Establecer un escenario adecuado para el anciano con el fin de evitar la institucionalizaci\u00f3n y, cuando \u00e9sta se produce, valorar la ubicaci\u00f3n m\u00e1s adecuada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el orden en el que se debe realizar una evaluaci\u00f3n en un paciente politraumatizado en la valoraci\u00f3n secundaria?",
+            "respuestas": [
+                "a) Primero se debe realizar un examen neurol\u00f3gico, seguido de una exploraci\u00f3n en busca de lesiones externas.",
+                "b) Primero se debe realizar un examen neurol\u00f3gico, seguido de una exploraci\u00f3n de  cabeza, cuello, t\u00f3rax y abdomen.",
+                "c) La evaluaci\u00f3n debe comenzar por la exploraci\u00f3n de la cabeza, para seguir con  cuello, abdomen y pelvis, y finalizar con un examen neurol\u00f3gico.",
+                "d) La evaluaci\u00f3n debe comenzar por la exploraci\u00f3n de cabeza, cuello, t\u00f3rax, abdomen, pelvis, extremidades y finalizar con un examen neurol\u00f3gico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo no est\u00e1 contraindicado el masaje en la UPP?",
+            "respuestas": [
+                "a) Nunca est\u00e1 contraindicado, es aconsejable",
+                "b) Siempre est\u00e1 contraindicado, est\u00e1 prohibido ya que la agrava.",
+                "c) Cuando no agrava la pre\u00falcera.",
+                "d) Si la zona a\u00fan no tiene enrojecimiento (eritema)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n/es dispondr\u00e1/n de una carta de derechos y deberes de las personas relativos a la salud?",
+            "respuestas": [
+                "a) La administraci\u00f3n sanitaria.",
+                "b) Los profesionales sanitarios responsables del paciente.",
+                "c) Todos los centros, servicios y establecimientos sanitarios.",
+                "d) La autoridad sanitaria."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes no es pilar en los que se basan las relaciones interpersonales? Se\u00f1ale la respuesta correcta:",
+            "respuestas": [
+                "a) Aislamiento.",
+                "b) Respeto.",
+                "c) Confianza.",
+                "d) Sinceridad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 \u00e1rea o aspecto debe recoger (seg\u00fan el Defensor del pueblo) la humanizaci\u00f3n de los comportamientos, de las conductas rec\u00edprocas en las relaciones entre los enfermos, los m\u00e9dicos y cuantos cooperan a la protecci\u00f3n de la salud?",
+            "respuestas": [
+                "a) El aspecto \u00e9tico.",
+                "b) El aspecto est\u00e9tico.",
+                "c) El aspecto profesional.",
+                "d) El aspecto laboral."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes es un deber de los profesionales de los centros, servicios y establecimientos sanitarios?",
+            "respuestas": [
+                "a) Participar en la gesti\u00f3n, de conformidad con lo que reglamentariamente se establezca.",
+                "b) Renunciar a prestar atenci\u00f3n sanitaria en situaciones de injurias, amenazas o agresi\u00f3n si no conlleva desatenci\u00f3n.",
+                "c) Cumplimentar los protocolos, registros, informes, estad\u00edsticas y dem\u00e1s documentaci\u00f3n que guarde relaci\u00f3n con los procesos cl\u00ednicos en que intervienen, incluida la relacionada con la investigaci\u00f3n m\u00e9dica y la informaci\u00f3n epidemiol\u00f3gica.",
+                "d) Todas las respuestas son correctas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medio evita la desecaci\u00f3n y muerte de los microorganismos recogidos con un hisopo est\u00e9ril?",
+            "respuestas": [
+                "a) El medio de Schwann.",
+                "b) El medio de Petri.",
+                "c) El medio de Stuart.",
+                "d) El medio de Lindor."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La contaminaci\u00f3n ac\u00fastica se considera un ruido:",
+            "respuestas": [
+                "a) Qu\u00edmico.",
+                "b) Ps\u00edquico.",
+                "c) F\u00edsico.",
+                "d) Arcaico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se llaman unos quistes de queratina que aparecen sobre el paladar duro y las enc\u00edas del neonato?",
+            "respuestas": [
+                "a) Quistes de Moro.",
+                "b) Perlas de Epstein.",
+                "c) Lunares de Grazping.",
+                "d) Angiomas puntiformes."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Una erosi\u00f3n en la piel se define como aquella lesi\u00f3n elemental que se manifiesta como:",
+            "respuestas": [
+                "a) Una p\u00e9rdida superficial de la epidermis que cura sin cicatriz.",
+                "b) Una soluci\u00f3n de continuidad que afecta a epidermis y dermis papilar.",
+                "c) Una p\u00e9rdida de sustancia que afecta a epidermis, dermis y tejido subcut\u00e1neo.",
+                "d) Una peque\u00f1a elevaci\u00f3n cut\u00e1nea parecida a la ampolla pero contiene en su interior pus."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas medidas de prevenci\u00f3n espec\u00edfica de infecci\u00f3n urinaria nosocomial es correcta en paciente sin sonda vesical?",
+            "respuestas": [
+                "a) Nunca se debe valorar a nivel preventivo la edad y sexo del sujeto en la prevenci\u00f3n, ya que la incidencia de dichas infecciones no dependen de estos par\u00e1metros.",
+                "b) La higiene se debe realizar sin agua y con un antis\u00e9ptico no irritante.",
+                "c) La higiene de los genitales se hace siempre en la direcci\u00f3n de genitales a regi\u00f3n anal y nunca a la inversa.",
+                "d) Se debe instruir al paciente a que aguante el deseo de orinar lo m\u00e1s posible."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La Unidad de Admisi\u00f3n dentro del Hospital no es responsable de:",
+            "respuestas": [
+                "a) La atenci\u00f3n y la orientaci\u00f3n al usuario durante su estancia en el centro sanitario.",
+                "b) La recepci\u00f3n y citaci\u00f3n de los pacientes para Consultas Externas.",
+                "c) La recepci\u00f3n y registro de las urgencias.",
+                "d) La recepci\u00f3n, formalizaci\u00f3n del ingreso y asignaci\u00f3n de cama a los pacientes que van a ser hospitalizados."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La droga de elecci\u00f3n en el caso de una convulsi\u00f3n es:",
+            "respuestas": [
+                "a) Midazolam.",
+                "b) Atropina.",
+                "c) Diazepam.",
+                "d) Cloruro c\u00e1lcico."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la primera fase de lavado autom\u00e1tico empleado como procedimiento de limpieza?",
+            "respuestas": [
+                "a) Es la fase de prelavado.",
+                "b) Es la fase de aclarado.",
+                "c) Es la fase de termodesinfecci\u00f3n.",
+                "d) Es la fase de secado."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 procedimiento t\u00e9cnico es el que pretende asegurar la salida de l\u00edquidos y derrames de una herida, absceso o cavidad natural traum\u00e1tica o quir\u00fargica?",
+            "respuestas": [
+                "a) Ap\u00f3sitos.",
+                "b) Gasa y pa\u00f1os.",
+                "c) Drenajes.",
+                "d) Sondas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 objetivo principal tiene la Escuela de Salud y Cuidados de Castilla-La Mancha?",
+            "respuestas": [
+                "a) Reducir el n\u00famero de ingresos hospitalarios.",
+                "b) Formar exclusivamente a profesionales sanitarios.",
+                "c) Desarrollar medicamentos innovadores.",
+                "d) Mejorar la salud y calidad de vida de personas con enfermedades cr\u00f3nicas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 radiaci\u00f3n de estas no tiene carga el\u00e9ctrica (electromagn\u00e9tica)?",
+            "respuestas": [
+                "a) Radiaci\u00f3n Alfa.",
+                "b) Radiaci\u00f3n Gamma.",
+                "c) Radiaci\u00f3n Beta (-).",
+                "d) Radiaci\u00f3n Beta (+)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Ante una posible tuberculosis pulmonar el esputo de la toma de muestra se cultiva en el medio:",
+            "respuestas": [
+                "a) L\u00f6wenstein-Jensen.",
+                "b) GRAM.",
+                "c) Mac-Conkey.",
+                "d) Simmons."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En la vida del paciente ingresado se producen grandes cambios que van a repercutir en el individuo, gener\u00e1ndole una gran ansiedad e incertidumbre. Una de las consecuencias que se produce es un tipo de aislamiento, \u00bfCu\u00e1l?",
+            "respuestas": [
+                "a) Aislamiento secular.",
+                "b) Aislamiento psicosocial.",
+                "c) Aislamiento particular.",
+                "d) Aislamiento contra contacto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal que realiza la t\u00e9cnica de extracci\u00f3n de sangre venosa es:",
+            "respuestas": [
+                "a) El facultativo.",
+                "b) El hemat\u00f3logo.",
+                "c) El diplomado de enfermer\u00eda.",
+                "d) El auxiliar de enfermer\u00eda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfPor qu\u00e9 zona la faringe se comunica con la laringe?",
+            "respuestas": [
+                "a) Por su extremo superior y por delante.",
+                "b) Por su extremo superior y por detr\u00e1s.",
+                "c) Por su extremo inferior y por delante.",
+                "d) Por su extremo inferior y por detr\u00e1s."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes tecnolog\u00edas es promovida en el Plan?",
+            "respuestas": [
+                "a) Fax cl\u00ednico.",
+                "b) Electrocardiograma port\u00e1til anal\u00f3gico.",
+                "c) Videoconsultas y telemonitorizaci\u00f3n.",
+                "d) Impresi\u00f3n de recetas en papel duplicado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "En la organizaci\u00f3n de los grupos de trabajo:",
+            "respuestas": [
+                "a) Prima la jerarqu\u00eda.",
+                "b) No existe responsable del grupo.",
+                "c) La jerarqu\u00eda es mediana, pero importante.",
+                "d) Todas las categor\u00edas laborales funcionan con igualdad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan establece el art. 4 de la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales, se define como da\u00f1os derivados del trabajo:",
+            "respuestas": [
+                "a) La posibilidad de que un trabajador sufra un determinado da\u00f1o derivado del trabajo.",
+                "b) El que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un da\u00f1o grave para la salud de los trabajadores.",
+                "c) Las enfermedades, patolog\u00edas o lesiones sufridas con motivo u ocasi\u00f3n del trabajo.",
+                "d) Cualquier m\u00e1quina, aparato, instrumento o instalaci\u00f3n utilizada en el trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 valor debe poseer la ventilaci\u00f3n en el lugar de almac\u00e9n y conservaci\u00f3n de material est\u00e9ril?",
+            "respuestas": [
+                "a) 6 renovaciones a la hora.",
+                "b) 10 renovaciones a la hora.",
+                "c) 15 renovaciones a la hora.",
+                "d) 25 renovaciones a la hora."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Conforme a lo que dispone la Ley de ordenaci\u00f3n sanitaria de Castilla-La Mancha, el r\u00e9gimen jur\u00eddico aplicable al personal que preste sus servicios en el Servicio Regional de Salud es, con car\u00e1cter general:",
+            "respuestas": [
+                "a) Funcionarial.",
+                "b) Laboral.",
+                "c) Estatutario.",
+                "d) Mercantil."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El hecho del quebranto de la debida reserva respecto a datos relativos al centro o instituci\u00f3n o a la intimidad personal de los usuarios y a la informaci\u00f3n relacionada con su proceso y estancia en las instituciones o centros sanitarios, recogido en el Estatuto Marco del personal estatutario de los Servicios de Salud es considerado como constitutivo de:",
+            "respuestas": [
+                "a) Delito a la salud.",
+                "b) Falta disciplinaria muy grave.",
+                "c) Falta disciplinaria grave.",
+                "d) Falta disciplinaria leve."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los proyectos de disposiciones de car\u00e1cter general y los planes de especial relevancia econ\u00f3mica, social, cultural y art\u00edstica que se sometan a la aprobaci\u00f3n del Consejo de Ministros deber\u00e1n incorporar:",
+            "respuestas": [
+                "a) Un Plan Estrat\u00e9gico de Igualdad de Oportunidades.",
+                "b) Una estad\u00edstica o encuesta que posibilite el conocimiento de las diferencias en los valores, roles, situaciones y condiciones, de mujeres y hombres en el \u00e1mbito de acci\u00f3n del proyecto o plan.",
+                "c) Un informe peri\u00f3dico sobre el conjunto de sus actuaciones en relaci\u00f3n con la efectividad del principio de igualdad entre mujeres y hombres.",
+                "d) Un informe sobre su impacto por raz\u00f3n de g\u00e9nero."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos datos no es considerado b\u00e1sico y esencial en las tarjetas individuales sanitarias de cualquier Comunidad Aut\u00f3noma del territorio nacional?",
+            "respuestas": [
+                "a) Administraci\u00f3n sanitaria emisora de la tarjeta, modalidad de la prestaci\u00f3n farmac\u00e9utica, y apellidos y nombre del titular de la tarjeta.",
+                "b) C\u00f3digo de identificaci\u00f3n personal asignado por la Administraci\u00f3n sanitaria que emite la tarjeta.",
+                "c) Leyenda que informa de su validez en todo el Sistema Nacional de Salud: esta tarjeta le permite el acceso a los servicios de todo el Sistema Nacional de Salud.",
+                "d) N\u00famero de identificaci\u00f3n sanitario europeo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina tambi\u00e9n la sala de recuperaci\u00f3n postquir\u00fargica?",
+            "respuestas": [
+                "a) Sala de dormir.",
+                "b) Sala de despertar.",
+                "c) Sala de reanimaci\u00f3n.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El personal estatutario de los servicios de salud tiene el deber de:",
+            "respuestas": [
+                "a) Participar en la elaboraci\u00f3n de los convenios colectivos.",
+                "b) Realizar sus funciones fuera del horario y jornada habitual.",
+                "c) Realizar actividades sindicales.",
+                "d) Respetar la Constituci\u00f3n, el Estatuto de Autonom\u00eda correspondiente y el resto del ordenamiento jur\u00eddico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9nes conforman el Comit\u00e9 Cl\u00ednico necesario en los casos de interrupci\u00f3n voluntaria del embarazo?",
+            "respuestas": [
+                "a) Un m\u00e9dico especialista en ginecolog\u00eda y obstetricia o expertos en diagn\u00f3stico prenatal, y un pediatra.",
+                "b) Dos m\u00e9dicos especialistas en ginecolog\u00eda y obstetricia o expertos en diagn\u00f3stico prenatal, y un pediatra.",
+                "c) Un m\u00e9dico especialista en ginecolog\u00eda y obstetricia o expertos en diagn\u00f3stico prenatal, una matrona y un pediatra.",
+                "d) Una matrona y un pediatra."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto debe durar aproximadamente el amamantar al bebe en cada pecho?",
+            "respuestas": [
+                "a) M\u00e1s de 30 minutos.",
+                "b) Entre 20 a 30 minutos.",
+                "c) Entre 15 a 20 minutos.",
+                "d) Entre 10 a 15 minutos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Es una retribuci\u00f3n b\u00e1sica del personal estatutario:",
+            "respuestas": [
+                "a) El complemento de destino.",
+                "b) El complemento de carrera.",
+                "c) Las pagas extraordinarias.",
+                "d) El complemento de productividad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 causa de la ansiedad se relaciona con las fases de duelo de la doctora K\u00fcbler-Ross?",
+            "respuestas": [
+                "a) Los problemas relacionados con efectos directos de la enfermedad o complicaciones m\u00e9dicas.",
+                "b) Las reacciones adaptativas como consecuencia de la aparici\u00f3n de cambios inevitables.",
+                "c) Los problemas derivados de la existencia previa de problemas psicol\u00f3gicos.",
+                "d) Aquellas derivadas de los efectos secundarios del tratamiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Todo lo que se expone de la administraci\u00f3n de un f\u00e1rmaco por v\u00eda oral es cierto, excepto que:",
+            "respuestas": [
+                "a) Puede y debe administrarse un medicamento preparado por otra persona (si requiere lo mismo).",
+                "b) No se deben administrar medicamentos en un recipiente mal rotulado.",
+                "c) No se debe perder de vista el carrito unidosis o bandeja de medicamentos.",
+                "d) Los medicamentos no usados nunca se regresan a los recipientes, se desechan o bien se avisa a farmacia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina el m\u00e9todo que permite a una persona hacer comprensible a otra cualquier idea o hecho que se le quiere transmitir?",
+            "respuestas": [
+                "a) Comunicaci\u00f3n.",
+                "b) Transmisi\u00f3n.",
+                "c) Explicaci\u00f3n o charla.",
+                "d) Transferencia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes procesos se caracteriza por eliminar todo tipo de microorganismo incluidas las esporas en el material sanitario?",
+            "respuestas": [
+                "a) Fumigaci\u00f3n.",
+                "b) Desinfecci\u00f3n.",
+                "c) Antisepsia.",
+                "d) Esterilizaci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan todas aquellas posturas o posiciones que el paciente puede adoptar en la cama, camilla, mesa de exploraciones, etc., que son de inter\u00e9s para el manejo del enfermo por el personal sanitario y de manera especial por el t\u00e9cnico en cuidados auxiliares de enfermer\u00eda?",
+            "respuestas": [
+                "a) Posiciones de examen del paciente encamado.",
+                "b) Posiciones anat\u00f3micas del paciente encamado.",
+                "c) Posiciones b\u00e1sicas del paciente encamado.",
+                "d) Posiciones exploratorias del paciente encamado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos no es un componente b\u00e1sico de los 8 que cita Mayeroff a desarrollar para disponer de la capacidad de cuidar?",
+            "respuestas": [
+                "a) Confianza",
+                "b) Prudencia.",
+                "c) Paciencia.",
+                "d) Honestidad y humildad."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 humedad relativa aproximada debe existir por normativa en los locales de trabajo cerrado, sin tener en cuenta aquellos locales donde existan riesgos por electricidad est\u00e1tica?",
+            "respuestas": [
+                "a) Entre el 10 y el 30 %.",
+                "b) Entre el 30 y el 70 %.",
+                "c) Mayor del 75 %.",
+                "d) Menor al 50 %."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una Red de Expertos y Profesionales del Sistema Sanitario de Castilla-La Mancha?",
+            "respuestas": [
+                "a) Red de Experto de vacunaciones obligatorias.",
+                "b) Red de Expertos y Profesionales de Imagen M\u00e9dica Radiol\u00f3gica.",
+                "c) Red de Expertos y Profesionales de Cuidados Paliativos.",
+                "d) Red de Expertos y Profesionales de Salud Mental."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Un paciente inconsciente que respira:",
+            "respuestas": [
+                "a) Se deja como est\u00e1 y se avisa a los servicios de emergencias.",
+                "b) No har\u00e1 falta avisar a nadie.",
+                "c) Se inicia de forma inmediata las maniobras de RCP.",
+                "d) Se coloca en PLS (posici\u00f3n lateral de seguridad)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La familia del paciente que va a ser intervenido quir\u00fargicamente debe recibir informaci\u00f3n acerca de:",
+            "respuestas": [
+                "a) D\u00f3nde permanecer hasta que el enfermo regrese a la habitaci\u00f3n.",
+                "b) Qu\u00e9 tiempo suele tardar ese tipo de intervenci\u00f3n y saber c\u00f3mo se encuentra el paciente tras la intervenci\u00f3n.",
+                "c) Qui\u00e9n y c\u00f3mo va a recibir informaci\u00f3n acerca de la intervenci\u00f3n.",
+                "d) Debe conocer todo lo anterior."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 escala de estas valora las \u00falceras por presi\u00f3n? \u2026",
+            "respuestas": [
+                "a) Escala de Collins.",
+                "b) Escala de Water.",
+                "c) Escala de Norton.",
+                "d) Escala de Phillis."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 prueba de estas de imagen para el diagn\u00f3stico no irradia al paciente (no posee rayos X)?",
+            "respuestas": [
+                "a) Resonancia magn\u00e9tica nuclear.",
+                "b) Radiograf\u00eda simple.",
+                "c) Mamograf\u00eda.",
+                "d) Todas irradian al paciente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el procedimiento realizado para drenar el l\u00edquido pleural que se encuentra entre el recubrimiento externo de los pulmones (pleura) y la pared tor\u00e1cica?",
+            "respuestas": [
+                "a) Paracentesis.",
+                "b) Toracocentesis.",
+                "c) Laparotom\u00eda.",
+                "d) Laparocentesis."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 radiaci\u00f3n se emplea m\u00e1s frecuentemente en esterilizaci\u00f3n?",
+            "respuestas": [
+                "a) Radiaci\u00f3n ultravioleta.",
+                "b) Radiaci\u00f3n X.",
+                "c) Radiaci\u00f3n gamma.",
+                "d) Son ciertas las respuestas a) y b)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfSobre qu\u00e9 parte corporal posee mayores repercusiones los efectos del calor en termoterapia?",
+            "respuestas": [
+                "a) Sobre la piel.",
+                "b) Sobre los dientes.",
+                "c) Sobre el sistema \u00f3seo.",
+                "d) Sobre el aparato respiratorio."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Indicar la palabra que falta en la siguiente frase: \u201cEl principal fin de la Ley 12/2010, de 18 de noviembre, de igualdad entre mujeres y hombres de Castilla-La Mancha, es alcanzar la igualdad............. entre hombres y mujeres en todos los \u00e1mbitos de la vida\u201d:",
+            "respuestas": [
+                "a) M\u00e1xima.",
+                "b) Laboral.",
+                "c) Jur\u00eddica.",
+                "d) Real."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 color deben ser pintados las paredes den una habilitaci\u00f3n de un hospital?",
+            "respuestas": [
+                "a) Negro u oscuro.",
+                "b) Marr\u00f3n claro o amarillo.",
+                "c) Blanco mate.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+        }
+    ]
+}
