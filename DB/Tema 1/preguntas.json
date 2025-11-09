@@ -401,16 +401,6 @@
             "verdadera": 2
         },
         {
-            "enunciado": "La forma pol\u00edtica del Estado espa\u00f1ol es:",
-            "respuestas": [
-                "a) Democracia parlamentaria.",
-                "b) Gobierno parlamentario.",
-                "c) Monarqu\u00eda parlamentaria.",
-                "d) Rep\u00fablica democr\u00e1tica."
-            ],
-            "verdadera": 3
-        },
-        {
             "enunciado": "La parte de la CE que regula la estructura de los principales \u00f3rganos del Estado recibe el nombre de:",
             "respuestas": [
                 "a) Parte dogm\u00e1tica.",
@@ -489,16 +479,6 @@
                 "d) Sus \u00f3rganos asamblearios."
             ],
             "verdadera": 3
-        },
-        {
-            "enunciado": "\u00bfDe cu\u00e1ntos Cap\u00edtulos consta el T\u00edtulo I de la CE de 1978?",
-            "respuestas": [
-                "a) De tres.",
-                "b) De cinco.",
-                "c) De dos.",
-                "d) De cuatro."
-            ],
-            "verdadera": 2
         }
     ]
 }

@@ -17,28 +17,28 @@
             "numero_preguntas": 80	    
         },
         {
-            "nombre_categoria": "Simulacro Leyes",
-            "numero_preguntas": 50	    
+            "nombre_categoria": "Temario Leyes",
+            "numero_preguntas": 300	    
         },
         {
             "nombre_categoria": "Tema 1",
-            "numero_preguntas": 30	    
+            "numero_preguntas": 48
         },
         {
             "nombre_categoria": "Tema 2",
-            "numero_preguntas": 30	    
+            "numero_preguntas": 43	    
         },
         {
             "nombre_categoria": "Tema 3",
-            "numero_preguntas": 30	    
+            "numero_preguntas": 44	    
         },
         {
             "nombre_categoria": "Tema 4",
-            "numero_preguntas": 30	    
+            "numero_preguntas": 41	    
         },
         {
             "nombre_categoria": "Tema 5",
-            "numero_preguntas": 30	    
+            "numero_preguntas": 73
         },
         {
             "nombre_categoria": "Simulacro Especifico",
