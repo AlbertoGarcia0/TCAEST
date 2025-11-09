@@ -1,8 +1,12 @@
 {
     "categorias": [
         {
+            "nombre_categoria": "Todo",
+            "numero_preguntas": 540	    
+        },
+        {
             "nombre_categoria": "Simulacro Todo",
-            "numero_preguntas": 49	    
+            "numero_preguntas": 240	    
         },
         {
             "nombre_categoria": "Simulacro 1",
@@ -41,7 +45,7 @@
             "numero_preguntas": 73
         },
         {
-            "nombre_categoria": "Simulacro Especifico",
+            "nombre_categoria": "Temario Especifico",
             "numero_preguntas": 49	    
         },
         {
