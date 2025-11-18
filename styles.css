@@ -141,3 +141,16 @@ li {
 }
 
 /* Add more styles as needed */
+
+/* Center and size the cat GIF */
+#catGifContainer {
+    text-align: center; /* centers inline images */
+}
+
+#catGif {
+    display: inline-block; /* keep it inline so parent text-align centers it */
+    width: 480px; /* doble tamaño (antes 240px) */
+    max-width: 100%; /* responsive: no desborde en pantallas pequeñas */
+    height: auto;
+    margin-top: 10px;
+}

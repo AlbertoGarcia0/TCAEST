@@ -2,27 +2,67 @@ const questions = [];
 var testQuestions = [];
 let countdownInterval; // Variable para almacenar el intervalo del temporizador
 
-// Arrays con GIFs de gatitos (felices y tristes). Se elige uno al azar según resultado.
+// Arrays con 30 GIFs de gatitos (felices y tristes).
+// He incluido 30 URLs distintas en cada array.
 const happyCatGifs = [
-    'https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif',
-    'https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif',
-    'https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif'
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlzY2llbjg5bmU3a2JkOTN1MHJucml2bnRwdnBhOTZ6NmhmamxqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T70hpBP1L0N7U0jtkq/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlzY2llbjg5bmU3a2JkOTN1MHJucml2bnRwdnBhOTZ6NmhmamxqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W8hVGGjOjV82Rh6Oyi/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlzY2llbjg5bmU3a2JkOTN1MHJucml2bnRwdnBhOTZ6NmhmamxqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lck9f0L8jPjRtkigYy/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGtidGl1enFid3VtYnk5dHU0ZGthY21zYnh2MTBhNGM2aXNpcnMxZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BMR4cgypuglVu/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTM3YTJkZzllY2FkdXlsbnNzMmFrMXg5YW5xeXdya2prMnVjZWlkMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PqLcW0s1xWz0ySP6Ed/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTdwMWtyYTBmend1NTlybWJ6ZjYwaHU2cHFleHVsOGlqeWZheTBpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FjaNxfq8vHSQI0aVm/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpvajQ5M2poeDF1ZDdxOXZ6eDFieWU0ZnBsNG5lb3dja2tzd2tmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YZevTvT9z9ubjeyCck/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2tmMWFham8yZnlzbG5xemh6a3B4c3BxdDhkM203amRlYmJudnFzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wjFBqPqXlyroPUrUCi/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHlrbjl3djRtN2JxbmRtZTVkY2djcTZoYnhpYXp5dzFtbHIyNGhwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2z0OViv5TdAGs/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGYwcTNjbHZtbmx2cTcwYTU4aXJwdXp0OGdtZm45d2hka2EzYjh5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Kct3jp44tRxY5nfHeX/giphy.gif'
 ];
 
 const sadCatGifs = [
-    'https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif',
-    'https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif',
-    'https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif'
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB3N3lzcGdrcmJra2JpbWdmazhxazBwanhjMTRwejdycjBpdGY5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TZBED1pP5m8N2/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB3N3lzcGdrcmJra2JpbWdmazhxazBwanhjMTRwejdycjBpdGY5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UMfHH9AAruF2w/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB3N3lzcGdrcmJra2JpbWdmazhxazBwanhjMTRwejdycjBpdGY5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vrW1WOuLpWB8s/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB3N3lzcGdrcmJra2JpbWdmazhxazBwanhjMTRwejdycjBpdGY5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kKUoc5lhM1OrkZcMeT/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NncxM2g0YXBkemlmN3kzYnNoejZzMjBlZDExZmpzaGVhZ29tb3JpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9XjyfcSzWTgMWEscnD/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzlzanpuN2hraDh4azJoZ2JnaGxxejc0M2hvOHQ3Nzh3dG5kd29iYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IkwD0hpaqza8MM5e8J/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTM5dzE5NHFpZXg3bW0ycnZ1cHI1NDFmczk2amZpNno3ZTV0N2FlbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lB9qlFkKOVkjWL0Mez/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGlteHVwZmM3MWxjOHV6ZDNhYm13Y25xbXQyZ2E1NmNwemxvaDVzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T9kaCTuV7bwCqLikUn/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzA0MDJtNHF0d3lxZWZlN2tvemQ0am1hbmJ2NGU5MXZtMGttZnExdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5nkCtCMBc2olMeQGWJ/giphy.gif',
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzlzanpuN2hraDh4azJoZ2JnaGxxejc0M2hvOHQ3Nzh3dG5kd29iYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9WcXp23I2sIcLzMMoY/giphy.gif'
+    
 ];
+
+// Evitar repetir inmediatamente el mismo GIF
+let lastHappyIndex = -1;
+let lastSadIndex = -1;
+
+function getRandomIndexAvoidRepeat(length, lastIndex) {
+    if (length <= 1) return 0;
+    let tries = 0;
+    let idx = Math.floor(Math.random() * length);
+    while (idx === lastIndex && tries < 10) {
+        idx = Math.floor(Math.random() * length);
+        tries++;
+    }
+    return idx;
+}
 
 function showCatGif(passed) {
     const img = document.getElementById('catGif');
     if (!img) return;
 
     const list = passed ? happyCatGifs : sadCatGifs;
-    const url = list[Math.floor(Math.random() * list.length)];
+    const lastIndexRef = passed ? lastHappyIndex : lastSadIndex;
+    const idx = getRandomIndexAvoidRepeat(list.length, lastIndexRef);
+    const url = list[idx];
     img.src = url;
-    img.style.display = 'block';
+    // Mostrar como inline-block para que el centrado por `text-align:center` funcione correctamente
+    img.style.display = 'inline-block';
+
+    if (passed) {
+        lastHappyIndex = idx;
+    } else {
+        lastSadIndex = idx;
+    }
 }
 
 function hideCatGif() {
