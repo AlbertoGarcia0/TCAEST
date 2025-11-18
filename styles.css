@@ -154,3 +154,8 @@ li {
     height: auto;
     margin-top: 10px;
 }
+
+/* Oculta el elemento si no tiene `src` (evita mostrar el texto alternativo "Cat GIF" al iniciar) */
+#catGif[src=""] {
+    display: none;
+}
