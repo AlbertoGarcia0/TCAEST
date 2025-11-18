@@ -428,11 +428,19 @@ function getResults() {
     // Detener el temporizador antes de mostrar los resultados
     stopTimer();
     const results = document.getElementById("results");
-    results.innerHTML = generateResults();
+    // Calcular la puntuación primero
+    const puntuacion = calcularPuntuacion();
+    try {
+        // Intentar generar el HTML completo de resultados
+        results.innerHTML = generateResults();
+    } catch (err) {
+        // Si hay un error al generar la tabla detallada, mostrar al menos la puntuación
+        console.error('Error generando resultados detallados:', err);
+        results.innerHTML = `\n            <h2>Resultados</h2>\n            <p>Puntuación: ${puntuacion}</p>\n            <p>No se pudieron generar los detalles del test.</p>\n        `;
+    }
     results.classList.remove("hidden");
 
     // Mostrar GIF de gatito según si está aprobado (>=5) o suspendido (<5)
-    const puntuacion = calcularPuntuacion();
     const aprobado = puntuacion >= 5;
     showCatGif(aprobado);
 
