@@ -190,8 +190,11 @@ async function startTest() {
         localStorage.setItem("testStartTime", testStartTime);
         // Ocultar los resultados y el botón de mostrar resultados
         document.getElementById("mostrarResultadosButton").style.display = "none";
-        document.getElementById("resultadosContainer").style.display = "none";
-        resultadosContainer.innerHTML = "";
+        const resultadosContainer = document.getElementById("resultadosContainer");
+        if (resultadosContainer) {
+            resultadosContainer.style.display = "none";
+            resultadosContainer.innerHTML = "";
+        }
 
         // Iniciar el temporizador
         countdownInterval = setInterval(function () {
@@ -520,8 +523,11 @@ function finishTest() {
     document.getElementById("finishTestBtn").style.display = "none";
     document.getElementById("startTestBtn").style.display = "inline";
     document.getElementById("mostrarResultadosButton").style.display = "inline";
-    document.getElementById("resultadosContainer").style.display = "inline";
-resultadosContainer.innerHTML = "";
+    const resultadosContainer = document.getElementById("resultadosContainer");
+    if (resultadosContainer) {
+        resultadosContainer.style.display = "inline";
+        resultadosContainer.innerHTML = "";
+    }
 
 }
 
