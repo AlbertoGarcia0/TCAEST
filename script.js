@@ -2,6 +2,36 @@ const questions = [];
 var testQuestions = [];
 let countdownInterval; // Variable para almacenar el intervalo del temporizador
 
+// Arrays con GIFs de gatitos (felices y tristes). Se elige uno al azar según resultado.
+const happyCatGifs = [
+    'https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif',
+    'https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif',
+    'https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif'
+];
+
+const sadCatGifs = [
+    'https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif',
+    'https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif',
+    'https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif'
+];
+
+function showCatGif(passed) {
+    const img = document.getElementById('catGif');
+    if (!img) return;
+
+    const list = passed ? happyCatGifs : sadCatGifs;
+    const url = list[Math.floor(Math.random() * list.length)];
+    img.src = url;
+    img.style.display = 'block';
+}
+
+function hideCatGif() {
+    const img = document.getElementById('catGif');
+    if (!img) return;
+    img.style.display = 'none';
+    img.src = '';
+}
+
 
 // Función para cargar las opciones del selector de temas
 function loadThemes() {
@@ -357,6 +387,12 @@ function getResults() {
     const results = document.getElementById("results");
     results.innerHTML = generateResults();
     results.classList.remove("hidden");
+
+    // Mostrar GIF de gatito según si está aprobado (>=5) o suspendido (<5)
+    const puntuacion = calcularPuntuacion();
+    const aprobado = puntuacion >= 5;
+    showCatGif(aprobado);
+
     scrollToResults();
 }
 
@@ -420,6 +456,8 @@ function mostrarResultadosAlmacenados() {
 }
 
 function finishTest() {
+    // Ocultar el GIF del gatito al finalizar el test
+    hideCatGif();
     // Habilitar el selector de temas, el número de preguntas y el tiempo límite.
     document.getElementById("themeSelector").removeAttribute("disabled");
     document.getElementById("numQuestions").removeAttribute("disabled");
