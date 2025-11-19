@@ -1,434 +1,414 @@
 {
     "Preguntas": [
         {
-            "enunciado": "Se\u00f1ala cu\u00e1l de las siguientes es una de las funciones del Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha:",
+            "enunciado": "Seg\u00fan establece el art. 8 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco de los Servicios de Salud, es personal estatutario fijo:",
             "respuestas": [
-                "a) Controlar e inspeccionar las actividades del Sistema Sanitario de Castilla-La Mancha y su adecuaci\u00f3n al Plan de Salud.",
-                "b) Aprobar el reglamento de estructura y funcionamiento del Servicio de Salud de Castilla-La Mancha en los t\u00e9rminos marcados en la Ley de Ordenaci\u00f3n Sanitaria.",
-                "c) Autorizar, catalogar y, en su caso, acreditar los centros, servicios y actividades sanitarias, as\u00ed como el mantener los registros pertinentes.",
-                "d) Aprobar la delimitaci\u00f3n, dentro de las \u00c1reas de Salud, de las Zonas B\u00e1sicas de Salud y de cualquier otra ordenaci\u00f3n."
+                "a) El que, una vez superado el correspondiente proceso selectivo, obtiene un nombramiento para el desempe\u00f1o, con car\u00e1cter permanente, de las funciones que de tal nombramiento se deriven.",
+                "b) Todo el personal al servicio de los Servicios de Salud.",
+                "c) El personal que realice una prestaci\u00f3n de servicios determinados de naturaleza temporal, coyuntural o extraordinaria.",
+                "d) El personal en posesi\u00f3n de un contrato laboral indefinido."
             ],
-            "verdadera": 2
+            "verdadera": 1
         },
         {
-            "enunciado": "\u00bfCu\u00e1l es la definici\u00f3n de Sistema Nacional de Salud que establece la Ley General de Sanidad (Ley 14/1986, de 25 de abril)?",
+            "enunciado": "Conforme al art\u00edculo 9.1 del Estatuto Marco (en redacci\u00f3n dada por el Real Decreto-ley 12/2022, de 5 de julio, por el que se modifica la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud) los nombramientos del Personal Estatutario Temporal de los Servicios de Salud ser\u00e1n:",
             "respuestas": [
-                "a) Es el conjunto de los Servicios de Salud de las Comunidades Aut\u00f3nomas, coordinados en el Consejo Interterritorial del Sistema Nacional de Salud.",
-                "b) Es el conjunto de los Servicios de Salud dependientes del Instituto Nacional de la Salud y de los Servicios de Salud de las Comunidades Aut\u00f3nomas en los t\u00e9rminos establecidos en la Ley General de Sanidad.",
-                "c) Es el conjunto de los Servicios de Salud de la Administraci\u00f3n del Estado y de los Servicios de Salud de las Comunidades Aut\u00f3nomas en los t\u00e9rminos establecidos en la Ley General de Sanidad.",
-                "d) Es el conjunto de los servicios de Salud de las Comunidades Aut\u00f3nomas y de las Corporaciones Locales en los t\u00e9rminos establecidos en la Ley General de Sanidad."
+                "a) \u00danicamente de Personal Estatutario Sanitario.",
+                "b) Personal Estatutario Contratado.",
+                "c) De interinidad.",
+                "d) Como Personal Laboral."
             ],
             "verdadera": 3
         },
         {
-            "enunciado": "El objeto de la Ley General de Sanidad es:",
+            "enunciado": "En el supuesto de existencia de plaza vacante, son estatutarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con car\u00e1cter temporal para el desempe\u00f1o de funciones propias de estatutarios, cuando no sea posible su cobertura por personal estatutario fijo, durante un plazo m\u00e1ximo de:",
             "respuestas": [
-                "a) La reforma del sistema sanitario privado.",
-                "b) Las necesidades de mejora en los servicios prestados a los ciudadanos extranjeros.",
-                "c) La distribuci\u00f3n de competencias entre el Estado y las Comunidades Aut\u00f3nomas y las Corporaciones Locales.",
-                "d) Hacer efectivo el derecho a la protecci\u00f3n de la salud."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "Seg\u00fan dispone la Ley 14/1986, de 25 de abril, General de Sanidad, son titulares del derecho a la protecci\u00f3n de la salud y a la atenci\u00f3n sanitaria:",
-            "respuestas": [
-                "a) \u00danicamente los ciudadanos manchegos.",
-                "b) Todos los espa\u00f1oles.",
-                "c) Cualquier ciudadano.",
-                "d) Todos los espa\u00f1oles y los ciudadanos extranjeros que tengan establecida su residencia en Espa\u00f1a."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "Los medios y actuaciones del sistema sanitario estar\u00e1n orientados prioritariamente a:",
-            "respuestas": [
-                "a) La curaci\u00f3n y la rehabilitaci\u00f3n.",
-                "b) La promoci\u00f3n de la salud.",
-                "c) Atender los grupos de riesgos desde el punto de vista sanitario.",
-                "d) La promoci\u00f3n de la salud y la prevenci\u00f3n de las enfermedades."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "\u00bfC\u00f3mo se denominan -seg\u00fan lo dispuesto en la Ley General de Sanidad- las estructuras fundamentales del sistema sanitario en las Comunidades Aut\u00f3nomas, responsables de la gesti\u00f3n unitaria de los Centros y establecimientos de los Servicios de Salud de las Comunidades Aut\u00f3nomas?",
-            "respuestas": [
-                "a) Centros hospitalarios.",
-                "b) \u00c1reas de Salud.",
-                "c) Delegaciones Provinciales de Salud.",
-                "d) Centros de Salud."
+                "a) Dos a\u00f1os.",
+                "b) Tres a\u00f1os.",
+                "c) Cuatros a\u00f1os.",
+                "d) Seis a\u00f1os."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "\u00bfEn qu\u00e9 art\u00edculo de la Constituci\u00f3n de 1978 se reconoce el derecho a la protecci\u00f3n de la salud de todos los ciudadanos?",
+            "enunciado": "Podr\u00e1 concurrir a las pruebas selectivas, por el sistema de promoci\u00f3n interna, el personal estatutario fijo que se encuentre en servicio activo y con nombramiento como personal estatutario fijo, en la categor\u00eda de procedencia, durante al menos:",
             "respuestas": [
-                "a) En el art\u00edculo 23.",
-                "b) En el art\u00edculo 32.",
-                "c) En el art\u00edculo 34.",
-                "d) En el art\u00edculo 43."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "Las \u00c1reas de salud se distribuyen, de forma desconcentrada, en demarcaciones territoriales delimitadas, teniendo en cuenta factores de diversa \u00edndole, pero sobre todo, respondiendo a unas ideas principales, entre las que no figura:",
-            "respuestas": [
-                "a) Proximidad de los servicios a los usuarios.",
-                "b) Gesti\u00f3n descentralizada.",
-                "c) Gesti\u00f3n participativa.",
-                "d) Recursos econ\u00f3micos de la comunidad."
-            ],
-            "verdadera": 4
-        },
-        {
-            "enunciado": "\u00bfA qui\u00e9n corresponde elaborar el reglamento de composici\u00f3n y funcionamiento del Servicio de Salud de Castilla-La Mancha?",
-            "respuestas": [
-                "a) A la Consejer\u00eda competente en materia de sanidad.",
-                "b) Al Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha.",
-                "c) Al Ministerio competente en materia sanitaria.",
-                "d) Al Consejo Econ\u00f3mico y Social."
+                "a) 2 a\u00f1os.",
+                "b) 3 a\u00f1os.",
+                "c) 4 a\u00f1os.",
+                "d) 5 a\u00f1os."
             ],
             "verdadera": 1
         },
         {
-            "enunciado": "La ordenaci\u00f3n territorial de los Servicios de Salud ser\u00e1 competencia:",
+            "enunciado": "Quienes no acrediten, una vez superado el proceso selectivo, que re\u00fanen los requisitos y condiciones exigidos en la convocatoria:",
             "respuestas": [
-                "a) Del Estado.",
-                "b) De las Comunidades Aut\u00f3nomas.",
-                "c) De los Ayuntamientos.",
-                "d) De las Diputaciones Provinciales."
+                "a) No podr\u00e1n ser nombrados hasta que subsanen el defecto.",
+                "b) No podr\u00e1n ser nombrados, y quedar\u00e1n sin efecto sus actuaciones.",
+                "c) Podr\u00e1n ser nombrados de forma condicional.",
+                "d) Una vez superado el proceso selectivo, se entiende que re\u00fane los requisitos exigidos, salvo prueba en contrario."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "Se\u00f1ala la respuesta incorrecta respecto al Consejo de Direcci\u00f3n del \u00c1rea de Salud:",
+            "enunciado": "Seg\u00fan el Estatuto Marco, la selecci\u00f3n de personal estatutario fijo se efectuar\u00e1 con car\u00e1cter general a trav\u00e9s del sistema de:",
             "respuestas": [
-                "a) El Consejo de Direcci\u00f3n estar\u00e1 formado por la representaci\u00f3n de la Comunidad Aut\u00f3noma, que supondr\u00e1 el 50 por 100 de los miembros de aquel, y los representantes de las Corporaciones Locales, elegidos por quienes ostenten tal condici\u00f3n en el Consejo de Salud.",
-                "b) Al Consejo de Direcci\u00f3n del \u00c1rea de Salud corresponde formular las directrices en pol\u00edtica de salud y controlar la gesti\u00f3n del \u00c1rea, dentro de las normas y programas generales establecidos por la Administraci\u00f3n auton\u00f3mica.",
-                "c) Al Consejo de Direcci\u00f3n le corresponde el establecimiento de los criterios generales de coordinaci\u00f3n en el \u00c1rea de Salud.",
-                "d) Una de las funciones del Consejo de Direcci\u00f3n del \u00c1rea es la aprobaci\u00f3n del proyecto del Plan de Salud del \u00c1rea, dentro de las normas, directrices y programas generales establecidos por la Comunidad Aut\u00f3noma."
+                "a) Oposici\u00f3n.",
+                "b) Concurso-oposici\u00f3n.",
+                "c) Concurso.",
+                "d) Pruebas selectivas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El personal estatutario de los servicios de salud tiene el deber de:",
+            "respuestas": [
+                "a) Participar en la elaboraci\u00f3n de los convenios colectivos.",
+                "b) Realizar sus funciones fuera del horario y jornada habitual.",
+                "c) Realizar actividades sindicales.",
+                "d) Respetar la Constituci\u00f3n, el Estatuto de Autonom\u00eda correspondiente y el resto del ordenamiento jur\u00eddico."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco, siempre que la duraci\u00f3n de la jornada exceda de seis horas continuadas, deber\u00e1 establecerse un periodo de descanso durante la misma de al menos:",
+            "respuestas": [
+                "a) 10 minutos.",
+                "b) 15 minutos.",
+                "c) 20 minutos.",
+                "d) 30 minutos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El funcionario sancionado con la separaci\u00f3n del servicio no podr\u00e1 concurrir a las pruebas de selecci\u00f3n para la obtenci\u00f3n de la condici\u00f3n de personal estatutario fijo, ni prestar servicios como personal estatutario temporal, durante:",
+            "respuestas": [
+                "a) Los 6 a\u00f1os siguientes.",
+                "b) Los 5 a\u00f1os siguientes.",
+                "c) Los 10 a\u00f1os siguientes.",
+                "d) La separaci\u00f3n del servicio es definitiva."
             ],
             "verdadera": 1
         },
         {
-            "enunciado": "\u00bfQu\u00e9 t\u00edtulo de la Ley 14/1986, de 25 de abril, General de Sanidad, regula la estructura del sistema sanitario p\u00fablico?",
+            "enunciado": "Las sanciones disciplinarias firmes que se impongan al personal estatutario se anotar\u00e1n en su expediente personal. Las anotaciones por sanciones impuestas por faltas leves se cancelar\u00e1n de oficio, desde el cumplimiento de la sanci\u00f3n, a:",
             "respuestas": [
-                "a) El T\u00edtulo II.",
-                "b) El T\u00edtulo III.",
-                "c) El T\u00edtulo V.",
-                "d) El T\u00edtulo VI."
+                "a) Los 3 meses.",
+                "b) Los 6 meses.",
+                "c) El a\u00f1o.",
+                "d) Los 2 a\u00f1os."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "Se\u00f1ala cu\u00e1l de los siguientes no es uno de los factores a tener en cuenta a la hora de delimitar las \u00e1reas de salud:",
+            "enunciado": "Es una retribuci\u00f3n b\u00e1sica del personal estatutario:",
             "respuestas": [
-                "a) Factores socioecon\u00f3micos.",
-                "b) Factores religiosos.",
-                "c) Factores culturales.",
-                "d) Factores climatol\u00f3gicos."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "Como regla general, y sin perjuicio de las excepciones a que hubiera lugar, el \u00c1rea de Salud extender\u00e1 su acci\u00f3n a una poblaci\u00f3n:",
-            "respuestas": [
-                "a) No inferior a 50.000 habitantes ni superior a 150.000.",
-                "b) No inferior a 100.000 habitantes ni superior a 250.000.",
-                "c) No inferior a 200.000 habitantes ni superior a 250.000.",
-                "d) No inferior a 200.000 habitantes ni superior a 350.000."
+                "a) El complemento de destino.",
+                "b) El complemento de carrera.",
+                "c) Las pagas extraordinarias.",
+                "d) El complemento de productividad."
             ],
             "verdadera": 3
         },
         {
-            "enunciado": "Se\u00f1ala la respuesta incorrecta respecto a las \u00c1reas de Salud:",
+            "enunciado": "La especial dificultad t\u00e9cnica, dedicaci\u00f3n, responsabilidad, incompatibilidad, peligrosidad o penosidad de algunos puestos de trabajo del Personal Estatutario, se retribuye a trav\u00e9s del:",
             "respuestas": [
-                "a) Cada \u00c1rea de Salud estar\u00e1 vinculada o dispondr\u00e1, al menos, de un hospital general, con los servicios que aconseje la poblaci\u00f3n a asistir, la estructura de esta y los problemas de salud.",
-                "b) El hospital es el establecimiento encargado tanto del internamiento cl\u00ednico como de la asistencia especializada y complementaria que requiera su zona de influencia.",
-                "c) Las \u00c1reas de Salud se delimitar\u00e1n teniendo en cuenta factores geogr\u00e1ficos, socioecon\u00f3micos, demogr\u00e1ficos, laborales, epidemiol\u00f3gicos, culturales, climatol\u00f3gicos y de dotaci\u00f3n de v\u00edas y medios de comunicaci\u00f3n, as\u00ed como las instalaciones sanitarias del \u00c1rea.",
-                "d) En todo caso, cada provincia tendr\u00e1, como m\u00ednimo, dos \u00c1reas de Salud."
+                "a) Complemento de destino.",
+                "b) Complemento de atenci\u00f3n continuada.",
+                "c) Complemento espec\u00edfico.",
+                "d) Complemento de productividad."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan el art. 72.2 del Estatuto Marco, tendr\u00e1 la consideraci\u00f3n de falta muy grave:",
+            "respuestas": [
+                "a) Intervenir en un procedimiento administrativo cuando se d\u00e9 alguna de las causas de abstenci\u00f3n legalmente se\u00f1aladas.",
+                "b) Toda actuaci\u00f3n que suponga discriminaci\u00f3n por razones ideol\u00f3gicas, morales, pol\u00edticas, sindicales, de raza, lengua, g\u00e9nero, religi\u00f3n o circunstancias econ\u00f3micas, personales o sociales, tanto del personal como de los usuarios.",
+                "c) El incumplimiento injustificado de la jornada de trabajo que acumulado suponga m\u00e1s de 20 horas al mes.",
+                "d) La incorrecci\u00f3n con los superiores, compa\u00f1eros, subordinados o usuarios."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Para poder obtener la excedencia voluntaria por inter\u00e9s particular es necesario haber prestado servicios efectivos en cualquiera de las Administraciones P\u00fablicas durante:",
+            "respuestas": [
+                "a) Los cinco a\u00f1os inmediatamente anteriores.",
+                "b) Los cuatro a\u00f1os inmediatamente anteriores.",
+                "c) El a\u00f1o inmediatamente anterior.",
+                "d) No se exige periodo m\u00ednimo de prestaci\u00f3n efectiva de servicios."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En el r\u00e9gimen disciplinario del Estatuto Marco se reconoce a los interesados el derecho a:",
+            "respuestas": [
+                "a) Proponer el nombramiento del instructor.",
+                "b) Solicitar la excedencia voluntaria durante la tramitaci\u00f3n del expediente.",
+                "c) Formular Pliegos de cargos.",
+                "d) Formular alegaciones en cualquier fase del procedimiento."
             ],
             "verdadera": 4
         },
         {
-            "enunciado": "A tenor del art\u00edculo 57 de la Ley 14/1986, el \u00f3rgano de participaci\u00f3n de las \u00c1reas de Salud es:",
+            "enunciado": "Las Comunidades Aut\u00f3nomas, en el \u00e1mbito de sus competencias, determinar\u00e1n la limitaci\u00f3n m\u00e1xima de la jornada a tiempo parcial respecto a la jornada completa, con el l\u00edmite m\u00e1ximo del:",
             "respuestas": [
-                "a) El Consejo de Salud de \u00c1rea.",
-                "b) El Consejo de Direcci\u00f3n de \u00c1rea.",
-                "c) El Gerente de \u00c1rea.",
-                "d) El Comit\u00e9 de Participaci\u00f3n del \u00c1rea."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "Los Consejos de Salud de \u00c1rea est\u00e1n constituidos por:",
-            "respuestas": [
-                "a) Las organizaciones sindicales m\u00e1s representativas, en una proporci\u00f3n no inferior al 50%, a trav\u00e9s de los profesionales sanitarios titulados.",
-                "b) La Administraci\u00f3n Sanitaria del \u00c1rea de Salud.",
-                "c) La representaci\u00f3n de los ciudadanos a trav\u00e9s de las Corporaciones Locales comprendidas en su demarcaci\u00f3n, que supondr\u00e1 el 25% de sus miembros.",
-                "d) Todas las respuestas son correctas."
+                "a) El 80 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n.",
+                "b) El 75 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n.",
+                "c) El 70 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n.",
+                "d) El 50 % de la jornada ordinaria, en c\u00f3mputo anual, o del que proporcionalmente corresponda si se trata de nombramiento temporal de menor duraci\u00f3n."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "Una de las funciones del Consejo de Salud de \u00c1rea es:",
+            "enunciado": "El Estatuto Marco del personal estatutario considera a este personal como titular de una relaci\u00f3n:",
             "respuestas": [
-                "a) Proponer medidas a desarrollar en el \u00c1rea de Salud para estudiar los problemas sanitarios espec\u00edficos de la misma, as\u00ed como sus prioridades.",
-                "b) La aprobaci\u00f3n de las prioridades espec\u00edficas del \u00c1rea de Salud.",
-                "c) La propuesta de nombramiento y cese del gerente del \u00c1rea de Salud.",
-                "d) La aprobaci\u00f3n de la Memoria anual del \u00c1rea de salud."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "Se\u00f1ala la respuesta incorrecta respecto al Gerente del \u00c1rea de Salud:",
-            "respuestas": [
-                "a) Es el encargado de la ejecuci\u00f3n de las directrices establecidas por el Consejo de Direcci\u00f3n, de las propias del Plan de Salud del \u00c1rea y de las normas correspondientes a la Administraci\u00f3n auton\u00f3mica y del Estado.",
-                "b) Es el \u00f3rgano de gesti\u00f3n del \u00c1rea.",
-                "c) Puede, previa convocatoria, asistir con voz y voto, a las reuniones del Consejo de Direcci\u00f3n.",
-                "d) Es nombrado y cesado por la Direcci\u00f3n del Servicio de Salud de la Comunidad Aut\u00f3noma, a propuesta del Consejo de Direcci\u00f3n del \u00c1rea."
-            ],
-            "verdadera": 3
-        },
-        {
-            "enunciado": "\u00bfA qui\u00e9n corresponde la elaboraci\u00f3n del Plan de Salud de Castilla-La Mancha?",
-            "respuestas": [
-                "a) A la Consejer\u00eda competente en materia de sanidad.",
-                "b) Al Consejo de Gobierno de Castilla-La Mancha.",
-                "c) Al Ministerio competente en materia sanitaria.",
-                "d) Al Consejo Econ\u00f3mico y Social."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "Al regular la ordenaci\u00f3n funcional de los servicios sanitarios, la Ley de ordenaci\u00f3n sanitaria de CLM establece 5 estructuras operativas. Una de ellas es:",
-            "respuestas": [
-                "a) La salud laboral.",
-                "b) La atenci\u00f3n sociosanitaria.",
-                "c) La docencia e investigaci\u00f3n.",
-                "d) La formaci\u00f3n especializada."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "Seg\u00fan el art\u00edculo 79 de la LGS, la financiaci\u00f3n de la asistencia sanitaria prestada se realizar\u00e1 con cargo a:",
-            "respuestas": [
-                "a) Cotizaciones sociales.",
-                "b) Dep\u00f3sitos de las CCAA y de las Corporaciones Locales.",
-                "c) Correctas a y d.",
-                "d) Tributos municipales cedidos."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "\u00bfCu\u00e1ntas \u00e1reas de salud deben existir como m\u00ednimo por provincia?",
-            "respuestas": [
-                "a) 3.",
-                "b) 2.",
-                "c) 1.",
-                "d) 4."
-            ],
-            "verdadera": 3
-        },
-        {
-            "enunciado": "No es una caracter\u00edstica fundamental del SNS:",
-            "respuestas": [
-                "a) La extensi\u00f3n de sus servicios a toda la poblaci\u00f3n.",
-                "b) La coordinaci\u00f3n y, en su caso, la integraci\u00f3n de todos los recursos sanitarios p\u00fablicos en un dispositivo \u00fanico central.",
-                "c) La prestaci\u00f3n de una atenci\u00f3n integral de la salud procurando altos niveles de calidad debidamente evaluados y controlados.",
-                "d) Todas son correctas."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "La LGS establece que el personal podr\u00e1 ser cambiado de puesto:",
-            "respuestas": [
-                "a) Mediante acuerdo en expediente sancionador.",
-                "b) Por necesidades imperativas de la organizaci\u00f3n sanitaria.",
-                "c) Como consecuencia de la modificaci\u00f3n del \u00e1mbito de un \u00c1rea de Salud.",
-                "d) Por necesidades del servicio."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de CLM, es competencia de las Corporaciones locales de la CCAA:",
-            "respuestas": [
-                "a) El control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones.",
-                "b) Regular y controlar la publicidad sanitaria.",
-                "c) Ejercitar las competencias sancionadoras.",
-                "d) Aprobar el Plan de Salud de la correspondiente localidad."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "La elaboraci\u00f3n de informes de seguimiento del Plan de Salud de CLM tendr\u00e1 car\u00e1cter:",
-            "respuestas": [
-                "a) Mensual.",
-                "b) Semestral.",
-                "c) Anual.",
-                "d) Bienal."
-            ],
-            "verdadera": 3
-        },
-        {
-            "enunciado": "En 2021 est\u00e1 vigente el Plan de Salud de CLM del periodo:",
-            "respuestas": [
-                "a) 2019-2024.",
-                "b) 2019-2025.",
-                "c) 2020-2024.",
-                "d) 2020-2025."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "Seg\u00fan establece la Ley de ordenaci\u00f3n sanitaria de CLM, para la prestaci\u00f3n de servicios sanitarios a trav\u00e9s de medios ajenos al SNS, se podr\u00e1n establecer:",
-            "respuestas": [
-                "a) Acuerdos.",
-                "b) Consorcios de naturaleza p\u00fablica.",
-                "c) Conciertos y convenios singulares.",
-                "d) Convenios colectivos."
-            ],
-            "verdadera": 3
-        },
-        {
-            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de CLM, es competencia del Consejo de Gobierno de la Junta de CLM:",
-            "respuestas": [
-                "a) Ejercitar las competencias sancionadoras y de intervenci\u00f3n p\u00fablica para la protecci\u00f3n de la salud.",
-                "b) Controlar e inspeccionar las actividades del Sistema Sanitario de CLM y su adecuaci\u00f3n al Plan de Salud.",
-                "c) Autorizar la celebraci\u00f3n de convenios con otras AAPP para la prestaci\u00f3n de servicios sanitarios.",
-                "d) Regular y controlar la publicidad sanitaria."
-            ],
-            "verdadera": 3
-        },
-        {
-            "enunciado": "Conforme al T\u00edtulo VIII de la Ley de ordenaci\u00f3n sanitaria de CLM, es competencia de la Consejer\u00eda competente en materia de sanidad de la Junta de CLM:",
-            "respuestas": [
-                "a) Nombrar y cesar a las personas que integran el Consejo de Administraci\u00f3n del Servicio de Salud de CLM.",
-                "b) Aprobar y desarrollar la estructura b\u00e1sica del Sistema de informaci\u00f3n sanitaria de CLM.",
-                "c) Nombrar y cesar a la persona que ocupe la Direcci\u00f3n-Gerencia del SESCAM a propuesta del titular de la Consejer\u00eda de Sanidad.",
-                "d) Control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "Corresponde a la Consejer\u00eda competente en materia de sanidad de CLM:",
-            "respuestas": [
-                "a) Aprobar el proyecto de presupuestos del SESCAM.",
-                "b) Aprobar la delimitaci\u00f3n geogr\u00e1fica de las \u00e1reas de salud y los municipios que la integran.",
-                "c) Establecer las directrices y los criterios generales de la pol\u00edtica sanitaria en CLM.",
-                "d) Ejercitar las competencias sancionadoras y de intervenci\u00f3n p\u00fablica para la protecci\u00f3n de la salud."
+                "a) Funcionarial com\u00fan.",
+                "b) Laboral com\u00fan.",
+                "c) Estatutaria de la Seguridad Social.",
+                "d) Funcionarial especial."
             ],
             "verdadera": 4
         },
         {
-            "enunciado": "\u00bfA qui\u00e9n corresponde nombrar y cesar a la persona que ocupe la Direcci\u00f3n-Gerencia del SESCAM?",
+            "enunciado": "Cuando de un procedimiento de movilidad se derive cambio del servicio de salud de destino, el Estatuto Marco establece un plazo posesorio de:",
             "respuestas": [
-                "a) A la Consejer\u00eda competente en materia de sanidad.",
-                "b) Al Consejo de Gobierno de la Junta de CLM.",
-                "c) Al Ministerio competente en materia sanitaria.",
-                "d) Al Consejo Econ\u00f3mico y Social."
+                "a) Un mes.",
+                "b) Treinta d\u00edas.",
+                "c) Quince d\u00edas.",
+                "d) Diez d\u00edas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan el Estatuto Marco del personal estatutario, la situaci\u00f3n de excedencia voluntaria por inter\u00e9s particular obliga a un periodo m\u00ednimo de permanencia en ella de:",
+            "respuestas": [
+                "a) Un a\u00f1o.",
+                "b) Dos a\u00f1os.",
+                "c) Doce meses.",
+                "d) No establece periodo m\u00ednimo."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "El SESCAM tiene, entre otras, la siguiente funci\u00f3n:",
+            "enunciado": "De acuerdo con el r\u00e9gimen disciplinario del personal estatutario, se considera muy grave:",
             "respuestas": [
-                "a) Conocer e informar el Plan de Salud de CLM previamente a su aprobaci\u00f3n, as\u00ed como conocer sus revisiones, adaptaciones y el estado de ejecuci\u00f3n.",
-                "b) Garantizar la cobertura universal y el acceso a las prestaciones de atenci\u00f3n a la salud en condiciones de igualdad y equidad.",
-                "c) Velar para que las actuaciones de todos los servicios, centros y establecimientos sanitarios satisfagan las necesidades del sistema sanitario, se acomoden a la normativa sanitaria y se desarrollen de acuerdo con las necesidades sociales y las posibilidades econ\u00f3micas del sector p\u00fablico.",
-                "d) La ejecuci\u00f3n y gesti\u00f3n de las prestaciones sanitarias, que le sean asignadas, mediante las actuaciones de promoci\u00f3n de la salud, prevenci\u00f3n de la enfermedad, asistencia sanitaria y rehabilitaci\u00f3n."
+                "a) El abandono del servicio.",
+                "b) El abuso de autoridad en el ejercicio de sus funciones.",
+                "c) Falta de obediencia debida a los superiores.",
+                "d) La incorrecci\u00f3n con los superiores, compa\u00f1eros, subordinados o usuarios."
             ],
-            "verdadera": 4
+            "verdadera": 1
         },
         {
-            "enunciado": "Seg\u00fan la LGS, el \u00f3rgano colegiado de participaci\u00f3n comunitaria para la consulta y seguimiento de la gesti\u00f3n en el \u00e1rea de salud es:",
+            "enunciado": "La acci\u00f3n preventiva en la empresa:",
             "respuestas": [
-                "a) El Consejo de Direcci\u00f3n.",
-                "b) El Consejo de Salud.",
-                "c) El Gerente del \u00c1rea.",
-                "d) El Consejo del \u00c1rea."
-            ],
-            "verdadera": 2
-        },
-        {
-            "enunciado": "No forman parte de la red hospitalaria p\u00fablica de CLM:",
-            "respuestas": [
-                "a) Los centros hospitalarios integrados.",
-                "b) Los centros especializados de diagn\u00f3stico y tratamiento integrados.",
-                "c) Los centros hospitalarios no integrados con concierto para la realizaci\u00f3n de pruebas diagn\u00f3sticas.",
-                "d) Los centros hospitalarios no integrados vinculados mediante convenio singular."
+                "a) Se planificar\u00e1 por el Comit\u00e9 de Seguridad y Salud a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "b) Se planificar\u00e1 por los Delegados de Prevenci\u00f3n a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "c) Se planificar\u00e1 por el empresario a partir de una evaluaci\u00f3n inicial de riesgos.",
+                "d) Se planificar\u00e1 por los Delegados de Personal a partir de una evaluaci\u00f3n inicial de riesgos."
             ],
             "verdadera": 3
         },
         {
-            "enunciado": "Conforme a lo que dispone la Ley de ordenaci\u00f3n sanitaria de CLM, la representaci\u00f3n legal del SESCAM recae en:",
+            "enunciado": "\u00bfQu\u00e9 cap\u00edtulo de la Ley 31/1995, de Prevenci\u00f3n de Riesgos Laborales se refiere a los derechos y obligaciones?",
             "respuestas": [
-                "a) La persona titular de la Consejer\u00eda competente en materia de sanidad.",
-                "b) La persona que ocupa la Direcci\u00f3n-Gerencia del SESCAM.",
-                "c) Los letrados de Administraci\u00f3n sanitaria de la Junta de CLM.",
-                "d) El cuerpo de Letrados de la Junta de CLM."
+                "a) Cap\u00edtulo 2.",
+                "b) Cap\u00edtulo 3.",
+                "c) Cap\u00edtulo 4.",
+                "d) Cap\u00edtulo 5."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "Seg\u00fan la LGS, el servicio de salud que se ha de constituir en cada CCAA, se gestiona bajo la responsabilidad de:",
+            "enunciado": "\u00bfPueden los trabajadores efectuar propuestas al empresario y a los \u00f3rganos de participaci\u00f3n para mejorar los niveles de protecci\u00f3n de la seguridad y salud en la empresa?",
             "respuestas": [
-                "a) La Administraci\u00f3n del Estado.",
-                "b) La Consejer\u00eda de Salud.",
-                "c) La CCAA.",
-                "d) El Consejo Interterritorial del SNS."
+                "a) No.",
+                "b) S\u00ed.",
+                "c) Seg\u00fan el tama\u00f1o de la empresa.",
+                "d) Seg\u00fan el n\u00famero de trabajadores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "En relaci\u00f3n con las incompatibilidades del personal estatutario, no es cierto que:",
+            "respuestas": [
+                "a) Ser\u00e1 compatible el disfrute de becas y ayudas de ampliaci\u00f3n de estudios concedidas en r\u00e9gimen de concurrencia competitiva al amparo de programas oficiales de formaci\u00f3n y perfeccionamiento del personal, siempre que para participar en tales acciones se requiera la previa propuesta favorable del Servicio de Salud en el que se est\u00e9 destinado y que las bases de la convocatoria no establezcan lo contrario.",
+                "b) La percepci\u00f3n de pensi\u00f3n de jubilaci\u00f3n por un r\u00e9gimen p\u00fablico de Seguridad Social ser\u00e1 incompatible con la situaci\u00f3n del personal em\u00e9rito.",
+                "c) Las retribuciones del personal em\u00e9rito, sumadas a su pensi\u00f3n de jubilaci\u00f3n, no podr\u00e1n superar las retribuciones que el interesado percib\u00eda antes de su jubilaci\u00f3n, consideradas, todas ellas, en c\u00f3mputo anual.",
+                "d) La percepci\u00f3n de pensi\u00f3n de jubilaci\u00f3n parcial ser\u00e1 compatible con las retribuciones derivadas de una actividad a tiempo parcial."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfDebe el trabajador prestar su consentimiento para que le realicen vigilancia de la salud?",
+            "respuestas": [
+                "a) No.",
+                "b) S\u00ed.",
+                "c) Depende del n\u00famero de trabajadores de la empresa.",
+                "d) Esta prestaci\u00f3n es solo para personal fijo en la empresa."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los miembros de los \u00f3rganos de selecci\u00f3n deber\u00e1n:",
+            "respuestas": [
+                "a) Ostentar la condici\u00f3n de personal estatutario fijo.",
+                "b) Ostentar la condici\u00f3n de personal estatutario o laboral.",
+                "c) Ostentar la condici\u00f3n de funcionario de carrera o estatutario fijo de las Administraciones P\u00fablicas o laboral de los centros vinculados al Sistema Nacional de Salud.",
+                "d) Ostentar la condici\u00f3n de personal funcionario, estatutario o laboral del Sistema Nacional de Salud."
             ],
             "verdadera": 3
         },
         {
-            "enunciado": "La prestaci\u00f3n de una atenci\u00f3n integral de la salud con altos niveles de calidad debidamente evaluados y controlados es:",
+            "enunciado": "El derecho b\u00e1sico reconocido a los trabajadores por la Ley 31/1995, de 8 de noviembre, es:",
             "respuestas": [
-                "a) Una aspiraci\u00f3n del sistema sanitario p\u00fablico.",
-                "b) Una caracter\u00edstica del SNS, seg\u00fan la LGS.",
-                "c) Un objetivo propio de las entidades sanitarias privadas.",
-                "d) Una actuaci\u00f3n de la asistencia sanitaria especializada."
+                "a) La vigilancia de su estado de salud.",
+                "b) Una protecci\u00f3n eficaz en materia de seguridad y salud en el trabajo.",
+                "c) La formaci\u00f3n en materia preventiva.",
+                "d) La informaci\u00f3n, consulta y participaci\u00f3n."
             ],
             "verdadera": 2
         },
         {
-            "enunciado": "\u00bfEn cu\u00e1ntos niveles organizativos se divide el sistema sanitario espa\u00f1ol?",
+            "enunciado": "El incumplimiento del plazo m\u00e1ximo de permanencia dar\u00e1 lugar a una compensaci\u00f3n econ\u00f3mica para el personal estatutario temporal afectado, que ser\u00e1 equivalente a:",
             "respuestas": [
-                "a) 3: central, auton\u00f3mico y \u00e1reas de salud.",
-                "b) 2: central y auton\u00f3mico.",
-                "c) Central, del que derivan el auton\u00f3mico y local.",
-                "d) \u00danicamente central."
+                "a) Veinte d\u00edas de sus retribuciones fijas por a\u00f1o de servicio.",
+                "b) Veinte d\u00edas de su sueldo, m\u00e1s trienios y complemento de destino por a\u00f1o de servicio.",
+                "c) Veinte d\u00edas de todas sus retribuciones por a\u00f1o de servicio.",
+                "d) Veinte d\u00edas de su sueldo por a\u00f1o de servicio."
             ],
             "verdadera": 1
         },
         {
-            "enunciado": "\u00bfCu\u00e1l es la naturaleza jur\u00eddica del SESCAM?",
+            "enunciado": "Seg\u00fan el Estatuto Marco del personal estatutario de los servicios de salud, NO es causa de extinci\u00f3n de la condici\u00f3n de personal estatutario fijo:",
             "respuestas": [
-                "a) Organismo aut\u00f3nomo.",
-                "b) Agencia administrativa.",
-                "c) Agencia p\u00fablica sanitaria.",
-                "d) Empresa p\u00fablica sanitaria."
+                "a) La renuncia.",
+                "b) La jubilaci\u00f3n.",
+                "c) La incapacidad temporal.",
+                "d) La p\u00e9rdida de nacionalidad tomada en consideraci\u00f3n para el nombramiento."
             ],
-            "verdadera": 1
+            "verdadera": 3
         },
         {
-            "enunciado": "Para la delimitaci\u00f3n de las ZBS no deber\u00e1 tenerse en cuenta:",
+            "enunciado": "No es un principio b\u00e1sico de la provisi\u00f3n de plazas del personal estatutario:",
             "respuestas": [
-                "a) El grado de concentraci\u00f3n o dispersi\u00f3n de la poblaci\u00f3n.",
-                "b) Las caracter\u00edsticas epidemiol\u00f3gicas de la zona.",
-                "c) Las instalaciones y recursos sanitarios de la zona.",
-                "d) Las distancias m\u00ednimas de las agrupaciones de poblaci\u00f3n m\u00e1s cercanas de los servicios y el tiempo normal a invertir en su recorrido usando los medios ordinarios."
+                "a) Igualdad, m\u00e9rito, capacidad y publicidad en la selecci\u00f3n, promoci\u00f3n y movilidad del personal de los servicios de salud.",
+                "b) Movilidad del personal en el conjunto de las Administraciones P\u00fablicas.",
+                "c) Coordinaci\u00f3n, cooperaci\u00f3n y mutua informaci\u00f3n entre las Administraciones sanitarias p\u00fablicas.",
+                "d) Integraci\u00f3n en el r\u00e9gimen organizativo y funcional del servicio de salud y de sus instituciones y centros."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan establece el art. 4 de la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales, se define como da\u00f1os derivados del trabajo:",
+            "respuestas": [
+                "a) La posibilidad de que un trabajador sufra un determinado da\u00f1o derivado del trabajo.",
+                "b) El que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un da\u00f1o grave para la salud de los trabajadores.",
+                "c) Las enfermedades, patolog\u00edas o lesiones sufridas con motivo u ocasi\u00f3n del trabajo.",
+                "d) Cualquier m\u00e1quina, aparato, instrumento o instalaci\u00f3n utilizada en el trabajo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El \u00f3rgano paritario y colegiado de participaci\u00f3n destinado a la consulta regular y peri\u00f3dica de las actuaciones de la empresa en materia de prevenci\u00f3n de riesgos, es:",
+            "respuestas": [
+                "a) El Comit\u00e9 de Empresa.",
+                "b) El Consejo de Vigilancia de la Prevenci\u00f3n.",
+                "c) La Comisi\u00f3n de Evaluaci\u00f3n de Riesgos Laborales.",
+                "d) El Comit\u00e9 de Seguridad y Salud."
             ],
             "verdadera": 4
         },
         {
-            "enunciado": "La representaci\u00f3n de los ciudadanos en los Consejos de Salud del \u00c1rea se articula (LGS):",
+            "enunciado": "\u00bfCu\u00e1ntos delegados de prevenci\u00f3n se deber\u00e1n elegir en empresas entre 3001 y 4000 trabajadores?",
             "respuestas": [
-                "a) A trav\u00e9s de las Corporaciones Locales.",
-                "b) Directamente.",
-                "c) Por medio de elecciones al Consejo.",
-                "d) A trav\u00e9s de la Administraci\u00f3n Sanitaria del \u00c1rea."
+                "a) 5.",
+                "b) 6.",
+                "c) 7.",
+                "d) 8."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Cuando los trabajadores est\u00e9n expuestos a un riesgo grave e inminente con ocasi\u00f3n de su trabajo, y el empresario no adopte o no permita la adopci\u00f3n de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores, la Ley 31/1995, de 8 de noviembre, de Prevenci\u00f3n de Riesgos Laborales prev\u00e9:",
+            "respuestas": [
+                "a) Los trabajadores afectados podr\u00e1n paralizar la actividad.",
+                "b) El \u00f3rgano de representaci\u00f3n del personal instar\u00e1 formalmente al empresario a la adopci\u00f3n de las medidas necesarias.",
+                "c) Los Delegados de Prevenci\u00f3n lo comunicar\u00e1n a la autoridad laboral, que adoptar\u00e1 las medidas necesarias.",
+                "d) El \u00f3rgano de representaci\u00f3n de personal podr\u00e1 acordar la paralizaci\u00f3n de la actividad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Entre las obligaciones de los trabajadores recogidas por la Ley de Prevenci\u00f3n de Riesgos Laborales, no figura:",
+            "respuestas": [
+                "a) Informar directamente al empresario de cualquier situaci\u00f3n que entra\u00f1e riesgo para la seguridad o salud de los trabajadores.",
+                "b) Contribuir al cumplimiento de las obligaciones establecidas por la autoridad competente con el fin de proteger la seguridad y la salud de los trabajadores en el trabajo.",
+                "c) Cooperar con el empresario para que este pueda garantizar unas condiciones de trabajo que sean seguras y no entra\u00f1en riesgos para la seguridad y la salud de los trabajadores.",
+                "d) Utilizar correctamente los medios y equipos de protecci\u00f3n facilitados por el empresario, de acuerdo con las instrucciones recibidas de este."
             ],
             "verdadera": 1
+        },
+        {
+            "enunciado": "El t\u00edtulo del cap\u00edtulo II de la Ley 31/1995 Prevenci\u00f3n de Riesgos Laborales, corresponde a:",
+            "respuestas": [
+                "a) Derechos y obligaciones.",
+                "b) Servicios de Prevenci\u00f3n.",
+                "c) Pol\u00edtica en materia de prevenci\u00f3n de riesgos para proteger la seguridad y la salud en el trabajo.",
+                "d) Responsabilidad y sanciones."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n debe garantizar a los trabajadores la vigilancia peri\u00f3dica de su estado de salud en funci\u00f3n de los riesgos inherentes al trabajo?",
+            "respuestas": [
+                "a) La Inspecci\u00f3n de Trabajo.",
+                "b) El propio trabajador.",
+                "c) El empresario.",
+                "d) Las secciones sindicales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El posible cambio de puesto de trabajo con riesgo para una trabajadora embarazada:",
+            "respuestas": [
+                "a) Deber\u00e1 realizarse en caso de imposibilidad de adaptaci\u00f3n del propio puesto.",
+                "b) Se har\u00e1 previo informe en tal sentido del Servicio de Prevenci\u00f3n.",
+                "c) Se determinar\u00e1 por el empresario, y dar\u00e1 informaci\u00f3n a los representantes de los trabajadores.",
+                "d) Se extender\u00e1 al per\u00edodo de lactancia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El art. 29 de la LPRL establece las obligaciones de los trabajadores en materia de prevenci\u00f3n de riesgos. De las siguientes no se considera una obligaci\u00f3n del trabajador:",
+            "respuestas": [
+                "a) Utilizar correctamente los medios y equipos de protecci\u00f3n facilitados por el empresario, de acuerdo con las instrucciones recibidas de este.",
+                "b) Usar adecuadamente, de acuerdo con su naturaleza y los riesgos previsibles, las m\u00e1quinas, aparatos, herramientas, sustancias peligrosas, equipos de transporte y, en general, cualesquiera otros medios con los que desarrollen su actividad.",
+                "c) Informar de inmediato a su superior jer\u00e1rquico directo, y a los trabajadores designados para realizar las actualizaciones que consideren oportunas en el equipo de protecci\u00f3n individual.",
+                "d) No poner fuera de funcionamiento y utilizar correctamente los dispositivos de seguridad existentes o que se instalen en los medios relacionados con su actividad o en los lugares de trabajo en los que esta tenga lugar."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Los representantes de los trabajadores con competencia en materia de prevenci\u00f3n de riesgos laborales son:",
+            "respuestas": [
+                "a) Los miembros de la Junta de personal, Junta Facultativo y Junta de Enfermer\u00eda.",
+                "b) Los t\u00e9cnicos de prevenci\u00f3n de riesgos laborales.",
+                "c) El Servicio de Medicina Preventiva.",
+                "d) Los delegados de prevenci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El incumplimiento por los trabajadores de las obligaciones en materia de prevenci\u00f3n de riesgos:",
+            "respuestas": [
+                "a) Dar\u00e1 lugar a su despido inmediato de la empresa o a la p\u00e9rdida de la condici\u00f3n de funcionario p\u00fablico.",
+                "b) No lleva aparejada ninguna consecuencia si no se producen resultados perjudiciales.",
+                "c) Tendr\u00e1 la consideraci\u00f3n de incumplimiento laboral a los efectos previstos en el art\u00edculo 58.1 del Estatuto de los Trabajadores o de falta, en su caso, seg\u00fan la normativa sobre r\u00e9gimen disciplinario de los funcionarios p\u00fablicos o del personal estatutario al servicio de las Administraciones P\u00fablicas.",
+                "d) Llevar\u00e1 consigo la obligaci\u00f3n de indemnizar al empresario en la cuant\u00eda que este pacte con los representantes legales de los trabajadores."
+            ],
+            "verdadera": 3
         }
     ]
 }

@@ -41,12 +41,12 @@
             "verdadera": 4
         },
         {
-            "enunciado": "\u00bfQui\u00e9n aprob\u00f3 el Plan Dignifica en Castilla- La Mancha?",
+            "enunciado": "\u00bfQui\u00e9n aprob\u00f3 el Plan Dignifica en Castilla-La Mancha?",
             "respuestas": [
                 "a) Consejo de Gobierno de Castilla-La Mancha.",
                 "b) Gerente del SESCAM.",
                 "c) Consejer\u00eda de Salud.",
-                "d) Cortes de Castilla La Mancha."
+                "d) Cortes de Castilla-La Mancha."
             ],
             "verdadera": 1
         },
@@ -61,7 +61,7 @@
             "verdadera": 3
         },
         {
-            "enunciado": "\u00bfQui\u00e9nes participan en el funcionamiento de las Redes de Expertos y Profesionales de Castilla La Mancha?",
+            "enunciado": "\u00bfQui\u00e9nes participan en el funcionamiento de las Redes de Expertos y Profesionales de Castilla-La Mancha?",
             "respuestas": [
                 "a) Profesionales sanitarios de los hospitales.",
                 "b) Profesionales sanitarios de los centros de salud y pacientes.",
@@ -93,7 +93,7 @@
         {
             "enunciado": "Qui\u00e9n elabora la memoria anual del Plan Operativo de la gerencia:",
             "respuestas": [
-                "a) La personal titular de la Direcci\u00f3n General competente en materia de humanizaci\u00f3n de la asistencia sanitaria.",
+                "a) La persona titular de la Direcci\u00f3n General competente en materia de humanizaci\u00f3n de la asistencia sanitaria.",
                 "b) La persona titular de la gerencia correspondiente.",
                 "c) El Responsable Regional de Humanizaci\u00f3n.",
                 "d) El Responsable de Humanizaci\u00f3n."
@@ -124,7 +124,7 @@
             "enunciado": "\u00bfQu\u00e9 puede ocasionar en el sistema sanitario una mayor capacidad de complicaciones, de errores y de posibles da\u00f1os?",
             "respuestas": [
                 "a) La complejidad de la moderna pr\u00e1ctica cl\u00ednico-asistencial.",
-                "b) El gran desarrollo cient\u00edfico y tecnol\u00f3gico ocurrido a lo largo del pasado siglo",
+                "b) El gran desarrollo cient\u00edfico y tecnol\u00f3gico ocurrido a lo largo del pasado siglo.",
                 "c) La mayor capacidad de resoluci\u00f3n de problemas con los medios actuales.",
                 "d) Todo lo anterior ha influido a pesar de la mayor capacidad de resoluci\u00f3n de problemas."
             ],
@@ -141,7 +141,7 @@
             "verdadera": 3
         },
         {
-            "enunciado": "\u00bfCu\u00e1ntas Redes de Expertos y Profesionales funcionan en de Castilla La Mancha desde 2015?",
+            "enunciado": "\u00bfCu\u00e1ntas Redes de Expertos y Profesionales funcionan en Castilla-La Mancha desde 2015?",
             "respuestas": [
                 "a) 1.",
                 "b) 5.",
@@ -161,9 +161,9 @@
             "verdadera": 4
         },
         {
-            "enunciado": "El objetivo general del Plan de abordaje integral de la cronicidad y prevenci\u00f3n de la fragilidad de Castilla\u00ad La Mancha, que pretende impulsar la labor de la enfermer\u00eda en la atenci\u00f3n de pacientes en riesgo, potenciando su papel en autocuidados y como profesionales gestores de casos, se corresponde con:",
+            "enunciado": "El objetivo general del Plan de abordaje integral de la cronicidad y prevenci\u00f3n de la fragilidad de Castilla-La Mancha, que pretende impulsar la labor de la enfermer\u00eda en la atenci\u00f3n de pacientes en riesgo, potenciando su papel en autocuidados y como profesionales gestores de casos, se corresponde con:",
             "respuestas": [
-                "a) Objetivo general 1: Detectar y valorar a las personas mayores fr\u00e1giles para intervenir precozmente en la prevenci\u00f3n del deterioro funcional.",
+                "a) Objetivo general: Detectar y valorar a las personas mayores fr\u00e1giles para intervenir precozmente en la prevenci\u00f3n del deterioro funcional.",
                 "b) Objetivo general 4: Garantizar la visi\u00f3n global y el abordaje integral y longitudinal del paciente con enfermedad cr\u00f3nica en cada una de las fases de la historia natural de su enfermedad.",
                 "c) Objetivo general 6: Desarrollar circuitos para la atenci\u00f3n temprana y de calidad y garantizar la continuidad asistencial en pacientes en riesgo.",
                 "d) Objetivo general 9: Garantizar la formaci\u00f3n, investigaci\u00f3n e innovaci\u00f3n en el \u00e1mbito de la atenci\u00f3n sanitaria a pacientes en riesgo de eventos adversos de salud."
@@ -181,17 +181,17 @@
             "verdadera": 3
         },
         {
-            "enunciado": "La orden de la Consejer\u00eda de Sanidad que regula la estructura, organizaci\u00f3n y funcionamiento de las redes de Expertos y Profesionales del Sistema sanitario de Castilla-La Mancha es:",
+            "enunciado": "La orden de la Consejer\u00eda de Sanidad que regula la estructura, organizaci\u00f3n y funcionamiento de las Redes de Expertos y Profesionales del Sistema sanitario de Castilla-La Mancha es:",
             "respuestas": [
                 "a) Orden de la Consejer\u00eda de Sanidad de 4 de diciembre de 2015.",
                 "b) Orden de la Consejer\u00eda de Sanidad de 14 de julio de 2015.",
-                "c) Orden del Servicio de Salud de Castilla la Mancha de 14 de julio de 2015.",
+                "c) Orden del Servicio de Salud de Castilla-La Mancha de 14 de julio de 2015.",
                 "d) Orden del Ministerio de Sanidad de 4 de diciembre de 2015."
             ],
             "verdadera": 1
         },
         {
-            "enunciado": "\u00bfQu\u00e9 Redes de Expertos y Profesionales de Castilla La Mancha han sido las \u00faltimas en ponerse en marcha?",
+            "enunciado": "\u00bfQu\u00e9 Redes de Expertos y Profesionales de Castilla-La Mancha han sido las \u00faltimas en ponerse en marcha?",
             "respuestas": [
                 "a) Red de Imagen M\u00e9dica y Red Urgencias y Emergencias.",
                 "b) Red de Vacunaciones y Red de Seguridad del Paciente.",
@@ -205,7 +205,7 @@
             "respuestas": [
                 "a) No es valorable en el \u00e1mbito salarial (productividad).",
                 "b) Podr\u00e1 constituir m\u00e9ritos valorables en los \u00e1mbitos de la carrera profesional.",
-                "c) De car\u00e1cter voluntario",
+                "c) De car\u00e1cter voluntario.",
                 "d) Nada de lo anterior es cierto."
             ],
             "verdadera": 1
@@ -261,7 +261,7 @@
             "verdadera": 4
         },
         {
-            "enunciado": "Seg\u00fan el art\u00edculo 10 del Decreto 72/2021, a qu\u00e9 \u00f3rgano corresponder\u00e1 la elaboraci\u00f3n del Plan de Humanizaci\u00f3n de la Asistencia Sanitaria, as\u00ed como de las modificaciones y adaptaciones necesarias:",
+            "enunciado": "Seg\u00fan el art\u00edculo 10 del Decreto 72/2021, \u00bfa qu\u00e9 \u00f3rgano corresponder\u00e1 la elaboraci\u00f3n del Plan de Humanizaci\u00f3n de la Asistencia Sanitaria, as\u00ed como de las modificaciones y adaptaciones necesarias?",
             "respuestas": [
                 "a) Al Consejo Regional de Humanizaci\u00f3n.",
                 "b) A la Comisi\u00f3n Regional T\u00e9cnica de Humanizaci\u00f3n.",
@@ -297,6 +297,146 @@
                 "b) Promover la hospitalizaci\u00f3n temprana.",
                 "c) Mejorar la calidad de vida del paciente y su entorno.",
                 "d) Reducir el n\u00famero de m\u00e9dicos especialistas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Seg\u00fan el art\u00edculo 4 del Decreto 72/2021, de 15 de junio, de ordenaci\u00f3n de las estructuras organizativas y gesti\u00f3n coordinada de las actuaciones de humanizaci\u00f3n de la asistencia sanitaria y sociosanitaria de Castilla-La Mancha, las pol\u00edticas de humanizaci\u00f3n de la asistencia deber\u00e1n centrarse en objetivos como el de fomentar la participaci\u00f3n ciudadana y avanzar en:",
+            "respuestas": [
+                "a) La atenci\u00f3n individualizada a los pacientes.",
+                "b) La corresponsabilidad de pacientes.",
+                "c) Las pol\u00edticas de prevenci\u00f3n.",
+                "d) El desarrollo de habilidades y competencias por parte de los usuarios."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan el art\u00edculo 5 del Decreto 72/2021, uno de los principios orientadores por los que se regir\u00e1 la ordenaci\u00f3n de las actuaciones que potencian la dimensi\u00f3n humana de la asistencia sanitaria es:",
+            "respuestas": [
+                "a) Centralizaci\u00f3n y responsabilidad en la gesti\u00f3n.",
+                "b) Cuidado de las personas dependientes en el \u00e1mbito f\u00edsico, psicol\u00f3gico y emocional.",
+                "c) Econom\u00eda en los servicios y prestaciones.",
+                "d) Participaci\u00f3n comunitaria en la formulaci\u00f3n de las pol\u00edticas sanitarias y sociosanitarias."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspectos de los que se apuntan considera no haber influido en la denominada deshumanizaci\u00f3n de la asistencia sanitaria?",
+            "respuestas": [
+                "a) La elevada presi\u00f3n asistencial y la masificaci\u00f3n de consultas.",
+                "b) Una mayor empat\u00eda y trato personal con el paciente.",
+                "c) La excesiva tecnificaci\u00f3n de la pr\u00e1ctica cl\u00ednica.",
+                "d) Han influido todos los anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 concepto nos referimos con el abordaje integral de la persona enferma, teniendo en cuenta las dimensiones biol\u00f3gica, psicol\u00f3gica, social y conductual?",
+            "respuestas": [
+                "a) De humanizaci\u00f3n.",
+                "b) De equidad.",
+                "c) De justicia.",
+                "d) De sostenibilidad."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos representantes de las Redes de Expertos y Profesionales del sistema sanitario de Castilla-La Mancha designadas por la persona titular de la Consejer\u00eda competente en materia de sanidad habr\u00e1 en el Consejo Regional de Humanizaci\u00f3n?",
+            "respuestas": [
+                "a) Uno.",
+                "b) Dos.",
+                "c) Tres.",
+                "d) Cuatro."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Comisi\u00f3n de humanizaci\u00f3n de cada gerencia aprobar\u00e1 su Plan Operativo:",
+            "respuestas": [
+                "a) Anualmente.",
+                "b) Bianualmente.",
+                "c) Trienalmente.",
+                "d) Cuatrienalmente."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n no es correcta respecto a la humanizaci\u00f3n?",
+            "respuestas": [
+                "a) La humanizaci\u00f3n, la acci\u00f3n y efecto de humanizar o humanizarse.",
+                "b) Se dice que un sujeto es humano, cuando es comprensivo, sensible a los infortunios ajenos.",
+                "c) Las profesiones sanitarias, no son intr\u00ednsecamente humanizadoras.",
+                "d) La humanizaci\u00f3n comprende m\u00faltiples dimensiones de la persona, incluyendo aspectos educativos, sociales, pol\u00edticos o culturales."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 atributo debe merecer la persona que obra con autoestima y mereciendo el respeto de las dem\u00e1s, quien no comete actos que degradan y no se humilla ni tolera la humillaci\u00f3n?",
+            "respuestas": [
+                "a) Asertiva.",
+                "b) Humana.",
+                "c) Digna.",
+                "d) \u00c1gil."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 ciencia trata del estudio sistem\u00e1tico de la conducta humana en el \u00e1mbito de las ciencias de la salud y de la atenci\u00f3n a la salud?",
+            "respuestas": [
+                "a) Psicolog\u00eda cl\u00ednica.",
+                "b) Bio\u00e9tica.",
+                "c) Pedagog\u00eda cl\u00ednica y sanitaria.",
+                "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se define por una aflicci\u00f3n f\u00edsica aguda y se manifiesta de muchas formas?",
+            "respuestas": [
+                "a) Dolor.",
+                "b) Sufrimiento.",
+                "c) Introversi\u00f3n.",
+                "d) Introspecci\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 porcentaje es evitable actualmente el dolor en nuestro sistema sanitario?",
+            "respuestas": [
+                "a) 100 % de los casos.",
+                "b) 95 % de los casos.",
+                "c) 75 % de los casos.",
+                "d) 50 % de los casos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 a\u00f1o entr\u00f3 en vigor en Castilla-La Mancha la tarjeta humanitaria?",
+            "respuestas": [
+                "a) 2005.",
+                "b) 2010.",
+                "c) 2016.",
+                "d) 2020."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 personas no pueden utilizar la tarjeta humanitaria en Castilla-La Mancha?",
+            "respuestas": [
+                "a) Nacidos o/y residentes en Castilla-La Mancha.",
+                "b) Personas extranjeras que carezcan de recursos residentes en Castilla-La Mancha.",
+                "c) Personas no nacidas en Espa\u00f1a y que est\u00e1n en situaci\u00f3n irregular.",
+                "d) Todos los anteriores pueden utilizar la tarjeta humanitaria."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspecto debe convertirse en el centro del sistema sanitario como medio de cambio de actitud, en la cuesti\u00f3n de priorizar la humanizaci\u00f3n en la atenci\u00f3n sanitaria? El centro del sistema debe ser:",
+            "respuestas": [
+                "a) La enfermedad.",
+                "b) Los costes sanitarios necesarios para la sostenibilidad del sistema.",
+                "c) La persona y su contexto.",
+                "d) Los sanitarios y sus estilos de trabajo."
             ],
             "verdadera": 3
         }
