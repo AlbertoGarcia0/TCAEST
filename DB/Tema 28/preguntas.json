@@ -299,6 +299,126 @@
                 "d) Sinergia."
             ],
             "verdadera": 4
+        },
+        {
+            "enunciado": "Al individuo que habla, gesticula, escribe, pinta, etc., en la comunicaci\u00f3n, se le denomina:",
+            "respuestas": [
+                "a) Mensajero.",
+                "b) Fuente.",
+                "c) Receptor.",
+                "d) Destino."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la comunicaci\u00f3n en que se emite un mensaje por parte del emisor que llega al receptor, consiguiendo que este ejecute una tarea o una funci\u00f3n?",
+            "respuestas": [
+                "a) Comunicaci\u00f3n Horizontal.",
+                "b) Comunicaci\u00f3n Diagonal.",
+                "c) Comunicaci\u00f3n Vertical.",
+                "d) Comunicaci\u00f3n Triangular."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina el m\u00e9todo que permite a una persona hacer comprensible a otra cualquier idea o hecho que se le quiere transmitir?",
+            "respuestas": [
+                "a) Comunicaci\u00f3n.",
+                "b) Transmisi\u00f3n.",
+                "c) Explicaci\u00f3n o charla.",
+                "d) Transferencia."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 barrera del lenguaje se da por discapacidad f\u00edsica?",
+            "respuestas": [
+                "a) Neurosis.",
+                "b) Alteraciones de la memoria.",
+                "c) Ceguera.",
+                "d) Psicosis."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el objetivo en la relaci\u00f3n interpersonal celador/paciente/familiar?",
+            "respuestas": [
+                "a) La salud.",
+                "b) La eficiencia profesional.",
+                "c) La ayuda.",
+                "d) La eficacia profesional."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9rmino se aplica cuando en una relaci\u00f3n interpersonal no se consigue lo que se esperaba?",
+            "respuestas": [
+                "a) Enojo.",
+                "b) Frustraci\u00f3n.",
+                "c) Agresividad",
+                "d) Deserci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 pilares ha de basarse la relaci\u00f3n interpersonal?",
+            "respuestas": [
+                "a) Compromiso, objetivo com\u00fan y desinter\u00e9s.",
+                "b) Sinceridad, confianza y respeto.",
+                "c) Cooperaci\u00f3n, dominaci\u00f3n y aislamiento.",
+                "d) Confianza, creatividad, compromisos renovados y respeto mutuo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina aquella habilidad personal que nos permite expresar sentimientos, opiniones y pensamientos, en el momento oportuno, de la forma adecuada, sin negar ni desconsiderar los derechos de los dem\u00e1s?",
+            "respuestas": [
+                "a) Compromiso.",
+                "b) Empat\u00eda.",
+                "c) Simpat\u00eda.",
+                "d) Asertividad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso de estas afirmaciones?",
+            "respuestas": [
+                "a) Un grupo de personas es siempre un equipo de trabajo.",
+                "b) Un equipo de trabajo est\u00e1 formado siempre por un grupo de personas.",
+                "c) Un equipo es un grupo de personas que se organiza para realizar una actividad con un objetivo preciso.",
+                "d) Grupo y equipo son dos conceptos diferentes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El compromiso en un trabajo en equipo es:",
+            "respuestas": [
+                "a) Cuando cada miembro asume voluntariamente el hecho de aportar lo mejor de s\u00ed mismo, para conseguir los objetivos del grupo y de la organizaci\u00f3n en general.",
+                "b) La necesidad de poder coordinar las distintas actuaciones individuales.",
+                "c) La interdependencia positiva entre las personas participantes en un equipo.",
+                "d) Todo lo anterior es falso."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina a aquel sujeto con capacidad para formar, orientar y dar criterio a un determinado grupo de auxiliares, en una instituci\u00f3n sanitaria?",
+            "respuestas": [
+                "a) L\u00edder.",
+                "b) Intelectual.",
+                "c) Asertivo.",
+                "d) Prol\u00edder."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 funci\u00f3n de un l\u00edder de un grupo multidisciplinario no es adecuada?",
+            "respuestas": [
+                "a) Hacer que marche y funcione sin m\u00e1s la organizaci\u00f3n.",
+                "b) Ordenar y controlar los conflictos internos.",
+                "c) Imbuir el esp\u00edritu del grupo.",
+                "d) Definir la misi\u00f3n y el papel del grupo."
+            ],
+            "verdadera": 1
         }
     ]
 }

@@ -299,6 +299,136 @@
                 "d) Respeto a las personas, b\u00fasqueda del bien y de la justicia."
             ],
             "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se refiere cualquier circunstancia, dicho o hecho que perjudica a una persona en sus intereses, derechos o reputaci\u00f3n respecto a terceros?",
+            "respuestas": [
+                "a) Difamaci\u00f3n.",
+                "b) Calumnia.",
+                "c) Asalto.",
+                "d) Agravio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 nos referimos con un conjunto sistem\u00e1tico de principios que motivan y gu\u00edan las acciones \u00e9ticas?",
+            "respuestas": [
+                "a) A un modelo para la toma \u00e9tica de decisiones.",
+                "b) Al propio juicio de cada sujeto, sea este profesional o no.",
+                "c) A un paradigma moral.",
+                "d) A un axioma \u00e9tico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 profesionales sanitarios, dentro del equipo asistencial, son los que mantienen frecuentemente una relaci\u00f3n m\u00e1s estrecha y continuada con el enfermo?",
+            "respuestas": [
+                "a) Enfermeros y TCAEs.",
+                "b) M\u00e9dicos de Atenci\u00f3n Primaria.",
+                "c) T\u00e9cnicos Superiores Sanitarios.",
+                "d) M\u00e9dicos de Atenci\u00f3n Especializada."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se consigue el respeto a la persona en toda experimentaci\u00f3n o investigaci\u00f3n sobre la misma?",
+            "respuestas": [
+                "a) Se consigue mediante la b\u00fasqueda del bien.",
+                "b) Se consigue mediante la confidencialidad.",
+                "c) Se consigue mediante el consentimiento.",
+                "d) Se consigue mediante la confidencialidad y el consentimiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina al acto cuando se act\u00faa no para beneficiar o perjudicar a los dem\u00e1s?",
+            "respuestas": [
+                "a) Acto inc\u00edvico.",
+                "b) Acto inmoral.",
+                "c) Acto amoral.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfSobre qu\u00e9 principios se apoya toda la asistencia sanitaria?",
+            "respuestas": [
+                "a) Principios de beneficencia y autonom\u00eda.",
+                "b) Principios de beneficencia y justicia.",
+                "c) Principios de autonom\u00eda, beneficencia y justicia.",
+                "d) Principios de autonom\u00eda, beneficencia, no maleficencia y justicia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modelo de relaci\u00f3n cl\u00ednica es aquella que se basa en que el m\u00e9dico, a partir de sus conocimientos, dirige todo el proceso?",
+            "respuestas": [
+                "a) Modelo est\u00e1ndar.",
+                "b) Modelo paternalista.",
+                "c) Modelo informativo.",
+                "d) Modelo interpretativo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 modelo de relaci\u00f3n cl\u00ednica nos referimos si el m\u00e9dico ayuda al paciente a elegir entre todos los valores los mejores?",
+            "respuestas": [
+                "a) Deliberativo.",
+                "b) Paternalista.",
+                "c) Informativo.",
+                "d) Interpretativo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Todo lo que se expone respecto al derecho a la maternidad es cierto, excepto:",
+            "respuestas": [
+                "a) No discriminaci\u00f3n en el acceso por motivos personales.",
+                "b) Derecho a la maternidad libremente decidida.",
+                "c) El Estado no ser\u00e1 el que velar\u00e1...",
+                "d) Los poderes p\u00fablicos actuar\u00e1n seg\u00fan la ley."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfHasta qu\u00e9 momento m\u00e1ximo de la gestaci\u00f3n se podr\u00e1 interrumpir el embarazo a petici\u00f3n de la embarazada?",
+            "respuestas": [
+                "a) Hasta la 8\u00aa semana.",
+                "b) Hasta la 12\u00aa semana.",
+                "c) Hasta la 14\u00aa semana.",
+                "d) Hasta la 22\u00aa semana."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 documento es necesario que se expida tras un \u00f3bito para acreditar la muerte y enviar al Registro Civil?",
+            "respuestas": [
+                "a) Certificado de defunci\u00f3n.",
+                "b) Certificado de \u00faltimas voluntades.",
+                "c) Testamento vital.",
+                "d) Certificado de autopsia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 define la eutanasia pasiva seg\u00fan el contexto de la eutanasia?",
+            "respuestas": [
+                "a) Administraci\u00f3n de medicamentos letales.",
+                "b) Retiro de soporte vital.",
+                "c) Aplicaci\u00f3n de cuidados paliativos.",
+                "d) Todas las anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan la ley, \u00bfc\u00f3mo se debe certificar la muerte?",
+            "respuestas": [
+                "a) Testimonio de un familiar.",
+                "b) Diagn\u00f3stico de un m\u00e9dico.",
+                "c) Confirmaci\u00f3n del cese irreversible de las funciones vitales.",
+                "d) Reporte policial."
+            ],
+            "verdadera": 3
         }
     ]
 }

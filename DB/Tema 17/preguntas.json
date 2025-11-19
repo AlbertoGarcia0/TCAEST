@@ -299,6 +299,106 @@
                 "d) Atelectasia."
             ],
             "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la capa muy fina que envuelve los pulmones?",
+            "respuestas": [
+                "a) Pleura.",
+                "b) Mediastino.",
+                "c) Hilios.",
+                "d) Alveolos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de mecanismo se emplea en el intercambio de gases a nivel alveolocapilar en pulmones?",
+            "respuestas": [
+                "a) Difusi\u00f3n simple o difusi\u00f3n.",
+                "b) Transporte activo.",
+                "c) Pinocitosis.",
+                "d) Fagocitosis."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1nto volumen de aire entra en una inspiraci\u00f3n normal en nuestros pulmones?",
+            "respuestas": [
+                "a) Cuarto de litro.",
+                "b) Medio litro.",
+                "c) Un litro.",
+                "d) Cinco litros."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 circunstancia se da cuando la saturaci\u00f3n de ox\u00edgeno en sangre unido a hemoglobina es del 80 %?",
+            "respuestas": [
+                "a) De saturaci\u00f3n grave.",
+                "b) De saturaci\u00f3n moderada.",
+                "c) De saturaci\u00f3n leve.",
+                "d) No existe desaturaci\u00f3n."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina cambios destructivos de las paredes alveolares y agrandamiento de espacios a\u00e9reos distales a los bronquios terminales, no respiratorios de forma irreversible?",
+            "respuestas": [
+                "a) Bronquiectasia.",
+                "b) Enfisema.",
+                "c) Bronquitis.",
+                "d) EPOC."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Las bronquitis agudas son m\u00e1s frecuentes en:",
+            "respuestas": [
+                "a) Ni\u00f1os y ancianos.",
+                "b) Mujeres embarazadas y ancianos.",
+                "c) Ni\u00f1os y adultos fumadores.",
+                "d) Ancianos y adultos no fumadores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la causa m\u00e1s frecuente de un neumot\u00f3rax espont\u00e1neo secundario?",
+            "respuestas": [
+                "a) EPOC.",
+                "b) Traumatismo.",
+                "c) Cirug\u00eda tor\u00e1cica.",
+                "d) Catamenial."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan los respiradores que permiten regular solamente la presi\u00f3n de insuflaci\u00f3n y exigen una estrecha vigilancia del paciente?",
+            "respuestas": [
+                "a) Respiradores autom\u00e1ticos.",
+                "b) Respiradores de volumen.",
+                "c) Respiradores semiautom\u00e1ticos.",
+                "d) Respiradores de presi\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina aquel trastorno que aparece en la hipoventilaci\u00f3n alveolar y se caracteriza por una PaCO2 elevada y un pH bajo?",
+            "respuestas": [
+                "a) Acidosis respiratoria.",
+                "b) Alcalosis respiratoria.",
+                "c) Acidosis metab\u00f3lica.",
+                "d) Alcalosis metab\u00f3lica."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tipo de dispositivo se usa espec\u00edficamente para suministrar ox\u00edgeno humidificado y calentado en pacientes con insuficiencia respiratoria aguda?",
+            "respuestas": [
+                "a) Concentradores de ox\u00edgeno port\u00e1tiles.",
+                "b) Mascarillas de alto flujo.",
+                "c) Sistemas de ox\u00edgeno transnasal.",
+                "d) Dispositivos de conservaci\u00f3n de ox\u00edgeno."
+            ],
+            "verdadera": 2
         }
     ]
 }

@@ -111,26 +111,6 @@
             "verdadera": 2
         },
         {
-            "enunciado": "\u00bfD\u00f3nde suele emplearse el orden alfab\u00e9tico en la ordenaci\u00f3n de Historias Cl\u00ednicas de pacientes?",
-            "respuestas": [
-                "a) En el medio rural.",
-                "b) En el medio urbano.",
-                "c) En pa\u00edses \u00e1rabes.",
-                "d) En algunas Comunidades Aut\u00f3nomas, por considerarse algo tradicional."
-            ],
-            "verdadera": 1
-        },
-        {
-            "enunciado": "\u00bfQu\u00e9 servicio presta e-SIAP en las Islas Baleares?",
-            "respuestas": [
-                "a) Se utiliza para gestionar la informaci\u00f3n de salud solo de pacientes hospitalizados.",
-                "b) Proporciona servicios exclusivos de telemedicina.",
-                "c) Es una herramienta b\u00e1sica para la prestaci\u00f3n de servicios cl\u00ednicos en atenci\u00f3n primaria.",
-                "d) Gestiona solo la informaci\u00f3n epidemiol\u00f3gica."
-            ],
-            "verdadera": 3
-        },
-        {
             "enunciado": "\u00bfA qui\u00e9n corresponde la custodia y gesti\u00f3n de Historias Cl\u00ednicas en los Centros Hospitalarios?",
             "respuestas": [
                 "a) A la Unidad de admisi\u00f3n y documentaci\u00f3n cl\u00ednica.",
@@ -297,6 +277,157 @@
                 "b) A la Unidad de Admisi\u00f3n.",
                 "c) A la Unidad de Altas.",
                 "d) A la Unidad de Mantenimientos y Movimientos de Pacientes en el Hospital."
+            ],
+            "verdadera": 2
+        },
+        
+        {
+            "enunciado": "\u00bfCada cu\u00e1nto tiempo generalmente se deben actualizar las \u00f3rdenes de tratamientos?",
+            "respuestas": [
+                "a) Cada d\u00eda.",
+                "b) Cada tres d\u00edas.",
+                "c) Cada semana.",
+                "d) Cada mes."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 hoja operatoria se hace constar las peticiones al banco de sangre, radiodiagn\u00f3stico, los env\u00edos a anatom\u00eda patol\u00f3gica, etc.?",
+            "respuestas": [
+                "a) Hoja de enfermer\u00eda.",
+                "b) Hoja de intervenci\u00f3n quir\u00fargica.",
+                "c) Hoja de anestesia.",
+                "d) Hoja de diagn\u00f3stico."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En los registros de actividades y codificaci\u00f3n a nivel sanitario, se podr\u00e1 incluir los datos siguientes, excepto:",
+            "respuestas": [
+                "a) C\u00f3digo postal del domicilio habitual del paciente.",
+                "b) N\u00famero de Historia cl\u00ednica del enfermo.",
+                "c) Orientaci\u00f3n sexual del paciente.",
+                "d) Se podr\u00e1 incluir todo."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El consumo de alcohol, como h\u00e1bito t\u00f3xico, se debe expresar en la Historia Cl\u00ednica como:",
+            "respuestas": [
+                "a) Cent\u00edmetros c\u00fabicos de alcohol al d\u00eda.",
+                "b) Volumen total de etanol en una semana.",
+                "c) Gramos de etanol al d\u00eda.",
+                "d) Masa total de alcohol en una semana."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde suele emplearse el orden alfab\u00e9tico en la ordenaci\u00f3n de Historias Cl\u00ednicas de pacientes?",
+            "respuestas": [
+                "a) En el medio rural.",
+                "b) En el medio urbano.",
+                "c) En pa\u00edses \u00e1rabes.",
+                "d) En algunas Comunidades Aut\u00f3nomas, por considerarse algo tradicional."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Respecto al consentimiento informado como documento de la historia cl\u00ednica, solo ser\u00e1 exigible en la misma cuando:",
+            "respuestas": [
+                "a) Lo solicite el paciente o el representante legal.",
+                "b) Se trate de un proceso de hospitalizaci\u00f3n y lo solicite el m\u00e9dico.",
+                "c) Lo solicite el paciente (o el representante legal) y el m\u00e9dico.",
+                "d) Se trate de un proceso de hospitalizaci\u00f3n o as\u00ed se disponga normativamente."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Un centro sanitario es:",
+            "respuestas": [
+                "a) El conjunto organizado de profesionales que realizan actividades y prestan servicios para cuidar la salud de los pacientes y usuarios.",
+                "b) El conjunto organizado de profesionales exclusivamente sanitarios, de instalaciones y de medios t\u00e9cnicos que realizan actividades y prestan servicios para cuidar la salud de los pacientes y usuarios.",
+                "c) El conjunto organizado de profesionales, instalaciones y medios t\u00e9cnicos que realiza actividades y presta servicios para cuidar la salud de los pacientes y usuarios.",
+                "d) El conjunto organizado de instalaciones y medios t\u00e9cnicos necesarios para realizar actividades y prestar servicios para cuidar la salud de los pacientes y usuarios."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo debe ser necesariamente el consentimiento informado de un paciente?",
+            "respuestas": [
+                "a) La conformidad libre, voluntaria e inconsciente (sin necesidad de estar en pleno uso de sus facultades).",
+                "b) La conformidad forzada, voluntaria y consciente y/o inconsciente (sin necesidad de estar en pleno uso de sus facultades).",
+                "c) La conformidad forzada, involuntaria y consciente (con necesidad de estar en pleno uso de sus facultades).",
+                "d) La conformidad libre, voluntaria y consciente (con necesidad de estar en pleno uso de sus facultades)."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El acceso a la historia cl\u00ednica con fines asistenciales corresponde a:",
+            "respuestas": [
+                "a) Los tribunales.",
+                "b) Los profesionales asistenciales del centro que realizan el diagn\u00f3stico o el tratamiento del paciente.",
+                "c) Los profesionales no asistenciales del centro que realizan el diagn\u00f3stico o el tratamiento del paciente.",
+                "d) Los profesionales asistenciales y no asistenciales del centro que realizan el diagn\u00f3stico o el tratamiento del paciente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 ingresos de estos consideras no programado en Salud Mental?",
+            "respuestas": [
+                "a) Ingreso Voluntario Ordinario.",
+                "b) Ingreso Voluntario Urgente.",
+                "c) Ingreso Involuntario Ordinario.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Admisi\u00f3n en r\u00e9gimen de hospitalizaci\u00f3n conocida como Admisi\u00f3n de Ingresos o Admisi\u00f3n de Hospitalizaci\u00f3n se denomina tambi\u00e9n Admisi\u00f3n:",
+            "respuestas": [
+                "a) Espec\u00edfica.",
+                "b) General.",
+                "c) De Consultas.",
+                "d) De Urgencias."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La Unidad de Admisi\u00f3n dentro del Hospital no es responsable de:",
+            "respuestas": [
+                "a) La atenci\u00f3n y la orientaci\u00f3n al usuario durante su estancia en el centro sanitario.",
+                "b) La recepci\u00f3n y citaci\u00f3n de los pacientes para Consultas Externas.",
+                "c) La recepci\u00f3n y registro de las urgencias.",
+                "d) La recepci\u00f3n, formalizaci\u00f3n del ingreso y asignaci\u00f3n de cama a los pacientes que van a ser hospitalizados."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfDe qui\u00e9n depende directamente el Servicio de admisi\u00f3n de un hospital, si en los mismos no existe Gerencia?",
+            "respuestas": [
+                "a) De la Divisi\u00f3n de gesti\u00f3n y mantenimiento.",
+                "b) De la Divisi\u00f3n m\u00e9dica.",
+                "c) De la Divisi\u00f3n de enfermer\u00eda.",
+                "d) De la Divisi\u00f3n farmac\u00e9utica."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde se llevar\u00e1 a cabo la custodia o dep\u00f3sito de pertenencias del usuario/paciente dentro de un hospital?",
+            "respuestas": [
+                "a) En el Servicio de Atenci\u00f3n al Paciente.",
+                "b) En la Unidad de Admisi\u00f3n.",
+                "c) En la Unidad de Altas.",
+                "d) En la Unidad de Mantenimientos y movimientos de Pacientes en el Hospital."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se elaborar\u00e1 el censo de camas ocupadas en un hospital?",
+            "respuestas": [
+                "a) Valorando las que podr\u00edan ocuparse en un d\u00eda, menos las que se ocupan realmente.",
+                "b) Restando al n\u00famero de camas totales de un hospital, las que est\u00e1n disponibles en ese d\u00eda.",
+                "c) Restando al n\u00famero de camas disponibles de un hospital, las que est\u00e1n ocupadas en ese d\u00eda.",
+                "d) Restando al n\u00famero de camas ocupadas, las que est\u00e1n disponibles en ese d\u00eda."
             ],
             "verdadera": 2
         }

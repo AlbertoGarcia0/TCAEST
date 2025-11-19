@@ -289,6 +289,136 @@
                 "d) Inactividad alerta."
             ],
             "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos consideras un neonato \"a t\u00e9rmino\"?",
+            "respuestas": [
+                "a) Aquel que naci\u00f3 con 32 semanas de gestaci\u00f3n.",
+                "b) Aquel que naci\u00f3 con 35 semanas de gestaci\u00f3n.",
+                "c) Aquel que naci\u00f3 con 38 semanas de gestaci\u00f3n.",
+                "d) Aquel que naci\u00f3 con 45 semanas de gestaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfHasta qu\u00e9 edad el per\u00edmetro tor\u00e1cico es menor que el craneal o cef\u00e1lico?",
+            "respuestas": [
+                "a) Hasta los seis meses de vida.",
+                "b) Hasta los 12 meses de vida.",
+                "c) Hasta los 18 meses de vida.",
+                "d) Hasta los 24 meses de vida."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La fontanela mayor o anterior no se cierra hasta:",
+            "respuestas": [
+                "a) Los seis meses de vida.",
+                "b) Los nueve meses de vida.",
+                "c) Los tres meses de vida.",
+                "d) Los dieciocho meses de vida."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ndo se cae normalmente el cord\u00f3n umbilical?",
+            "respuestas": [
+                "a) A los 3 d\u00edas.",
+                "b) A la semana.",
+                "c) A las 2 semanas.",
+                "d) Al mes."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se llaman las primeras deposiciones del reci\u00e9n nacido?",
+            "respuestas": [
+                "a) V\u00e9rnix caseoso.",
+                "b) Melena.",
+                "c) Mecamnios.",
+                "d) Meconio."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 patolog\u00edas intentan prevenirse con la prueba del tal\u00f3n?",
+            "respuestas": [
+                "a) Mucopolisacaridosis I y s\u00edndrome de Marfan.",
+                "b) Fenilcetonuria e hipertiroidismo.",
+                "c) Enfermedad de Morquio e hipertiroidismo.",
+                "d) Fenilcetonuria e hipotiroidismo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 valoraci\u00f3n del reci\u00e9n nacido tendr\u00eda un ni\u00f1o con un APGAR de 8?",
+            "respuestas": [
+                "a) Dificultad grave.",
+                "b) Dificultad moderada.",
+                "c) Dificultad leve.",
+                "d) No hay dificultad."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Los neonatos prematuros inmaduros son aquellos con un peso inferior a:",
+            "respuestas": [
+                "a) 3.000 g.",
+                "b) 2.500 g.",
+                "c) 2.000 g.",
+                "d) 1.500 g."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el \u00e1ngulo de dorsiflexi\u00f3n del pie de un neonato normal y prematuro respectivamente?",
+            "respuestas": [
+                "a) Del neonato normal 5\u00b0 y m\u00e1s de 5\u00b0 hasta 95\u00b0 en prematuro.",
+                "b) Del neonato normal 10\u00b0 y m\u00e1s de 10\u00b0 hasta 180\u00b0 en prematuro.",
+                "c) Del neonato normal 15\u00b0 y m\u00e1s de 15\u00b0 hasta 90\u00b0 en prematuro.",
+                "d) Del neonato normal 0\u00b0 y m\u00e1s de 0\u00b0 hasta 90\u00b0 en prematuro."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "El jab\u00f3n empleado en el ba\u00f1o debe tener un pH:",
+            "respuestas": [
+                "a) Levemente \u00e1cido.",
+                "b) Muy \u00e1cido.",
+                "c) Neutro.",
+                "d) Alcalino."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 cantidad de agua se vierte en el biber\u00f3n por cada cacito raso de leche en polvo?",
+            "respuestas": [
+                "a) 10 cc.",
+                "b) 20 cc.",
+                "c) 30 cc.",
+                "d) 40 cc."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todos los componentes que se nombran de una dieta equilibrada lo califican de b\u00e1sico, excepto:",
+            "respuestas": [
+                "a) Minerales elementales, sales minerales y agua.",
+                "b) Prote\u00ednas.",
+                "c) Hidratos de carbono o az\u00facares, y l\u00edpidos o grasas.",
+                "d) Fibras indigeribles."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9nes van a ser el principal soporte psicol\u00f3gico de los ni\u00f1os durante su estancia hospitalaria?",
+            "respuestas": [
+                "a) Los facultativos.",
+                "b) El personal no sanitario: maestros, celadores, etc.",
+                "c) El personal sanitario no facultativo: enfermeros, TCAE...",
+                "d) Los padres."
+            ],
+            "verdadera": 4
         }
     ]
 }

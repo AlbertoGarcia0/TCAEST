@@ -621,16 +621,6 @@
             "verdadera": 1
         },
         {
-            "enunciado": "\u00bfQu\u00e9 servicio presta e-SIAP en las Islas Baleares?",
-            "respuestas": [
-                "a) Se utiliza para gestionar la informaci\u00f3n de salud solo de pacientes hospitalizados.",
-                "b) Proporciona servicios exclusivos de telemedicina.",
-                "c) Es una herramienta b\u00e1sica para la prestaci\u00f3n de servicios cl\u00ednicos en atenci\u00f3n primaria.",
-                "d) Gestiona solo la informaci\u00f3n epidemiol\u00f3gica."
-            ],
-            "verdadera": 3
-        },
-        {
             "enunciado": "\u00bfQu\u00e9 funci\u00f3n poseer\u00e1 la intervenci\u00f3n quir\u00fargica que persiga determinar la causa o causas de los s\u00edntomas de un proceso morboso?",
             "respuestas": [
                 "a) Intervenci\u00f3n ablativa.",

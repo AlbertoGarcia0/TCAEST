@@ -299,6 +299,116 @@
                 "d) Tensi\u00f3n arterial."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n es incorrecta de las acciones a seguir por el TCAE, cuando se observa alguna cuesti\u00f3n fuera de lo normal en la toma de constantes vitales?",
+            "respuestas": [
+                "a) Nunca debe dejar registrado su nombre en la hoja de incidencias de enfermer\u00eda, pero siempre el del paciente.",
+                "b) Debe dejar constancia por escrito en la hoja de incidencias de enfermer\u00eda de todo aquello que sea considerado como fuera de lo normal.",
+                "c) Debe informar objetivamente al enfermero/a responsable del paciente de todo aquello que sea considerado como fuera de lo normal.",
+                "d) Debe dejar por escrito en la hoja de incidencias de enfermer\u00eda la hora a la que se ha realizado la observaci\u00f3n y el d\u00eda que ha ocurrido, as\u00ed como cu\u00e1l ha sido su actuaci\u00f3n ante aquello considerado como fuera de lo normal."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La temperatura bucal se puede tomar en:",
+            "respuestas": [
+                "a) Ni\u00f1os menores de 6 a\u00f1os.",
+                "b) Pacientes en coma.",
+                "c) Pacientes con agitaci\u00f3n psicomotriz.",
+                "d) Ni\u00f1os mayores de 6 a\u00f1os."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Existe taquicardia por encima de:",
+            "respuestas": [
+                "a) 75 pulsaciones/minuto.",
+                "b) 85 pulsaciones/minuto.",
+                "c) 95 pulsaciones/minuto.",
+                "d) 100 pulsaciones/minuto."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "La ausencia de respiraci\u00f3n se denomina:",
+            "respuestas": [
+                "a) Apnea.",
+                "b) Hipernea.",
+                "c) Ortopnea.",
+                "d) Ripnea."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "En un adulto joven y sano la presi\u00f3n sist\u00f3lica es de:",
+            "respuestas": [
+                "a) 180 mmHg.",
+                "b) 155 mmHg.",
+                "c) 130 mmHg.",
+                "d) 100 mmHg."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La temperatura ambiente a la hora de tomar la tensi\u00f3n arterial debe estar sobre los:",
+            "respuestas": [
+                "a) 10 \u00b0C.",
+                "b) 22 \u00b0C.",
+                "c) 30 \u00b0C.",
+                "d) 35 \u00b0C."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La hipotensi\u00f3n postural se denomina tambi\u00e9n:",
+            "respuestas": [
+                "a) Idiop\u00e1tica.",
+                "b) Esencial.",
+                "c) Ortost\u00e1tica.",
+                "d) Parad\u00f3jica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El ani\u00f3n m\u00e1s importante del espacio extracelular es:",
+            "respuestas": [
+                "a) Sodio.",
+                "b) Cloro.",
+                "c) Potasio.",
+                "d) Calcio."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el componte m\u00e1s importante del cuerpo humano?",
+            "respuestas": [
+                "a) El sodio.",
+                "b) El potasio.",
+                "c) El agua.",
+                "d) La sal."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El espacio situado entre las c\u00e9lulas se denomina espacio:",
+            "respuestas": [
+                "a) Extracelular.",
+                "b) Intracelular.",
+                "c) Intersticial.",
+                "d) Intravascular."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el cati\u00f3n m\u00e1s abundante en el espacio intracelular?",
+            "respuestas": [
+                "a) Sodio.",
+                "b) Hidr\u00f3geno.",
+                "c) Potasio.",
+                "d) Cloruro."
+            ],
+            "verdadera": 3
         }
     ]
 }

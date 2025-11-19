@@ -289,6 +289,176 @@
                 "d) Gammac\u00e1mara."
             ],
             "verdadera": 2
+        },
+        {
+            "enunciado": "Una intervenci\u00f3n de tipo paliativo es aquella:",
+            "respuestas": [
+                "a) Que fortalece las zonas debilitadas, o pretende volver a unir zonas anat\u00f3micas que se encuentran separadas o tiene por objeto corregir deformidades.",
+                "b) Que alivia los s\u00edntomas de un determinado proceso, sin curar la enfermedad.",
+                "c) Que se utiliza para determinar la causa de los s\u00edntomas.",
+                "d) Que busca mejorar el aspecto f\u00edsico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 funci\u00f3n poseer\u00e1 la intervenci\u00f3n quir\u00fargica que persiga determinar la causa o causas de los s\u00edntomas de un proceso morboso?",
+            "respuestas": [
+                "a) Intervenci\u00f3n ablativa.",
+                "b) Intervenci\u00f3n paliativa.",
+                "c) Intervenci\u00f3n reparadora.",
+                "d) Intervenci\u00f3n diagn\u00f3stica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas personas con un grupo sangu\u00edneo concreto consideras que es donante universal?",
+            "respuestas": [
+                "a) Aquella con O positivo.",
+                "b) Aquella con AB.",
+                "c) Aquella con O.",
+                "d) Aquella con B."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modalidad de sangre se preparar\u00e1 para transfundir a un paciente si la necesitase en caso de urgencia y sin previa averiguaci\u00f3n anal\u00edtica de su grupo sangu\u00edneo?",
+            "respuestas": [
+                "a) Del grupo sangu\u00edneo AB positivo.",
+                "b) Del grupo sangu\u00edneo O negativo.",
+                "c) Del grupo sangu\u00edneo O positivo.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 intervenci\u00f3n por el \u00e1rea quir\u00fargica o campo de intervenci\u00f3n se corresponde con la de la imagen?",
+            "respuestas": [
+                "a) Cirug\u00eda perineal.",
+                "b) Cirug\u00eda abdominal.",
+                "c) Cirug\u00eda hernia inguinal.",
+                "d) Cirug\u00eda de bajo vientre."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La premedicaci\u00f3n se suele administrar habitualmente al paciente antes de la cirug\u00eda:",
+            "respuestas": [
+                "a) 15 a 20 minutos.",
+                "b) 25 a 40 minutos.",
+                "c) 45 a 75 minutos.",
+                "d) 95 a 120 minutos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es falso del bloque quir\u00fargico?",
+            "respuestas": [
+                "a) En \u00e9l trabaja tanto personal sanitario como no sanitario.",
+                "b) Suele situarse en una zona del hospital tumultuosa y con tr\u00e1nsito de personas, aunque mal comunicada con el resto de las unidades, para que a ella lleguen nadie m\u00e1s que los interesados.",
+                "c) Posee un conjunto de instalaciones acondicionadas y equipadas para poder realizar en ellas las intervenciones quir\u00fargicas con las mayores garant\u00edas.",
+                "d) Est\u00e1 funcional y f\u00edsicamente diferenciado del resto del hospital."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Los almacenes para guardar el material quir\u00fargico, aparatos, sueros, camillas, farmacia en general, etc., existentes en el bloque quir\u00fargico pertenecen al \u00e1rea:",
+            "respuestas": [
+                "a) De intercambio.",
+                "b) Est\u00e9ril.",
+                "c) Sucia.",
+                "d) Limpia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la zona del bloque quir\u00fargico donde se requiere de uniforme quir\u00fargico, calzas o zuecos quir\u00fargicos, gorro, y uso de mascarilla obligatoria?",
+            "respuestas": [
+                "a) Zona sin limitaci\u00f3n de acceso.",
+                "b) Zona semilimitada.",
+                "c) Zona limitada.",
+                "d) Zona prohibida."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La presi\u00f3n arterial se mide en:",
+            "respuestas": [
+                "a) mm de Ag.",
+                "b) Bares.",
+                "c) Pascal.",
+                "d) mm de Hg."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aparato emplea ultrasonidos como medio de exploraci\u00f3n m\u00e9dica instrumental?",
+            "respuestas": [
+                "a) Ecograf\u00eda.",
+                "b) RNM.",
+                "c) Espirometr\u00eda.",
+                "d) Radiograf\u00eda simple."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 tiempo de ayuno generalmente se emplea antes de la exploraci\u00f3n para un TAC craneal?",
+            "respuestas": [
+                "a) No hay tiempo de ayuno.",
+                "b) Cuatro horas.",
+                "c) Doce horas.",
+                "d) Veinticuatro horas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 prueba o exploraci\u00f3n permite valorar el grado de acidez-alcalinidad de las secreciones g\u00e1stricas?",
+            "respuestas": [
+                "a) Enema opaco.",
+                "b) Gastroscopia.",
+                "c) pH-metr\u00eda.",
+                "d) Prueba de ureasa."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 exploraci\u00f3n instrumental de estas se utiliza el diapas\u00f3n mediante la transmisi\u00f3n del sonido por v\u00eda \u00f3sea?",
+            "respuestas": [
+                "a) Prueba de Ranvier.",
+                "b) Prueba de Weber.",
+                "c) Prueba de Rinnie.",
+                "d) Prueba de Strauss."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el personal sanitario responsable de preparar todo lo necesario para una exploraci\u00f3n m\u00e9dica?",
+            "respuestas": [
+                "a) El m\u00e9dico.",
+                "b) El enfermero.",
+                "c) El TCAE.",
+                "d) El celador."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 zona de estas de la regi\u00f3n lumbar no se suele introducir una aguja para la punci\u00f3n lumbar?",
+            "respuestas": [
+                "a) En la 2\u00ba v\u00e9rtebra lumbar.",
+                "b) En la 3\u00ba v\u00e9rtebra lumbar.",
+                "c) En la 4\u00ba v\u00e9rtebra lumbar.",
+                "d) En la 5\u00ba v\u00e9rtebra lumbar."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n generalmente se colocar\u00e1 al paciente para la realizaci\u00f3n de una punci\u00f3n de m\u00e9dula \u00f3sea?",
+            "respuestas": [
+                "a) En posici\u00f3n de litotom\u00eda.",
+                "b) En posici\u00f3n de dec\u00fabito lateral.",
+                "c) En posici\u00f3n de dec\u00fabito supino.",
+                "d) En posici\u00f3n de Sims."
+            ],
+            "verdadera": 3
         }
     ]
 }

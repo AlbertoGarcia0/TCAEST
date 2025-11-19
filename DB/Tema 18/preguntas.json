@@ -299,6 +299,86 @@
                 "d) Queratinizado."
             ],
             "verdadera": 2
+        },
+        {
+            "enunciado": "El tejido celular subcut\u00e1neo de la piel se denomina:",
+            "respuestas": [
+                "a) Dermis.",
+                "b) Hipodermis.",
+                "c) Epidermis.",
+                "d) Tejido de Malpighi."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde no hay gl\u00e1ndulas seb\u00e1ceas?",
+            "respuestas": [
+                "a) En axilas.",
+                "b) En plantas del pie y palmas de las manos.",
+                "c) En cuero cabelludo.",
+                "d) En cara."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la parte de las u\u00f1as que se observa en sus zonas proximales en forma de zona blanquecina semicircular?",
+            "respuestas": [
+                "a) Cut\u00edcula.",
+                "b) L\u00fanula.",
+                "c) Bulbo.",
+                "d) M\u00e9dula."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 lesi\u00f3n secundaria y elemental de la piel es producida por desecaci\u00f3n de exudados o sangre?",
+            "respuestas": [
+                "a) P\u00fastula.",
+                "b) Escama.",
+                "c) Costra.",
+                "d) Liquenificaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La denominada vulgarmente como \"ladilla\" la ocasiona:",
+            "respuestas": [
+                "a) Pediculis humanus capitis.",
+                "b) Pediculis humanus corporis.",
+                "c) Phthirus pubis.",
+                "d) Pediculis scrotae."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La afecci\u00f3n de la piel conocida como \"manchas vino de Oporto\" se corresponde a:",
+            "respuestas": [
+                "a) Nevus azul.",
+                "b) Angiomas planos.",
+                "c) Angiomas cavernosos.",
+                "d) Nevus melanoc\u00edtico cong\u00e9nito o adquirido."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 ba\u00f1o es aquel que, aun conservando la movilidad, el paciente no puede levantarse, por lo que \u00e9l asume su higiene siendo auxiliado en caso necesario por la enfermera?",
+            "respuestas": [
+                "a) Ba\u00f1o completo en la cama.",
+                "b) Ba\u00f1o en la cama.",
+                "c) Ba\u00f1o parcial.",
+                "d) Ba\u00f1o kinest\u00e9sico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 posici\u00f3n debe colocarse al paciente para llevar a cabo la higiene del cabello?",
+            "respuestas": [
+                "a) En posici\u00f3n de Trendelenburg.",
+                "b) En posici\u00f3n de Roser o Proetz.",
+                "c) En posici\u00f3n de Morest\u00edn.",
+                "d) En posici\u00f3n de Sims."
+            ],
+            "verdadera": 2
         }
     ]
 }

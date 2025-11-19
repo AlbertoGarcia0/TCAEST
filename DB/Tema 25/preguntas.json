@@ -299,6 +299,146 @@
                 "d) El m\u00e9dico debe facilitar a la familia la mayor cantidad de informaci\u00f3n posible sobre el estado del paciente."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 pron\u00f3stico (en meses) de vida es el promedio general en pacientes terminales?",
+            "respuestas": [
+                "a) Est\u00e1 limitado a 2 meses.",
+                "b) Est\u00e1 limitado a 3 meses.",
+                "c) Est\u00e1 limitado a 6 meses.",
+                "d) Est\u00e1 limitado a 9 meses."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 tipo de actuaciones se basan los cuidados paliativos?",
+            "respuestas": [
+                "a) Eutanasia.",
+                "b) Eugenesia.",
+                "c) Distanasia.",
+                "d) Ortotanasia."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "A toda acci\u00f3n que pretende terminar con la vida del enfermo para acabar con el sufrimiento se le denomina:",
+            "respuestas": [
+                "a) Eutanasia.",
+                "b) Distanasia.",
+                "c) Eugenesia.",
+                "d) Ortotanasia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos derechos que se nombran a continuaci\u00f3n, de las personas adultas en situaci\u00f3n terminal, no consideras que sea tal?",
+            "respuestas": [
+                "a) Derecho a recibir atenci\u00f3n m\u00e9dica y soporte personal.",
+                "b) Derecho a la autodeterminaci\u00f3n y a rechazar un tratamiento.",
+                "c) Derecho a participar en la toma de decisiones relativas a las pruebas complementarias, aunque no en el tratamiento.",
+                "d) Derecho a ser tratados con la mayor dignidad y a ver su dolor aliviado."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Respecto al reposo y al sue\u00f1o del enfermo terminal es cierto que:",
+            "respuestas": [
+                "a) Son infrecuentes las irregularidades en el patr\u00f3n del sue\u00f1o.",
+                "b) No se deben dar hipn\u00f3ticos para el sue\u00f1o, aunque se prescriban por el facultativo.",
+                "c) Hay que evitar que se sienta solo, y esto lo relaja y disminuye su estr\u00e9s, favoreciendo que no se den las irregularidades del sue\u00f1o.",
+                "d) La causa del insomnio siempre es psicol\u00f3gica."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 consejo en la alimentaci\u00f3n en cuidados paliativos es incorrecto?",
+            "respuestas": [
+                "a) No presionar o agobiar al paciente con la comida, intentando adaptarse al \"gusto\" del paciente.",
+                "b) Presentar la comida de forma atractiva (la comida entra por los ojos).",
+                "c) Fraccionar la dieta en seis o siete tomas al d\u00eda (m\u00e1s veces, menos cantidad), evitando alimentos flatulentos, muy condimentados, y/o con olores intensos.",
+                "d) Hay que obligar a comer a los pacientes, la falta de comida constituye una de las causas de empeoramiento."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 aspecto no posee el dolor agudo que s\u00ed lo posee el dolor cr\u00f3nico?",
+            "respuestas": [
+                "a) Posee una misi\u00f3n biol\u00f3gica.",
+                "b) Mejor v\u00eda de administraci\u00f3n la analgesia oral/rectal.",
+                "c) Posee un comienzo de alivio r\u00e1pido.",
+                "d) El paciente presenta un estado emocional ante el dolor de cansado/ansioso."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 dolor de estos no es nociceptivo?",
+            "respuestas": [
+                "a) El dolor som\u00e1tico, por estimulaci\u00f3n de los receptores perif\u00e9ricos.",
+                "b) El dolor visceral, por infiltraci\u00f3n, compresi\u00f3n o distensi\u00f3n de v\u00edsceras .",
+                "c) El dolor neurop\u00e1tico, por da\u00f1o del Sistema Nervioso Central (dolor central) o perif\u00e9rico (desaferentizaci\u00f3n).",
+                "d) Todos son nociceptivos."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Todo lo que se expone del fentanilo es cierto, excepto que:",
+            "respuestas": [
+                "a) Es un opioide sint\u00e9tico.",
+                "b) El fentanilo tiene indicaciones diferentes a la morfina en el tratamiento de dolo r cr\u00f3nico que no responda al segundo escal\u00f3n de la OMS.",
+                "c) El principal inconveniente del fentanilo -TTS es su mala adherencia en pieles sudorosas y/o febriles.",
+                "d) El fentanilo est\u00e1 especialmente indicado en disfagia/odinofagia, cuando existe un escaso cumplimiento de la medicaci\u00f3n oral y cuando se dan problemas en el tr\u00e1nsito gastrointestinal (ocasiona menos estre\u00f1imiento)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 causa de la ansiedad se relaciona con las fases de duelo de la doctora K\u00fcbler -Ross?",
+            "respuestas": [
+                "a) Los problemas relacionados con efectos directos de la enfermedad o complicaciones m\u00e9dicas.",
+                "b) Las reacciones adaptativas como consecuencia de la aparici\u00f3n de cambios inevitables.",
+                "c) Los problemas derivados de la existencia previa de problemas psicol\u00f3gicos.",
+                "d) Aquellas derivadas de los efectos secundarios del tratamiento."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 nivel de sedaci\u00f3n presenta un paciente con una respuesta r\u00e1pida a est\u00edmulos dolorosos/presi\u00f3n glabelar, seg\u00fan la escala de Ramsay?",
+            "respuestas": [
+                "a) Nivel de sedaci\u00f3n II.",
+                "b) Nivel de sedaci\u00f3n III .",
+                "c) Nivel de sedaci\u00f3n IV.",
+                "d) Nivel de sedaci\u00f3n V."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la capacidad para comprender, aceptar y compartir los sentimientos del paciente (incluso de otras personas)?",
+            "respuestas": [
+                "a) Catarsis.",
+                "b) Empat\u00eda.",
+                "c) Reflexividad.",
+                "d) Eustr\u00e9s."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas etapas de aceptaci\u00f3n de la muerte (K\u00fcbler -Ross) suele ser cronol\u00f3gicamente la primera?",
+            "respuestas": [
+                "a) Ira.",
+                "b) Negociaci\u00f3n.",
+                "c) Negaci\u00f3n.",
+                "d) Aceptaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 fase seg\u00fan Spoken est\u00e1 el paciente terminal que a\u00fan no conoce el diagn\u00f3stico ni el alcance de la enfermedad, pero la familia s\u00ed?",
+            "respuestas": [
+                "a) Fase de despreocupaci\u00f3n.",
+                "b) Fase de inseguridad.",
+                "c) Fase de negaci\u00f3n.",
+                "d) Fase de comunicaci\u00f3n de la verdad."
+            ],
+            "verdadera": 1
         }
     ]
 }

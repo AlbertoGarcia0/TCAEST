@@ -299,6 +299,176 @@
                 "d) Sucia."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "1. La persona con capacidad padecer una enfermedad infecciosa se denomina t\u00e9cnicamente:",
+            "respuestas": [
+                "a) Portador enfermo.",
+                "b) Portador sano o asintom\u00e1tico.",
+                "c) Hu\u00e9sped susceptible.",
+                "d) Hu\u00e9sped refractario."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La Epidemiolog\u00eda de las enfermedades transmisibles estudia los factores que van a relacionar el agente causal con...",
+            "respuestas": [
+                "a) El portador.",
+                "b) El ambiente.",
+                "c) El sujeto o hu\u00e9sped susceptible.",
+                "d) El reservorio."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la relaci\u00f3n de interacci\u00f3n entre agente causal y hu\u00e9sped cuando existe beneficio para el agente o el hu\u00e9sped, pero sin perjuicio para el otro?",
+            "respuestas": [
+                "a) Saprofitismo.",
+                "b) Simbiosis.",
+                "c) Parasitismo.",
+                "d) Comensalismo."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la capacidad del agente etiol\u00f3gico para extenderse?",
+            "respuestas": [
+                "a) Contagiosidad.",
+                "b) Infectividad.",
+                "c) Patogenicidad.",
+                "d) Virulencia."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Generalmente la fuente de la enfermedad transmisible suele ser la misma que :",
+            "respuestas": [
+                "a) El reservorio.",
+                "b) El portador sano.",
+                "c) El hu\u00e9sped susceptible.",
+                "d) El hu\u00e9sped refractario."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 hace referencia la definici\u00f3n: \"Todo ser animado o inanimado, en los que el agente etiol\u00f3gico se reproduce y se perpet\u00faa en un ambiente natural del que depende para su supervivencia\"?",
+            "respuestas": [
+                "a) Reservorio.",
+                "b) Fuente de infecci\u00f3n.",
+                "c) Fuente de contagio.",
+                "d) Fuente adicional."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es la tasa de prevalencia?",
+            "respuestas": [
+                "a) N\u00b0 de personas portadoras en un per\u00edodo / n\u00b0 de personas observadas en el per\u00edodo x meses de observaci\u00f3n.",
+                "b) N\u00b0 de casos positivos / personas totales en un per\u00edodo espec\u00edfico.",
+                "c) N\u00b0 de casos negativos / n\u00b0 de an\u00e1lisis realizados.",
+                "d) Ninguna es correcta."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas opciones no es un mecanismo de transmisi\u00f3n indirecta de una enfermedad?",
+            "respuestas": [
+                "a) Por el aire.",
+                "b) Por ara\u00f1azos.",
+                "c) Ba\u00f1os.",
+                "d) Artr\u00f3podos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Existe reservorio tel\u00farico cuando existe transmisi\u00f3n al hombre por medio de:",
+            "respuestas": [
+                "a) El suelo.",
+                "b) El agua.",
+                "c) F\u00f3mites.",
+                "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la distancia m\u00ednima para que se produzca una transmisi\u00f3n directa de una infecci\u00f3n por v\u00eda a\u00e9rea, aunque propiamente no exista contacto directo?",
+            "respuestas": [
+                "a) 1 metro.",
+                "b) 2 metros.",
+                "c) 3 metros.",
+                "d) 4 metros."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el \u00faltimo eslab\u00f3n de la cadena epidemiol\u00f3gica?",
+            "respuestas": [
+                "a) Hu\u00e9sped susceptible (con capacidad de enfermar).",
+                "b) Hu\u00e9sped refractario (sin capacidad de enfermar).",
+                "c) Fuente.",
+                "d) Vector."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 afirmaci\u00f3n es incorrecta en relaci\u00f3n a las infecciones relacionadas con la asistencia sanitaria (IRAS)?",
+            "respuestas": [
+                "a) Son una causa mayor de mortalidad y de sufrimiento para los pacientes.",
+                "b) Son f\u00e1ciles de tratar, a pesar de estar causadas por bacterias multirresistentes (BMR).",
+                "c) Incluyen a la infecci\u00f3n nosocomial cl\u00e1sica, m\u00e1s las infecciones adquiridas por pacientes de la comunidad en contacto con la asistencia sanitaria.",
+                "d) Generan gran frustraci\u00f3n a los profesionales sanitarios e incrementa de forma considerable el gasto econ\u00f3mico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 Servicio o Unidad de Hospitalizaci\u00f3n presenta la mayor prevalencia de infecciones hospitalarias?",
+            "respuestas": [
+                "a) UCI.",
+                "b) Rehabilitaci\u00f3n.",
+                "c) Cardiolog\u00eda.",
+                "d) Consultas Externas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la infecci\u00f3n causada por microorganismos pertenecientes a la propia flora comensal del paciente?",
+            "respuestas": [
+                "a) Ex\u00f3gena.",
+                "b) Ecol\u00f3gica.",
+                "c) End\u00f3gena.",
+                "d) Es imposible que esta se d\u00e9."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se asocia en mayor porcentaje el origen de las infecciones urinarias de tipo nosocomial? Se asocia a...",
+            "respuestas": [
+                "a) Heridas durante el esfuerzo de orinar.",
+                "b) Contactos directos del personal de enfermer\u00eda con el paciente.",
+                "c) Manipulaciones instrumentales de las v\u00edas urinarias (sondaje vesical).",
+                "d) F\u00f3mites del cuarto de aseo del paciente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la principal medida preventiva para evitar las infecciones cruzadas en el hospital?",
+            "respuestas": [
+                "a) Lavado de mano quir\u00fargico.",
+                "b) Lavado de mano higi\u00e9nico.",
+                "c) Lavado de mano especial.",
+                "d) Lavado de mano antis\u00e9ptico."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medida no es preventiva de las infecciones respiratorias de tipo nosocomial?",
+            "respuestas": [
+                "a) Esterilizar los broncoscopios cada vez que se utilicen.",
+                "b) Utilizar tubos endotraqueales est\u00e9riles y desechables.",
+                "c) Realizar traqueotom\u00edas con frecuencia.",
+                "d) Favorecer los tratamientos posturales y hacer fisioterapia respiratoria, motivando al paciente para que aproveche al m\u00e1ximo su capacidad pulmonar."
+            ],
+            "verdadera": 3
         }
     ]
 }

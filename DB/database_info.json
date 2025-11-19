@@ -2,15 +2,15 @@
     "categorias": [
         {
             "nombre_categoria": "Todo",
-            "numero_preguntas": 540	    
+            "numero_preguntas": 1545	    
         },
         {
             "nombre_categoria": "Simulacro Todo",
-            "numero_preguntas": 240	    
+            "numero_preguntas": 239	    
         },
         {
             "nombre_categoria": "Simulacro 1",
-            "numero_preguntas": 80	    
+            "numero_preguntas": 79	    
         },
         {
             "nombre_categoria": "Simulacro 2",
@@ -46,7 +46,7 @@
         },
         {
             "nombre_categoria": "Temario Especifico",
-            "numero_preguntas": 49	    
+            "numero_preguntas": 1057	    
         },
         {
             "nombre_categoria": "Tema 6",
@@ -54,99 +54,99 @@
         },
         {
             "nombre_categoria": "Tema 7",
-            "numero_preguntas": 30
+            "numero_preguntas": 42
         },
         {
             "nombre_categoria": "Tema 8",
-            "numero_preguntas": 30
+            "numero_preguntas": 43
         },
         {
             "nombre_categoria": "Tema 9",
-            "numero_preguntas": 30
+            "numero_preguntas": 43
         },
         {
             "nombre_categoria": "Tema 10",
-            "numero_preguntas": 30
+            "numero_preguntas": 44
         },
         {
             "nombre_categoria": "Tema 11",
-            "numero_preguntas": 28
+            "numero_preguntas": 41
         },
         {
             "nombre_categoria": "Tema 12",
-            "numero_preguntas": 29
+            "numero_preguntas": 46
         },
         {
             "nombre_categoria": "Tema 13",
-            "numero_preguntas": 30
+            "numero_preguntas": 41
         },
         {
             "nombre_categoria": "Tema 14",
-            "numero_preguntas": 30
+            "numero_preguntas": 46
         },
         {
             "nombre_categoria": "Tema 15",
-            "numero_preguntas": 30
+            "numero_preguntas": 41
         },
         {
             "nombre_categoria": "Tema 16",
-            "numero_preguntas": 30
+            "numero_preguntas": 43
         },
         {
             "nombre_categoria": "Tema 17",
-            "numero_preguntas": 30
+            "numero_preguntas": 40
         },
         {
             "nombre_categoria": "Tema 18",
-            "numero_preguntas": 30
+            "numero_preguntas": 38
         },
         {
             "nombre_categoria": "Tema 19",
-            "numero_preguntas": 30
+            "numero_preguntas": 49
         },
         {
             "nombre_categoria": "Tema 20",
-            "numero_preguntas": 29
+            "numero_preguntas": 42
         },
         {
             "nombre_categoria": "Tema 21",
-            "numero_preguntas": 30
+            "numero_preguntas": 36
         },
         {
             "nombre_categoria": "Tema 22",
-            "numero_preguntas": 30
+            "numero_preguntas": 47
         },
         {
             "nombre_categoria": "Tema 23",
-            "numero_preguntas": 28
+            "numero_preguntas": 41
         },
         {
             "nombre_categoria": "Tema 24",
-            "numero_preguntas": 30
+            "numero_preguntas": 38
         },
         {
             "nombre_categoria": "Tema 25",
-            "numero_preguntas": 30
+            "numero_preguntas": 44
         },
         {
             "nombre_categoria": "Tema 26",
-            "numero_preguntas": 30
+            "numero_preguntas": 39
         },
         {
             "nombre_categoria": "Tema 27",
-            "numero_preguntas": 30
+            "numero_preguntas": 41
         },
         {
             "nombre_categoria": "Tema 28",
-            "numero_preguntas": 30
+            "numero_preguntas": 42
         },
         {
             "nombre_categoria": "Tema 29",
-            "numero_preguntas": 30
+            "numero_preguntas": 42
         },
         {
             "nombre_categoria": "Tema 30",
-            "numero_preguntas": 30
+            "numero_preguntas": 44
         },
         {
             "nombre_categoria": "Todo 2024",

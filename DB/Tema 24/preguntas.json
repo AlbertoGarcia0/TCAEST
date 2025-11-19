@@ -299,6 +299,86 @@
                 "d) Bolsas de pl\u00e1stico termorresistente."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "1. \u00bfQu\u00e9 m\u00e9todo se emplea para la destrucci\u00f3n de todos los microorganismos y formas de resistencia de los mismos (esporas)?",
+            "respuestas": [
+                "a) Antisepsia.",
+                "b) Desinfecci\u00f3n.",
+                "c) Esterilizaci\u00f3n.",
+                "d) Fumigaci\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes ventajas e inconvenientes del autoclave es falsa?",
+            "respuestas": [
+                "a) Es un medio de esterilizar barato, sencillo, r\u00e1pido y eficaz.",
+                "b) Es aplicable a una gran gama de materiales.",
+                "c) Las altas temperaturas de la t\u00e9cnica desestructuran el material.",
+                "d) Son correctas todas las respuestas anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 procedimiento de esterilizaci\u00f3n por calores es aq uel que consiste en el uso de hornos crematorios para quemar el material de un solo uso y otros contamin ados biol\u00f3gicamente?",
+            "respuestas": [
+                "a) Flameado.",
+                "b) Horno Pasteur.",
+                "c) Poupinel.",
+                "d) Incineraci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfD\u00f3nde se colocan los indicadores colorim\u00e9tricos como medio de control qu\u00edmico esencialmente t\u00e9rmico que comprueban si la esterilizaci\u00f3n ha funcionado?",
+            "respuestas": [
+                "a) Se colocan dentro del paquete a esterilizar y en zonas del interior del autoclave de dif\u00edcil acceso.",
+                "b) Se colocan en el exterior en forma de cinta autoadhesiva y en zonas del interior del autoclave de dif\u00edcil acceso.",
+                "c) Se colocan en el exterior en forma de cinta autoadhesiva y dentro del paquete.",
+                "d) Se colocan en el exterior en forma de cinta autoadhesiva, dentro del paquete y en zonas del interior del autoclave de dif\u00edcil acceso."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 t\u00e9cnicas de medio de control qu\u00edmico (testigo) se realizan en esterilizaci\u00f3n?",
+            "respuestas": [
+                "a) T\u00e9cnicas azufradas.",
+                "b) T\u00e9cnicas colorim\u00e9tricas.",
+                "c) T\u00e9cnicas olorim\u00e9tricas.",
+                "d) Las respuestas a) y c) son correctas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El material esterilizado que se vaya a almacenar en las plantas debe ser utilizado en:",
+            "respuestas": [
+                "a) 6-12 horas.",
+                "b) 24-48 horas.",
+                "c) 48-72 horas.",
+                "d) 72-96 horas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el tiempo de caducidad del material esterilizado dentro de las bolsas o papel mixto envasado doble y empleado para autoclaves?",
+            "respuestas": [
+                "a) De 3 meses.",
+                "b) De 6 meses.",
+                "c) De 9 meses.",
+                "d) De 12 meses."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el tiempo de caducidad del material esterilizado dentro de los contenedores con protecci\u00f3n de filtro?",
+            "respuestas": [
+                "a) 1 mes.",
+                "b) 2 meses.",
+                "c) 3 meses.",
+                "d) 6 meses."
+            ],
+            "verdadera": 4
         }
     ]
 }

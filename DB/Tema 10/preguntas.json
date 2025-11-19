@@ -299,6 +299,146 @@
                 "d) No se debe quitar los guantes de manera inmediata despu\u00e9s de producirse el contacto accidental con sangre u otros fluidos del paciente."
             ],
             "verdadera": 4
+        },
+        {
+            "enunciado": "La Higiene te\u00f3rica proveniente de la Higiene en el Trabajo:",
+            "respuestas": [
+                "a) Se encarga de la identificaci\u00f3n cualitativa y cuantitativa de los agentes nocivos.",
+                "b) Se encarga de buscar soluciones a los problemas detectados y trata de eliminar todos los riesgos.",
+                "c) Se encarga del estudio a trav\u00e9s de la investigaci\u00f3n en el \u00e1mbito de la higiene laboral.",
+                "d) Se encarga de estudiar la relaci\u00f3n entre dosis de exposici\u00f3n al agente nocivo y la respuesta que este desencadena en el organismo humano."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 se dice que \"es aquel en el que la producci\u00f3n de calor metab\u00f3lico est\u00e1 en equilibrio con las p\u00e9rdidas de calor org\u00e1nico (por convecci\u00f3n e irradiaci\u00f3n), las p\u00e9rdidas de calor respiratorio y la transpiraci\u00f3n insensible\"?",
+            "respuestas": [
+                "a) Ambiente t\u00e9rmico fisiol\u00f3gico.",
+                "b) Ambiente t\u00e9rmico neutro.",
+                "c) Ambiente t\u00e9rmico f\u00edsico-qu\u00edmico.",
+                "d) Nada de lo anterior es cierto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 medida universal de estas respecto a los riesgos relacionados con la exposici\u00f3n a agentes biol\u00f3gicos durante el trabajo en ambientes hospitalarios es del tipo inmunizaci\u00f3n activa?",
+            "respuestas": [
+                "a) Suero frente a hepatitis B.",
+                "b) Vacunaci\u00f3n frente a hepatitis B.",
+                "c) Quimioprofilaxis antiv\u00edrica.",
+                "d) Todo lo anterior es cierto."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La esterilizaci\u00f3n por calor h\u00famedo bajo presi\u00f3n es mediante:",
+            "respuestas": [
+                "a) Autoclave.",
+                "b) Poupinel.",
+                "c) Incineraci\u00f3n.",
+                "d) Flameado."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 zona corporal es la m\u00e1s da\u00f1ada por la manipulaci\u00f3n de cargas?",
+            "respuestas": [
+                "a) Espalda (zona dorsolumbar).",
+                "b) T\u00f3rax.",
+                "c) Espalda (zona cervical).",
+                "d) Extremidades inferiores."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 carga no se recomienda que manejen mujeres, trabajadores j\u00f3venes o aquellos de edad avanzada?",
+            "respuestas": [
+                "a) Cargas superiores a 5 kg.",
+                "b) Cargas superiores a 15 kg.",
+                "c) Cargas superiores a 25 kg.",
+                "d) Cargas superiores a 35 kg."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el tama\u00f1o m\u00e1ximo recomendable de una carga (alto x ancho x profundo, en cm)?",
+            "respuestas": [
+                "a) 70 x 50 x 50.",
+                "b) 60 x 60 x 60.",
+                "c) 60 x 60 x 50.",
+                "d) 80 x 60 x 60."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 distancias indicar\u00e1n las \u00abcoordenadas\u00bb de la situaci\u00f3n espacial de la carga?",
+            "respuestas": [
+                "a) Distancias H y T.",
+                "b) Distancias T y V.",
+                "c) Distancias H y S.",
+                "d) Distancias H y V."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina la disminuci\u00f3n de la capacidad f\u00edsica y mental despu\u00e9s de realizar un trabajo?",
+            "respuestas": [
+                "a) Carga mental.",
+                "b) Fatiga.",
+                "c) Adinamia.",
+                "d) Estr\u00e9s."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La carga mental se denomina tambi\u00e9n:",
+            "respuestas": [
+                "a) Esfuerzo intelectual.",
+                "b) Esfuerzo mental.",
+                "c) Carga ps\u00edquica.",
+                "d) Carga cognitiva."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se llama tambi\u00e9n el s\u00edndrome de quemado o de agotamiento profesional?",
+            "respuestas": [
+                "a) Mobbing.",
+                "b) Burnout.",
+                "c) Eustr\u00e9s.",
+                "d) Distr\u00e9s."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La ciencia de la adaptaci\u00f3n del trabajo al hombre es:",
+            "respuestas": [
+                "a) Laborterapia.",
+                "b) Ergonom\u00eda.",
+                "c) Terapia Ocupacional.",
+                "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 riesgo en particular pueden presentar m\u00e1s frecuentemente las cargas de peso en diferentes situaciones cuando es demasiado pesada o demasiado voluminosa?",
+            "respuestas": [
+                "a) Riesgo craneocervical.",
+                "b) Riesgo cervical.",
+                "c) Riesgo dorsocervical.",
+                "d) Riesgo dorsolumbar."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 equipo (EPI) suele emplearse como de uso general a nivel sanitario?",
+            "respuestas": [
+                "a) Delantales.",
+                "b) Guantes de l\u00e1tex.",
+                "c) Gafas de seguridad.",
+                "d) Viseras."
+            ],
+            "verdadera": 2
         }
     ]
 }

@@ -299,6 +299,166 @@
                 "d) Parenteral."
             ],
             "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 se denomina la forma y manera de proporcionar al organismo los alimentos que le son indispensables?",
+            "respuestas": [
+                "a) Nutrici\u00f3n.",
+                "b) Alimentaci\u00f3n.",
+                "c) Metabolismo.",
+                "d) Asimilaci\u00f3n."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan los alimentos que est\u00e1n destinados fundamentalmente a la formaci\u00f3n y renovaci\u00f3n de los tejidos humanos, tanto en la fase de construcci\u00f3n o crecimiento como en la renovaci\u00f3n de tejidos en los adultos?",
+            "respuestas": [
+                "a) Energ\u00e9ticos.",
+                "b) Vitam\u00ednicos.",
+                "c) Pl\u00e1sticos.",
+                "d) Reguladores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las frutas pertenecen en la nueva rueda de alimentos al grupo:",
+            "respuestas": [
+                "a) VI.",
+                "b) V.",
+                "c) IV.",
+                "d) III."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "La ingesta adecuada de agua diaria est\u00e1 en torno a los:",
+            "respuestas": [
+                "a) 1,5 litros.",
+                "b) 2 litros.",
+                "c) 2,5 litros.",
+                "d) 3,5 litros."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La regla de las tres erres, tambi\u00e9n conocida como 3R se aplican a la alimentaci\u00f3n:",
+            "respuestas": [
+                "a) Variable.",
+                "b) Opcional.",
+                "c) Sostenible.",
+                "d) Saludable."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQui\u00e9n pone directamente en marcha y desarrolla la estrategia NAOS?",
+            "respuestas": [
+                "a) La Sociedad Espa\u00f1ola de Nutrici\u00f3n Comunitaria (SENC).",
+                "b) La Agencia Espa\u00f1ola de Seguridad Alimentaria y Nutrici\u00f3n (AESAN).",
+                "c) La Secretar\u00eda de Estado de Consejos diet\u00e9ticos, mediante el programa EDALNU del Ministerio de Sanidad.",
+                "d) El Ministerio de Innovaci\u00f3n, Desarrollo e Industria."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 carne de estas consideras con m\u00e1s grasa?",
+            "respuestas": [
+                "a) La carne de cordero.",
+                "b) La carne de ternera.",
+                "c) La carne de conejo.",
+                "d) La carne de caballo."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Empleando la f\u00f3rmula de Harris y Benedict del metabolismo basal diremos que un var\u00f3n de 35 kg de peso, 1,40 m de talla y 11 a\u00f1os de edad, ser\u00e1 aproximadamente de:",
+            "respuestas": [
+                "a) 700.",
+                "b) 850.",
+                "c) 1100.",
+                "d) 2100."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 factor se estos es el que m\u00e1s influye en la multiplicaci\u00f3n de microorganismos?",
+            "respuestas": [
+                "a) Las calor\u00edas de los alimentos.",
+                "b) La temperatura del medio.",
+                "c) La presi\u00f3n atmosf\u00e9rica.",
+                "d) La presencia o no de otros g\u00e9rmenes."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 agentes bi\u00f3ticos de los siguientes son m\u00e1s productores de toxiinfecciones alimentarias?",
+            "respuestas": [
+                "a) Hongos.",
+                "b) Bacterias.",
+                "c) Protozoos.",
+                "d) Par\u00e1sitos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la fuente m\u00e1s importante de contaminaci\u00f3n de intoxicaciones qu\u00edmicas de origen alimentario de forma directa sobre frutas y verduras que ingerimos, o indirecta tras la ingesta de lo anterior de animales?",
+            "respuestas": [
+                "a) El esti\u00e9rcol de origen animal.",
+                "b) Los mercuriales.",
+                "c) Los insecticidas.",
+                "d) El riego con agua contaminada."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 amino\u00e1cido es esencial?",
+            "respuestas": [
+                "a) Prolina.",
+                "b) Ciste\u00edna.",
+                "c) Tript\u00f3fano.",
+                "d) Alanina."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estos nutrientes se considera micronutriente (imprescindibles en peque\u00f1as cantidades)?",
+            "respuestas": [
+                "a) Vitaminas.",
+                "b) Az\u00facares.",
+                "c) Prote\u00ednas.",
+                "d) Grasas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "El retinol es un constituyente de la vitamina:",
+            "respuestas": [
+                "a) Vitamina A.",
+                "b) Vitamina B2.",
+                "c) Vitamina C.",
+                "d) Vitamina D."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCon qu\u00e9 t\u00e9rmino se corresponde esta definici\u00f3n: \u00abla t\u00e9cnica y el arte de utilizar los alimentos de la forma adecuada, partiendo del conocimiento profundo del organismo humano y de los alimentos, para proponer y promover formas de alimentaci\u00f3n, variada, suficiente y equilibrada\u00bb?",
+            "respuestas": [
+                "a) Dietoterapia.",
+                "b) Nutrici\u00f3n.",
+                "c) Bromatolog\u00eda.",
+                "d) Diet\u00e9tica."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Un IMC (\u00edndice de Masa Corporal) de 27, seg\u00fan Garrow, estar\u00eda en el grado de obesidad:",
+            "respuestas": [
+                "a) No obesidad.",
+                "b) Leve.",
+                "c) Moderada.",
+                "d) Grave."
+            ],
+            "verdadera": 2
         }
     ]
 }

@@ -299,6 +299,126 @@
                 "d) El m\u00e9dico."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes no es una ventaja de trabajar con un modelo de enfermer\u00eda?",
+            "respuestas": [
+                "a) La valoraci\u00f3n se hace sobre la base de los signos y s\u00edntomas.",
+                "b) La atenci\u00f3n prestada es integral.",
+                "c) Permite llevar a cabo todo el proceso de atenci\u00f3n de enfermer\u00eda.",
+                "d) La valoraci\u00f3n se hace sobre la base de respuestas humanas."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes autoras pertenece al modelo de relaciones interpersonales?",
+            "respuestas": [
+                "a) Nancy Roper.",
+                "b) Callista Roy.",
+                "c) Orlando.",
+                "d) Virginia Henderson."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 modelo de enfermer\u00eda pertenece Hildegarde Peplau?",
+            "respuestas": [
+                "a) Modelos de sistemas.",
+                "b) Modelos de autocuidados.",
+                "c) Modelos interaccionistas.",
+                "d) Modelos naturistas."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes son necesidades b\u00e1sicas del paciente, seg\u00fan Virginia Henderson?",
+            "respuestas": [
+                "a) Realizar pr\u00e1cticas religiosas seg\u00fan la fe de cada uno.",
+                "b) Eludir los riesgos del entorno y evitar lesionar a otros.",
+                "c) Moverse y mantener la posici\u00f3n deseada.",
+                "d) Todas son correctas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 autora se\u00f1ala tres niveles en la relaci\u00f3n enfermera-paciente?",
+            "respuestas": [
+                "a) Virginia Henderson.",
+                "b) Travelbee.",
+                "c) Orlando.",
+                "d) Hildegarde Peplau."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Seg\u00fan Dorotea Orem, la funci\u00f3n de enfermer\u00eda es:",
+            "respuestas": [
+                "a) Apreciar las necesidades b\u00e1sicas humanas.",
+                "b) Facilitar atenci\u00f3n para influir de alguna forma sobre el paciente con el fin de que este evolucione y llegue a conseguir un \u00f3ptimo nivel de autocuidado.",
+                "c) Diagnosticar y tratar si la situaci\u00f3n lo exige.",
+                "d) Ayudar a las personas sanas y enfermas."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "Seg\u00fan Dorotea Orem, el Sistema en el que enfermera y paciente realizan medidas de asistencia y otras actividades manipulativas o de deambulaci\u00f3n, se denomina:",
+            "respuestas": [
+                "a) Sistema de enfermer\u00eda educativo.",
+                "b) Sistema de enfermer\u00eda parcialmente compensador.",
+                "c) Sistema de enfermer\u00eda totalmente compensador.",
+                "d) Sistema de apoyo."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los siguientes no es un m\u00e9todo de ayuda, seg\u00fan Dorotea Orem?",
+            "respuestas": [
+                "a) Ordenar.",
+                "b) Guiar.",
+                "c) Ense\u00f1ar.",
+                "d) Apoyar."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 autora se le atribuye el modelo de d\u00e9ficit de autocuidados?",
+            "respuestas": [
+                "a) Tierny.",
+                "b) Logan.",
+                "c) Virginia Henderson.",
+                "d) Dorotea Orem."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes funciones no son competencia del auxiliar de enfermer\u00eda?",
+            "respuestas": [
+                "a) Dar de comer al enfermo incapacitado.",
+                "b) Administrar medicaci\u00f3n por v\u00eda parenteral.",
+                "c) Realizar movilizaciones pasivas a parapl\u00e9jicos.",
+                "d) Observar e informar sobre la sintomatolog\u00eda de un paciente."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El auxiliar de enfermer\u00eda no puede ejercer en:",
+            "respuestas": [
+                "a) Consultas externas.",
+                "b) Centro de especialidades.",
+                "c) Centro de Salud.",
+                "d) Puede ejercer en todos."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de las siguientes funciones no son competencia del auxiliar de enfermer\u00eda?",
+            "respuestas": [
+                "a) Colocar la cu\u00f1a al enfermo incapacitado.",
+                "b) Ayudar al personal m\u00e9dico en la ejecuci\u00f3n de intervenciones quir\u00fargicas.",
+                "c) La limpieza y ordenaci\u00f3n del material utilizado en la unidad/servicio.",
+                "d) La recepci\u00f3n de los carros de comidas y la distribuci\u00f3n de la misma."
+            ],
+            "verdadera": 2
         }
     ]
 }

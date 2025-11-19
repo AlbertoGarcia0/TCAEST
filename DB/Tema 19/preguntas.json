@@ -299,6 +299,196 @@
                 "d) Son ciertas las respuestas a) y c)."
             ],
             "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 huesos de la cabeza intervienen en la formaci\u00f3n del paladar duro?",
+            "respuestas": [
+                "a) Palatinos y maxilares.",
+                "b) Cigom\u00e1ticos y maxilares.",
+                "c) Cigom\u00e1ticos y palatinos.",
+                "d) Unguis y palatinos."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 papilas linguales de estas no son gustativas?",
+            "respuestas": [
+                "a) Caliciformes.",
+                "b) Filiformes.",
+                "c) Fungiformes.",
+                "d) Todas son gustativas."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 m\u00fasculo forma el esf\u00ednter esof\u00e1gico superior?",
+            "respuestas": [
+                "a) El m\u00fasculo hioideofar\u00edngeo.",
+                "b) El m\u00fasculo tirocricoideo.",
+                "c) El m\u00fasculo cricofar\u00edngeo.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es el conducto de salida de la saliva a la boca de las gl\u00e1ndulas par\u00f3tidas?",
+            "respuestas": [
+                "a) Conducto de Stenon.",
+                "b) Conducto de Warton.",
+                "c) Conducto de Rivinus.",
+                "d) Conducto de Walter."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "Sin\u00f3nimo de ptialismo es:",
+            "respuestas": [
+                "a) Sialonco.",
+                "b) Sialorrea.",
+                "c) Sialosquesis.",
+                "d) Sialodoquitis."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "El peso del h\u00edgado (en gramos) de un adulto est\u00e1 en torno a los:",
+            "respuestas": [
+                "a) 950.",
+                "b) 1200.",
+                "c) 1500.",
+                "d) 2500."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l es la v\u00edscera m\u00e1s voluminosa de nuestro cuerpo?",
+            "respuestas": [
+                "a) P\u00e1ncreas.",
+                "b) H\u00edgado.",
+                "c) Est\u00f3mago.",
+                "d) Tiroides."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el paso del bolo de faringe a es\u00f3fago?",
+            "respuestas": [
+                "a) Tragaci\u00f3n.",
+                "b) Masticaci\u00f3n.",
+                "c) Maceraci\u00f3n.",
+                "d) Degluci\u00f3n."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 zona del intestino delgado se absorbe m\u00e1s sodio?",
+            "respuestas": [
+                "a) En el duodeno.",
+                "b) En el \u00edleon.",
+                "c) En el yeyuno.",
+                "d) En el ciego."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Las peque\u00f1as hemorragias en un estoma se producen:",
+            "respuestas": [
+                "a) Por d\u00e9ficit de vitamina K.",
+                "b) Por d\u00e9ficit de hierro.",
+                "c) Por infecciones recidivantes del estoma y poca higiene local del mismo.",
+                "d) Por peque\u00f1os traumatismos al limpiar el estoma."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfA qu\u00e9 puede deberse la presencia de una orina de coloraci\u00f3n negra o marr\u00f3n oscura en una muestra?",
+            "respuestas": [
+                "a) A sangre oculta.",
+                "b) A metahemoglobina o melanina o enfermo alcapton\u00farico.",
+                "c) A carboxihemoglobina o melatonina o enfermo de patolog\u00eda de Harnup.",
+                "d) A oxihemoglobina o melatonina."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina el estudio microbiol\u00f3gico de heces mediante cultivo?",
+            "respuestas": [
+                "a) Hemocultivo.",
+                "b) Urocultivo.",
+                "c) Coprocultivo.",
+                "d) Cultivo de Hiss."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Respecto a la toma de muestra de esputos todo lo que se expone es cierto, excepto que:",
+            "respuestas": [
+                "a) Se puede evitar la contaminaci\u00f3n de la muestra recomendando al enfermo que se lave la boca con soluci\u00f3n salina o agua templada antes de proceder a la recogida.",
+                "b) Se puede evitar la contaminaci\u00f3n de la muestra tomando antis\u00e9ptico justo antes de la toma de muestra.",
+                "c) La toma de muestra posee gran facilidad de contaminaci\u00f3n por la flora orofar\u00edngea.",
+                "d) Si es dif\u00edcil conseguir que el enfermo expectore, se le puede ayudar coloc\u00e1ndole en la posici\u00f3n m\u00e1s adecuada para el drenaje."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 forma es la m\u00e1s correcta de obtener la muestra en heridas con exudados y pus, para su posterior estudio?",
+            "respuestas": [
+                "a) Mediante gasas hipoal\u00e9rgicas.",
+                "b) Mediante parches adhesivos.",
+                "c) Mediante aspirado con aguja y jeringa.",
+                "d) Mediante escopia cut\u00e1nea."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfEn qu\u00e9 circunstancias la presi\u00f3n del LCR estar\u00e1 disminuida?",
+            "respuestas": [
+                "a) Infarto cerebral.",
+                "b) Tumor o quiste intracraneal.",
+                "c) Deshidrataci\u00f3n.",
+                "d) Hematoma subdural."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 procedimiento se llevar\u00e1 a cabo en la toma de muestra de secreciones de senos paranasales?",
+            "respuestas": [
+                "a) Mediante hisopo.",
+                "b) Mediante torunda.",
+                "c) Mediante punci\u00f3n del seno.",
+                "d) Mediante aspirado transtraqueal."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Ante la sospecha en piel de infecci\u00f3n por hongo, la toma de muestra se efectuar\u00e1 mediante:",
+            "respuestas": [
+                "a) Aspiraci\u00f3n.",
+                "b) Uso de hisopo.",
+                "c) Raspado con bistur\u00ed o lanceta.",
+                "d) Uso de torunda h\u00fameda."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "Si es por lesi\u00f3n del lecho ungueal para la muestra de u\u00f1a se utilizar\u00e1:",
+            "respuestas": [
+                "a) Frasco de boca ancha.",
+                "b) Hisopo.",
+                "c) Frasco de boca mediana.",
+                "d) Frasco de boca estrecha."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se toma la muestra en cabello ante la sospecha de micosis?",
+            "respuestas": [
+                "a) Arrancado de varios pelos con pinzas y guardado en recipiente est\u00e9ril.",
+                "b) Uso de hisopo.",
+                "c) Raspado con bistur\u00ed o lanceta.",
+                "d) Uso de torunda h\u00fameda."
+            ],
+            "verdadera": 1
         }
     ]
 }

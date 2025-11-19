@@ -261,16 +261,6 @@
             "verdadera": 1
         },
         {
-            "enunciado": "La cama roto-rest se emplea en:",
-            "respuestas": [
-                "a) Prevenci\u00f3n de infecciones en general.",
-                "b) Prevenci\u00f3n de infecciones en quemados.",
-                "c) Inmovilizaci\u00f3n de pacientes.",
-                "d) Prevenci\u00f3n de \u00falceras por presi\u00f3n (UPP)."
-            ],
-            "verdadera": 4
-        },
-        {
             "enunciado": "Se\u00f1ale la opci\u00f3n correcta respecto a la deambulaci\u00f3n con muletas:",
             "respuestas": [
                 "a) Para bajar escaleras, primero se desciende la pierna d\u00e9bil y despu\u00e9s las muletas.",
@@ -279,6 +269,146 @@
                 "d) Cuando el paciente precisa muletas, se las debe colocar en la articulaci\u00f3n de la mu\u00f1eca para que tenga m\u00e1s fuerza."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "La temperatura de las habitaciones del hospital debe oscilar entre:",
+            "respuestas": [
+                "a) 16-18 \u00b0C.",
+                "b) 20-22 \u00b0C.",
+                "c) 26-28 \u00b0C.",
+                "d) 30-32 \u00b0C."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 mobiliario de la habitaci\u00f3n del paciente no es imprescindible?",
+            "respuestas": [
+                "a) Mesita de noche y armario.",
+                "b) Cama.",
+                "c) Sof\u00e1 peque\u00f1o.",
+                "d) Silla y/o sill\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "El denominado potro se emplea para:",
+            "respuestas": [
+                "a) Encamar a quemados.",
+                "b) Exploraci\u00f3n ginecol\u00f3gica.",
+                "c) Encamar a pacientes con UPP.",
+                "d) Encamar a enfermos con grandes traumatismos."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfDe qu\u00e9 otra cama es variante la cama libro?",
+            "respuestas": [
+                "a) De la cama de levitaci\u00f3n.",
+                "b) De la cama de exploraci\u00f3n o potro ginecol\u00f3gico.",
+                "c) De la cama articulada.",
+                "d) De la cama Striker."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La cama roto-rest se emplea en:",
+            "respuestas": [
+                "a) Prevenci\u00f3n de infecciones en general.",
+                "b) Prevenci\u00f3n de infecciones en quemados.",
+                "c) Inmovilizaci\u00f3n de pacientes.",
+                "d) Prevenci\u00f3n de \u00falceras por presi\u00f3n (UPP)."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 dispositivo o accesorio de la cama hospitalaria es aquel que se coloca sobre el enfermo para que la ropa de la cama descanse sobre \u00e9l y evitar al paciente el peso de la misma?",
+            "respuestas": [
+                "a) F\u00e9rula de acero.",
+                "b) Centinelas de cama.",
+                "c) Pupitre.",
+                "d) Soporte."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se llama tambi\u00e9n la posici\u00f3n de anti Trendelenburg?",
+            "respuestas": [
+                "a) La posici\u00f3n de litotom\u00eda.",
+                "b) La posici\u00f3n de Morestin.",
+                "c) La posici\u00f3n de Roser.",
+                "d) La posici\u00f3n de Sims."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "La posici\u00f3n mahometana es:",
+            "respuestas": [
+                "a) La posici\u00f3n de litotom\u00eda.",
+                "b) La posici\u00f3n de Fowler.",
+                "c) La posici\u00f3n de Morestin.",
+                "d) La posici\u00f3n genupectoral."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas posiciones consideras quir\u00fargica?",
+            "respuestas": [
+                "a) Posici\u00f3n de Trendelenburg.",
+                "b) Posici\u00f3n de dec\u00fabito prono.",
+                "c) Posici\u00f3n de Fowler.",
+                "d) Posici\u00f3n de Sims."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 indicaciones son las m\u00e1s frecuentes de las muletas de aluminio?",
+            "respuestas": [
+                "a) Esguinces.",
+                "b) Enfermos tetrapl\u00e9jicos.",
+                "c) Enfermos parapl\u00e9jicos.",
+                "d) Son ciertas las respuestas b) y c)."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de estas ayudas es autoestable?",
+            "respuestas": [
+                "a) Pasamanos.",
+                "b) Barras paralelas.",
+                "c) Bastones multipodales.",
+                "d) Ninguna de las anteriores."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 define la OMS como la consecuencia de cualquier acontecimiento que precipita al paciente al suelo en contra de su voluntad?",
+            "respuestas": [
+                "a) Traumatismo.",
+                "b) Suicidio.",
+                "c) Ca\u00edda.",
+                "d) Accidente."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denominan los factores de riesgo de ca\u00eddas que est\u00e1n relacionados con las condiciones generales del propio individuo?",
+            "respuestas": [
+                "a) Constitucionales.",
+                "b) Extr\u00ednsecos.",
+                "c) Intr\u00ednsecos.",
+                "d) Precipitantes."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 es lo primero que hay que hacer ante la realidad de que la ca\u00edda se ha producido?",
+            "respuestas": [
+                "a) Evaluaci\u00f3n de la misma.",
+                "b) Intervenir modificando los elementos desencadenantes.",
+                "c) Intervenir modificando los elementos precipitantes.",
+                "d) Realizar un croquis de las circunstancias."
+            ],
+            "verdadera": 1
         }
     ]
 }

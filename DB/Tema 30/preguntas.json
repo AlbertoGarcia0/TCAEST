@@ -299,6 +299,146 @@
                 "d) J\u00f3venes aquejados de demencia senil."
             ],
             "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos a\u00f1os aproximadamente m\u00e1s se incrementa la esperanza de vida en Espa\u00f1a al llegar una persona a la edad de 65 a\u00f1os?",
+            "respuestas": [
+                "a) Se incrementa aproximadamente 4 a\u00f1os.",
+                "b) Se incrementa aproximadamente 8 a\u00f1os.",
+                "c) Se incrementa aproximadamente 18 a\u00f1os.",
+                "d) Se incrementa aproximadamente 25 a\u00f1os."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "La vejez propiamente dicha se denomina tambi\u00e9n:",
+            "respuestas": [
+                "a) Madurez precoz.",
+                "b) Decrepitud.",
+                "c) Madurez tard\u00eda.",
+                "d) Caquexia senil."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 edad expresa la capacidad de mantener los roles personales y la integraci\u00f3n social del individuo en la comunidad, para lo que se precisa conservar razonables cotas de capacidades f\u00edsicas?",
+            "respuestas": [
+                "a) Edad cronol\u00f3gica.",
+                "b) Edad biol\u00f3gica.",
+                "c) Edad psicol\u00f3gica.",
+                "d) Edad funcional."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfC\u00f3mo se denomina la relaci\u00f3n que se produce al dividir a la poblaci\u00f3n \u2265 de 65 a\u00f1os entre la poblaci\u00f3n de los menores de 0 a 14 a\u00f1os?",
+            "respuestas": [
+                "a) Tasa juvenil.",
+                "b) Coeficiente de juventud.",
+                "c) \u00cdndice o coeficiente de renovaci\u00f3n.",
+                "d) \u00cdndice de reposici\u00f3n."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1l de los dispositivos de car\u00e1cter sanitario a nivel geri\u00e1trico es de segundo nivel?",
+            "respuestas": [
+                "a) Centros de salud.",
+                "b) Hospital de d\u00eda geri\u00e1trico.",
+                "c) Hospital de cuidados continuados.",
+                "d) Ninguno de los anteriores."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 modificaciones de la piel del anciano es incorrecta?",
+            "respuestas": [
+                "a) Se va volviendo descolorida.",
+                "b) Aumenta en ella el grosor de los vasos sangu\u00edneos.",
+                "c) Se vuelve m\u00e1s h\u00fameda y con ello sudorosa y menos fr\u00e1gil.",
+                "d) Todo lo anterior es correcto."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 sentidos de estos disminuyen fisiol\u00f3gicamente con la ancianidad?",
+            "respuestas": [
+                "a) Vista.",
+                "b) Gusto.",
+                "c) Olfato.",
+                "d) Todos los anteriores."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 se define como el proceso diagn\u00f3stico, estructurado, din\u00e1mico, multidimensional e interprofesional que nos permite identificar las capacidades del mayor, los problemas y las necesidades en los \u00e1mbitos cl\u00ednico, funcional, mental y socioambiental de la persona mayor?",
+            "respuestas": [
+                "a) La valoraci\u00f3n geri\u00e1trica integral.",
+                "b) La valoraci\u00f3n estructurada por Necesidades B\u00e1sicas.",
+                "c) La valoraci\u00f3n estructurada por Patrones Funcionales de Salud.",
+                "d) La valoraci\u00f3n estructurada por Patrones Anat\u00f3micos de Salud."
+            ],
+            "verdadera": 1
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 objetivo no es correcto de la valoraci\u00f3n geri\u00e1trica integral?",
+            "respuestas": [
+                "a) Evitar que se produzca la institucionalizaci\u00f3n del anciano.",
+                "b) Asignar los servicios, ayudas t\u00e9cnicas y sobre todo incorporar al paciente a los programas que m\u00e1s se ajustan a sus necesidades.",
+                "c) Conocer los recursos del paciente y su entorno social, familiar y ambiental.",
+                "d) Evitar dando privilegios fomentando una ubicaci\u00f3n adecuada en caso de institucionalizaci\u00f3n del anciano."
+            ],
+            "verdadera": 4
+        },
+        {
+            "enunciado": "Si en la Escala de Barthel, que mide las ABVD, el paciente obtiene 70 puntos, indica que es:",
+            "respuestas": [
+                "a) Independiente.",
+                "b) Dependiente leve.",
+                "c) Dependiente moderado.",
+                "d) Dependiente grave."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos puntos m\u00e1ximo s posee la Escala de Tinetti, en su primera parte dedicada al equilibrio?",
+            "respuestas": [
+                "a) 6.",
+                "b) 12.",
+                "c) 16.",
+                "d) 28."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCu\u00e1ntos \u00edtems posee el \u00cdndice de Barthel?",
+            "respuestas": [
+                "a) 5.",
+                "b) 10.",
+                "c) 15.",
+                "d) 20."
+            ],
+            "verdadera": 2
+        },
+        {
+            "enunciado": "\u00bfQu\u00e9 valoraci\u00f3n, dentro de la valoraci\u00f3n geri\u00e1trica integral, va dirigida a identificar y evaluar alteraciones en la capacidad de realizar funciones intelectuales, de forma que nos aporte informaci\u00f3n de inter\u00e9s respecto a su capacidad para desarrollar sus actividades cotidianas, incluido el trabajo, as\u00ed como su capacidad de autocuidado?",
+            "respuestas": [
+                "a) Valoraci\u00f3n cl\u00ednica.",
+                "b) Valoraci\u00f3n funcional.",
+                "c) Valoraci\u00f3n cognitiva.",
+                "d) Valoraci\u00f3n social."
+            ],
+            "verdadera": 3
+        },
+        {
+            "enunciado": "\u00bfCada cu\u00e1nto tiempo el anciano debe hidratar las u\u00f1as y su cut\u00edcula para mantenerlas blandas y evitar que se rompan?",
+            "respuestas": [
+                "a) Cada d\u00eda.",
+                "b) Cada tres d\u00edas.",
+                "c) Cada semana.",
+                "d) Cada mes."
+            ],
+            "verdadera": 1
         }
     ]
 }
