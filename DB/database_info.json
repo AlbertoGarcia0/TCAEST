@@ -1,6 +1,10 @@
 {
     "categorias": [
         {
+            "nombre_categoria": "Simulacro Aleatorio",
+            "numero_preguntas": 80	    
+        },
+        {
             "nombre_categoria": "Todo",
             "numero_preguntas": 1545	    
         },

@@ -96,6 +96,11 @@ function loadThemes() {
 
 // Definir una función para cargar preguntas basada en la categoría seleccionada
 function loadQuestionsByCategory(category) {
+    // Si es un simulacro aleatorio, cargar de múltiples categorías
+    if (category === "Simulacro Aleatorio") {
+        return loadRandomSimulacro();
+    }
+
     const categoryPath = `DB/${category}/preguntas.json`;
 
     return new Promise((resolve, reject) => {
@@ -112,6 +117,39 @@ function loadQuestionsByCategory(category) {
             .catch(error => {
                 reject(`Error al cargar las preguntas: ${error}`);
             });
+    });
+}
+
+// Función para cargar un simulacro aleatorio (20 de Temario Leyes y 60 de Temario Especifico)
+function loadRandomSimulacro() {
+    return new Promise((resolve, reject) => {
+        Promise.all([
+            fetch('DB/Temario Leyes/preguntas.json').then(r => r.json()),
+            fetch('DB/Temario Especifico/preguntas.json').then(r => r.json())
+        ])
+        .then(([leyesData, especificoData]) => {
+            questions.length = 0; // Limpia el arreglo de preguntas
+            
+            // Barajar las preguntas de Leyes y tomar 20
+            const leyesBarajadas = shuffleArray([...leyesData.Preguntas]);
+            const leyesSeleccionadas = leyesBarajadas.slice(0, 20);
+            
+            // Barajar las preguntas de Especifico y tomar 60
+            const especificoBarajadas = shuffleArray([...especificoData.Preguntas]);
+            const especificoSeleccionadas = especificoBarajadas.slice(0, 60);
+            
+            // Combinar ambas
+            questions.push(...leyesSeleccionadas);
+            questions.push(...especificoSeleccionadas);
+            
+            // Barajar el resultado final para mezclar preguntas de ambas categorías
+            shuffleArray(questions);
+            
+            resolve();
+        })
+        .catch(error => {
+            reject(`Error al cargar el simulacro aleatorio: ${error}`);
+        });
     });
 }
 
@@ -539,8 +577,32 @@ function finishTest() {
 
 }
 
+
 // Llamada a la función para cargar las opciones del selector de temas al cargar la página
 loadThemes();
 
 // Llamada a la función para iniciar el reloj flotante
 updateFloatingClock();
+
+// Evento para actualizar el número de preguntas cuando se cambia la categoría
+document.addEventListener('DOMContentLoaded', function() {
+    const themeSelector = document.getElementById('themeSelector');
+    
+    themeSelector.addEventListener('change', function() {
+        const numQuestionsInput = document.getElementById('numQuestions');
+        const selectedTheme = this.value;
+        
+        if (selectedTheme === 'Simulacro Aleatorio') {
+            // Si es un simulacro aleatorio, establecer a 80 preguntas fijas
+            numQuestionsInput.value = 80;
+            numQuestionsInput.disabled = true;
+        } else {
+            // Para otros simulacros, habilitar el campo de número de preguntas
+            numQuestionsInput.disabled = false;
+        }
+    });
+    
+    // Ejecutar el cambio inicial en caso de que ya esté seleccionado
+    themeSelector.dispatchEvent(new Event('change'));
+});
+
