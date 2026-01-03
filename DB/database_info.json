@@ -5,6 +5,10 @@
             "numero_preguntas": 80	    
         },
         {
+            "nombre_categoria": "Simulacro Aleatorio 2024",
+            "numero_preguntas": 80	    
+        },
+        {
             "nombre_categoria": "Todo",
             "numero_preguntas": 1545	    
         },

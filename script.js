@@ -100,6 +100,9 @@ function loadQuestionsByCategory(category) {
     if (category === "Simulacro Aleatorio") {
         return loadRandomSimulacro();
     }
+    if (category === "Simulacro Aleatorio 2024") {
+        return loadRandomSimulacro2024();
+    }
 
     const categoryPath = `DB/${category}/preguntas.json`;
 
@@ -146,6 +149,36 @@ function loadRandomSimulacro() {
         })
         .catch(error => {
             reject(`Error al cargar el simulacro aleatorio: ${error}`);
+        });
+    });
+}
+
+// Función para cargar un simulacro aleatorio 2024 (20 de Temario leyes 2024 y 60 de Temario especifico 2024)
+function loadRandomSimulacro2024() {
+    return new Promise((resolve, reject) => {
+        Promise.all([
+            fetch('DB/Temario leyes 2024/preguntas.json').then(r => r.json()),
+            fetch('DB/Temario especifico 2024/preguntas.json').then(r => r.json())
+        ])
+        .then(([leyesData, especificoData]) => {
+            questions.length = 0; // Limpia el arreglo de preguntas
+            
+            // Barajar las preguntas de Leyes 2024 y tomar 20
+            const leyesBarajadas = shuffleArray([...leyesData.Preguntas]);
+            const leyesSeleccionadas = leyesBarajadas.slice(0, 20);
+            
+            // Barajar las preguntas de Especifico 2024 y tomar 60
+            const especificoBarajadas = shuffleArray([...especificoData.Preguntas]);
+            const especificoSeleccionadas = especificoBarajadas.slice(0, 60);
+            
+            // Combinar ambas: primero Leyes, luego Especifico (sin barajar el resultado final)
+            questions.push(...leyesSeleccionadas);
+            questions.push(...especificoSeleccionadas);
+            
+            resolve();
+        })
+        .catch(error => {
+            reject(`Error al cargar el simulacro aleatorio 2024: ${error}`);
         });
     });
 }
