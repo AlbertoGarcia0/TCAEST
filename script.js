@@ -206,8 +206,15 @@ async function startTest() {
         console.log(questions);
         console.log(questions.length);
 
-        // Mezcla las preguntas para presentarlas en orden aleatorio
-        const shuffledQuestions = shuffleArray(questions);
+        // Mezcla las preguntas para presentarlas en orden aleatorio (solo si no es un simulacro aleatorio)
+        let shuffledQuestions;
+        if (theme === "Simulacro Aleatorio" || theme === "Simulacro Aleatorio 2024") {
+            // Para simulacros aleatorios, mantener el orden: primero Leyes, luego Especifico
+            shuffledQuestions = questions;
+        } else {
+            // Para otras categorías, mezclar las preguntas
+            shuffledQuestions = shuffleArray(questions);
+        }
         console.log("shuffledQuestions");
         console.log(shuffledQuestions);
 
