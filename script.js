@@ -138,12 +138,9 @@ function loadRandomSimulacro() {
             const especificoBarajadas = shuffleArray([...especificoData.Preguntas]);
             const especificoSeleccionadas = especificoBarajadas.slice(0, 60);
             
-            // Combinar ambas
+            // Combinar ambas: primero Leyes, luego Especifico (sin barajar el resultado final)
             questions.push(...leyesSeleccionadas);
             questions.push(...especificoSeleccionadas);
-            
-            // Barajar el resultado final para mezclar preguntas de ambas categorías
-            shuffleArray(questions);
             
             resolve();
         })
